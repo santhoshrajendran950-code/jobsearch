@@ -12,19 +12,23 @@ Stages (all run by --backfill / --daily unless a flag stops early):
     score   -> `claude -p` rates each role Strong / Good / Stretch against profile.md
     render  -> digests/YYYY-MM-DD.html
     send    -> `claude -p` + Gmail MCP (or --no-send to just write the file)
-    seen    -> mark every emailed job in seen_jobs.json (skipped with --dry-run)
+    seen    -> record every scored job (with its score) in seen_jobs.json (skipped with --dry-run)
+    docs    -> docs/new-postings.md (dated sections, newest first) and docs/top-100.md (best open roles,
+               re-checked against the live boards every run; your Status marks are read back first)
+    git     -> `git pull --rebase` before the run, `git commit && git push` after (daily mode, unless --no-git)
 
 Useful flags:
     --no-send            write the digest, don't email (jobs are still NOT marked seen unless --mark-seen)
     --mark-seen          with --no-send: still record the digest's jobs in seen_jobs.json
-    --dry-run            never touch seen_jobs.json
+    --dry-run            never touch seen_jobs.json, docs/ or git
+    --no-docs / --no-git skip the docs / git steps
     --fetch-only         stop after filter; dump candidates JSON to runs/
     --score-file F       skip fetch; score + render + send a runs/*.candidates.json file
     --send-file F        just send an existing digests/*.html with the given --subject
     --companies F        alternative companies file
     --limit N            cap candidates (debugging)
 
-State files: companies.yaml, seen_jobs.json, profile.md, runs/, digests/, log/
+State files: companies.yaml, seen_jobs.json, profile.md, runs/, digests/, docs/, log/
 """
 import argparse
 import concurrent.futures as cf
@@ -49,9 +53,13 @@ SEEN = ROOT / "seen_jobs.json"
 PROFILE = ROOT / "profile.md"
 RUNS = ROOT / "runs"
 DIGESTS = ROOT / "digests"
+DOCS = ROOT / "docs"
 LOGS = ROOT / "log"
-for d in (RUNS, DIGESTS, LOGS):
+for d in (RUNS, DIGESTS, DOCS, LOGS):
     d.mkdir(exist_ok=True)
+TOP_N = int(os.environ.get("JOBS_TOP_N", "100"))
+# Status marks (typed into the Status column of docs/top-100.md) that hide a row from the top list.
+HIDE_STATUS_PREFIXES = ("skip", "pass", "reject", "no", "closed", "not interested", "x")
 
 NY = ZoneInfo("America/New_York")
 EMAIL_TO = os.environ.get("JOBS_EMAIL_TO", "santhoshrajendran950@gmail.com")
@@ -353,14 +361,29 @@ def vc_rank(c):
     return s
 
 
+OPEN_FIELDS = ("company", "title", "url", "locations", "workplace", "posted_at", "salary",
+               "company_meta", "vc_rank", "already_in_pipeline")
+
+
 def collect(companies, mode, hours, seen, limit=None):
+    """Fetch every board and return (cands, backlog, open_jobs, failed_companies).
+
+    open_jobs : every currently listed role that passes the title / NYC / employment filters, keyed by
+                job key — this is what decides whether a tracked role is "still up".
+    cands     : unseen roles to score + email (daily: first published within --hours).
+    backlog   : unseen roles older than the cutoff (daily only). Scored for the docs, never emailed —
+                they show up when a newly discovered company brings old-but-open postings with it.
+    failed    : company names whose board could not be fetched this run (their tracked roles are
+                treated as still open rather than silently dropped).
+    """
     log(f"fetching {len(companies)} boards ...")
-    cands, failures = [], []
+    cands, backlog, open_jobs, failures, failed = [], [], {}, [], set()
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=hours) if mode == "daily" else None
     with cf.ThreadPoolExecutor(max_workers=12) as ex:
         for c, jobs in ex.map(fetch_company, companies):
             if jobs is None:
                 failures.append(f"{c['name']} ({c.get('ats')}/{c.get('slug')})")
+                failed.add(c["name"])
                 continue
             for j in jobs:
                 if not title_ok(j["title"]):
@@ -371,13 +394,9 @@ def collect(companies, mode, hours, seen, limit=None):
                 if not ok:
                     continue
                 posted = parse_dt(j.get("posted_at"))
-                if cutoff and (posted is None or posted < cutoff):
-                    continue
                 key = job_key(c["name"], j["title"], j["url"])
-                if key in seen:
-                    continue
                 desc = j["description"] or ""
-                cands.append(dict(
+                cand = dict(
                     id=hashlib.sha1(key.encode()).hexdigest()[:10],
                     key=key,
                     company=c["name"],
@@ -400,14 +419,22 @@ def collect(companies, mode, hours, seen, limit=None):
                     degree_mention=bool(DEGREE_RE.search(desc)),
                     description=desc[:3500],
                     already_in_pipeline=c["name"].lower() in ALREADY_IN_PIPELINE,
-                ))
+                )
+                open_jobs[key] = {k: cand[k] for k in OPEN_FIELDS}
+                if key in seen:
+                    continue
+                if cutoff and (posted is None or posted < cutoff):
+                    backlog.append(cand)
+                    continue
+                cands.append(cand)
     if failures:
         log(f"  {len(failures)} boards failed/404: " + "; ".join(failures))
     cands.sort(key=lambda x: (x["vc_rank"], -(parse_dt(x["posted_at"]).timestamp() if x["posted_at"] else 0)))
     if limit:
         cands = cands[:limit]
-    log(f"  {len(cands)} candidate roles after filters/dedupe")
-    return cands
+    log(f"  {len(open_jobs)} open eligible roles on the boards; {len(cands)} new candidates after dedupe"
+        + (f"; {len(backlog)} unseen older roles (docs only)" if backlog else ""))
+    return cands, backlog, open_jobs, failed
 
 
 # ── scoring via claude -p ───────────────────────────────────────────────────
@@ -639,6 +666,219 @@ def discover(companies):
     return added
 
 
+# ── job store (seen_jobs.json) ──────────────────────────────────────────────
+def seen_entry(j, now, emailed):
+    """Full record of a scored job. Older entries (pre-docs) only have the first six keys."""
+    s = j.get("score") or {}
+    m = j.get("company_meta") or {}
+    excluded = bool(s.get("exclude")) or not s.get("nyc_ok", True)
+    return dict(
+        company=j["company"], title=j["title"], url=j["url"], first_seen=now, posted_at=j.get("posted_at"),
+        rating=s.get("rating"), reason=s.get("reason", ""), gap=s.get("gap", ""), office=s.get("office", ""),
+        what=s.get("what") or m.get("what", ""), excluded=excluded,
+        exclude_reason=s.get("exclude_reason", "") if excluded else "",
+        salary=j.get("salary"), locations=j.get("locations") or [], workplace=j.get("workplace", ""),
+        stage=m.get("stage", "unverified"), raised=m.get("raised", "unverified"), investors=m.get("investors") or [],
+        verified=bool(m.get("verified")), vc_rank=j.get("vc_rank", 9),
+        already_in_pipeline=bool(j.get("already_in_pipeline")), emailed=emailed, status="",
+        open=True, last_seen_open=now,
+    )
+
+
+# ── docs (markdown in the repo) ─────────────────────────────────────────────
+TOP_DOC = DOCS / "top-100.md"
+NEW_DOC = DOCS / "new-postings.md"
+NEW_DOC_MARK = "<!-- sections below are prepended by jobsearch.py; newest first -->"
+
+
+def md(s):
+    return str(s or "").replace("|", "\\|").replace("\n", " ").strip()
+
+
+def split_md_row(line):
+    cells = re.split(r"(?<!\\)\|", line.strip().strip("|"))
+    return [c.replace("\\|", "|").strip() for c in cells]
+
+
+def status_hidden(status):
+    s = (status or "").strip().lower()
+    return bool(s) and s.startswith(HIDE_STATUS_PREFIXES)
+
+
+def parse_status_marks(path):
+    """url -> Status cell text, for every table row in the doc that has a Status column."""
+    if not path.exists():
+        return {}
+    marks, status_col = {}, None
+    for line in path.read_text().splitlines():
+        if not line.lstrip().startswith("|"):
+            status_col = None
+            continue
+        cells = split_md_row(line)
+        if status_col is None:
+            status_col = cells.index("Status") if "Status" in cells else -1
+            continue
+        if status_col < 0 or all(set(c) <= set("-: ") for c in cells):
+            continue
+        m = re.search(r"\]\((https?://[^)\s]+)\)", line)
+        if m and status_col < len(cells):
+            marks[m.group(1)] = cells[status_col]
+    return marks
+
+
+def job_row(e, n, with_status):
+    fit = e.get("rating") or "?"
+    fit = f"**{fit}**" if fit == "Strong" else fit
+    role = f"[{md(e['title'])}]({e['url']})"
+    comp = md(e["company"]) + (" 🔁" if e.get("already_in_pipeline") else "")
+    if e.get("what"):
+        comp += f"<br><sub>{md(e['what'])}</sub>"
+    stage = md(e.get("stage") or "unverified")
+    if e.get("raised") and e["raised"] != "unverified":
+        stage += f", {md(e['raised'])}"
+    inv = ", ".join(str(x) for x in e.get("investors") or [])
+    sub = md(inv) + ("" if e.get("verified") else (" · " if inv else "") + "funding unverified")
+    if sub:
+        stage += f"<br><sub>{sub}</sub>"
+    office = md(e.get("office") or e.get("workplace") or "")
+    why = md(e.get("reason") or "")
+    if e.get("gap"):
+        why += f" **Gap:** {md(e['gap'])}"
+    cells = [str(n)] + ([md(e.get("status"))] if with_status else []) + [
+        fit, role, comp, stage, office, fmt_date(e.get("posted_at")), md(e.get("salary") or ""), why]
+    return "| " + " | ".join(cells) + " |"
+
+
+def job_table(entries, with_status, start=1):
+    head = ["#"] + (["Status"] if with_status else []) + ["Fit", "Role", "Company", "Stage", "NYC office", "Posted", "Salary", "Why"]
+    lines = ["| " + " | ".join(head) + " |", "|" + "---|" * len(head)]
+    lines += [job_row(e, start + i, with_status) for i, e in enumerate(entries)]
+    return "\n".join(lines)
+
+
+def rank_key(e):
+    return (RATING_ORDER.get(e.get("rating"), 3), e.get("vc_rank", 9),
+            -(parse_dt(e.get("posted_at")).timestamp() if e.get("posted_at") else 0))
+
+
+def counts_line(entries):
+    c = {r: sum(1 for e in entries if e.get("rating") == r) for r in RATING_ORDER}
+    return f"{c['Strong']} strong · {c['Good']} good · {c['Stretch']} stretch"
+
+
+def new_section(entries, label, note=""):
+    entries = sorted(entries, key=rank_key)
+    if not entries:
+        return f"## {label} — no new roles\n"
+    head = f"## {label} — {len(entries)} new role{'s' if len(entries) != 1 else ''} ({counts_line(entries)})"
+    if note:
+        head += f"\n\n{note}"
+    return head + "\n\n" + job_table(entries, with_status=False) + "\n"
+
+
+def write_new_doc(section):
+    intro = (f"# New NYC DS postings\n\nEvery morning `jobsearch.py --daily` adds a section here with the roles first "
+             f"published in the previous 24 hours that passed the filters and were emailed. Fit is scored against "
+             f"`profile.md`. 🔁 = company already in your pipeline.\n\n{NEW_DOC_MARK}\n\n")
+    old = ""
+    if NEW_DOC.exists():
+        txt = NEW_DOC.read_text()
+        old = txt.split(NEW_DOC_MARK, 1)[1].lstrip() if NEW_DOC_MARK in txt else txt
+    NEW_DOC.write_text(intro + section + "\n" + old)
+
+
+def write_top_doc(visible, skipped, stats):
+    legend = (f"# Top {TOP_N} open NYC DS roles\n\n"
+              f"_Updated {stats['updated']} · {stats['open']} open tracked roles · {stats['closed']} closed since the last "
+              f"run · {stats['hidden']} hidden by your marks._\n\n"
+              f"Every morning this file is rebuilt from the live job boards: roles that were taken down drop out, new ones "
+              f"are scored and slotted in. Ordered Strong → Good → Stretch, then by investor tier, then newest first. "
+              f"**To mark a role, edit the Status cell on GitHub** (e.g. `applied`, `interested`, `skip`) and commit; the "
+              f"next run reads it back and keeps it. Anything starting with `skip`, `pass`, `reject`, `no` or `closed` "
+              f"moves the row to the Skipped list at the bottom. 🔁 = company already in your pipeline.\n\n")
+    body = job_table(visible, with_status=True) if visible else "_No open roles tracked yet._"
+    tail = ""
+    if skipped:
+        tail = (f"\n\n<details><summary>Skipped ({len(skipped)}) — change the Status cell to bring one back</summary>\n\n"
+                + job_table(skipped, with_status=True) + "\n\n</details>")
+    TOP_DOC.write_text(legend + body + tail + "\n")
+
+
+def write_docs(seen, open_jobs, failed, new_kept, today, mode):
+    """Read Status marks back from top-100.md, refresh open/closed state, write both docs."""
+    now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    marks = parse_status_marks(TOP_DOC)
+    by_url = {e.get("url"): e for e in seen.values()}
+    changed = 0
+    for url, status in marks.items():
+        e = by_url.get(url)
+        if e is not None and (e.get("status") or "") != status:
+            e["status"] = status
+            changed += 1
+    if changed:
+        log(f"  docs: picked up {changed} changed Status mark{'s' if changed != 1 else ''} from {TOP_DOC.name}")
+
+    rows, closed = [], 0
+    for key, e in seen.items():
+        live = open_jobs.get(key)
+        is_open = live is not None or e.get("company") in failed
+        was_open = e.get("open", True)
+        if live:
+            e["salary"] = live.get("salary") or e.get("salary")
+            e["posted_at"] = e.get("posted_at") or live.get("posted_at")
+            e["last_seen_open"] = now
+        e["open"] = is_open
+        if was_open and not is_open and not e.get("excluded"):
+            closed += 1
+        if is_open and not e.get("excluded"):
+            rows.append(e)
+    rows.sort(key=rank_key)
+    visible = [e for e in rows if not status_hidden(e.get("status"))]
+    skipped = [e for e in rows if status_hidden(e.get("status"))]
+    stats = dict(updated=today.strftime("%a %b %-d, %Y %-I:%M %p ET"), open=len(rows), closed=closed, hidden=len(skipped))
+    write_top_doc(visible[:TOP_N], skipped, stats)
+
+    if new_kept is not None:
+        label = today.strftime("%a %b %-d, %Y")
+        note = "Full backfill of every open matching role." if mode == "backfill" else ""
+        write_new_doc(new_section(new_kept, label, note))
+    log(f"  docs: {TOP_DOC.name} ({min(len(visible), TOP_N)} rows, {len(rows)} open, {closed} closed, "
+        f"{len(skipped)} skipped); {NEW_DOC.name} {'+' + str(len(new_kept)) + ' new' if new_kept is not None else 'untouched'}")
+
+
+# ── git ──────────────────────────────────────────────────────────────────────
+def git(*args):
+    r = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True)
+    return r.returncode, (r.stdout + r.stderr).strip()
+
+
+def git_pull():
+    if not (ROOT / ".git").exists():
+        return
+    rc, out = git("pull", "--rebase", "--autostash", "--quiet")
+    if rc == 0:
+        log("  git: pulled")
+    else:
+        log(f"  !! git pull failed (continuing with local files): {out[-300:]}")
+        git("rebase", "--abort")
+
+
+def git_push(message):
+    if not (ROOT / ".git").exists():
+        return
+    git("add", "-A")
+    rc, _ = git("diff", "--cached", "--quiet")
+    if rc == 0:
+        log("  git: nothing to commit")
+        return
+    rc, out = git("commit", "-q", "-m", message)
+    if rc != 0:
+        log(f"  !! git commit failed: {out[-300:]}")
+        return
+    rc, out = git("push", "--quiet")
+    log("  git: committed and pushed" if rc == 0 else f"  !! git push failed (commit kept locally): {out[-300:]}")
+
+
 # ── main ─────────────────────────────────────────────────────────────────────
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -658,6 +898,8 @@ def main():
     ap.add_argument("--no-send", action="store_true")
     ap.add_argument("--mark-seen", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--no-docs", action="store_true", help="don't rewrite docs/")
+    ap.add_argument("--no-git", action="store_true", help="don't git pull/commit/push")
     a = ap.parse_args()
 
     today = dt.datetime.now(NY)
@@ -670,8 +912,14 @@ def main():
         ok = send_via_claude(a.subject, a.send_file)
         sys.exit(0 if ok else 1)
 
+    do_git = not (a.no_git or a.dry_run) and (ROOT / ".git").exists()
+    do_docs = not (a.no_docs or a.dry_run)
+    if do_git and not (a.render_file or a.score_file):
+        git_pull()  # bring in Status marks edited on github.com before touching anything
+
     companies = load_companies(a.companies)
     seen = load_seen()
+    backlog, open_jobs, failed = [], None, set()
 
     if a.render_file:
         cands = json.loads(Path(a.render_file).read_text())
@@ -690,41 +938,65 @@ def main():
                 log(f"  discover failed: {e}")
             if not (a.backfill or a.daily):
                 return
-        cands = collect(companies, run_mode, a.hours, seen, a.limit)
+        cands, backlog, open_jobs, failed = collect(companies, run_mode, a.hours, seen, a.limit)
         cand_path = RUNS / f"{stamp}-{run_mode}.candidates.json"
         cand_path.write_text(json.dumps(cands, indent=1, ensure_ascii=False))
         log(f"  wrote {cand_path}")
         if a.fetch_only:
             return
-    if not cands:
+
+    # ── score ──
+    new_jobs, backlog_jobs = [], []
+    if cands or backlog:
+        if a.render_file:
+            new_jobs = cands
+        else:
+            jobs = score(cands + backlog)
+            new_jobs, backlog_jobs = jobs[:len(cands)], jobs[len(cands):]
+            (RUNS / f"{stamp}-{run_mode}.scored.json").write_text(json.dumps(jobs, indent=1, ensure_ascii=False))
+
+    # ── render + send ──
+    sent, kept = False, []
+    if new_jobs:
+        subject, summary, body, kept = render(new_jobs, run_mode, today)
+        if kept:
+            digest = DIGESTS / f"{stamp}{'' if run_mode == 'daily' else '-backfill'}.html"
+            digest.write_text(body)
+            (RUNS / f"{stamp}-{run_mode}.subject.txt").write_text(subject)
+            log(f"digest: {digest}  |  subject: {subject}")
+            log(f"  {summary}")
+            if not a.no_send:
+                sent = send_via_claude(subject, str(digest))
+                log("  email sent" if sent else "  !! email send FAILED (digest kept on disk, jobs NOT marked seen)")
+        else:
+            log("all candidates excluded by scorer — nothing to send")
+    else:
         log("no new matching roles — nothing to send")
-        return
 
-    jobs = cands if a.render_file else score(cands)
-    scored_path = RUNS / f"{stamp}-{run_mode}.scored.json"
-    scored_path.write_text(json.dumps(jobs, indent=1, ensure_ascii=False))
-    subject, summary, body, kept = render(jobs, run_mode, today)
-    if not kept:
-        log("all candidates excluded by scorer — nothing to send")
-        return
-    digest = DIGESTS / f"{stamp}{'' if run_mode == 'daily' else '-backfill'}.html"
-    digest.write_text(body)
-    (RUNS / f"{stamp}-{run_mode}.subject.txt").write_text(subject)
-    log(f"digest: {digest}  |  subject: {subject}")
-    log(f"  {summary}")
+    # ── record ──
+    record_new = (sent or a.mark_seen) and not a.dry_run
+    now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    if record_new:
+        kept_keys = {j["key"] for j in kept}
+        for j in new_jobs:
+            seen[j["key"]] = seen_entry(j, now, emailed=j["key"] in kept_keys)
+        log(f"  recorded {len(new_jobs)} new jobs ({len(kept)} emailed) in seen_jobs.json")
+    if backlog_jobs and not a.dry_run:
+        for j in backlog_jobs:
+            seen[j["key"]] = seen_entry(j, now, emailed=False)
+        log(f"  recorded {len(backlog_jobs)} older unseen jobs (docs only)")
 
-    sent = False
-    if not a.no_send:
-        sent = send_via_claude(subject, str(digest))
-        log("  email sent" if sent else "  !! email send FAILED (digest kept on disk, jobs NOT marked seen)")
-    if (sent or a.mark_seen) and not a.dry_run:
-        now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
-        for j in kept:
-            seen[j["key"]] = dict(company=j["company"], title=j["title"], url=j["url"],
-                                  first_seen=now, posted_at=j["posted_at"], rating=j["score"].get("rating"))
+    # ── docs + git ──
+    if do_docs and open_jobs is not None:
+        write_docs(seen, open_jobs, failed, kept if record_new else None, today, run_mode)
+    if not a.dry_run:
         save_seen(seen)
-        log(f"  marked {len(kept)} jobs seen ({len(seen)} total)")
-    sys.exit(0 if (sent or a.no_send) else 1)
+        log(f"  seen_jobs.json: {len(seen)} entries")
+    if do_git:
+        n_top = sum(1 for e in seen.values() if e.get("open", True) and not e.get("excluded"))
+        git_push(f"{run_mode} {stamp}: {len(kept)} new emailed, {n_top} open roles tracked\n\n"
+                 "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>")
+    sys.exit(0 if (sent or a.no_send or not kept) else 1)
 
 
 if __name__ == "__main__":

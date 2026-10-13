@@ -4,6 +4,8 @@
 #   2. fetch/filter: Ashby/Greenhouse/Lever JSON APIs, roles first published in the last 24h, not in seen_jobs.json
 #   3. score: claude -p rates each role against profile.md
 #   4. send: claude -p + Gmail MCP emails digests/YYYY-MM-DD.html; nothing is sent when there are no new matches
+#   5. docs: rewrites docs/new-postings.md + docs/top-100.md (reads your Status marks back first), then git commit + push
+# Needs: git on PATH, ~/.ssh/config host alias github-personal (passphrase-less key), claude CLI logged in.
 set -u
 cd /Users/santhosh/jobsearch
 export PATH="/Users/santhosh/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"

@@ -1,1 +1,33 @@
-[]
+[
+ {
+  "id": "92ef44cc51",
+  "key": "Nourish|Staff Data Scientist|https://job-boards.greenhouse.io/usenourish/jobs/5451468008",
+  "company": "Nourish",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "unverified (~$109M)",
+   "investors": [
+    "Thrive",
+    "Index",
+    "J.P. Morgan Growth Equity"
+   ],
+   "what": "Telehealth marketplace matching patients with in-network registered dietitians",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Staff Data Scientist",
+  "url": "https://job-boards.greenhouse.io/usenourish/jobs/5451468008",
+  "locations": [
+   "New York, NY",
+   "Headquarters"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-13T15:15:25-04:00",
+  "salary": null,
+  "department": "Analytics",
+  "degree_mention": false,
+  "description": "About Us \n Health is the most important thing in life, and the American healthcare system is completely broken - poor outcomes, high cost, bad patient experience. We're building a new system from the ground up.\n Our mission is to improve people’s health by making it easy to live a healthy lifestyle. \n Nourish is the country's largest dietitian-led metabolic health clinic. We’re an AI-native digital health system matching patients with 10,000+ Registered Dietitians, physicians, medications, lab testing, and AI agents to deliver insurance-covered care across all 50 states. Founded four years ago, we've completed millions of appointments, tripled year-over-year, and partnered with health plans covering 200M+ Americans across 250+ health systems.\n In 2026 we raised a $100M Series C , bringing total funding to $215M. The round was led by&nbsp; Menlo Ventures , with participation from&nbsp; Thrive Capital ,&nbsp; Index Ventures ,&nbsp; J.P. Morgan Growth Equity Partners ,&nbsp; Maverick Ventures ,&nbsp; Y Combinator ,&nbsp; BoxGroup ,&nbsp; Atomico ,&nbsp; Daybreak , and&nbsp; Operator Partners .\n Learn more about our Series C here: Nourish Blog , Bloomberg , Fierce Healthcare , Digital Native , The Pulse Podcast . \n This is not a job for everyone. We hold an extremely high bar because we believe talent density is our biggest competitive advantage. We're looking for people who actively choose hard, ambiguous problems, who run toward unglamorous work, give and receive candid feedback, and bring relentless resilience without the ego. Our work is important, but we are not self-important. We do this because we’re solving one of the hardest problems in the world, and the problem matters. If that's you, we disproportionately reward it.\n About the Role \n We're scaling quickly, and data is one of our most important strategic levers for unlocking growth and improving patient outcomes. As a Staff Data Scientist, you'll embed with our Product team and own analytics for a specific, business-critical function—developing a deep understanding of our patients and their needs and turning that understanding into business opportunities.\n This role blends product analytics, experimentation, and predictive modeling in a marketplace setting: you'll build and validate production-ready models, cuse causal inference to isolate the impact of features and feature adoption, and produce deep dives that end in clear recommendations with sized business opportunities. You'll also contribute to the development of our experimentation platform, and collaborate closely across our Product, Engineering, Design &amp; Growth teams.\n Our data team is based in NYC and goes into the office 2-3 days a week. While we don't require a specific number of days in office, we're looking for people who would be excited to join us onsite.\n Key Responsibilities \n Own data and analytics end-to-end: Define the metrics and surface the insights that shape our understanding of our business and inform the product roadmap\n Develop production-ready predictive models: Build, validate, and maintain models of churn, resurrection, and targeting\n Deliver high-impact analyses: Break down complex topics into clear narratives and recommendations with sized business opportunities\n Drive scientific decision-making: Design and analyze experiments, and where experiments aren't feasible, apply causal inference methods to measure the impact of features and feature adoption\n Be a thought partner to Product: Work backw",
+  "already_in_pipeline": false
+ }
+]
