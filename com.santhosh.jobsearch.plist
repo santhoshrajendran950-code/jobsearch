@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.santhosh.jobsearch</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/santhosh/jobsearch/run_daily.sh</string>
+    </array>
+    <!-- 08:00 local wall-clock time daily (this Mac is on America/New_York; launchd follows DST).
+         If the Mac is asleep at 08:00, launchd runs the job once on the next wake. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>8</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>WorkingDirectory</key>
+    <string>/Users/santhosh/jobsearch</string>
+    <key>StandardOutPath</key>
+    <string>/Users/santhosh/jobsearch/log/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/santhosh/jobsearch/log/launchd.err.log</string>
+    <key>RunAtLoad</key>
+    <false/>
+    <key>ProcessType</key>
+    <string>Background</string>
+</dict>
+</plist>

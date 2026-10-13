@@ -1,0 +1,3006 @@
+# NYC startups tracked by jobsearch.py — 207 companies, built 2026-10-12.
+# Fields: ats (ashby|greenhouse|lever), slug (org token on the ATS public API), stage, raised, investors,
+#         hq, nyc_office, what (one line), verified (true = stage/investors confirmed by search; false = unverified),
+#         source (where the company was found).
+# Every ats/slug returned a JSON jobs array and lists at least one New York location on 2026-10-12.
+# Excluded on purpose: public companies, PE-owned, acquired, big tech, banks, and boards with no NYC roles.
+# Add a company by appending an entry; jobsearch.py --discover appends auto-discovered ones at the bottom.
+- name: Abridge
+  ats: ashby
+  slug: abridge
+  stage: Series E
+  raised: ~$800M
+  investors:
+  - a16z
+  - Khosla Ventures
+  - Elad Gil
+  hq: Pittsburgh, PA
+  nyc_office: true
+  what: Generative-AI clinical documentation (ambient scribe) for health systems; NYC office
+  verified: true
+  source: jobsbyculture
+- name: Adaptive Security
+  ats: ashby
+  slug: adaptivesecurity
+  stage: Series B
+  raised: $146.5M
+  investors:
+  - Bain Capital Ventures
+  - a16z
+  - OpenAI Startup Fund
+  - NVentures
+  hq: New York, NY
+  nyc_office: true
+  what: AI-powered social-engineering/deepfake defense and security-awareness platform
+  verified: true
+  source: lead
+- name: Agentio
+  ats: ashby
+  slug: agentio
+  stage: Series A
+  raised: $16M+
+  investors:
+  - Benchmark
+  - Craft Ventures
+  - AlleyCorp
+  hq: New York, NY
+  nyc_office: true
+  what: AI marketplace for creator (YouTube) ad buying
+  verified: true
+  source: fastaijobs
+- name: Allara Health
+  ats: ashby
+  slug: allarahealth
+  stage: Series B
+  raised: ~$40M
+  investors:
+  - Index Ventures
+  - GV
+  - Humbition
+  hq: New York, NY
+  nyc_office: true
+  what: Women's hormonal-health telehealth (PCOS etc.)
+  verified: true
+  source: sector sweep
+- name: Alloy
+  ats: greenhouse
+  slug: alloy
+  stage: Series C
+  raised: $208M
+  investors:
+  - Lightspeed
+  - Avenir Growth
+  - Bessemer
+  - Canapi
+  hq: New York, NY
+  nyc_office: true
+  what: Identity decisioning, fraud and AML platform for banks and fintechs
+  verified: true
+  source: builtinnyc
+- name: AlphaSense
+  ats: greenhouse
+  slug: alphasense
+  stage: Growth
+  raised: $1B+
+  investors:
+  - Vitruvian Partners
+  - J.P. Morgan Asset Management
+  - D.E. Shaw Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI market-intelligence and search platform (pre-IPO)
+  verified: true
+  source: fastaijobs
+- name: Altana
+  ats: greenhouse
+  slug: altanaai
+  stage: Series C
+  raised: $322M
+  investors:
+  - US Innovative Technology Fund
+  - Activate Capital
+  - GV
+  - OMERS Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI value-chain management / supply-chain intelligence platform
+  verified: true
+  source: builtinnyc
+- name: Ambrook
+  ats: ashby
+  slug: ambrook
+  stage: Series A
+  raised: unverified (~$30M)
+  investors:
+  - Thrive
+  - Homebrew
+  hq: New York, NY
+  nyc_office: true
+  what: Financial management / accounting software for farms and family-run businesses
+  verified: false
+  source: Thrive portfolio
+- name: Anrok
+  ats: ashby
+  slug: anrok
+  stage: Series C
+  raised: ~$109M
+  investors:
+  - Spark Capital
+  - Khosla Ventures
+  - Sequoia
+  - Index
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Global sales tax/VAT compliance automation for SaaS and AI companies; NYC office
+  verified: true
+  source: ashby-search
+- name: Apiiro
+  ats: greenhouse
+  slug: apiiro
+  stage: Series B
+  raised: $135M
+  investors:
+  - General Atlantic
+  - Greylock
+  - Kleiner Perkins
+  hq: New York, NY
+  nyc_office: true
+  what: Application security posture management
+  verified: false
+  source: Greylock portfolio
+- name: Arlo
+  ats: ashby
+  slug: arlo
+  stage: unverified
+  raised: unverified
+  investors: []
+  hq: New York, NY
+  nyc_office: true
+  what: Healthcare startup attacking admin/middleman costs (health-plan ops, billing)
+  verified: false
+  source: lead
+- name: Attentive
+  ats: greenhouse
+  slug: attentive
+  stage: Series E
+  raised: ~$863M
+  investors:
+  - Coatue
+  - Bain Capital Ventures
+  - Sequoia
+  - IVP
+  hq: New York, NY
+  nyc_office: true
+  what: AI-powered SMS and email marketing platform
+  verified: true
+  source: builtinnyc
+- name: Axonius
+  ats: greenhouse
+  slug: axonius
+  stage: Series E
+  raised: $600M+
+  investors:
+  - Bessemer
+  - Lightspeed
+  - ICONIQ
+  - Stripes
+  - Accel
+  hq: New York, NY
+  nyc_office: true
+  what: Cybersecurity asset management platform
+  verified: false
+  source: Bessemer portfolio
+- name: Baseten
+  ats: ashby
+  slug: baseten
+  stage: Series F
+  raised: ~$2B+
+  investors:
+  - Sands Capital
+  - Wellington Management
+  - IVP
+  - CapitalG
+  hq: San Francisco, CA
+  nyc_office: true
+  what: AI inference infrastructure; large NYC office
+  verified: true
+  source: fastaijobs
+- name: Betterment
+  ats: greenhouse
+  slug: betterment
+  stage: Series F
+  raised: $435M
+  investors:
+  - Treasury
+  - Kinnevik
+  - Bessemer
+  hq: New York, NY
+  nyc_office: true
+  what: Robo-advisor, advisor and 401(k) platform
+  verified: true
+  source: builtinnyc
+- name: BigID
+  ats: greenhouse
+  slug: bigid
+  stage: Series D
+  raised: $300M+
+  investors:
+  - Bessemer
+  - Boldstart
+  - Scale
+  - Tiger Global
+  - Advent
+  hq: New York, NY
+  nyc_office: true
+  what: Data security, privacy and governance platform
+  verified: false
+  source: Bessemer portfolio
+- name: Blank Street
+  ats: greenhouse
+  slug: blankstreet
+  stage: Series B
+  raised: $100M+
+  investors:
+  - General Catalyst
+  - Tiger Global
+  - Left Lane
+  - HOF Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Tech-enabled coffee chain with app/loyalty
+  verified: false
+  source: GC portfolio
+- name: Blockchain.com
+  ats: greenhouse
+  slug: blockchain
+  stage: Series E
+  raised: ~$600M+
+  investors:
+  - Lightspeed
+  - DST Global
+  - Baillie Gifford
+  hq: London, UK
+  nyc_office: true
+  what: Crypto wallet and exchange; NYC office
+  verified: true
+  source: sector sweep
+- name: Bluefish AI
+  ats: greenhouse
+  slug: bluefishai
+  stage: Series B
+  raised: $63M+
+  investors:
+  - NEA
+  - Salesforce Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI marketing platform that manages how brands appear in LLM answers
+  verified: true
+  source: lead
+- name: Brain Co.
+  ats: ashby
+  slug: brainco
+  stage: Series A
+  raised: $30M
+  investors:
+  - Gil Capital
+  - Affinity Partners
+  hq: San Francisco, CA
+  nyc_office: true
+  what: AI-native operating systems for large regulated institutions
+  verified: true
+  source: lead
+- name: Brigit
+  ats: ashby
+  slug: brigit
+  stage: Series A+
+  raised: $35M+
+  investors:
+  - Lightspeed
+  - DCM
+  - Hummingbird
+  hq: New York, NY
+  nyc_office: true
+  what: Consumer cash-advance and credit-building app
+  verified: false
+  source: Lightspeed portfolio
+- name: Bubble
+  ats: ashby
+  slug: bubble
+  stage: Series A
+  raised: $100M+
+  investors:
+  - Insight Partners
+  hq: New York, NY
+  nyc_office: true
+  what: No-code web/app builder
+  verified: false
+  source: Insight portfolio
+- name: CAIS
+  ats: greenhouse
+  slug: cais
+  stage: Growth
+  raised: unverified
+  investors:
+  - Apollo
+  - Motive Partners
+  - Franklin Templeton
+  hq: New York, NY
+  nyc_office: true
+  what: Alternative-investments marketplace for independent advisors
+  verified: false
+  source: sector sweep
+- name: Candid Health
+  ats: ashby
+  slug: candidhealth
+  stage: Series D
+  raised: $99.5M through Series C
+  investors:
+  - Sixth Street Growth
+  - Oak HC/FT
+  - 8VC
+  - First Round
+  - BoxGroup
+  - Y Combinator
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Automated medical-billing / revenue-cycle platform for provider groups
+  verified: true
+  source: lead
+- name: Celonis
+  ats: greenhouse
+  slug: celonis
+  stage: Series D
+  raised: ~$2B
+  investors:
+  - Durable Capital
+  - T. Rowe Price
+  - Accel
+  - 83North
+  hq: New York, NY
+  nyc_office: true
+  what: Process-mining and process-intelligence platform (dual HQ Munich/NYC)
+  verified: true
+  source: fastaijobs
+- name: Chainalysis
+  ats: ashby
+  slug: chainalysis-careers
+  stage: Series F
+  raised: $537M
+  investors:
+  - GIC
+  - Coatue
+  - Paradigm
+  - Addition
+  - Accel
+  hq: New York, NY
+  nyc_office: true
+  what: Blockchain analytics, compliance and investigations software
+  verified: true
+  source: builtinnyc
+- name: Charlie Health
+  ats: greenhouse
+  slug: charliehealth
+  stage: Growth
+  raised: undisclosed
+  investors:
+  - Adams Street
+  - RARE Capital
+  hq: Bozeman, MT
+  nyc_office: true
+  what: Virtual intensive outpatient mental health programs for teens and young adults; NYC office
+  verified: false
+  source: jobspipe
+- name: Cherre
+  ats: lever
+  slug: cherre
+  stage: Series C
+  raised: ~$105M
+  investors:
+  - HighSage Ventures
+  - Trustbridge Partners
+  - Intel Capital
+  - Nuveen
+  hq: New York, NY
+  nyc_office: true
+  what: Real estate data integration and analytics platform
+  verified: true
+  source: builtinnyc
+- name: Cinder
+  ats: ashby
+  slug: cinder
+  stage: Series A
+  raised: $14M
+  investors:
+  - Accel
+  - Y Combinator
+  - J2 Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Trust & safety operations platform for content moderation and abuse investigations
+  verified: true
+  source: fastaijobs
+- name: Clair
+  ats: ashby
+  slug: clair
+  stage: Series B
+  raised: $68.7M
+  investors:
+  - Upfront Ventures
+  - Thrive Capital
+  - Kairos HQ
+  hq: New York, NY
+  nyc_office: true
+  what: Embedded earned wage access delivered through payroll/WFM platforms
+  verified: true
+  source: fastaijobs
+- name: Clay
+  ats: ashby
+  slug: claylabs
+  stage: Series C
+  raised: $204M
+  investors:
+  - CapitalG
+  - Sequoia
+  - Meritech
+  - Sapphire Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI go-to-market data enrichment/automation platform
+  verified: true
+  source: fastaijobs
+- name: Clear Street
+  ats: greenhouse
+  slug: clearstreet
+  stage: Series B (extended)
+  raised: ~$700M
+  investors:
+  - Prysm Capital
+  - NextGen Venture Partners
+  hq: New York, NY
+  nyc_office: true
+  what: Cloud-native prime brokerage and clearing
+  verified: true
+  source: sector sweep
+- name: Coast
+  ats: greenhouse
+  slug: coast
+  stage: Series B
+  raised: $90M+
+  investors:
+  - ICONIQ
+  - Accel
+  - Insight Partners
+  - Bessemer
+  - BoxGroup
+  hq: New York, NY
+  nyc_office: true
+  what: Fleet and fuel expense cards for commercial vehicles
+  verified: true
+  source: ICONIQ/Insight portfolio
+- name: Cockroach Labs
+  ats: greenhouse
+  slug: cockroachlabs
+  stage: Series F
+  raised: ~$633M
+  investors:
+  - Altimeter
+  - Benchmark
+  - Redpoint
+  - GV
+  hq: New York, NY
+  nyc_office: true
+  what: Distributed SQL database (CockroachDB)
+  verified: true
+  source: builtinnyc
+- name: Cohere
+  ats: ashby
+  slug: cohere
+  stage: Series D+
+  raised: ~$1.5B+
+  investors:
+  - Radical Ventures
+  - Inovia
+  - Index
+  - Tiger Global
+  - Nvidia
+  hq: Toronto, Canada
+  nyc_office: true
+  what: Enterprise LLMs and multilingual models; NYC office
+  verified: true
+  source: sector sweep
+- name: Comet
+  ats: greenhouse
+  slug: comet
+  stage: Series B
+  raised: unverified
+  investors:
+  - Scale Venture Partners
+  - Trilogy Equity
+  - OpenView
+  hq: New York, NY
+  nyc_office: true
+  what: ML experiment tracking and LLM evaluation platform (Opik)
+  verified: false
+  source: greenhouse-search
+- name: Commure
+  ats: ashby
+  slug: commure
+  stage: Growth
+  raised: unverified
+  investors:
+  - General Catalyst
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Healthcare AI / revenue-cycle and ambient-documentation platform
+  verified: false
+  source: sector sweep
+- name: Confido
+  ats: ashby
+  slug: confido
+  stage: Series B
+  raised: $75M (incl. $55M Series B led by Insight, per posting)
+  investors:
+  - Insight Partners
+  - Footwork
+  - Y Combinator
+  - Watchfire
+  - Boulder Food Group
+  hq: New York, NY
+  nyc_office: true
+  what: AI financial-operations platform for CPG brands (deductions, trade promo, sales forecasting)
+  verified: true
+  source: lead
+- name: CookUnity
+  ats: greenhouse
+  slug: cookunity
+  stage: Series B
+  raised: ~$125M equity
+  investors:
+  - Insight Partners
+  - General Catalyst
+  - Fuel Venture Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Chef-prepared meal subscription marketplace delivering nationwide
+  verified: true
+  source: fastaijobs
+- name: Counsel Health
+  ats: ashby
+  slug: counsel
+  stage: Series A
+  raised: $36M
+  investors:
+  - a16z
+  - GV
+  - Pear VC
+  hq: New York, NY
+  nyc_office: true
+  what: Physician-supervised AI medical-advice platform for health plans and employers
+  verified: true
+  source: fastaijobs
+- name: Crosby
+  ats: ashby
+  slug: crosby
+  stage: Series B
+  raised: $85.8M
+  investors:
+  - Sequoia
+  - Index
+  - Lux
+  - Bain Capital Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI-native law firm doing fixed-price contract review with AI agents plus licensed attorneys
+  verified: true
+  source: lead
+- name: Cursor
+  ats: ashby
+  slug: cursor
+  stage: Series D
+  raised: unverified (~$3.2B)
+  investors:
+  - Thrive
+  - a16z
+  - Accel
+  - Coatue
+  hq: San Francisco, CA
+  nyc_office: true
+  what: AI code editor
+  verified: false
+  source: Thrive portfolio
+- name: Dandy
+  ats: ashby
+  slug: dandy
+  stage: Series B+
+  raised: unverified
+  investors:
+  - Redpoint
+  - Index
+  - a16z
+  hq: New York, NY
+  nyc_office: true
+  what: Digital dental lab (3D printing, intraoral scanning)
+  verified: false
+  source: Redpoint portfolio
+- name: Dashlane
+  ats: greenhouse
+  slug: dashlane
+  stage: Series D
+  raised: $185M+
+  investors:
+  - Sequoia
+  - Bessemer
+  - FirstMark
+  hq: New York, NY
+  nyc_office: true
+  what: Password and credential management for businesses and consumers (co-HQ Paris)
+  verified: true
+  source: builtinnyc
+- name: Dataiku
+  ats: greenhouse
+  slug: dataiku
+  stage: Series F
+  raised: ~$850M
+  investors:
+  - Wellington Management
+  - Tiger Global
+  - ICONIQ Growth
+  - CapitalG
+  hq: New York, NY
+  nyc_office: true
+  what: Enterprise AI/ML platform (co-HQ Paris)
+  verified: true
+  source: builtinnyc
+- name: David Energy
+  ats: ashby
+  slug: davidenergy
+  stage: Series A-1
+  raised: ~$80M
+  investors:
+  - Cathay Innovation
+  - Union Square Ventures
+  - Keyframe Capital
+  hq: Brooklyn, NY
+  nyc_office: true
+  what: Retail electricity supplier plus software managing batteries, EVs and HVAC as grid assets
+  verified: true
+  source: ashby-search
+- name: Decagon
+  ats: ashby
+  slug: decagon
+  stage: Series C
+  raised: unverified (~$230M)
+  investors:
+  - Accel
+  - a16z
+  - Bain Capital Ventures
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Conversational AI agents for enterprise customer support
+  verified: false
+  source: Accel portfolio
+- name: Distributed Spectrum
+  ats: ashby
+  slug: distributed-spectrum
+  stage: Series A
+  raised: ~$25M
+  investors:
+  - Conviction
+  - Shield Capital
+  - Felicis
+  hq: New York, NY
+  nyc_office: true
+  what: AI-powered RF sensors and spectrum-monitoring software for defense
+  verified: true
+  source: startuphub
+- name: DriveWealth
+  ats: greenhouse
+  slug: drivewealth
+  stage: Series D
+  raised: $550M+
+  investors:
+  - Insight Partners
+  - Accel
+  - Fidelity
+  - SoftBank
+  hq: Jersey City, NJ
+  nyc_office: true
+  what: Brokerage-as-a-service / fractional investing API
+  verified: false
+  source: Insight portfolio
+- name: Eight Sleep
+  ats: ashby
+  slug: eightsleep
+  stage: Series C+
+  raised: $260M+
+  investors:
+  - Khosla
+  - Founders Fund
+  - Valor
+  - HSG
+  - Y Combinator
+  hq: New York, NY
+  nyc_office: true
+  what: Smart sleep-fitness mattress covers and sleep AI
+  verified: false
+  source: Khosla portfolio
+- name: ElevenLabs
+  ats: ashby
+  slug: elevenlabs
+  stage: Series C+
+  raised: unverified (~$280M+)
+  investors:
+  - a16z
+  - ICONIQ
+  - Sequoia
+  hq: London, UK / New York, NY
+  nyc_office: true
+  what: AI voice/audio models and products
+  verified: false
+  source: lead
+- name: EliseAI
+  ats: ashby
+  slug: eliseai
+  stage: Series E
+  raised: ~$390M
+  investors:
+  - a16z
+  - Navitas Capital
+  - Bessemer
+  - Sapphire
+  hq: New York, NY
+  nyc_office: true
+  what: Conversational AI for housing and healthcare operations
+  verified: true
+  source: ashby-search
+- name: Enigma
+  ats: greenhouse
+  slug: enigmaio
+  stage: Series C
+  raised: ~$130M
+  investors:
+  - NEA
+  - Comcast Ventures
+  - Capital One Growth Ventures
+  - Third Point
+  hq: New York, NY
+  nyc_office: true
+  what: Data and intelligence on small businesses for banks, fintechs and insurers
+  verified: true
+  source: startuphub
+- name: Ethic
+  ats: greenhouse
+  slug: ethic
+  stage: Series C
+  raised: unverified
+  investors:
+  - Jordan Park
+  - Oak HC/FT
+  - Nyca
+  - Sound Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Personalized / values-based investing platform for advisors
+  verified: false
+  source: greenhouse-search
+- name: Evvy
+  ats: ashby
+  slug: evvy
+  stage: Series B
+  raised: ~$60M
+  investors:
+  - General Catalyst
+  - Left Lane Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Vaginal-microbiome testing and women's-health research data
+  verified: true
+  source: sector sweep
+- name: Extend
+  ats: ashby
+  slug: extend
+  stage: Series B
+  raised: ~$55M
+  investors:
+  - March Capital
+  - Point72 Ventures
+  - FinTech Collective
+  hq: New York, NY
+  nyc_office: true
+  what: Virtual cards / spend management on existing commercial cards
+  verified: true
+  source: sector sweep
+- name: Farther
+  ats: greenhouse
+  slug: fartherfinance
+  stage: Series C
+  raised: $100M+
+  investors:
+  - Lightspeed
+  - Bessemer
+  - Khosla
+  - CapitalG
+  - Viewpoint
+  hq: New York, NY
+  nyc_office: true
+  what: Tech-enabled wealth management firm
+  verified: false
+  source: Lightspeed/Bessemer portfolio
+- name: Fay
+  ats: greenhouse
+  slug: fay
+  stage: Series B
+  raised: $75M+
+  investors:
+  - General Catalyst
+  - Forerunner
+  - Goldman Sachs Growth
+  hq: New York, NY
+  nyc_office: true
+  what: Insurance-covered nutrition counseling marketplace
+  verified: false
+  source: GC portfolio
+- name: Fireblocks
+  ats: greenhouse
+  slug: fireblocks
+  stage: Series E
+  raised: $1.04B
+  investors:
+  - D1 Capital
+  - Spark Capital
+  - Sequoia
+  - General Atlantic
+  hq: New York, NY
+  nyc_office: true
+  what: Digital-asset custody, MPC wallet and tokenization infrastructure
+  verified: true
+  source: builtinnyc
+- name: firsthand
+  ats: ashby
+  slug: firsthand
+  stage: unverified
+  raised: unverified
+  investors: []
+  hq: New York, NY
+  nyc_office: true
+  what: Peer-led care for people with serious mental illness
+  verified: false
+  source: sector sweep
+- name: Flagler Health
+  ats: ashby
+  slug: flaglerhealth
+  stage: Series B
+  raised: $63M
+  investors:
+  - Bessemer
+  - SignalFire
+  - Tribeca Venture Partners
+  - Alumni Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI clinical operating system for musculoskeletal practices
+  verified: true
+  source: lead
+- name: Flex
+  ats: greenhouse
+  slug: flex
+  stage: unverified
+  raised: unverified
+  investors: []
+  hq: New York, NY
+  nyc_office: true
+  what: Flexible rent-payment fintech
+  verified: false
+  source: sector sweep
+- name: Footprint
+  ats: ashby
+  slug: footprint
+  stage: Series B
+  raised: unverified
+  investors:
+  - Index Ventures
+  - QED
+  hq: New York, NY
+  nyc_office: true
+  what: Identity verification / KYC and PII vaulting
+  verified: false
+  source: sector sweep
+- name: Fora
+  ats: greenhouse
+  slug: foratravel
+  stage: Series D
+  raised: unverified total ($60M Series D in 2026, per posting)
+  investors:
+  - Forerunner
+  - Tactile Ventures
+  - Thrive
+  - Insight
+  - Heartcore
+  hq: New York, NY
+  nyc_office: true
+  what: Modern travel-agency platform for independent travel advisors
+  verified: true
+  source: lead
+- name: Formation Bio
+  ats: greenhouse
+  slug: formationbio
+  stage: Series D
+  raised: ~$600M
+  investors:
+  - a16z
+  - Sanofi
+  - Sequoia
+  hq: New York, NY
+  nyc_office: true
+  what: AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets
+  verified: true
+  source: fastaijobs
+- name: Forter
+  ats: greenhouse
+  slug: forter
+  stage: Series F
+  raised: $525M
+  investors:
+  - Tiger Global
+  - Bessemer
+  - Sequoia
+  - Third Point Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: E-commerce fraud prevention and identity-based trust platform
+  verified: true
+  source: builtinnyc
+- name: Garner Health
+  ats: greenhouse
+  slug: garnerhealth
+  stage: Series D
+  raised: ~$200M
+  investors:
+  - Kleiner Perkins
+  - Redpoint
+  - Maverick
+  hq: New York, NY
+  nyc_office: true
+  what: Employer health benefit steering members to high-quality doctors using claims data
+  verified: true
+  source: builtinnyc
+- name: Glossier
+  ats: greenhouse
+  slug: glossier
+  stage: Series E
+  raised: ~$266M
+  investors:
+  - Lone Pine Capital
+  - Sequoia
+  - Forerunner
+  hq: New York, NY
+  nyc_office: true
+  what: DTC beauty brand
+  verified: true
+  source: builtinnyc
+- name: Grafana Labs
+  ats: greenhouse
+  slug: grafanalabs
+  stage: Series D+
+  raised: $800M+
+  investors:
+  - Lightspeed
+  - Coatue
+  - GGV
+  - Lead Edge
+  - Sequoia
+  hq: New York, NY
+  nyc_office: true
+  what: Observability platform (Grafana, Loki, Tempo); remote-first with NYC HQ
+  verified: false
+  source: Lightspeed portfolio
+- name: Grow Therapy
+  ats: ashby
+  slug: grow-therapy
+  stage: Series C
+  raised: unverified
+  investors:
+  - Sequoia
+  - Goldman Sachs Growth
+  - TCV
+  hq: New York, NY
+  nyc_office: true
+  what: Marketplace matching patients with in-network therapists
+  verified: false
+  source: ashby-search
+- name: Gusto
+  ats: greenhouse
+  slug: gusto
+  stage: Series E
+  raised: ~$746M
+  investors:
+  - Generation Investment Management
+  - T. Rowe Price
+  - General Catalyst
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Payroll, benefits and HR platform for SMBs; large NYC office
+  verified: true
+  source: fastaijobs
+- name: Harry's
+  ats: greenhouse
+  slug: harrys
+  stage: Series E
+  raised: ~$900M
+  investors:
+  - Bain Capital Ventures
+  - Macquarie Capital
+  - Tiger Global
+  hq: New York, NY
+  nyc_office: true
+  what: CPG holding co (Harry's, Flamingo, Lume, Mando; now Mammoth Brands); confidentially filed for IPO
+  verified: true
+  source: builtinnyc
+- name: Harvey
+  ats: ashby
+  slug: harvey
+  stage: Growth
+  raised: $1.5B+
+  investors:
+  - Lightspeed
+  - Sequoia
+  - GIC
+  - Diffusion
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Legal AI platform; large NYC office
+  verified: true
+  source: ashby-search
+- name: Haus
+  ats: ashby
+  slug: haus
+  stage: Series B
+  raised: ~$62M
+  investors:
+  - Insight Partners
+  - 01 Advisors
+  - Haystack
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Incrementality / causal marketing-measurement platform; NYC office
+  verified: true
+  source: fastaijobs
+- name: Headway
+  ats: ashby
+  slug: headway
+  stage: Series E
+  raised: unverified (~$325M+)
+  investors:
+  - a16z
+  - Thrive
+  - Spark
+  - Accel
+  - GV
+  hq: New York, NY
+  nyc_office: true
+  what: Mental-health marketplace matching patients with in-network therapists
+  verified: false
+  source: lead
+- name: Hebbia
+  ats: ashby
+  slug: hebbia-ai
+  stage: Series B
+  raised: ~$160M
+  investors:
+  - a16z
+  - Index Ventures
+  - GV
+  hq: New York, NY
+  nyc_office: true
+  what: AI document analysis and agents for finance and law
+  verified: true
+  source: builtinnyc
+- name: Hex
+  ats: ashby
+  slug: hex
+  stage: Series C
+  raised: unverified (~$170M)
+  investors:
+  - a16z
+  - Sequoia
+  - Amplify
+  - Redpoint
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Collaborative data-science / analytics notebook platform
+  verified: false
+  source: a16z portfolio
+- name: Higgsfield AI
+  ats: ashby
+  slug: higgsfieldai
+  stage: unverified
+  raised: unverified
+  investors: []
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Consumer generative-AI video/image app; small NYC presence
+  verified: false
+  source: lead
+- name: Hume AI
+  ats: greenhouse
+  slug: humeai
+  stage: Series B
+  raised: ~$74M
+  investors:
+  - EQT Ventures
+  - Union Square Ventures
+  - Comcast Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Empathic voice AI and emotion-measurement models
+  verified: true
+  source: builtinnyc
+- name: Hungryroot
+  ats: greenhouse
+  slug: hungryroot
+  stage: Series C
+  raised: ~$75M
+  investors:
+  - L Catterton
+  - Lightspeed
+  - Lerer Hippeau
+  hq: New York, NY
+  nyc_office: true
+  what: AI-personalized online grocery and meal-planning service
+  verified: true
+  source: builtinnyc
+- name: Hyperscience
+  ats: ashby
+  slug: hyperscience
+  stage: Series E
+  raised: ~$290M (unverified)
+  investors:
+  - Tiger Global
+  - Bessemer
+  - Stripes
+  - FirstMark
+  hq: New York, NY
+  nyc_office: true
+  what: ML document processing / intelligent automation
+  verified: false
+  source: sector sweep
+- name: iCapital
+  ats: greenhouse
+  slug: icapitalnetwork
+  stage: Late-stage growth
+  raised: unverified
+  investors:
+  - SurgoCap
+  - T. Rowe Price
+  - Temasek
+  - Blackstone
+  hq: New York, NY
+  nyc_office: true
+  what: Alternative-investments platform for wealth managers (1,500+ staff)
+  verified: true
+  source: sector sweep
+- name: Imprint
+  ats: ashby
+  slug: imprint
+  stage: Series D
+  raised: $445M
+  investors:
+  - Khosla Ventures
+  - Thrive Capital
+  - Ribbit Capital
+  - Kleiner Perkins
+  hq: New York, NY
+  nyc_office: true
+  what: Co-branded credit card and loyalty platform for consumer brands
+  verified: true
+  source: ashby-search
+- name: Judi Health
+  ats: greenhouse
+  slug: judihealth
+  stage: Series F
+  raised: $607M
+  investors:
+  - Wellington Management
+  - General Catalyst
+  - Goldman Sachs Growth
+  hq: New York, NY
+  nyc_office: true
+  what: AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)
+  verified: true
+  source: fastaijobs
+- name: Justworks
+  ats: greenhouse
+  slug: justworks
+  stage: Series E
+  raised: ~$150M
+  investors:
+  - Union Square Ventures
+  - FirstMark
+  - Bain Capital Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: PEO/HR, payroll and benefits platform for SMBs
+  verified: false
+  source: fastaijobs
+- name: Kalshi
+  ats: ashby
+  slug: kalshi
+  stage: Series F
+  raised: $2.5B+
+  investors:
+  - Coatue
+  - Sequoia
+  - a16z
+  - Paradigm
+  hq: New York, NY
+  nyc_office: true
+  what: CFTC-regulated prediction market exchange
+  verified: true
+  source: ashby-search
+- name: Knock
+  ats: ashby
+  slug: knock
+  stage: Series A
+  raised: $18M
+  investors:
+  - Craft Ventures
+  - Afore
+  hq: New York, NY
+  nyc_office: true
+  what: Notifications infrastructure API for product teams
+  verified: true
+  source: Craft portfolio
+- name: Kustomer
+  ats: ashby
+  slug: kustomer
+  stage: Series B
+  raised: ~$263M lifetime
+  investors:
+  - Norwest
+  - Battery Ventures
+  - Redpoint
+  - Boldstart
+  hq: New York, NY
+  nyc_office: true
+  what: AI-first customer service CRM (spun back out of Meta 2023)
+  verified: true
+  source: builtinnyc
+- name: Legora
+  ats: ashby
+  slug: legora
+  stage: Series C
+  raised: unverified (~$300M)
+  investors:
+  - Benchmark
+  - ICONIQ
+  - Bessemer
+  - General Catalyst
+  - Redpoint
+  hq: Stockholm, Sweden
+  nyc_office: true
+  what: Collaborative AI workspace for law firms and in-house legal teams; large NYC office
+  verified: false
+  source: lead
+- name: Lightning AI
+  ats: greenhouse
+  slug: lightningai
+  stage: Series A+
+  raised: $60M+
+  investors:
+  - Index
+  - Bain Capital Ventures
+  - Coatue
+  hq: New York, NY
+  nyc_office: true
+  what: PyTorch Lightning / AI development and training platform
+  verified: false
+  source: BCV portfolio
+- name: Lithic
+  ats: greenhouse
+  slug: lithic
+  stage: Series C
+  raised: ~$115M
+  investors:
+  - Stripes
+  - Bessemer
+  - Index Ventures
+  - Tusk
+  hq: New York, NY
+  nyc_office: true
+  what: Developer-first card issuing and processing platform (formerly Privacy.com)
+  verified: true
+  source: builtinnyc
+- name: Loop Returns
+  ats: lever
+  slug: loopreturns
+  stage: Series B
+  raised: ~$75M
+  investors:
+  - CRV
+  - FirstMark
+  - Renegade Partners
+  hq: Columbus, OH
+  nyc_office: true
+  what: Returns management software for Shopify brands; NYC office
+  verified: true
+  source: sector sweep
+- name: Madhive
+  ats: ashby
+  slug: madhive
+  stage: Growth
+  raised: ~$300M (unverified)
+  investors:
+  - Goldman Sachs Asset Management
+  hq: New York, NY
+  nyc_office: true
+  what: CTV / streaming advertising infrastructure
+  verified: false
+  source: sector sweep
+- name: Materialize
+  ats: ashby
+  slug: materialize
+  stage: Series C
+  raised: ~$108M
+  investors:
+  - Redpoint
+  - Kleiner Perkins
+  - Lightspeed
+  hq: New York, NY
+  nyc_office: true
+  what: Streaming/operational data warehouse built on differential dataflow
+  verified: true
+  source: ashby-search
+- name: Maven Clinic
+  ats: greenhouse
+  slug: mavenclinic
+  stage: Series F
+  raised: $425M+
+  investors:
+  - StepStone Group
+  - General Catalyst
+  - Sequoia
+  hq: New York, NY
+  nyc_office: true
+  what: Virtual women's and family health platform for employers and health plans
+  verified: true
+  source: builtinnyc
+- name: Merciv
+  ats: ashby
+  slug: merciv
+  stage: Seed
+  raised: $14M
+  investors:
+  - AI x IA
+  hq: New York, NY
+  nyc_office: true
+  what: Enterprise agentic AI platform for Fortune 500 brands
+  verified: true
+  source: fastaijobs
+- name: Mercor
+  ats: ashby
+  slug: mercor
+  stage: Series C
+  raised: unverified (~$450M)
+  investors:
+  - Benchmark
+  - Felicis
+  - General Catalyst
+  hq: San Francisco, CA
+  nyc_office: true
+  what: AI data / expert-labor marketplace for training frontier models
+  verified: false
+  source: Benchmark portfolio
+- name: Mercury
+  ats: greenhouse
+  slug: mercury
+  stage: Series C
+  raised: ~$500M
+  investors:
+  - Sequoia
+  - Spark Capital
+  - Coatue
+  - a16z
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Business banking and finance stack for startups; NYC office
+  verified: true
+  source: fastaijobs
+- name: Middesk
+  ats: ashby
+  slug: middesk
+  stage: Series B
+  raised: unverified (~$80M)
+  investors:
+  - Accel
+  - Sequoia
+  - Insight
+  - Canapi
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Business identity/KYB verification data platform; most roles NYC
+  verified: false
+  source: lead
+- name: Mirage
+  ats: ashby
+  slug: mirage
+  stage: Series C
+  raised: unverified (~$100M)
+  investors:
+  - Index
+  - a16z
+  - Sequoia
+  - Kleiner Perkins
+  hq: New York, NY
+  nyc_office: true
+  what: Generative AI video company (formerly Captions)
+  verified: false
+  source: lead
+- name: Mirakl
+  ats: greenhouse
+  slug: mirakl
+  stage: Series E
+  raised: ~$1B
+  investors:
+  - Silver Lake
+  - Permira
+  - 83North
+  - Elaia
+  hq: Paris, France
+  nyc_office: true
+  what: Enterprise marketplace and dropship platform; NYC office
+  verified: true
+  source: sector sweep
+- name: Misfits Market
+  ats: greenhouse
+  slug: misfitsmarket
+  stage: Series C
+  raised: ~$525M
+  investors:
+  - SoftBank Vision Fund
+  - Accel
+  - Valor
+  hq: Delanco, NJ
+  nyc_office: true
+  what: Online discount grocery (acquired Imperfect Foods)
+  verified: true
+  source: sector sweep
+- name: Modal
+  ats: ashby
+  slug: modal
+  stage: Series B
+  raised: $111M
+  investors:
+  - Lux Capital
+  - Redpoint
+  - Amplify Partners
+  hq: New York, NY
+  nyc_office: true
+  what: Serverless cloud for AI/ML workloads
+  verified: true
+  source: ashby-search
+- name: Moloco
+  ats: greenhouse
+  slug: moloco
+  stage: Series C
+  raised: ~$227M
+  investors:
+  - Tiger Global
+  - Fidelity
+  - EDBI
+  hq: Redwood City, CA
+  nyc_office: true
+  what: Machine-learning ad platform / DSP; NYC office
+  verified: true
+  source: fastaijobs
+- name: Nabla
+  ats: ashby
+  slug: nabla
+  stage: Series C
+  raised: ~$120M (unverified)
+  investors:
+  - HV Capital
+  - Cathay Innovation
+  - Highland Europe
+  hq: Paris, France
+  nyc_office: true
+  what: Ambient AI clinical documentation assistant; NYC office
+  verified: false
+  source: sector sweep
+- name: Nanit
+  ats: greenhouse
+  slug: nanit
+  stage: Series C
+  raised: $80M+
+  investors:
+  - GV
+  - Jerusalem Venture Partners
+  - Upfront
+  - RRE
+  hq: New York, NY
+  nyc_office: true
+  what: Smart baby monitor and sleep analytics
+  verified: false
+  source: GV portfolio
+- name: Nayya
+  ats: greenhouse
+  slug: nayya
+  stage: Series C
+  raised: $100M+
+  investors:
+  - ICONIQ
+  - Felicis
+  - SemperVirens
+  - Workday Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI benefits decision-support platform
+  verified: false
+  source: ICONIQ/Felicis portfolio
+- name: Norm Ai
+  ats: ashby
+  slug: norm-ai
+  stage: Series C
+  raised: $260M+
+  investors:
+  - Khosla Ventures
+  - Blackstone
+  - Bain Capital Ventures
+  - Coatue
+  hq: New York, NY
+  nyc_office: true
+  what: Agentic AI for regulatory compliance and legal work
+  verified: true
+  source: ashby-search
+- name: Notion
+  ats: ashby
+  slug: notion
+  stage: Series C
+  raised: unverified (~$340M)
+  investors:
+  - Index
+  - Sequoia
+  - Coatue
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Collaborative AI workspace
+  verified: false
+  source: Index portfolio
+- name: Nourish
+  ats: greenhouse
+  slug: usenourish
+  stage: Series B
+  raised: unverified (~$109M)
+  investors:
+  - Thrive
+  - Index
+  - J.P. Morgan Growth Equity
+  hq: New York, NY
+  nyc_office: true
+  what: Telehealth marketplace matching patients with in-network registered dietitians
+  verified: false
+  source: lead
+- name: Nova Credit
+  ats: greenhouse
+  slug: novacredit
+  stage: Series C
+  raised: $125M+
+  investors:
+  - Kleiner Perkins
+  - General Catalyst
+  - Index
+  - Canapi
+  hq: New York, NY
+  nyc_office: true
+  what: Cross-border and cash-flow credit data infrastructure
+  verified: false
+  source: Kleiner/GC portfolio
+- name: Novig
+  ats: ashby
+  slug: novig
+  stage: Series A
+  raised: ~$25M (unverified)
+  investors:
+  - Left Lane Capital
+  - Lux Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Commission-free sports-betting exchange / prediction market
+  verified: false
+  source: sector sweep
+- name: Ocrolus
+  ats: greenhouse
+  slug: ocrolusinc
+  stage: Series C
+  raised: ~$130M
+  investors:
+  - Fin Capital
+  - Thomvest
+  - Mubadala
+  - QED
+  - Oak HC/FT
+  hq: New York, NY
+  nyc_office: true
+  what: AI document automation and cash-flow analytics for lenders
+  verified: true
+  source: builtinnyc
+- name: Octane
+  ats: greenhouse
+  slug: octanelending
+  stage: Series F
+  raised: $342M
+  investors:
+  - Valar Ventures
+  - Upper90
+  - Huntington National Bank
+  hq: New York, NY
+  nyc_office: true
+  what: Powersports/RV/marine consumer lending and instant financing
+  verified: true
+  source: builtinnyc
+- name: Octaura
+  ats: greenhouse
+  slug: octaura
+  stage: Growth
+  raised: $46.5M (latest)
+  investors:
+  - Goldman Sachs
+  - Citi
+  - J.P. Morgan
+  - Apollo
+  - Motive Partners
+  hq: New York, NY
+  nyc_office: true
+  what: Electronic trading and analytics for syndicated loans and CLOs
+  verified: true
+  source: fastaijobs
+- name: Octave
+  ats: greenhouse
+  slug: octave
+  stage: Series B
+  raised: ~$70M (unverified)
+  investors:
+  - Cigna Ventures
+  - Greycroft
+  - Obvious Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: In-network therapy provider
+  verified: false
+  source: sector sweep
+- name: Odeko
+  ats: greenhouse
+  slug: odeko
+  stage: Series D
+  raised: ~$220M
+  investors:
+  - B Capital
+  - D1 Capital
+  - Mubadala
+  hq: New York, NY
+  nyc_office: true
+  what: Supply-chain and ordering platform for coffee shops
+  verified: true
+  source: sector sweep
+- name: Ophelia
+  ats: greenhouse
+  slug: ophelia
+  stage: Series B
+  raised: $65M+
+  investors:
+  - Menlo
+  - Tiger Global
+  - Y Combinator
+  hq: New York, NY
+  nyc_office: true
+  what: Telehealth opioid-addiction treatment
+  verified: false
+  source: Menlo portfolio
+- name: Orchard
+  ats: greenhouse
+  slug: orchard
+  stage: Series D
+  raised: ~$285M
+  investors:
+  - Revolution Growth
+  - FirstMark
+  - Accomplice
+  - Navitas
+  hq: New York, NY
+  nyc_office: true
+  what: Home buy-before-you-sell marketplace and brokerage
+  verified: true
+  source: builtinnyc
+- name: Oshi Health
+  ats: greenhouse
+  slug: oshihealth
+  stage: Series C
+  raised: $100M+
+  investors:
+  - Bessemer
+  - Oak HC/FT
+  - Flare Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Virtual GI care clinic
+  verified: false
+  source: Bessemer portfolio
+- name: Oso
+  ats: ashby
+  slug: oso
+  stage: Series A
+  raised: unverified
+  investors:
+  - Sequoia
+  - Felicis
+  - Harpoon
+  hq: New York, NY
+  nyc_office: true
+  what: Authorization-as-a-service for developers
+  verified: false
+  source: Sequoia portfolio
+- name: Oula Health
+  ats: greenhouse
+  slug: oulahealth
+  stage: Series B
+  raised: $50M+
+  investors:
+  - GV
+  - 8VC
+  - Female Founders Fund
+  hq: New York, NY
+  nyc_office: true
+  what: Modern maternity-care clinics
+  verified: false
+  source: GV/8VC portfolio
+- name: Outtake
+  ats: ashby
+  slug: outtake
+  stage: Series B
+  raised: ~$60M
+  investors:
+  - ICONIQ
+  - CRV
+  - S32
+  hq: New York, NY
+  nyc_office: true
+  what: AI agents that detect and take down impersonation, phishing and deepfake threats
+  verified: true
+  source: fastaijobs
+- name: Pangram Labs
+  ats: ashby
+  slug: pangramlabs
+  stage: Seed
+  raised: ~$13M
+  investors:
+  - Menlo Ventures
+  - Haystack
+  - ScOp
+  - Script Capital
+  - Cadenza
+  hq: New York, NY
+  nyc_office: true
+  what: AI-generated text/image detection models
+  verified: true
+  source: lead
+- name: Parloa
+  ats: greenhouse
+  slug: parloa
+  stage: Series D
+  raised: ~$500M
+  investors:
+  - General Catalyst
+  - Altimeter
+  - EQT
+  - Durable
+  hq: Berlin, Germany
+  nyc_office: true
+  what: Agentic AI for customer-service contact centers; NYC office
+  verified: true
+  source: sector sweep
+- name: Parsley Health
+  ats: greenhouse
+  slug: parsleyhealth
+  stage: Series B
+  raised: ~$40M
+  investors:
+  - White Star Capital
+  - FirstMark
+  - Alpha Edison
+  hq: New York, NY
+  nyc_office: true
+  what: Functional-medicine primary care, virtual and in-person
+  verified: true
+  source: builtinnyc
+- name: Partiful
+  ats: ashby
+  slug: partiful
+  stage: Series A
+  raised: ~$27M
+  investors:
+  - a16z
+  - Initialized Capital
+  - GV
+  hq: New York, NY
+  nyc_office: true
+  what: Social event-invitation and party-planning app
+  verified: true
+  source: ashby-search
+- name: Paxos
+  ats: ashby
+  slug: paxos
+  stage: Series D
+  raised: ~$540M
+  investors:
+  - Oak HC/FT
+  - PayPal Ventures
+  - Declaration Partners
+  - Mithril
+  hq: New York, NY
+  nyc_office: true
+  what: Regulated stablecoin issuer (PYUSD, USDG) and blockchain settlement infrastructure
+  verified: true
+  source: builtinnyc
+- name: Pearl Health
+  ats: ashby
+  slug: pearlhealth
+  stage: Series B
+  raised: unverified (~$100M)
+  investors:
+  - a16z
+  - Viking Global
+  - AlleyCorp
+  hq: New York, NY
+  nyc_office: true
+  what: Value-based care enablement for primary-care practices
+  verified: false
+  source: a16z portfolio
+- name: Pelago
+  ats: greenhouse
+  slug: pelago
+  stage: Series C
+  raised: ~$150M
+  investors:
+  - Atomico
+  - Kinnevik
+  - Octopus Ventures
+  - Y Combinator
+  hq: New York, NY
+  nyc_office: true
+  what: Virtual clinic for substance-use treatment (formerly Quit Genius)
+  verified: true
+  source: sector sweep
+- name: PermitFlow
+  ats: ashby
+  slug: permitflow
+  stage: Series B
+  raised: unverified (~$80M)
+  investors:
+  - Kleiner Perkins
+  - Felicis
+  - Initialized
+  - Y Combinator
+  hq: New York, NY
+  nyc_office: true
+  what: Applied-AI construction permitting platform for builders
+  verified: false
+  source: lead
+- name: Perplexity
+  ats: ashby
+  slug: perplexity
+  stage: Series E
+  raised: ~$1.5B+
+  investors:
+  - IVP
+  - NEA
+  - SoftBank
+  - Nvidia
+  hq: San Francisco, CA
+  nyc_office: true
+  what: AI answer engine / search; NYC office
+  verified: true
+  source: sector sweep
+- name: Petra Labs
+  ats: ashby
+  slug: petra-labs
+  stage: Seed
+  raised: $5.2M
+  investors:
+  - Work-Bench
+  - Afore Capital
+  - Pathlight Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Attribution and experimentation layer for AI search
+  verified: true
+  source: lead
+- name: PhysicsX
+  ats: greenhouse
+  slug: physicsx
+  stage: Series B
+  raised: ~$155M
+  investors:
+  - Atomico
+  - Temasek
+  - NVentures
+  - General Catalyst
+  hq: London, UK
+  nyc_office: true
+  what: AI simulation/engineering models for physical industries; NYC office
+  verified: true
+  source: fastaijobs
+- name: Pinecone
+  ats: ashby
+  slug: pinecone
+  stage: Series B
+  raised: ~$138M
+  investors:
+  - a16z
+  - ICONIQ
+  - Menlo Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Managed vector database for AI apps
+  verified: true
+  source: ashby-search
+- name: Pinwheel
+  ats: greenhouse
+  slug: pinwheelapi
+  stage: Series B
+  raised: $77M+
+  investors:
+  - Coatue
+  - First Round
+  - GGV
+  - Kleiner Perkins
+  hq: New York, NY
+  nyc_office: true
+  what: Payroll connectivity / income and employment data API
+  verified: false
+  source: Coatue/First Round portfolio
+- name: Plaid
+  ats: ashby
+  slug: plaid
+  stage: Series D+
+  raised: unverified (~$1.3B)
+  investors:
+  - a16z
+  - Index
+  - Kleiner Perkins
+  - NEA
+  - Spark
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Financial-data connectivity / fintech infrastructure; large NYC office
+  verified: false
+  source: a16z portfolio
+- name: Polymarket
+  ats: ashby
+  slug: polymarket
+  stage: Growth
+  raised: $2.2B+
+  investors:
+  - Intercontinental Exchange
+  - Founders Fund
+  - 1789 Capital
+  - Dragonfly
+  hq: New York, NY
+  nyc_office: true
+  what: Crypto-based prediction market
+  verified: true
+  source: ashby-search
+- name: Pomelo Care
+  ats: ashby
+  slug: pomelo-care
+  stage: Series B
+  raised: $80M+
+  investors:
+  - First Round
+  - a16z
+  - Operator Partners
+  hq: New York, NY
+  nyc_office: true
+  what: Virtual maternity and newborn care
+  verified: false
+  source: First Round portfolio
+- name: Pontera
+  ats: greenhouse
+  slug: pontera
+  stage: Growth
+  raised: $160M
+  investors:
+  - ICONIQ Growth
+  - Lightspeed
+  - Blumberg Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Lets financial advisors manage clients' held-away 401(k) accounts
+  verified: true
+  source: builtinnyc
+- name: Posh
+  ats: ashby
+  slug: posh
+  stage: Series B
+  raised: ~$64M
+  investors:
+  - FirstMark
+  - Goodwater Capital
+  - Causeway Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Event ticketing and discovery platform for independent organizers
+  verified: true
+  source: fastaijobs
+- name: Prose
+  ats: ashby
+  slug: prose
+  stage: Series B
+  raised: $50M+
+  investors:
+  - Insight Partners
+  - Forerunner
+  - Lerer Hippeau
+  hq: Brooklyn, NY
+  nyc_office: true
+  what: Custom personalized hair and skin care (DTC)
+  verified: false
+  source: Insight portfolio
+- name: Prove
+  ats: greenhouse
+  slug: prove
+  stage: Series I
+  raised: ~$270M
+  investors:
+  - MassMutual Ventures
+  - Capital One Ventures
+  - Apax Digital
+  - Oak HC/FT
+  hq: New York, NY
+  nyc_office: true
+  what: Phone-centric digital identity verification and authentication
+  verified: true
+  source: builtinnyc
+- name: Public
+  ats: greenhouse
+  slug: public
+  stage: Series D-2
+  raised: $414M
+  investors:
+  - Accel
+  - Greycroft
+  - Tiger Global
+  hq: New York, NY
+  nyc_office: true
+  what: Multi-asset retail investing platform (stocks, bonds, options, crypto)
+  verified: true
+  source: builtinnyc
+- name: Qloo
+  ats: lever
+  slug: qloo
+  stage: Series C
+  raised: ~$75M
+  investors:
+  - AI Ventures
+  - AXA Venture Partners
+  - Bluestone Equity Partners
+  hq: New York, NY
+  nyc_office: true
+  what: Cultural AI / taste-intelligence API
+  verified: true
+  source: fastaijobs
+- name: Quip
+  ats: greenhouse
+  slug: quip
+  stage: Series B
+  raised: ~$180M
+  investors:
+  - Cowen Sustainable Investments
+  - Lerer Hippeau
+  hq: Brooklyn, NY
+  nyc_office: true
+  what: DTC oral-care brand and dental-care platform
+  verified: true
+  source: builtinnyc
+- name: Rain
+  ats: ashby
+  slug: rain
+  stage: Series C
+  raised: $338M+
+  investors:
+  - ICONIQ
+  - Sapphire Ventures
+  - Dragonfly
+  - Norwest
+  hq: New York, NY
+  nyc_office: true
+  what: Stablecoin-backed Visa card issuing and payments infrastructure
+  verified: true
+  source: fastaijobs
+- name: Ramp
+  ats: ashby
+  slug: ramp
+  stage: Series F
+  raised: $3B
+  investors:
+  - ICONIQ
+  - GIC
+  - Founders Fund
+  - Thrive
+  hq: New York, NY
+  nyc_office: true
+  what: AI-powered corporate cards and spend/finance operations platform
+  verified: true
+  source: fastaijobs
+- name: Reality Defender
+  ats: ashby
+  slug: realitydefender
+  stage: Series A
+  raised: ~$48M
+  investors:
+  - Illuminate Financial
+  - DCVC
+  - Y Combinator
+  - Booz Allen Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Real-time deepfake detection for enterprises and governments
+  verified: true
+  source: ashby-search
+- name: Rho
+  ats: ashby
+  slug: rho
+  stage: Series B
+  raised: unverified (~$100M)
+  investors:
+  - DFJ Growth
+  - M13
+  - Inspired Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Business banking, cards and spend platform for startups
+  verified: false
+  source: other
+- name: Rightway
+  ats: greenhouse
+  slug: rightwayhealthcare
+  stage: Series C
+  raised: $130M+
+  investors:
+  - Khosla
+  - Thrive
+  - Tiger Global
+  hq: New York, NY
+  nyc_office: true
+  what: Care navigation and PBM for employers
+  verified: false
+  source: Khosla portfolio
+- name: Rilla
+  ats: ashby
+  slug: rilla
+  stage: Series A
+  raised: unverified
+  investors:
+  - Bessemer
+  - Craft Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Speech analytics for in-person field sales
+  verified: false
+  source: ashby-search
+- name: Rillet
+  ats: ashby
+  slug: rillet
+  stage: Series B
+  raised: unverified (~$100M)
+  investors:
+  - Sequoia
+  - a16z
+  - ICONIQ
+  - First Round
+  hq: New York, NY
+  nyc_office: true
+  what: AI-native ERP / general-ledger accounting platform
+  verified: false
+  source: Sequoia portfolio
+- name: Ro
+  ats: lever
+  slug: ro
+  stage: Series D+
+  raised: ~$1.0B
+  investors:
+  - General Catalyst
+  - FirstMark
+  - ShawSpring
+  hq: New York, NY
+  nyc_office: true
+  what: Direct-to-patient telehealth and pharmacy (GLP-1 weight loss, men's/women's health)
+  verified: true
+  source: lever-search
+- name: Rogo
+  ats: ashby
+  slug: rogo
+  stage: Series C
+  raised: $165M+
+  investors:
+  - Sequoia
+  - Thrive Capital
+  - Khosla Ventures
+  - Tiger Global
+  hq: New York, NY
+  nyc_office: true
+  what: AI agents for investment banks and investors
+  verified: true
+  source: ashby-search
+- name: Runway
+  ats: ashby
+  slug: runway-ml
+  stage: Series E
+  raised: ~$860M
+  investors:
+  - General Atlantic
+  - Nvidia
+  - Fidelity
+  - Adobe Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Generative video and world-model research company
+  verified: true
+  source: builtinnyc
+- name: Runwise
+  ats: greenhouse
+  slug: runwise
+  stage: Series B
+  raised: ~$79M
+  investors:
+  - Menlo Ventures
+  - Fifth Wall
+  - MassMutual Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI building heating/cooling controls that cut energy and emissions
+  verified: true
+  source: builtinnyc
+- name: Sandbar
+  ats: ashby
+  slug: sandbar
+  stage: Series A
+  raised: $36M
+  investors:
+  - Adjacent
+  - Kindred Ventures
+  - True Ventures
+  - Upfront
+  hq: New York, NY
+  nyc_office: true
+  what: Voice-AI wearable (Stream ring) from ex-CTRL-labs founders
+  verified: true
+  source: fastaijobs
+- name: Sandstone
+  ats: ashby
+  slug: sandstone
+  stage: Series A
+  raised: ~$40M
+  investors:
+  - Lightspeed
+  - Sequoia
+  - Mantis VC
+  hq: New York, NY
+  nyc_office: true
+  what: AI legal-ops platform for in-house legal teams
+  verified: true
+  source: fastaijobs
+- name: SeatGeek
+  ats: greenhouse
+  slug: seatgeek
+  stage: Series E
+  raised: ~$400M
+  investors:
+  - Accel
+  - TCV
+  - Wellington Management
+  hq: New York, NY
+  nyc_office: true
+  what: Mobile ticketing marketplace and primary-ticketing platform
+  verified: true
+  source: builtinnyc
+- name: Semafor
+  ats: greenhouse
+  slug: semafor
+  stage: Growth
+  raised: ~$75M+
+  investors: []
+  hq: New York, NY
+  nyc_office: true
+  what: Global news media company
+  verified: true
+  source: sector sweep
+- name: Shepherd
+  ats: ashby
+  slug: shepherd
+  stage: Series B
+  raised: $67M
+  investors:
+  - Intact Private Capital
+  - Spark Capital
+  - Costanoa
+  hq: San Francisco, CA
+  nyc_office: true
+  what: AI-native commercial insurance MGU for construction; NYC office
+  verified: true
+  source: fastaijobs
+- name: ShopMy
+  ats: greenhouse
+  slug: shopmy
+  stage: Series B
+  raised: $100M+
+  investors:
+  - Bessemer
+  - Inspired Capital
+  - AlleyCorp
+  hq: New York, NY
+  nyc_office: true
+  what: Creator-commerce / influencer affiliate platform
+  verified: false
+  source: Bessemer portfolio
+- name: Simon Data
+  ats: ashby
+  slug: simondata
+  stage: Series D
+  raised: ~$116M
+  investors:
+  - Macquarie Capital
+  - Polaris Partners
+  - .406 Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Warehouse-native customer data platform
+  verified: true
+  source: builtinnyc
+- name: Sixfold AI
+  ats: greenhouse
+  slug: sixfold
+  stage: Series A
+  raised: ~$20M (unverified)
+  investors:
+  - Bessemer
+  - Salesforce Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: AI agents for insurance underwriting
+  verified: false
+  source: sector sweep
+- name: Sleeper
+  ats: ashby
+  slug: sleeper
+  stage: Series B
+  raised: ~$60M
+  investors:
+  - a16z
+  - General Catalyst
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Fantasy sports and social gaming app; NYC office
+  verified: true
+  source: sector sweep
+- name: SmarterDx
+  ats: greenhouse
+  slug: smarterdx
+  stage: Series B
+  raised: $70M+
+  investors:
+  - Bessemer
+  - Transformation Capital
+  - Flare Capital
+  - Floodgate
+  hq: New York, NY
+  nyc_office: true
+  what: Clinical AI for hospital revenue integrity
+  verified: false
+  source: Bessemer portfolio
+- name: Snorkel AI
+  ats: greenhouse
+  slug: snorkelai
+  stage: Series D
+  raised: $237M
+  investors:
+  - Addition
+  - Greylock
+  - Lightspeed
+  - Prosperity7
+  hq: Redwood City, CA
+  nyc_office: true
+  what: AI data development / evaluation platform; NYC office
+  verified: true
+  source: fastaijobs
+- name: Socure
+  ats: ashby
+  slug: socure
+  stage: Series E+
+  raised: ~$900M
+  investors:
+  - Summit Partners
+  - Goldman Sachs Alternatives
+  - Accel
+  - Capital One Ventures
+  hq: Incline Village, NV
+  nyc_office: true
+  what: AI identity verification and fraud platform (RiskOS); major NYC hub
+  verified: true
+  source: fastaijobs
+- name: Spade
+  ats: ashby
+  slug: spade
+  stage: Series A/B
+  raised: ~$25M (unverified)
+  investors:
+  - Flourish Ventures
+  - a16z
+  - Gradient
+  hq: New York, NY
+  nyc_office: true
+  what: Real-time card-transaction enrichment and fraud intelligence
+  verified: false
+  source: sector sweep
+- name: Splice
+  ats: greenhouse
+  slug: splice
+  stage: Series D
+  raised: $160M+
+  investors:
+  - Union Square Ventures
+  - True Ventures
+  - Flybridge
+  - Goldman Sachs
+  - DN Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Music-creation sample marketplace and AI tools
+  verified: false
+  source: USV portfolio
+- name: Standard Bots
+  ats: ashby
+  slug: standardbots
+  stage: Series C
+  raised: ~$287M
+  investors:
+  - General Catalyst
+  - Amazon Industrial Innovation Fund
+  - Samsung Next
+  hq: Glen Cove, NY
+  nyc_office: true
+  what: AI-driven collaborative robot arms and US robot manufacturing; NYC office
+  verified: true
+  source: fastaijobs
+- name: Stensul
+  ats: ashby
+  slug: stensul
+  stage: Series B
+  raised: ~$40M
+  investors:
+  - USVP
+  - Capital One Ventures
+  - Javelin
+  hq: New York, NY
+  nyc_office: true
+  what: Email/landing-page creation platform for enterprise marketers
+  verified: true
+  source: sector sweep
+- name: Stepful
+  ats: ashby
+  slug: stepful
+  stage: Series B
+  raised: ~$45M
+  investors:
+  - Oak HC/FT
+  - Reach Capital
+  - AlleyCorp
+  hq: New York, NY
+  nyc_office: true
+  what: AI-powered healthcare job training
+  verified: true
+  source: sector sweep
+- name: Suno
+  ats: ashby
+  slug: suno
+  stage: Series C
+  raised: unverified (~$375M)
+  investors:
+  - Menlo Ventures
+  - Lightspeed
+  - NEA
+  - Matrix
+  hq: Cambridge, MA
+  nyc_office: true
+  what: Generative-AI music creation platform; large NYC office
+  verified: false
+  source: lead
+- name: Sunset
+  ats: ashby
+  slug: sunset
+  stage: Seed
+  raised: ~$7M
+  investors:
+  - Hustle Fund
+  - Weekend Fund
+  hq: Brooklyn, NY
+  nyc_office: true
+  what: Startup wind-down service expanding into de-identified enterprise data products
+  verified: false
+  source: fastaijobs
+- name: Synthesia
+  ats: ashby
+  slug: synthesia
+  stage: Series D
+  raised: ~$500M
+  investors:
+  - NEA
+  - Accel
+  - Kleiner Perkins
+  - GV
+  - NVentures
+  hq: London, UK
+  nyc_office: true
+  what: AI video avatars for enterprise training; NYC office
+  verified: true
+  source: sector sweep
+- name: Tabs
+  ats: ashby
+  slug: tabs
+  stage: Series B
+  raised: ~$80M
+  investors:
+  - Lightspeed
+  - General Catalyst
+  - Primary
+  hq: New York, NY
+  nyc_office: true
+  what: AI operating system for revenue / AR for finance teams
+  verified: true
+  source: sector sweep
+- name: Talkiatry
+  ats: ashby
+  slug: talkiatry
+  stage: Series D
+  raised: ~$455M
+  investors:
+  - Perceptive Advisors
+  - a16z
+  - Left Lane Capital
+  - Sofina
+  hq: New York, NY
+  nyc_office: true
+  what: In-network virtual psychiatry
+  verified: true
+  source: sector sweep
+- name: Tatari
+  ats: greenhouse
+  slug: tatari
+  stage: Series D
+  raised: unverified
+  investors:
+  - Silver Lake Waterman
+  - Industry Ventures
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Data-driven TV/CTV advertising measurement; NYC office
+  verified: false
+  source: sector sweep
+- name: Tennr
+  ats: ashby
+  slug: tennr
+  stage: Series C
+  raised: $160M+
+  investors:
+  - IVP
+  - Lightspeed
+  - a16z
+  - Foundation Capital
+  hq: New York, NY
+  nyc_office: true
+  what: AI automation of healthcare referral/fax workflows
+  verified: false
+  source: IVP/Lightspeed portfolio
+- name: Thatch
+  ats: greenhouse
+  slug: thatch
+  stage: Series B
+  raised: unverified (~$80M)
+  investors:
+  - Index
+  - a16z
+  - General Catalyst
+  hq: San Francisco, CA
+  nyc_office: true
+  what: ICHRA health-benefits platform letting employers give staff a budget to pick their own plan
+  verified: false
+  source: lead
+- name: The Farmer's Dog
+  ats: greenhouse
+  slug: thefarmersdog
+  stage: Series E
+  raised: ~$170M
+  investors:
+  - Insight Partners
+  - Forerunner
+  - Shasta Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Fresh, personalized dog-food subscription
+  verified: true
+  source: builtinnyc
+- name: Thread AI
+  ats: ashby
+  slug: thread-ai
+  stage: Series A
+  raised: $20M+
+  investors:
+  - Greycroft
+  - Index Ventures
+  - Scale Venture Partners
+  - Meritech
+  hq: New York, NY
+  nyc_office: true
+  what: Lemma, composable AI workflow/agent orchestration for enterprises
+  verified: true
+  source: fastaijobs
+- name: Tia
+  ats: greenhouse
+  slug: tia
+  stage: Series B
+  raised: ~$150M
+  investors:
+  - Lone Pine Capital
+  - Threshold Ventures
+  - Pivotal Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Hybrid virtual and in-clinic women's healthcare
+  verified: true
+  source: builtinnyc
+- name: Titan
+  ats: ashby
+  slug: titan
+  stage: Series B
+  raised: ~$75M
+  investors:
+  - a16z
+  - General Catalyst
+  - BoxGroup
+  hq: New York, NY
+  nyc_office: true
+  what: Mobile-first active asset manager / wealth app for retail investors
+  verified: true
+  source: builtinnyc
+- name: Torq
+  ats: greenhouse
+  slug: torq
+  stage: Series D
+  raised: $190M+
+  investors:
+  - Bessemer
+  - Insight Partners
+  - Greylock
+  - GGV
+  - Evolution Equity
+  hq: New York, NY
+  nyc_office: true
+  what: AI-driven security automation (hyperautomation SOC)
+  verified: false
+  source: Bessemer/Insight portfolio
+- name: Traba
+  ats: ashby
+  slug: traba
+  stage: Series B
+  raised: $60M+
+  investors:
+  - Khosla
+  - Founders Fund
+  - General Catalyst
+  - Addition
+  hq: New York, NY
+  nyc_office: true
+  what: Marketplace for light-industrial shift workers
+  verified: false
+  source: Khosla/GC portfolio
+- name: Traversal
+  ats: ashby
+  slug: traversal
+  stage: Series A
+  raised: $48M
+  investors:
+  - Sequoia
+  - Kleiner Perkins
+  - NFDG
+  hq: New York, NY
+  nyc_office: true
+  what: AI SRE agent that finds root causes of production incidents
+  verified: true
+  source: fastaijobs
+- name: Trumid
+  ats: greenhouse
+  slug: trumid
+  stage: Growth
+  raised: ~$500M (unverified)
+  investors:
+  - Point Break Capital
+  - Motive Partners
+  - Dragoneer
+  hq: New York, NY
+  nyc_office: true
+  what: Electronic corporate-bond trading platform
+  verified: false
+  source: sector sweep
+- name: Udio
+  ats: greenhouse
+  slug: udio
+  stage: Seed
+  raised: ~$10M (unverified)
+  investors:
+  - a16z
+  - UnitedMasters
+  hq: New York, NY
+  nyc_office: true
+  what: Generative AI music
+  verified: false
+  source: sector sweep
+- name: Uniswap Labs
+  ats: ashby
+  slug: uniswap
+  stage: Series B
+  raised: unverified (~$176M)
+  investors:
+  - a16z
+  - Paradigm
+  - Polychain
+  - Variant
+  hq: New York, NY
+  nyc_office: true
+  what: Core contributor to the Uniswap DEX protocol and wallet/products
+  verified: false
+  source: a16z portfolio
+- name: Unite Us
+  ats: greenhouse
+  slug: uniteus
+  stage: Series C
+  raised: ~$195M (unverified)
+  investors:
+  - ICONIQ
+  - Oak HC/FT
+  - Salesforce Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Social-care coordination network / SDoH data platform
+  verified: false
+  source: sector sweep
+- name: Valon
+  ats: ashby
+  slug: valon
+  stage: Series C
+  raised: ~$250M
+  investors:
+  - WestCap
+  - a16z
+  - Ribbit Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Tech-first mortgage servicing platform
+  verified: true
+  source: builtinnyc
+- name: Vercel
+  ats: greenhouse
+  slug: vercel
+  stage: Series F
+  raised: unverified (~$860M)
+  investors:
+  - Accel
+  - GIC
+  - CRV
+  - GV
+  hq: San Francisco, CA
+  nyc_office: true
+  what: Frontend cloud / Next.js platform
+  verified: false
+  source: Accel portfolio
+- name: Vestwell
+  ats: greenhouse
+  slug: vestwell
+  stage: Series E
+  raised: $660M
+  investors:
+  - Blue Owl Capital
+  - Sixth Street Growth
+  - Lightspeed
+  - Morgan Stanley
+  hq: New York, NY
+  nyc_office: true
+  what: Digital savings/retirement infrastructure (401k, 529, state auto-IRA)
+  verified: true
+  source: builtinnyc
+- name: Via
+  ats: greenhouse
+  slug: via
+  stage: Series G
+  raised: unverified (~$1B)
+  investors:
+  - Exor
+  - 83North
+  - Pitango
+  hq: New York, NY
+  nyc_office: true
+  what: Transit-tech / on-demand mobility software
+  verified: false
+  source: other
+- name: Vidmob
+  ats: ashby
+  slug: vidmob
+  stage: Series D
+  raised: ~$230M
+  investors:
+  - Shamrock Capital
+  - BuildGroup
+  hq: New York, NY
+  nyc_office: true
+  what: Creative-data / creative-effectiveness analytics for advertisers
+  verified: false
+  source: builtinnyc
+- name: Vise
+  ats: ashby
+  slug: vise
+  stage: Series C
+  raised: $125M+
+  investors:
+  - Ribbit
+  - Sequoia
+  - Founders Fund
+  hq: New York, NY
+  nyc_office: true
+  what: AI-driven portfolio management for financial advisors
+  verified: false
+  source: Ribbit portfolio
+- name: VTS
+  ats: greenhouse
+  slug: vts
+  stage: Series E
+  raised: ~$452M
+  investors:
+  - CBRE
+  - Brookfield Ventures
+  - Insight Partners
+  - Fifth Wall
+  hq: New York, NY
+  nyc_office: true
+  what: Commercial real estate leasing, tenant-experience and asset-management software
+  verified: true
+  source: builtinnyc
+- name: Wunderkind
+  ats: greenhouse
+  slug: wunderkind
+  stage: Series C
+  raised: ~$152M
+  investors:
+  - Neuberger Berman
+  - Battery Ventures
+  hq: New York, NY
+  nyc_office: true
+  what: Identity-based performance marketing (formerly BounceX)
+  verified: false
+  source: builtinnyc
+- name: YipitData
+  ats: greenhouse
+  slug: yipitdata
+  stage: Growth
+  raised: unverified (~$475M, 2021)
+  investors:
+  - Carlyle
+  - Norwest
+  hq: New York, NY
+  nyc_office: true
+  what: Alternative-data research for investors and corporates
+  verified: false
+  source: lead
+- name: Yotpo
+  ats: greenhouse
+  slug: yotpo
+  stage: Series F
+  raised: ~$436M
+  investors:
+  - Bessemer
+  - Tiger Global
+  - Shopify
+  - Vertex
+  hq: New York, NY
+  nyc_office: true
+  what: E-commerce reviews and loyalty platform (co-HQ Tel Aviv)
+  verified: true
+  source: builtinnyc
+- name: Zafran Security
+  ats: ashby
+  slug: zafran-security
+  stage: Series B
+  raised: unverified (~$70M)
+  investors:
+  - Sequoia
+  - Cyberstarts
+  - Insight
+  hq: New York, NY
+  nyc_office: true
+  what: Threat-exposure management / vulnerability prioritization
+  verified: false
+  source: Sequoia portfolio
+- name: Zip
+  ats: ashby
+  slug: zip
+  stage: Series D
+  raised: $371M
+  investors:
+  - BOND
+  - Y Combinator
+  - CRV
+  - DST Global
+  - Tiger Global
+  hq: San Francisco, CA
+  nyc_office: true
+  what: AI procurement orchestration / intake-to-pay platform; NYC office
+  verified: true
+  source: ashby-search
+- name: Zocdoc
+  ats: greenhouse
+  slug: zocdoc
+  stage: Series D
+  raised: ~$527M
+  investors:
+  - Founders Fund
+  - Baillie Gifford
+  - Atomico
+  hq: New York, NY
+  nyc_office: true
+  what: Online doctor-appointment booking marketplace
+  verified: true
+  source: jobspipe
+- name: Zola
+  ats: greenhouse
+  slug: zola
+  stage: Series D
+  raised: ~$140M
+  investors:
+  - Comcast Ventures
+  - Lightspeed
+  - Thrive Capital
+  hq: New York, NY
+  nyc_office: true
+  what: Wedding registry, website and planning marketplace
+  verified: true
+  source: builtinnyc
+
+# ── auto-discovered 2026-10-12 ──
+- name: Translucent
+  ats: greenhouse
+  slug: translucent
+  stage: Series A
+  raised: ~$34M total ($27M Series A, Mar 2026)
+  investors:
+  - GV
+  - NEA
+  - Virtue
+  - FPV Ventures
+  - Redesign Health
+  hq: New York, NY
+  what: AI for healthcare finance and revenue cycle; the roles found were AI engineering.
+  verified: true
+  source: discover 2026-10-12
+  nyc_office: true
+
+# ── auto-discovered 2026-10-13 ──
+- name: Thesis Care (formerly Trovo Health)
+  ats: greenhouse
+  slug: trovohealth
+  stage: Series A
+  raised: $45M Series A (about $60M total)
+  investors:
+  - Oak HC/FT
+  - CRV
+  hq: New York, NY
+  what: AI-powered clinical teams for healthcare; hiring AI/ML engineers in NYC
+  verified: true
+  source: discover 2026-10-13
+  nyc_office: true
