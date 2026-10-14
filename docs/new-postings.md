@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the roles first pu
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Wed Oct 14, 2026 — 1 new role (0 strong · 0 good · 0 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | ? | [Staff Data Scientist](https://job-boards.greenhouse.io/usenourish/jobs/5451468008) | Nourish | unverified<br><sub>funding unverified</sub> |  | Oct 13 |  |  |
+
 ## Mon Oct 12, 2026 — 116 new roles (16 strong · 33 good · 67 stretch)
 
 Full backfill of every open matching role (emailed as the first digest).
