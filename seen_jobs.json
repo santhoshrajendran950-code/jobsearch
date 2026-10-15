@@ -12,7 +12,7 @@
    "Khosla Ventures",
    "Elad Gil"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "SF Office",
    "NYC Office"
@@ -47,7 +47,7 @@
    "OpenAI Startup Fund",
    "NVentures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -80,7 +80,7 @@
    "Craft Ventures",
    "AlleyCorp"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY"
   ],
@@ -114,7 +114,7 @@
    "Bessemer",
    "Canapi"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City",
    "Alloy New York"
@@ -133,6 +133,86 @@
   "vc_rank": 0,
   "verified": true,
   "what": "Identity decisioning, fraud and AML platform for banks and fintechs",
+  "workplace": ""
+ },
+ "Altana|Senior Staff Machine Learning Engineer|https://job-boards.greenhouse.io/altanaai/jobs/8033832003": {
+  "already_in_pipeline": false,
+  "company": "Altana",
+  "emailed": true,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-10-15T12:01:35+00:00",
+  "gap": "LLM/agentic-heavy, 10+ yrs, B2B/gov",
+  "investors": [
+   "US Innovative Technology Fund",
+   "Activate Capital",
+   "GV",
+   "OMERS Ventures"
+  ],
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
+  "locations": [
+   "Boston, MA; Brooklyn, NY; San Francisco, CA; Washington, D.C.",
+   "Boston, MA",
+   "Brooklyn, NY",
+   "London, England",
+   "Remote - International",
+   "San Francisco, CA",
+   "Washington, D.C."
+  ],
+  "office": "",
+  "open": true,
+  "posted_at": "2026-10-14T16:31:48-04:00",
+  "raised": "$322M",
+  "rating": "Stretch",
+  "reason": "Agentic LLM systems, post-training (SFT/DPO/RL) and document understanding for trade compliance; little overlap with his tabular LTV/churn and experimentation work.",
+  "salary": "$250K\u2013$295K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Senior Staff Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/altanaai/jobs/8033832003",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI value-chain management / supply-chain intelligence platform",
+  "workplace": ""
+ },
+ "Altana|Staff Machine Learning Engineer|https://job-boards.greenhouse.io/altanaai/jobs/8033927003": {
+  "already_in_pipeline": false,
+  "company": "Altana",
+  "emailed": true,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-10-15T12:01:35+00:00",
+  "gap": "LLM/agentic-heavy, 8+ yrs, B2B/gov",
+  "investors": [
+   "US Innovative Technology Fund",
+   "Activate Capital",
+   "GV",
+   "OMERS Ventures"
+  ],
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
+  "locations": [
+   "Boston, MA; Brooklyn, NY; San Francisco, CA; Washington, D.C.",
+   "Boston, MA",
+   "Brooklyn, NY",
+   "London, England",
+   "Remote - International",
+   "San Francisco, CA",
+   "Washington, D.C."
+  ],
+  "office": "",
+  "open": true,
+  "posted_at": "2026-10-14T16:29:48-04:00",
+  "raised": "$322M",
+  "rating": "Stretch",
+  "reason": "Needs production LLM, RAG, agent and post-training experience on trade data; his production ML pipelines carry over, but the core work is LLM engineering.",
+  "salary": "$205K\u2013$240K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Staff Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/altanaai/jobs/8033927003",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI value-chain management / supply-chain intelligence platform",
   "workplace": ""
  },
  "Arlo|Machine Learning Engineer|https://jobs.ashbyhq.com/arlo/4acbaeb6-9057-4dd4-9537-8de5ec937dc2": {
@@ -173,7 +253,7 @@
   "first_seen": "2026-10-12T17:48:49+00:00",
   "gap": "health-claims underwriting domain",
   "investors": [],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -202,7 +282,7 @@
   "first_seen": "2026-10-13T23:09:25+00:00",
   "gap": "infra-heavy MLE; insurance underwriting; Spark/Databricks",
   "investors": [],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -236,7 +316,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "United States"
@@ -271,7 +351,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "New York, NY",
@@ -307,7 +387,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco, CA",
    "New York, NY",
@@ -343,7 +423,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco, CA",
    "New York, NY",
@@ -379,7 +459,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "New York, NY",
@@ -415,7 +495,7 @@
    "IVP",
    "CapitalG"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -448,7 +528,7 @@
    "NEA",
    "Salesforce Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, Hybrid",
    "New York"
@@ -481,7 +561,7 @@
    "Gil Capital",
    "Affinity Partners"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -514,7 +594,7 @@
    "DCM",
    "Hummingbird"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City (Hybrid)"
   ],
@@ -547,7 +627,7 @@
    "DCM",
    "Hummingbird"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City (Hybrid)",
    "San Francisco (Hybrid)"
@@ -621,7 +701,7 @@
    "BoxGroup",
    "Y Combinator"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -654,7 +734,7 @@
    "Adams Street",
    "RARE Capital"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "New York"
@@ -688,7 +768,7 @@
    "Y Combinator",
    "J2 Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York"
   ],
@@ -708,6 +788,39 @@
   "what": "Trust & safety operations platform for content moderation and abuse investigations",
   "workplace": "Hybrid"
  },
+ "Clair|Senior Applied Data Scientist|https://jobs.ashbyhq.com/clair/837b484a-80bd-4a73-a2ac-95548c303e9f": {
+  "already_in_pipeline": false,
+  "company": "Clair",
+  "emailed": true,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-10-15T12:01:35+00:00",
+  "gap": "requires credit-risk modeling experience",
+  "investors": [
+   "Upfront Ventures",
+   "Thrive Capital",
+   "Kairos HQ"
+  ],
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
+  "locations": [
+   "New York"
+  ],
+  "office": "Hybrid NYC (days not stated)",
+  "open": true,
+  "posted_at": "2026-10-14T19:07:50.138000+00:00",
+  "raised": "$68.7M",
+  "rating": "Good",
+  "reason": "Repayment prediction and production tabular ML on consumer transaction data match his LTV/churn modeling, drift monitoring and pipeline ownership at a Series B consumer fintech in NYC.",
+  "salary": "$190K - $200K",
+  "stage": "Series B",
+  "status": "",
+  "title": "Senior Applied Data Scientist",
+  "url": "https://jobs.ashbyhq.com/clair/837b484a-80bd-4a73-a2ac-95548c303e9f",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "Embedded earned wage access delivered through payroll/WFM platforms",
+  "workplace": "Hybrid"
+ },
  "Confido|Applied AI/ML Engineer|https://jobs.ashbyhq.com/confido/3a95d866-2e8f-432a-927d-8679386cefe2": {
   "already_in_pipeline": true,
   "company": "Confido",
@@ -723,7 +836,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -758,7 +871,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -793,7 +906,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -828,7 +941,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -861,7 +974,7 @@
    "General Catalyst",
    "Fuel Venture Capital"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "United States (Remote)",
    "New York"
@@ -896,7 +1009,7 @@
    "Lux",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -930,7 +1043,7 @@
    "Accel",
    "Coatue"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -965,7 +1078,7 @@
    "ICONIQ Growth",
    "CapitalG"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "United States, New York",
    "United States, New York"
@@ -999,7 +1112,7 @@
    "Shield Capital",
    "Felicis"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1033,7 +1146,7 @@
    "Capital One Growth Ventures",
    "Third Point"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY or Los Angeles, CA",
    "New York, NY"
@@ -1068,7 +1181,7 @@
    "Capital One Growth Ventures",
    "Third Point"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY or Los Angeles, CA",
    "New York, NY"
@@ -1101,7 +1214,7 @@
    "General Catalyst",
    "Left Lane Capital"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1133,7 +1246,7 @@
    "General Catalyst",
    "Left Lane Capital"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1166,7 +1279,7 @@
    "Point72 Ventures",
    "FinTech Collective"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1199,7 +1312,7 @@
    "Point72 Ventures",
    "FinTech Collective"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1228,7 +1341,7 @@
   "first_seen": "2026-10-12T17:48:49+00:00",
   "gap": "7+ yrs asked; analytics-engineering heavy; credit domain",
   "investors": [],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "New York, NY"
@@ -1258,7 +1371,7 @@
   "first_seen": "2026-10-12T17:48:49+00:00",
   "gap": "analytics/BI-leaning; GTM/account-mgmt focus",
   "investors": [],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "New York, NY"
@@ -1294,7 +1407,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -1330,7 +1443,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -1366,7 +1479,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -1400,7 +1513,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY; Boston, MA",
    "Boston",
@@ -1435,7 +1548,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY; Boston, MA",
    "Boston",
@@ -1470,7 +1583,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY; Boston, MA; San Francisco, CA; Raleigh-Durham, NC",
    "Boston",
@@ -1505,7 +1618,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Boston, MA; New York, NY",
    "Boston",
@@ -1540,7 +1653,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY; Boston, MA",
    "Boston",
@@ -1575,7 +1688,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -1609,7 +1722,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -1643,7 +1756,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -1677,7 +1790,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -1711,7 +1824,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -1730,6 +1843,40 @@
   "vc_rank": 3,
   "verified": true,
   "what": "Employer health benefit steering members to high-quality doctors using claims data",
+  "workplace": ""
+ },
+ "Goodfire|Machine Learning Engineer|https://job-boards.greenhouse.io/goodfire/jobs/5019847008": {
+  "already_in_pipeline": false,
+  "company": "Goodfire",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-10-15T12:01:35+00:00",
+  "gap": "DL/infra-heavy, research lab",
+  "investors": [
+   "Menlo Ventures",
+   "Lightspeed",
+   "Anthropic"
+  ],
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
+  "locations": [
+   "San Francisco, CA & New York, NY",
+   "San Francisco"
+  ],
+  "office": "",
+  "open": true,
+  "posted_at": "2025-12-04T16:17:59-05:00",
+  "raised": "unverified (sources conflict: $59M vs $200M+)",
+  "rating": "Stretch",
+  "reason": "Interpretability tooling and large-scale training infrastructure in PyTorch/Jax and distributed systems; his production ML experience is tabular, not frontier-model infra.",
+  "salary": "$200K\u2013$400K",
+  "stage": "unverified",
+  "status": "",
+  "title": "Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/goodfire/jobs/5019847008",
+  "vc_rank": 3,
+  "verified": false,
+  "what": "AI interpretability research lab building tools to understand and align models",
   "workplace": ""
  },
  "Haus|Staff Machine Learning Engineer - New York|https://jobs.ashbyhq.com/haus/3388c93e-3033-4a5b-9690-dcc6bb6a681c": {
@@ -1780,7 +1927,7 @@
    "Accel",
    "GV"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "San Francisco, CA",
@@ -1815,7 +1962,7 @@
    "Union Square Ventures",
    "Comcast Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, New York, United States",
    "New York Office"
@@ -1850,7 +1997,7 @@
    "Ribbit Capital",
    "Kleiner Perkins"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Remote",
    "New York City",
@@ -1886,7 +2033,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Remote"
@@ -1920,7 +2067,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -1956,7 +2103,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -1992,7 +2139,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -2028,7 +2175,7 @@
    "FirstMark",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, New York",
    "New York, NY"
@@ -2062,7 +2209,7 @@
    "FirstMark",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, New York",
    "New York, NY"
@@ -2097,7 +2244,7 @@
    "a16z",
    "Paradigm"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York Office"
   ],
@@ -2132,7 +2279,7 @@
    "General Catalyst",
    "Redpoint"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -2165,7 +2312,7 @@
    "Bain Capital Ventures",
    "Coatue"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, New York, United States",
    "New York, New York"
@@ -2199,7 +2346,7 @@
    "Bain Capital Ventures",
    "Coatue"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States",
    "London, UK",
@@ -2235,7 +2382,7 @@
    "General Catalyst",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY; Remote, US (Hub cities)",
    "New York, NY"
@@ -2267,7 +2414,7 @@
   "investors": [
    "AI x IA"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -2300,7 +2447,7 @@
    "Felicis",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -2335,7 +2482,7 @@
    "Insight",
    "Canapi"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -2370,7 +2517,7 @@
    "Insight",
    "Canapi"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -2405,7 +2552,7 @@
    "Sequoia",
    "Kleiner Perkins"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Union Square, New York City"
   ],
@@ -2438,7 +2585,7 @@
    "Redpoint",
    "Amplify Partners"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -2472,7 +2619,7 @@
    "Redpoint",
    "Amplify Partners"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -2506,7 +2653,7 @@
    "Fidelity",
    "EDBI"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Menlo Park, California, United States; New York, United States",
    "Menlo Park - Office",
@@ -2575,7 +2722,7 @@
    "Index",
    "J.P. Morgan Growth Equity"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "Headquarters"
@@ -2611,7 +2758,7 @@
    "QED",
    "Oak HC/FT"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, United States",
    "Remote - US"
@@ -2647,7 +2794,7 @@
    "Apollo",
    "Motive Partners"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York",
    "New York"
@@ -2681,7 +2828,7 @@
    "CRV",
    "S32"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -2716,7 +2863,7 @@
    "Script Capital",
    "Cadenza"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -2751,7 +2898,7 @@
    "Script Capital",
    "Cadenza"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Brooklyn"
   ],
@@ -2785,7 +2932,7 @@
    "Initialized",
    "Y Combinator"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -2818,7 +2965,7 @@
    "Afore Capital",
    "Pathlight Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -2852,7 +2999,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, United States",
    "New York"
@@ -2887,7 +3034,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, United States ",
    "New York"
@@ -2922,7 +3069,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, United States ",
    "New York"
@@ -2958,7 +3105,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City Office",
    "Seattle Office",
@@ -2995,7 +3142,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -3032,7 +3179,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -3069,7 +3216,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -3106,7 +3253,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City Office",
    "Seattle Office",
@@ -3143,7 +3290,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -3178,7 +3325,7 @@
    "AXA Venture Partners",
    "Bluestone Equity Partners"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -3213,7 +3360,7 @@
    "Dragonfly",
    "Norwest"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY",
    "Remote"
@@ -3248,7 +3395,7 @@
    "Dragonfly",
    "Norwest"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY"
   ],
@@ -3282,7 +3429,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY (HQ)",
    "San Francisco, CA"
@@ -3317,7 +3464,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY (HQ)",
    "San Francisco, CA",
@@ -3353,7 +3500,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY (HQ)",
    "Remote (US)"
@@ -3388,7 +3535,7 @@
    "True Ventures",
    "Upfront"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -3422,7 +3569,7 @@
    "True Ventures",
    "Upfront"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -3455,7 +3602,7 @@
    "Sequoia",
    "Mantis VC"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, New York"
   ],
@@ -3488,7 +3635,7 @@
    "TCV",
    "Wellington Management"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, New York",
    "United States"
@@ -3522,7 +3669,7 @@
    "Spark Capital",
    "Costanoa"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City",
    "San Francisco",
@@ -3558,7 +3705,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -3595,7 +3742,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hub - New York",
    "Hub - San Francisco",
@@ -3633,7 +3780,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hub - San Francisco",
    "Hub - Miami",
@@ -3670,7 +3817,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hub - San Francisco",
    "Hybrid - Seattle, WA",
@@ -3707,7 +3854,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hub - Miami",
    "Hub - San Francisco",
@@ -3744,7 +3891,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -3780,7 +3927,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -3817,7 +3964,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -3829,7 +3976,7 @@
   "raised": "~$900M",
   "rating": "Stretch",
   "reason": "Staff-level fraud signal work from device and network telemetry; his drift monitoring and holdout design help, but he has no adversarial-fraud background.",
-  "salary": "$191K - $230K",
+  "salary": "$210K - $250K",
   "stage": "Series E+",
   "status": "",
   "title": "Staff Data Scientist - Digital Intelligence",
@@ -3853,7 +4000,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hub - New York",
    "Hub - San Francisco"
@@ -3888,7 +4035,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - New York, NY",
@@ -3925,7 +4072,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "California - Remote",
    "Hub - San Francisco",
@@ -3963,7 +4110,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "California - Remote",
    "Hub - San Francisco",
@@ -4001,7 +4148,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -4035,7 +4182,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -4069,7 +4216,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -4101,7 +4248,7 @@
    "Hustle Fund",
    "Weekend Fund"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York"
   ],
@@ -4133,7 +4280,7 @@
    "Hustle Fund",
    "Weekend Fund"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York"
   ],
@@ -4167,7 +4314,7 @@
    "General Catalyst",
    "Addition"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -4201,7 +4348,7 @@
    "CRV",
    "GV"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "Hybrid - San Francisco, New York City",
    "Office - New York City",
@@ -4235,7 +4382,7 @@
    "Carlyle",
    "Norwest"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "US Remote",
    "New York City HQ"
@@ -4269,7 +4416,7 @@
    "Baillie Gifford",
    "Atomico"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY; Silicon Valley, CA; USA Remote",
    "New York"
@@ -4303,7 +4450,7 @@
    "Baillie Gifford",
    "Atomico"
   ],
-  "last_seen_open": "2026-10-14T12:02:38+00:00",
+  "last_seen_open": "2026-10-15T12:01:35+00:00",
   "locations": [
    "New York, NY; USA Remote",
    "New York"

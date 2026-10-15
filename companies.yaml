@@ -3004,3 +3004,55 @@
   verified: true
   source: discover 2026-10-13
   nyc_office: true
+
+# ── auto-discovered 2026-10-15 ──
+- name: Radical AI
+  ats: lever
+  slug: RadicalAI
+  stage: Seed
+  raised: $55M seed (Jul 2025)
+  investors:
+  - RTX Ventures
+  - AlleyCorp
+  - Eni Next
+  - Infinite Capital
+  - NVentures
+  hq: Brooklyn Navy Yard, New York, NY
+  what: AI-driven autonomous materials discovery lab, hiring computational scientists
+    and engineers.
+  verified: true
+  source: discover 2026-10-15
+  nyc_office: true
+- name: Teleskope
+  ats: ashby
+  slug: teleskope
+  stage: Series A
+  raised: $25M Series A (Nov 2025), $32.2M total
+  investors:
+  - M13
+  - Primary Venture Partners
+  - Lerer Hippeau
+  hq: New York, NY
+  what: 'Agentic data security platform that finds, classifies and remediates sensitive
+    data using fine-tuned small language models. The funding announcement says they
+    are hiring data science roles. The Ashby slug is a guess: a job aggregator labelled
+    a Teleskope listing as Ashby-sourced, but I did not find the board URL.'
+  verified: false
+  source: discover 2026-10-15
+  nyc_office: true
+- name: Goodfire
+  ats: greenhouse
+  slug: goodfire
+  stage: unverified
+  raised: 'unverified (sources conflict: $59M vs $200M+)'
+  investors:
+  - Menlo Ventures
+  - Lightspeed
+  - Anthropic
+  hq: San Francisco, CA (also lists New York roles)
+  what: AI interpretability research company hiring ML engineers in SF and NYC. Its
+    HQ is SF, so the NYC office is only inferred from job listings. The Greenhouse
+    slug comes from one result URL, job-boards.greenhouse.io/goodfire.
+  verified: false
+  source: discover 2026-10-15
+  nyc_office: true

@@ -1,0 +1,181 @@
+[
+ {
+  "id": "83f5105841",
+  "key": "Altana|Senior Staff Machine Learning Engineer|https://job-boards.greenhouse.io/altanaai/jobs/8033832003",
+  "company": "Altana",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$322M",
+   "investors": [
+    "US Innovative Technology Fund",
+    "Activate Capital",
+    "GV",
+    "OMERS Ventures"
+   ],
+   "what": "AI value-chain management / supply-chain intelligence platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Senior Staff Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/altanaai/jobs/8033832003",
+  "locations": [
+   "Boston, MA; Brooklyn, NY; San Francisco, CA; Washington, D.C.",
+   "Boston, MA",
+   "Brooklyn, NY",
+   "London, England",
+   "Remote - International",
+   "San Francisco, CA",
+   "Washington, D.C."
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-14T16:31:48-04:00",
+  "salary": "$250K–$295K",
+  "department": "Machine Learning",
+  "degree_mention": true,
+  "description": "Altana is the network for trusted trade. Our AI-powered product network empowers governments and businesses to build a more resilient and secure global economy while keeping trade flowing.\n The Opportunity at Altana\n We're looking for a Senior Staff Machine Learning Engineer to lead the AI behind Altana Nexus, our agentic platform for global trade. You'll work on a continuous stream of public and proprietary trade data (shipments, customs filings, trade documents), and build the models and AI agents that turn it into real-time decisions on risk, compliance and enforcement for governments and the world's largest companies.\n &nbsp;\n Your Responsibilities&nbsp;\n Drive the technical direction for agentic systems. Define the architecture and roadmap for the models and agentic systems that process trade data as it arrives (shipments, customs declarations, invoices, bills of lading) and turn it into risk, classification and compliance decisions in real time.\n Build the pipeline from ingestion to decision. Lead the design of reliable, cost-efficient systems for ingestion, document understanding, entity resolution, inference and routing across models, at the scale of global trade.\n Adapt models to trade. Use analyst feedback, production outcomes and agent traces to fine-tune and post-train models (SFT, DPO, RL with domain graders) where it measurably beats prompting, and keep every model improving over time.\n Design the observability and feedback stack. Build the evals, tracing and feedback loops that decide what ships and catch regressions in production.\n Lead beyond your team. Mentor senior engineers, raise the technical bar across Engineering, and help shape how we hire and level ML talent.\n Shape the product and the business. Work with software engineers, data scientists, product managers and customers to generate new business ideas and turn ambiguous problems into shipped capabilities.\n About You\n BS/MS in Computer Science, Machine Learning, or a related field, or equivalent experience\n 10+ years building and shipping ML systems in production, with a proven track record of delivering product-oriented ML solutions, including recent work on LLM-powered products\n Deep expertise in PyTorch and the modern Python ML stack (Hugging Face, scikit-learn, NumPy, Pandas/Polars)\n Hands-on experience building production LLM applications: retrieval-augmented generation (RAG), tool/function calling, structured outputs, and agentic workflows\n You've shipped agentic systems in production and know their failure modes: tool use, planning, state, recovery and human-in-the-loop\n Experience post-training or adapting LLMs (SFT, DPO, RLHF/RLAIF, reward modeling) for a production use case\n Rigorous about evaluation: you've built eval suites, golden datasets and LLM-as-judge pipelines\n Sound judgment on when to use a frontier model API, a fine-tuned open-weight model, or a classical ML model, balancing cost, latency, and accuracy\n Senior Staff-level technical leadership: you set architecture direction across teams, mentor engineers, and turn ambiguous problems into roadmaps\n Passionate about applying SOTA techniques to real-world problems, with a willingness to get your hands dirty in the data and domain to achieve measurable outcomes\n You care deeply about engineering excellence, supportability and knowledge-sharing\n You have strong written and verbal communication skills\n Heavy user of AI coding tools (Cursor, Claude Code) in your daily workflow\n Nice to have, but ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "83f5105841",
+   "rating": "Stretch",
+   "reason": "Agentic LLM systems, post-training (SFT/DPO/RL) and document understanding for trade compliance; little overlap with his tabular LTV/churn and experimentation work.",
+   "gap": "LLM/agentic-heavy, 10+ yrs, B2B/gov",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI value-chain management / supply-chain intelligence platform"
+  }
+ },
+ {
+  "id": "6db1e1fe52",
+  "key": "Altana|Staff Machine Learning Engineer|https://job-boards.greenhouse.io/altanaai/jobs/8033927003",
+  "company": "Altana",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$322M",
+   "investors": [
+    "US Innovative Technology Fund",
+    "Activate Capital",
+    "GV",
+    "OMERS Ventures"
+   ],
+   "what": "AI value-chain management / supply-chain intelligence platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Staff Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/altanaai/jobs/8033927003",
+  "locations": [
+   "Boston, MA; Brooklyn, NY; San Francisco, CA; Washington, D.C.",
+   "Boston, MA",
+   "Brooklyn, NY",
+   "London, England",
+   "Remote - International",
+   "San Francisco, CA",
+   "Washington, D.C."
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-14T16:29:48-04:00",
+  "salary": "$205K–$240K",
+  "department": "Machine Learning",
+  "degree_mention": true,
+  "description": "Altana is the network for trusted trade. Our AI-powered product network empowers governments and businesses to build a more resilient and secure global economy while keeping trade flowing.\n The Opportunity at Altana\n We're looking for a Senior Staff Machine Learning Engineer to lead the AI behind Altana Nexus, our agentic platform for global trade. You'll work on a continuous stream of public and proprietary trade data (shipments, customs filings, trade documents), and build the models and AI agents that turn it into real-time decisions on risk, compliance and enforcement for governments and the world's largest companies.\n Your Responsibilities&nbsp;\n Drive the technical direction for agentic systems. Define the architecture and roadmap for the models and agentic systems that process trade data as it arrives (shipments, customs declarations, invoices, bills of lading) and turn it into risk, classification and compliance decisions in real time.\n Build the pipeline from ingestion to decision. Lead the design of reliable, cost-efficient systems for ingestion, document understanding, entity resolution, inference and routing across models, at the scale of global trade.\n Adapt models to trade. Use analyst feedback, production outcomes and agent traces to fine-tune and post-train models (SFT, DPO, RL with domain graders) where it measurably beats prompting, and keep every model improving over time.\n Design the observability and feedback stack. Build the evals, tracing and feedback loops that decide what ships and catch regressions in production.\n Lead beyond your team. Mentor senior engineers, raise the technical bar across Engineering, and help shape how we hire and level ML talent.\n Shape the product and the business. Work with software engineers, data scientists, product managers and customers to generate new business ideas and turn ambiguous problems into shipped capabilities.\n About You\n BS/MS in Computer Science, Machine Learning, or a related field, or equivalent experience\n 8+ years building and shipping ML systems in production, with a proven track record of delivering product-oriented ML solutions, including recent work on LLM-powered products\n Deep expertise in PyTorch and the modern Python ML stack (Hugging Face, scikit-learn, NumPy, Pandas/Polars)\n Hands-on experience building production LLM applications: retrieval-augmented generation (RAG), tool/function calling, structured outputs, and agentic workflows\n You've shipped agentic systems in production and know their failure modes: tool use, planning, state, recovery and human-in-the-loop\n Experience post-training or adapting LLMs (SFT, DPO, RLHF/RLAIF, reward modeling) for a production use case\n Rigorous about evaluation: you've built eval suites, golden datasets and LLM-as-judge pipelines\n Sound judgment on when to use a frontier model API, a fine-tuned open-weight model, or a classical ML model, balancing cost, latency, and accuracy\n Passionate about applying SOTA techniques to real-world problems, with a willingness to get your hands dirty in the data and domain to achieve measurable outcomes\n You care deeply about engineering excellence, supportability and knowledge-sharing\n You have strong written and verbal communication skills\n Heavy user of AI coding tools (Cursor, Claude Code) in your daily workflow\n Nice to have, but not required \n Building multi-agent systems and agent tooling (e.g., LangGraph)\n Hybrid retrieval: vector search, re-rankers, and embedding fine-tuning\n Vis",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "6db1e1fe52",
+   "rating": "Stretch",
+   "reason": "Needs production LLM, RAG, agent and post-training experience on trade data; his production ML pipelines carry over, but the core work is LLM engineering.",
+   "gap": "LLM/agentic-heavy, 8+ yrs, B2B/gov",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI value-chain management / supply-chain intelligence platform"
+  }
+ },
+ {
+  "id": "2717e93a47",
+  "key": "Clair|Senior Applied Data Scientist|https://jobs.ashbyhq.com/clair/837b484a-80bd-4a73-a2ac-95548c303e9f",
+  "company": "Clair",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "$68.7M",
+   "investors": [
+    "Upfront Ventures",
+    "Thrive Capital",
+    "Kairos HQ"
+   ],
+   "what": "Embedded earned wage access delivered through payroll/WFM platforms",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Senior Applied Data Scientist",
+  "url": "https://jobs.ashbyhq.com/clair/837b484a-80bd-4a73-a2ac-95548c303e9f",
+  "locations": [
+   "New York"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-10-14T19:07:50.138000+00:00",
+  "salary": "$190K - $200K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "ABOUT CLAIR\n\nIf you can send your friends money in seconds, why does it still take your employer two weeks to send your paycheck?\n\nAt Clair, we are on a mission to create financial freedom for America's workers by giving them a digital banking platform that allows them to get paid as soon as they clock out of work. But we're not just another digital bank or on-demand pay provider. We meet Americans at their place of work by embedding our products within the scheduling, workforce management, and payroll apps they already use every day.\n\nLearn more about us at getclair.com/about http://getclair.com/about\n\n\n\n\nABOUT THE ROLE\n\nAs an Applied Data Scientist on Clair’s Data Science team, you’ll be responsible for developing and maintaining the next generation of credit models and predictive systems that power Clair’s financial products. You’ll shape how millions of hourly workers access affordable credit, leveraging cutting-edge data science to assess risk, predict repayment, and optimize credit decisions.\n\nWe’re looking for someone who thrives at the intersection of data science, machine learning, and fintech, and who’s excited to translate messy, real-world data into clear, actionable intelligence. This role blends credit modeling with feature engineering — from designing new model features (including predictive features) based on user transaction data to deploying and monitoring production-ready ML models that drive critical product decisions.\n\nTo succeed, you’ll need a deep technical foundation in machine learning and statistical modeling, hands-on experience in model deployment, and strong communication skills to collaborate with engineers, product managers, and risk teams.\n\n\n\n\nKEY RESPONSIBILITIES\n\n - Develop and maintain credit risk and repayment models that directly power Clair’s underwriting and decision systems.\n\n - Design and engineer predictive features using transaction-level data, including the prediction of user income flows, spending, and repayment behaviors.\n\n - Collaborate with engineering teams to deploy, monitor, and optimize models in production environments using AWS and Snowflake ML Platform.\n\n - Build prototypes of new modeling methodologies and present them to stakeholders for evaluation and feedback.\n\n - Investigate and analyze credit performance, identifying root causes of model drift or unexpected repayment behavior.\n\n - Partner cross-functionally with product, risk, and engineering teams to turn data insights into product improvements and credit strategy refinements.\n\n - Communicate technical concepts clearly to both technical and non-technical audiences.\n\n - Stay current on best practices and emerging techniques in credit modeling, explainable AI, and financial ML systems.\n\n\n\n\nMINIMUM QUALIFICATIONS\n\n - 5+ years of professional experience in data science and machine learning.\n\n - Proven track record of leading end-to-end data science projects — from research and model development to deployment and monitoring.\n\n - Experience building and productionizing credit or risk assessment models.\n\n - Strong proficiency in Python and familiarity with modern ML libraries (TensorFlow, PyTorch, XGBoost, etc.).\n\n - Strong command of SQL and experience working with large transactional and time-series datasets.\n\n - Strong communication skills and ability to translate complex findings into actionable insights.\n\n - Experience working with cross-functional teams in a fast-paced production environment.\n\n\n\n\nPREFERRED QUALIFICATIONS\n\n - E",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "2717e93a47",
+   "rating": "Good",
+   "reason": "Repayment prediction and production tabular ML on consumer transaction data match his LTV/churn modeling, drift monitoring and pipeline ownership at a Series B consumer fintech in NYC.",
+   "gap": "requires credit-risk modeling experience",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Embedded earned wage access delivered through payroll/WFM platforms"
+  }
+ },
+ {
+  "id": "2c2c4f3234",
+  "key": "Goodfire|Machine Learning Engineer|https://job-boards.greenhouse.io/goodfire/jobs/5019847008",
+  "company": "Goodfire",
+  "company_meta": {
+   "stage": "unverified",
+   "raised": "unverified (sources conflict: $59M vs $200M+)",
+   "investors": [
+    "Menlo Ventures",
+    "Lightspeed",
+    "Anthropic"
+   ],
+   "what": "AI interpretability research company hiring ML engineers in SF and NYC. Its HQ is SF, so the NYC office is only inferred from job listings. The Greenhouse slug comes from one result URL, job-boards.greenhouse.io/goodfire.",
+   "verified": false,
+   "hq": "San Francisco, CA (also lists New York roles)"
+  },
+  "vc_rank": 3,
+  "title": "Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/goodfire/jobs/5019847008",
+  "locations": [
+   "San Francisco, CA & New York, NY",
+   "San Francisco"
+  ],
+  "workplace": "",
+  "posted_at": "2025-12-04T16:17:59-05:00",
+  "salary": "$200K–$400K",
+  "department": "Research and Development",
+  "degree_mention": false,
+  "description": "About Goodfire \n Goodfire is an AI interpretability research lab. We build interpretability agents and infrastructure to understand, monitor, and align AI models. We believe that AI is the most consequential technology of our time. Yet AI models are trained by trial and error today, with limited understanding of what drives their behavior. Our goal is to advance the research and technology needed to fully understand and align AI so humanity can trust superintelligence. Goodfire is a public benefit corporation founded by researchers who helped pioneer the field of interpretability at OpenAI and Google DeepMind. We are headquartered in San Francisco and have raised over $200M from leading investors including Lightspeed, Menlo, and B Capital.\n About the role \n We’re looking for Machine Learning Engineers to help build our platform for training, evaluating, and deploying interpretable AI systems at scale. You’ll play a central role in building our core technology, from training and eval tooling to product features, to achieve our mission of understanding and intentionally designing AIs.\n Where you might contribute: \n Interpretability tools – Building the tools and infrastructure to support understanding and intentional design of models at industry scale.\n Training infrastructure – Extending and supporting our training infrastructure for large training runs.\n Product – Turning state of the art interpretability research into robust, usable product features.\n We'll work with you to determine the team that best aligns with your strengths.\n Key responsibilities: \n Turn cutting edge interpretability research into production ready tools.\n Optimize pipelines and infrastructure for frontier model interpretability, training, and inference.\n Integrate new machine learning workflows and pipelines into our product and deploy to customers.\n Ensure system reliability, reproducibility, and performance.\n What you’ll bring\n Required experience \n 5+ years of experience in ML infra, research engineering, or systems programming.\n Comfort working across research and engineering boundaries.\n Expertise in Python, PyTorch or Jax, and distributed systems.\n Experience deploying and maintaining ML systems at scale.\n You care about understanding how models work internally and using that to make them more reliable and useful in the real world.\n Preferred qualifications \n Open-source ML infra contributions.\n Startup or frontier lab experience in fast-moving teams.\n Our values\n Goodfire is looking for individuals who embody our values and share our deep commitment to making interpretability accessible. We are building a team first and foremost.\n Put mission and team first \n All we do is in service of our mission. We trust each other, deeply care about the success of the organization, and choose to put our team above ourselves.\n Improve constantly \n We are constantly looking to improve every piece of the business. We proactively critique ourselves and others in a kind and thoughtful way that translates to practical improvements in the organization. We are pragmatic and consistently implement the obvious fixes that work.\n Take ownership and initiative \n There are no bystanders here. We proactively identify problems and take full responsibility over getting a strong result. We are self-driven, own our mistakes, and feel deep responsibility over what we’re building.\n Action today \n We have a small amount of time to do something incredibly hard and meaningful. The pace and int",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "2c2c4f3234",
+   "rating": "Stretch",
+   "reason": "Interpretability tooling and large-scale training infrastructure in PyTorch/Jax and distributed systems; his production ML experience is tabular, not frontier-model infra.",
+   "gap": "DL/infra-heavy, research lab",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI interpretability research lab building tools to understand and align models"
+  }
+ }
+]

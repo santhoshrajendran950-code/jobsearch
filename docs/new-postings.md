@@ -4,6 +4,14 @@ Every morning `jobsearch.py --daily` adds a section here with the roles first pu
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Thu Oct 15, 2026 — 3 new roles (0 strong · 0 good · 0 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | ? | [Senior Staff Machine Learning Engineer](https://job-boards.greenhouse.io/altanaai/jobs/8033832003) | Altana | unverified<br><sub>funding unverified</sub> |  | Oct 14 | $250K–$295K |  |
+| 2 | ? | [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/altanaai/jobs/8033927003) | Altana | unverified<br><sub>funding unverified</sub> |  | Oct 14 | $205K–$240K |  |
+| 3 | ? | [Senior Applied Data Scientist](https://jobs.ashbyhq.com/clair/837b484a-80bd-4a73-a2ac-95548c303e9f) | Clair | unverified<br><sub>funding unverified</sub> | Hybrid | Oct 14 | $190K - $200K |  |
+
 ## Wed Oct 14, 2026 — 1 new role (0 strong · 0 good · 0 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
