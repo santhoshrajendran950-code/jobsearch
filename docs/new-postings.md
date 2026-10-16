@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the roles first pu
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Fri Oct 16, 2026 — 1 new role (0 strong · 0 good · 0 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | ? | [Senior ML Ops Engineer](https://jobs.ashbyhq.com/confido/c77fe2ec-51d1-47ea-b616-b4e477a13696) | Confido 🔁 | unverified<br><sub>funding unverified</sub> | OnSite | Oct 15 | $210K - $300K |  |
+
 ## Thu Oct 15, 2026 — 3 new roles (0 strong · 0 good · 0 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

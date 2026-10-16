@@ -1,0 +1,45 @@
+[
+ {
+  "id": "84a8725512",
+  "key": "Confido|Senior ML Ops Engineer|https://jobs.ashbyhq.com/confido/c77fe2ec-51d1-47ea-b616-b4e477a13696",
+  "company": "Confido",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "$75M (incl. $55M Series B led by Insight, per posting)",
+   "investors": [
+    "Insight Partners",
+    "Footwork",
+    "Y Combinator",
+    "Watchfire",
+    "Boulder Food Group"
+   ],
+   "what": "AI financial-operations platform for CPG brands (deductions, trade promo, sales forecasting)",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Senior ML Ops Engineer",
+  "url": "https://jobs.ashbyhq.com/confido/c77fe2ec-51d1-47ea-b616-b4e477a13696",
+  "locations": [
+   "NYC Office"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-10-15T19:13:48.752000+00:00",
+  "salary": "$210K - $300K",
+  "department": "Product & Technology",
+  "degree_mention": false,
+  "description": "The brands on your kitchen shelf are run by people doing extraordinary work that nobody sees. \n\nWe're building the platform they run on, and a brand they'll be proud to be part of.\n\nConfido is the AI operating system that runs cash application, deductions, trade and planning in one place for CPG brands. That means Finance, Sales, and Ops finally work on the same number. \n\nWe’re trusted by 250+ brands managing $30B+ in revenue, including Daisy, OLIPOP, Simple Mills, Idahoan, and more. We've achieved best-in-class growth and recently raised a $55M Series B led by Insight Partners to accelerate our momentum.\n\nIf you want your work on shelves everywhere — and outsized ownership while you build — we'd love to meet you.\n\n\n\n\nTHE ROLE\n\nBe the first dedicated owner of Confido's ML platform. Our AI/ML team already ships document-understanding, forecasting, and agentic systems into production — on infrastructure we've stood up by hand. You'll own that layer: the pipelines, serving, and cloud foundation that turn models and agents into reliable, cost-efficient production systems, at the scale of hundreds of thousands of documents and heavy LLM/VLM workloads.\n\n\n\nLocation: New York, NY (Relocation supported)\n\n\n\nWHAT YOU'LL DO\n\n - Own ML pipelines end to end — experimentation to production — and the infrastructure behind training, inference, and agentic workloads\n\n - Give the AI/ML team a paved road: reproducible environments and fast paths from prototype to production, so they can try new models and agents without fighting the infra\n\n - Stand up the cloud foundation as Infrastructure as Code and the CI/CD that ships ML safely\n\n - Serve and optimize inference and forecasting workloads — latency, throughput, and cost — and the data streams feeding them (e.g. turning a heavy synchronous model call into an async, parallelized one)\n\n - Own the data interface with data engineering: serve the right data to models and agents, and write their outputs back into the platform's data systems for the rest of Confido to use\n\n - Make reliability, observability, security, and privacy the default — and keep model and agent quality measurable in production through online evals and human-in-the-loop review, not just uptime\n\n\n\nWHAT WE'RE LOOKING FOR\n\n\nRequired\n\n - 5+ years in MLOps, ML platform, AI infrastructure, or platform engineering — on production ML systems, not pipelines on paper\n\n - You live at the seam of software and infrastructure: equally at home writing production code and standing up cloud infra.\n\n - You've driven a real pipeline end to end and can walk through it: the architecture, the security and cost trade-offs, and what you'd change\n\n - Deep cloud infrastructure understanding, distributed data systems, and IaC — you can boot an environment from scratch, wire CI/CD, and run containerized workloads in production without hand-holding\n\n - Strong Python and comfort in a production app codebase (Ruby, Java) monitoring, security, and cost are instincts, not afterthoughts\n\n - High ownership in a fast-moving startup, and experience productionizing what research/AI teams build\n\n\n\nNice to have\n\n - LLMOps tooling — tracing, prompt/version management, eval harnesses\n\n - Inference optimization (vLLM, ONNX, TensorRT) and GPU / spot-instance economics\n\n - ML platform and orchestration tooling (MLflow, BentoML, Ray, Airflow)\n\n - Large-scale data systems (Snowflake, Kafka) and vector databases\n\n - Managed ML services (Bedrock, SageMaker, Vertex AI)\n\n - Multimodal or ge",
+  "already_in_pipeline": true,
+  "score": {
+   "id": "84a8725512",
+   "rating": "Stretch",
+   "reason": "He runs 10 production pipelines with Docker/Kubernetes at PrizePicks, but this role is pure ML platform work: IaC, serving, and LLM/VLM inference optimization.",
+   "gap": "infra-heavy MLOps, LLM/VLM serving",
+   "office": "In-person NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI financial-operations platform for CPG brands (deductions, trade promo, sales forecasting)"
+  }
+ }
+]
