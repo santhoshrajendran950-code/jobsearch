@@ -10,8 +10,21 @@ with `claude -p`, renders an HTML digest and emails it via the Gmail MCP tool.
 - `seen_jobs.json` — roles already emailed (key: company|title|url), updated only after a successful send
 - `run_daily.sh` + `com.santhosh.jobsearch.plist` — launchd job, 08:00 America/New_York
 - `runs/`, `digests/` — per-run candidates, scored JSON, subject line and rendered HTML
-- **`docs/new-postings.md`** — one dated section per morning with the newly published roles (newest first)
-- **`docs/top-100.md`** — the 100 best-fit roles that are still live on the boards, rebuilt every morning
+- **`docs/new-postings.md`** — one dated section per morning with the newly published DS/ML roles (newest first)
+- **`docs/top-100.md`** — the 100 best-fit DS/ML roles that are still live on the boards, rebuilt every morning
+- **`docs/ai-fde-new-postings.md`** / **`docs/ai-fde-top-100.md`** — the same two files for the second track
+
+## Two tracks
+
+Every title is routed to one track by regex (`track_of()`), scored with that track's rubric in `profile.md`,
+and written to that track's docs. The daily email carries both, in separate sections.
+
+- `ds` — Data Scientist / ML Engineer / Applied Scientist / decision, marketing, growth science.
+- `ai` — Forward Deployed Engineer, Deployment Strategist, AI Engineer, Applied AI, AI Solutions Engineer.
+  Pure SWE titles (full-stack, backend, platform, infra, MTS), research, sales engineering and
+  domain-expert FDE roles (banker, investor, lawyer) are filtered out; the scorer excludes what slips through.
+
+`--track ds|ai` restricts a run to one track (used for the one-off AI backfill on 2026-10-16).
 
 ## Marking roles
 

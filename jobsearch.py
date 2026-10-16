@@ -100,19 +100,52 @@ TITLE_INCLUDE = re.compile(
     """,
     re.I | re.X,
 )
-TITLE_EXCLUDE = re.compile(
-    r"""
+_COMMON_EXCLUDE = r"""
     \bintern(ship)?\b | \bco-?op\b | new\s*grad | early\s*career | university | campus |
-    \banalyst\b | business\s*intelligence | \bbi\b | analytics\s*engineer |
     \bdirector\b | head\s+of | \bvp\b | vice\s*president | \bchief\b | \bcto\b | \bmanager\b |
     \bcontract(or)?\b | \btemp(orary)?\b | part[-\s]*time | fellow | apprentice |
-    \brecruit | sales\s*engineer | solutions?\s*engineer | customer\s*success |
+    \brecruit | customer\s*success | security | product\s*marketing | \bleader\b | expression\s*of\s*interest
+"""
+TITLE_EXCLUDE = re.compile(
+    _COMMON_EXCLUDE + r"""|
+    \banalyst\b | business\s*intelligence | \bbi\b | analytics\s*engineer |
+    sales\s*engineer | solutions?\s*engineer |
     data\s*engineer | platform | infrastructure | \binfra\b | devops | mlops | operations\s*engineer |
-    systems\s*engineer | backend\s*engineer | research\s*scientist | research\s*engineer | security |
-    value\s*engineer | product\s*marketing | \bleader\b | expression\s*of\s*interest
+    systems\s*engineer | backend\s*engineer | research\s*scientist | research\s*engineer |
+    value\s*engineer
     """,
     re.I | re.X,
 )
+
+# ── second track: forward-deployed / AI engineering (applied, customer-facing; not pure SWE) ────
+AI_INCLUDE = re.compile(
+    r"""
+    forward[-\s]*deploy | \bfde\b | deployment\s*strateg |
+    \bai\s*engineer | (gen|generative)\s*ai\s*engineer | \bllm\s*engineer | \bagent\s*engineer |
+    applied\s*ai | \bai\s*solutions? | \bai\s*(specialist|strategist|consultant|deployment|implementation|integration) |
+    solutions?\s*(engineer|architect).*\b(ai|ml|llm|machine\s*learning)\b |
+    \b(ai|ml|llm|machine\s*learning)\b.*solutions?\s*(engineer|architect)
+    """,
+    re.I | re.X,
+)
+AI_EXCLUDE = re.compile(
+    _COMMON_EXCLUDE + r"""|
+    full[-\s]*stack | front[-\s]*end | back[-\s]*end | software\s*engineer | \bswe\b |
+    infrastructure | \binfra\b | platform | devops | mlops | \bsre\b | site\s*reliability |
+    research | member\s*of\s*technical\s*staff | \bmts\b | compiler | kernel | \bgpu\b | distributed\s*systems |
+    sales\s*engineer | account\s*(executive|manager) | support\s*engineer | \bmobile\b | \bios\b | android |
+    embedded | firmware | \banalyst\b | data\s*engineer |
+    \bbanker\b | \binvestor\b | \blawyer\b | attorney | designer | sales\s*ai
+    """,
+    re.I | re.X,
+)
+TRACKS = {
+    "ds": dict(include=TITLE_INCLUDE, exclude=TITLE_EXCLUDE, label="NYC DS", top=DOCS / "top-100.md",
+               new=DOCS / "new-postings.md", heading="Data science & ML roles"),
+    "ai": dict(include=AI_INCLUDE, exclude=AI_EXCLUDE, label="NYC AI/FDE", top=DOCS / "ai-fde-top-100.md",
+               new=DOCS / "ai-fde-new-postings.md", heading="Forward-deployed & AI engineering roles"),
+}
+TRACK_ORDER = ["ds", "ai"]
 NYC_RE = re.compile(r"new\s*york|\bnyc\b|\bny\b|brooklyn|manhattan", re.I)
 REMOTE_RE = re.compile(r"remote|anywhere|distributed|work from home|\bwfh\b", re.I)
 HYBRID_RE = re.compile(r"hybrid|in[- ]office|in[- ]person|on-?site|days?\s+(a|per)\s+week", re.I)
@@ -303,12 +336,18 @@ def nyc_eligible(job):
     return True, "ok"
 
 
+def track_of(title):
+    """'ai' for forward-deployed / AI-engineering titles, 'ds' for data-science / ML titles, else None.
+    AI wins when both match (e.g. 'Forward Deployed Machine Learning Engineer')."""
+    for t in ("ai", "ds"):
+        r = TRACKS[t]
+        if r["include"].search(title) and not r["exclude"].search(title):
+            return t
+    return None
+
+
 def title_ok(title):
-    if not TITLE_INCLUDE.search(title):
-        return False
-    if TITLE_EXCLUDE.search(title):
-        return False
-    return True
+    return track_of(title) is not None
 
 
 def employment_ok(job):
@@ -362,10 +401,10 @@ def vc_rank(c):
 
 
 OPEN_FIELDS = ("company", "title", "url", "locations", "workplace", "posted_at", "salary",
-               "company_meta", "vc_rank", "already_in_pipeline")
+               "company_meta", "vc_rank", "already_in_pipeline", "track")
 
 
-def collect(companies, mode, hours, seen, limit=None):
+def collect(companies, mode, hours, seen, limit=None, tracks=TRACK_ORDER):
     """Fetch every board and return (cands, backlog, open_jobs, failed_companies).
 
     open_jobs : every currently listed role that passes the title / NYC / employment filters, keyed by
@@ -386,7 +425,8 @@ def collect(companies, mode, hours, seen, limit=None):
                 failed.add(c["name"])
                 continue
             for j in jobs:
-                if not title_ok(j["title"]):
+                track = track_of(j["title"])
+                if track is None or track not in tracks:
                     continue
                 if not employment_ok(j):
                     continue
@@ -399,6 +439,7 @@ def collect(companies, mode, hours, seen, limit=None):
                 cand = dict(
                     id=hashlib.sha1(key.encode()).hexdigest()[:10],
                     key=key,
+                    track=track,
                     company=c["name"],
                     company_meta=dict(
                         stage=c.get("stage") or "unverified",
@@ -421,8 +462,8 @@ def collect(companies, mode, hours, seen, limit=None):
                     already_in_pipeline=c["name"].lower() in ALREADY_IN_PIPELINE,
                 )
                 open_jobs[key] = {k: cand[k] for k in OPEN_FIELDS}
-                if key in seen:
-                    continue
+                if key in seen and seen[key].get("track", "ds") == track:
+                    continue  # already scored under this track (a title that changed track is re-scored)
                 if cutoff and (posted is None or posted < cutoff):
                     backlog.append(cand)
                     continue
@@ -496,28 +537,39 @@ def extract_json_array(text):
     return None
 
 
+TRACK_SCORE_HINTS = {
+    "ds": "TRACK: these are DATA-SCIENCE / ML roles — apply the data-science rubric in the profile.",
+    "ai": ("TRACK: these are FORWARD-DEPLOYED / AI-ENGINEERING roles — apply the 'Second track' rubric in the "
+           "profile, not the data-science one. Set exclude=true (with the reason) for roles that are really pure "
+           "software engineering, sales engineering, design, or that require a prior career in banking, investing, "
+           "law or consulting (e.g. 'Forward Deployed Banker', 'AI Strategist, Corporate Law')."),
+}
+
+
 def score(cands, batch=18):
     profile = PROFILE.read_text()
     scored = {}
-    for i in range(0, len(cands), batch):
-        chunk = cands[i:i + batch]
-        payload = [dict(
-            id=c["id"], company=c["company"], title=c["title"], url=c["url"],
-            company_stage=c["company_meta"]["stage"], company_what=c["company_meta"]["what"],
-            locations=c["locations"], workplace=c["workplace"], salary=c["salary"],
-            degree_mentioned_in_posting=c["degree_mention"], description=c["description"],
-        ) for c in chunk]
-        prompt = (SCORE_INSTRUCTIONS + "\n\n=== CANDIDATE PROFILE ===\n" + profile +
-                  "\n\n=== JOBS (JSON) ===\n" + json.dumps(payload, ensure_ascii=False))
-        log(f"  scoring batch {i//batch + 1} ({len(chunk)} jobs) with {SCORE_MODEL} ...")
-        text, meta = run_claude(prompt, SCORE_MODEL, allowed_tools=[])
-        arr = extract_json_array(text)
-        if not arr:
-            log(f"  !! could not parse scores for batch {i//batch + 1}; raw head: {text[:300]!r}")
-            continue
-        for s in arr:
-            if isinstance(s, dict) and s.get("id"):
-                scored[s["id"]] = s
+    for track in TRACK_ORDER:
+        subset = [c for c in cands if c.get("track", "ds") == track]
+        for i in range(0, len(subset), batch):
+            chunk = subset[i:i + batch]
+            payload = [dict(
+                id=c["id"], company=c["company"], title=c["title"], url=c["url"],
+                company_stage=c["company_meta"]["stage"], company_what=c["company_meta"]["what"],
+                locations=c["locations"], workplace=c["workplace"], salary=c["salary"],
+                degree_mentioned_in_posting=c["degree_mention"], description=c["description"],
+            ) for c in chunk]
+            prompt = (SCORE_INSTRUCTIONS + "\n" + TRACK_SCORE_HINTS[track] + "\n\n=== CANDIDATE PROFILE ===\n" + profile +
+                      "\n\n=== JOBS (JSON) ===\n" + json.dumps(payload, ensure_ascii=False))
+            log(f"  scoring {track} batch {i//batch + 1} ({len(chunk)} jobs) with {SCORE_MODEL} ...")
+            text, meta = run_claude(prompt, SCORE_MODEL, allowed_tools=[])
+            arr = extract_json_array(text)
+            if not arr:
+                log(f"  !! could not parse scores for {track} batch {i//batch + 1}; raw head: {text[:300]!r}")
+                continue
+            for s in arr:
+                if isinstance(s, dict) and s.get("id"):
+                    scored[s["id"]] = s
     out = []
     for c in cands:
         s = scored.get(c["id"])
@@ -558,11 +610,18 @@ def render(jobs, mode, today):
         if len(top) == 2:
             break
     date_str = today.strftime("%b %-d")
-    subject = f"[NYC DS Jobs] {n} role{'s' if n != 1 else ''} — {date_str}"
+    present = [t for t in TRACK_ORDER if any(j.get("track", "ds") == t for j in kept)]
+    tag = {("ds",): "[NYC DS Jobs]", ("ai",): "[NYC AI/FDE Jobs]"}.get(tuple(present), "[NYC DS+AI Jobs]")
+    subject = f"{tag} {n} role{'s' if n != 1 else ''} — {date_str}"
     if top:
         subject += ": " + ", ".join(top)
+    per_track = ""
+    if len(present) > 1:
+        per_track = " (" + ", ".join(
+            f"{sum(1 for j in kept if j.get('track', 'ds') == t)} {TRACKS[t]['heading'].split(' ')[0].lower()}"
+            for t in present) + ")"
     summary = (f"{n} open role{'s' if n != 1 else ''} across {companies} compan{'ies' if companies != 1 else 'y'}"
-               f" — {counts['Strong']} strong, {counts['Good']} good, {counts['Stretch']} stretch."
+               f" — {counts['Strong']} strong, {counts['Good']} good, {counts['Stretch']} stretch{per_track}."
                + (" (Full backfill of currently open roles.)" if mode == "backfill" else " (New in the last 24 hours.)"))
 
     # Inline styles only: the Gmail connector strips <style> blocks and class attributes, but keeps style="".
@@ -571,7 +630,13 @@ def render(jobs, mode, today):
 <div style="max-width:720px;margin:0 auto;background:#fff;padding:24px 28px;border:1px solid #e5e7eb;border-radius:8px">
 <p style="font-size:16px;margin:0 0 20px">{esc(summary)}</p>"""]
     META = 'style="font-size:13px;color:#555;margin-top:3px"'
+    kept.sort(key=lambda j: TRACK_ORDER.index(j.get("track", "ds")))  # stable: keeps rating order within a track
+    last_track = None
     for j in kept:
+        if (len(present) > 1 or present == ["ai"]) and j.get("track", "ds") != last_track:
+            last_track = j.get("track", "ds")
+            parts.append(f'<h2 style="font-size:15px;margin:22px 0 4px;color:#333;text-transform:uppercase;'
+                         f'letter-spacing:.04em">{esc(TRACKS[last_track]["heading"])}</h2>')
         s = j["score"]
         m = j["company_meta"]
         rating = s.get("rating", "Good")
@@ -681,13 +746,11 @@ def seen_entry(j, now, emailed):
         stage=m.get("stage", "unverified"), raised=m.get("raised", "unverified"), investors=m.get("investors") or [],
         verified=bool(m.get("verified")), vc_rank=j.get("vc_rank", 9),
         already_in_pipeline=bool(j.get("already_in_pipeline")), emailed=emailed, status="",
-        open=True, last_seen_open=now,
+        open=True, last_seen_open=now, track=j.get("track", "ds"),
     )
 
 
-# ── docs (markdown in the repo) ─────────────────────────────────────────────
-TOP_DOC = DOCS / "top-100.md"
-NEW_DOC = DOCS / "new-postings.md"
+# ── docs (markdown in the repo; one top-N + one new-postings file per track) ─
 NEW_DOC_MARK = "<!-- sections below are prepended by jobsearch.py; newest first -->"
 
 
@@ -776,19 +839,23 @@ def new_section(entries, label, note=""):
     return head + "\n\n" + job_table(entries, with_status=False) + "\n"
 
 
-def write_new_doc(section):
-    intro = (f"# New NYC DS postings\n\nEvery morning `jobsearch.py --daily` adds a section here with the roles first "
+def write_new_doc(track, section):
+    t = TRACKS[track]
+    what = ("data-science / ML roles" if track == "ds" else
+            "forward-deployed / AI-engineering roles (FDE, Deployment Strategist, AI Engineer, Applied AI)")
+    intro = (f"# New {t['label']} postings\n\nEvery morning `jobsearch.py --daily` adds a section here with the {what} first "
              f"published in the previous 24 hours that passed the filters and were emailed. Fit is scored against "
              f"`profile.md`. 🔁 = company already in your pipeline.\n\n{NEW_DOC_MARK}\n\n")
     old = ""
-    if NEW_DOC.exists():
-        txt = NEW_DOC.read_text()
+    if t["new"].exists():
+        txt = t["new"].read_text()
         old = txt.split(NEW_DOC_MARK, 1)[1].lstrip() if NEW_DOC_MARK in txt else txt
-    NEW_DOC.write_text(intro + section + "\n" + old)
+    t["new"].write_text(intro + section + "\n" + old)
 
 
-def write_top_doc(visible, skipped, stats):
-    legend = (f"# Top {TOP_N} open NYC DS roles\n\n"
+def write_top_doc(track, visible, skipped, stats):
+    t = TRACKS[track]
+    legend = (f"# Top {TOP_N} open {t['label']} roles\n\n"
               f"_Updated {stats['updated']} · {stats['open']} open tracked roles · {stats['closed']} closed since the last "
               f"run · {stats['hidden']} hidden by your marks._\n\n"
               f"Every morning this file is rebuilt from the live job boards: roles that were taken down drop out, new ones "
@@ -801,26 +868,31 @@ def write_top_doc(visible, skipped, stats):
     if skipped:
         tail = (f"\n\n<details><summary>Skipped ({len(skipped)}) — change the Status cell to bring one back</summary>\n\n"
                 + job_table(skipped, with_status=True) + "\n\n</details>")
-    TOP_DOC.write_text(legend + body + tail + "\n")
+    t["top"].write_text(legend + body + tail + "\n")
 
 
-def write_docs(seen, open_jobs, failed, new_kept, today, mode):
-    """Read Status marks back from top-100.md, refresh open/closed state, write both docs."""
+def write_docs(seen, open_jobs, failed, new_entries, today, mode, tracks=TRACK_ORDER):
+    """Read Status marks back from the top docs, refresh open/closed state, rewrite the docs of `tracks`.
+    new_entries: seen entries recorded this run (None = don't touch the new-postings docs)."""
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
-    marks = parse_status_marks(TOP_DOC)
     by_url = {e.get("url"): e for e in seen.values()}
-    changed = 0
-    for url, status in marks.items():
-        e = by_url.get(url)
-        if e is not None and (e.get("status") or "") != status:
-            e["status"] = status
-            changed += 1
-    if changed:
-        log(f"  docs: picked up {changed} changed Status mark{'s' if changed != 1 else ''} from {TOP_DOC.name}")
+    for track in tracks:
+        changed = 0
+        for url, status in parse_status_marks(TRACKS[track]["top"]).items():
+            e = by_url.get(url)
+            if e is not None and (e.get("status") or "") != status:
+                e["status"] = status
+                changed += 1
+        if changed:
+            log(f"  docs: picked up {changed} changed Status mark{'s' if changed != 1 else ''} from {TRACKS[track]['top'].name}")
 
-    rows, closed = [], 0
+    rows, closed = {t: [] for t in tracks}, {t: 0 for t in tracks}
     for key, e in seen.items():
         live = open_jobs.get(key)
+        track = live["track"] if live else e.get("track", "ds")
+        if track not in tracks:
+            continue  # a --track run leaves the other track's state alone
+        e["track"] = track
         is_open = live is not None or e.get("company") in failed
         was_open = e.get("open", True)
         if live:
@@ -829,21 +901,23 @@ def write_docs(seen, open_jobs, failed, new_kept, today, mode):
             e["last_seen_open"] = now
         e["open"] = is_open
         if was_open and not is_open and not e.get("excluded"):
-            closed += 1
+            closed[track] += 1
         if is_open and not e.get("excluded"):
-            rows.append(e)
-    rows.sort(key=rank_key)
-    visible = [e for e in rows if not status_hidden(e.get("status"))]
-    skipped = [e for e in rows if status_hidden(e.get("status"))]
-    stats = dict(updated=today.strftime("%a %b %-d, %Y %-I:%M %p ET"), open=len(rows), closed=closed, hidden=len(skipped))
-    write_top_doc(visible[:TOP_N], skipped, stats)
+            rows[track].append(e)
 
-    if new_kept is not None:
-        label = today.strftime("%a %b %-d, %Y")
-        note = "Full backfill of every open matching role." if mode == "backfill" else ""
-        write_new_doc(new_section(new_kept, label, note))
-    log(f"  docs: {TOP_DOC.name} ({min(len(visible), TOP_N)} rows, {len(rows)} open, {closed} closed, "
-        f"{len(skipped)} skipped); {NEW_DOC.name} {'+' + str(len(new_kept)) + ' new' if new_kept is not None else 'untouched'}")
+    for track in tracks:
+        r = sorted(rows[track], key=rank_key)
+        visible = [e for e in r if not status_hidden(e.get("status"))]
+        skipped = [e for e in r if status_hidden(e.get("status"))]
+        stats = dict(updated=today.strftime("%a %b %-d, %Y %-I:%M %p ET"), open=len(r), closed=closed[track], hidden=len(skipped))
+        write_top_doc(track, visible[:TOP_N], skipped, stats)
+        msg = f"  docs[{track}]: {TRACKS[track]['top'].name} ({min(len(visible), TOP_N)} rows, {len(r)} open, {closed[track]} closed, {len(skipped)} skipped)"
+        if new_entries is not None:
+            mine = [e for e in new_entries if e.get("track", "ds") == track]
+            note = "Full backfill of every open matching role." if mode == "backfill" else ""
+            write_new_doc(track, new_section(mine, today.strftime("%a %b %-d, %Y"), note))
+            msg += f"; {TRACKS[track]['new'].name} +{len(mine)} new"
+        log(msg)
 
 
 # ── git ──────────────────────────────────────────────────────────────────────
@@ -900,11 +974,17 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--no-docs", action="store_true", help="don't rewrite docs/")
     ap.add_argument("--no-git", action="store_true", help="don't git pull/commit/push")
+    ap.add_argument("--track", choices=TRACK_ORDER, help="only this track (default: both)")
     a = ap.parse_args()
 
     today = dt.datetime.now(NY)
     run_mode = "backfill" if a.backfill else "daily"
-    stamp = today.strftime("%Y-%m-%d")
+    tracks = [a.track] if a.track else TRACK_ORDER
+    stamp = today.strftime("%Y-%m-%d") + (f"-{a.track}" if a.track else "")
+    if a.render_file or a.score_file:
+        m = re.search(r"-(ds|ai)-(backfill|daily)\.", a.render_file or a.score_file)
+        if m and not a.track:
+            tracks, stamp = [m.group(1)], stamp + f"-{m.group(1)}"
 
     if a.send_file:
         if not a.subject:
@@ -921,12 +1001,11 @@ def main():
     seen = load_seen()
     backlog, open_jobs, failed = [], None, set()
 
-    if a.render_file:
-        cands = json.loads(Path(a.render_file).read_text())
-        run_mode = "backfill" if "backfill" in a.render_file else "daily"
-    elif a.score_file:
-        cands = json.loads(Path(a.score_file).read_text())
-        run_mode = "backfill" if "backfill" in a.score_file else "daily"
+    if a.render_file or a.score_file:
+        cands = json.loads(Path(a.render_file or a.score_file).read_text())
+        run_mode = "backfill" if "backfill" in (a.render_file or a.score_file) else "daily"
+        if do_docs:  # re-fetch so the docs still reflect what is live (no scoring involved)
+            _, _, open_jobs, failed = collect(companies, run_mode, a.hours, seen, tracks=tracks)
     else:
         if not (a.backfill or a.daily) and not a.discover:
             ap.error("choose --backfill, --daily or --discover")
@@ -938,7 +1017,7 @@ def main():
                 log(f"  discover failed: {e}")
             if not (a.backfill or a.daily):
                 return
-        cands, backlog, open_jobs, failed = collect(companies, run_mode, a.hours, seen, a.limit)
+        cands, backlog, open_jobs, failed = collect(companies, run_mode, a.hours, seen, a.limit, tracks=tracks)
         cand_path = RUNS / f"{stamp}-{run_mode}.candidates.json"
         cand_path.write_text(json.dumps(cands, indent=1, ensure_ascii=False))
         log(f"  wrote {cand_path}")
@@ -976,19 +1055,29 @@ def main():
     # ── record ──
     record_new = (sent or a.mark_seen) and not a.dry_run
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+
+    def record(j, emailed):
+        old = seen.get(j["key"])
+        e = seen_entry(j, now, emailed)
+        if old:  # re-scored (track changed): keep history and your marks
+            e["first_seen"], e["status"], e["emailed"] = old.get("first_seen", now), old.get("status", ""), old.get("emailed") or emailed
+        seen[j["key"]] = e
+        return e
+
+    new_entries = None
     if record_new:
         kept_keys = {j["key"] for j in kept}
-        for j in new_jobs:
-            seen[j["key"]] = seen_entry(j, now, emailed=j["key"] in kept_keys)
+        new_entries = [record(j, j["key"] in kept_keys) for j in new_jobs]
+        new_entries = [e for e in new_entries if not e["excluded"]]
         log(f"  recorded {len(new_jobs)} new jobs ({len(kept)} emailed) in seen_jobs.json")
     if backlog_jobs and not a.dry_run:
         for j in backlog_jobs:
-            seen[j["key"]] = seen_entry(j, now, emailed=False)
+            record(j, False)
         log(f"  recorded {len(backlog_jobs)} older unseen jobs (docs only)")
 
     # ── docs + git ──
     if do_docs and open_jobs is not None:
-        write_docs(seen, open_jobs, failed, kept if record_new else None, today, run_mode)
+        write_docs(seen, open_jobs, failed, new_entries, today, run_mode, tracks=tracks)
     if not a.dry_run:
         save_seen(seen)
         log(f"  seen_jobs.json: {len(seen)} entries")

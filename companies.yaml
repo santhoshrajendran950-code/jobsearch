@@ -594,21 +594,7 @@
   what: AI-native law firm doing fixed-price contract review with AI agents plus licensed attorneys
   verified: true
   source: lead
-- name: Cursor
-  ats: ashby
-  slug: cursor
-  stage: Series D
-  raised: unverified (~$3.2B)
-  investors:
-  - Thrive
-  - a16z
-  - Accel
-  - Coatue
-  hq: San Francisco, CA
-  nyc_office: true
-  what: AI code editor
-  verified: false
-  source: Thrive portfolio
+# Cursor (ashby/cursor) removed 2026-10-16: the board now serves SpaceX / xAI postings (not a startup).
 - name: Dandy
   ats: ashby
   slug: dandy

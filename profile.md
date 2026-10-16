@@ -43,7 +43,24 @@ Deep-learning / LLM research, computer vision, NLP research, infra-heavy MLE (se
 clusters), fraud/risk-only roles requiring prior domain experience, roles requiring a PhD, pure analyst/BI,
 people management (director+), remote-only.
 
-## Rating rubric
+## Second track: forward-deployed / AI engineering roles (scored separately, own docs)
+Also open to Forward Deployed Engineer (FDE), Deployment Strategist, AI Engineer, Applied AI, AI Solutions
+Engineer roles **when the job is applied and problem-solving rather than pure software engineering**: sitting
+with customers, understanding their data and workflows, building LLM/ML-powered solutions in Python, SQL and
+data pipelines, measuring whether they work. Evidence he can do this: 4.5 years shipping production ML
+end-to-end in a fast-scaling startup, building pipelines on BigQuery/dbt/Prefect/GCP, Docker/Kubernetes,
+partnering with marketing/finance/product stakeholders, and daily AI-assisted development (Claude Code, Codex).
+He has NOT been a professional software engineer: no TypeScript/React, no distributed-systems or backend
+service ownership, no on-call.
+- **Strong**: FDE / applied-AI role where the day job is data + Python + LLM APIs + customer problem framing;
+  explicitly welcomes DS / analytics backgrounds; early-stage, in-person NYC.
+- **Good**: FDE / AI Engineer with a meaningful but not dominant SWE component (some TypeScript, APIs, cloud
+  deployment) or a B2B/enterprise domain he would need to learn.
+- **Stretch**: mostly full-stack / backend / infra engineering with an AI label, "member of technical staff",
+  heavy systems or agent-framework internals, or roles that require a CS degree / senior SWE track record.
+- Exclude: pure SWE, infra/platform, research, sales engineering.
+
+## Rating rubric (data-science track)
 - **Strong**: core of the role is LTV/churn/retention, experimentation/causal inference, growth or marketing
   measurement, personalization/ranking on tabular data, forecasting, or production ML for a consumer /
   marketplace / fintech product; seniority mid–staff; no hard PhD requirement.
