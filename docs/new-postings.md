@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Sat Oct 17, 2026 — 1 new role (0 strong · 1 good · 0 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Good | [Senior Data Scientist](https://jobs.ashbyhq.com/headway/307f5c55-2e9d-44c0-85e8-3cdfe09e0bb6) | Headway<br><sub>Mental-health marketplace matching patients with in-network therapists</sub> | Series E, unverified (~$325M+)<br><sub>a16z, Thrive, Spark, Accel, GV · funding unverified</sub> | Hybrid NYC (days not stated) | Oct 16 | $180K - $225K | Experimentation, DiD/matching causal inference, cohort/lifecycle analysis and predictive models on a consumer marketplace closely mirror his PrizePicks retention and LTV work. **Gap:** 6+ yrs asked (has ~4.5); later-stage, healthcare domain |
+
 ## Fri Oct 16, 2026 — 1 new role (0 strong · 0 good · 1 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

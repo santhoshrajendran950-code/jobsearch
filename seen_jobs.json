@@ -12,7 +12,7 @@
    "Khosla Ventures",
    "Elad Gil"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "SF Office",
    "NYC Office"
@@ -47,7 +47,7 @@
    "Khosla Ventures",
    "Elad Gil"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "SF Office",
    "NYC Office"
@@ -62,6 +62,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Member of Technical Staff, Machine Learning",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2",
   "vc_rank": 3,
   "verified": true,
@@ -82,7 +83,7 @@
    "OpenAI Startup Fund",
    "NVentures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC"
   ],
@@ -96,6 +97,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Founding Machine Learning Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0",
   "vc_rank": 0,
   "verified": true,
@@ -115,7 +117,7 @@
    "Craft Ventures",
    "AlleyCorp"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY"
   ],
@@ -129,6 +131,7 @@
   "stage": "Series A",
   "status": "",
   "title": "Marketing Science Lead",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/agentio/fb578804-348e-4096-8d2d-5fd8abe70b9a",
   "vc_rank": 0,
   "verified": true,
@@ -149,7 +152,7 @@
    "Bessemer",
    "Canapi"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, Remote",
    "Alloy New York"
@@ -185,7 +188,7 @@
    "Bessemer",
    "Canapi"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City",
    "Alloy New York"
@@ -200,6 +203,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Senior Machine Learning Engineer",
+  "track": "ds",
   "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8495229002&gh_jid=8495229002",
   "vc_rank": 0,
   "verified": true,
@@ -219,7 +223,7 @@
    "J.P. Morgan Asset Management",
    "D.E. Shaw Ventures"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York, United States",
    "Remote - United States"
@@ -254,7 +258,7 @@
    "J.P. Morgan Asset Management",
    "D.E. Shaw Ventures"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York, United States",
    "Remote - United States"
@@ -290,7 +294,7 @@
    "GV",
    "OMERS Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Boston, MA; Brooklyn, NY; San Francisco, CA; Washington, D.C.",
    "Boston, MA",
@@ -310,6 +314,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Senior Staff Machine Learning Engineer",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/altanaai/jobs/8033832003",
   "vc_rank": 0,
   "verified": true,
@@ -330,7 +335,7 @@
    "GV",
    "OMERS Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Boston, MA; Brooklyn, NY; San Francisco, CA; Washington, D.C.",
    "Boston, MA",
@@ -350,6 +355,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Staff Machine Learning Engineer",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/altanaai/jobs/8033927003",
   "vc_rank": 0,
   "verified": true,
@@ -379,6 +385,7 @@
   "stage": "unverified",
   "status": "",
   "title": "Machine Learning Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/arlo/4acbaeb6-9057-4dd4-9537-8de5ec937dc2",
   "vc_rank": 4,
   "verified": false,
@@ -394,7 +401,7 @@
   "first_seen": "2026-10-12T17:48:49+00:00",
   "gap": "health-claims underwriting domain",
   "investors": [],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -408,6 +415,7 @@
   "stage": "unverified",
   "status": "",
   "title": "Senior Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/arlo/daa2038d-1bf1-474c-a5e2-da4170108bb2",
   "vc_rank": 4,
   "verified": false,
@@ -423,7 +431,7 @@
   "first_seen": "2026-10-13T23:09:25+00:00",
   "gap": "infra-heavy MLE; insurance underwriting; Spark/Databricks",
   "investors": [],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -437,6 +445,7 @@
   "stage": "unverified",
   "status": "",
   "title": "Senior ML Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/arlo/e7ff21eb-689e-47d4-973f-d5c77d8c2ad0",
   "vc_rank": 4,
   "verified": false,
@@ -457,7 +466,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "United States"
@@ -472,6 +481,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Principal Software Engineer, Machine Learning",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/attentive/jobs/4410440009",
   "vc_rank": 3,
   "verified": true,
@@ -492,7 +502,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "New York, NY",
@@ -508,6 +518,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Senior Machine Learning Engineer",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/attentive/jobs/4120595009",
   "vc_rank": 3,
   "verified": true,
@@ -528,7 +539,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco, CA",
    "New York, NY",
@@ -544,6 +555,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Senior Machine Learning Engineer",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/attentive/jobs/4129704009",
   "vc_rank": 3,
   "verified": true,
@@ -564,7 +576,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco, CA",
    "New York, NY",
@@ -580,6 +592,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Staff Software Engineer, Machine Learning",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/attentive/jobs/4244729009",
   "vc_rank": 3,
   "verified": true,
@@ -600,7 +613,7 @@
    "Sequoia",
    "IVP"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "New York, NY",
@@ -616,6 +629,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Staff Software Engineer, Machine Learning",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/attentive/jobs/4413218009",
   "vc_rank": 3,
   "verified": true,
@@ -636,7 +650,7 @@
    "IVP",
    "CapitalG"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -672,7 +686,7 @@
    "IVP",
    "CapitalG"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "Remote",
@@ -718,7 +732,7 @@
    "New York"
   ],
   "office": "Hybrid NYC (days not stated)",
-  "open": true,
+  "open": false,
   "posted_at": "2026-10-07T00:46:25.274000+00:00",
   "raised": "~$2B+",
   "rating": "Good",
@@ -727,6 +741,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Product Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/baseten/84c24e55-1db0-49b6-99d8-9bce9e16892f",
   "vc_rank": 3,
   "verified": true,
@@ -745,7 +760,7 @@
    "NEA",
    "Salesforce Ventures"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, Hybrid",
    "New York"
@@ -779,7 +794,7 @@
    "NEA",
    "Salesforce Ventures"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, Hybrid",
    "New York"
@@ -813,7 +828,7 @@
    "NEA",
    "Salesforce Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, Hybrid",
    "New York"
@@ -828,6 +843,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Senior/Staff Data Scientist, Analytics",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/bluefishai/jobs/5252777008",
   "vc_rank": 0,
   "verified": true,
@@ -846,7 +862,7 @@
    "Gil Capital",
    "Affinity Partners"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -880,7 +896,7 @@
    "DCM",
    "Hummingbird"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City (Hybrid)"
   ],
@@ -894,6 +910,7 @@
   "stage": "Series A+",
   "status": "",
   "title": "Lead Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/brigit/6a214803-b38b-47b0-a8e9-6ffe20edec72",
   "vc_rank": 0,
   "verified": false,
@@ -913,7 +930,7 @@
    "DCM",
    "Hummingbird"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City (Hybrid)",
    "San Francisco (Hybrid)"
@@ -928,6 +945,7 @@
   "stage": "Series A+",
   "status": "",
   "title": "Senior Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/brigit/aa4d6c31-6824-45bd-9b55-6cf0b391d103",
   "vc_rank": 0,
   "verified": false,
@@ -945,7 +963,7 @@
   "investors": [
    "Insight Partners"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC, New York"
   ],
@@ -997,6 +1015,7 @@
   "stage": "Series D",
   "status": "",
   "title": "AI/ML Engineer (Senior)",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/candidhealth/a406ec65-85ac-4403-9943-1a9ce68d209f",
   "vc_rank": 3,
   "verified": true,
@@ -1019,7 +1038,7 @@
    "BoxGroup",
    "Y Combinator"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -1034,6 +1053,7 @@
   "stage": "Series D",
   "status": "",
   "title": "AI/ML Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/candidhealth/a406ec65-85ac-4403-9943-1a9ce68d209f",
   "vc_rank": 3,
   "verified": true,
@@ -1054,7 +1074,7 @@
    "Accel",
    "83North"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, US, New York",
    "New York, US, New York"
@@ -1091,7 +1111,7 @@
    "Addition",
    "Accel"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "North Carolina",
    "Remote - USA",
@@ -1126,7 +1146,7 @@
    "Adams Street",
    "RARE Capital"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "New York"
@@ -1141,6 +1161,7 @@
   "stage": "Growth",
   "status": "",
   "title": "Staff Data Scientist (Product & Ops)",
+  "track": "ds",
   "url": "https://www.charliehealth.com/careers?gh_jid=5843142004",
   "vc_rank": 4,
   "verified": false,
@@ -1160,7 +1181,7 @@
    "Y Combinator",
    "J2 Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -1174,6 +1195,7 @@
   "stage": "Series A",
   "status": "",
   "title": "AI/ML Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/cinder/683bb5d5-c354-4fa6-ba1f-1d54c59a470b",
   "vc_rank": 0,
   "verified": true,
@@ -1193,7 +1215,7 @@
    "Thrive Capital",
    "Kairos HQ"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -1207,6 +1229,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Senior Applied Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/clair/837b484a-80bd-4a73-a2ac-95548c303e9f",
   "vc_rank": 0,
   "verified": true,
@@ -1227,7 +1250,7 @@
    "Meritech",
    "Sapphire Ventures"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -1263,7 +1286,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1299,7 +1322,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1313,6 +1336,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/confido/1ab17543-29df-4d5a-a933-d443d659eafa",
   "vc_rank": 1,
   "verified": true,
@@ -1334,7 +1358,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1370,7 +1394,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1406,7 +1430,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1420,6 +1444,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Senior Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/confido/c6a2eb44-6f4f-4e71-9e4c-b4bd33fbe691",
   "vc_rank": 1,
   "verified": true,
@@ -1441,7 +1466,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1455,6 +1480,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Senior ML Ops Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/confido/c77fe2ec-51d1-47ea-b616-b4e477a13696",
   "vc_rank": 0,
   "verified": true,
@@ -1474,7 +1500,7 @@
    "General Catalyst",
    "Fuel Venture Capital"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "United States (Remote)",
    "New York"
@@ -1489,6 +1515,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Senior Data Scientist, Retention & Product",
+  "track": "ds",
   "url": "https://careers.cookunity.com/open-roles?gh_jid=7780185003",
   "vc_rank": 0,
   "verified": true,
@@ -1509,7 +1536,7 @@
    "Lux",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -1523,6 +1550,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Member of Technical Staff, Data Science",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/crosby/6a45af68-13e0-4a1e-812a-8f6d4a187b10",
   "vc_rank": 0,
   "verified": true,
@@ -1549,7 +1577,7 @@
    "New York"
   ],
   "office": "In-person (SF or NYC)",
-  "open": true,
+  "open": false,
   "posted_at": "2026-01-27T20:27:08.746000+00:00",
   "raised": "unverified (~$3.2B)",
   "rating": "Stretch",
@@ -1558,6 +1586,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Software Engineer, ML Research",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
   "vc_rank": 3,
   "verified": false,
@@ -1584,7 +1613,7 @@
    "United States, New York"
   ],
   "office": "",
-  "open": true,
+  "open": false,
   "posted_at": "2026-09-14T01:15:34-04:00",
   "raised": "~$850M",
   "rating": "Stretch",
@@ -1593,6 +1622,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Sr Data Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/dataiku/jobs/6186412004",
   "vc_rank": 3,
   "verified": true,
@@ -1612,7 +1642,7 @@
    "Shield Capital",
    "Felicis"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -1626,6 +1656,7 @@
   "stage": "Series A",
   "status": "",
   "title": "Machine Learning Research, RF Foundation Models Specialist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/distributed-spectrum/b7ce811d-29bc-4207-af7b-ab6cf5ef428b",
   "vc_rank": 0,
   "verified": true,
@@ -1646,7 +1677,7 @@
    "Capital One Growth Ventures",
    "Third Point"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY or Los Angeles, CA",
    "New York, NY"
@@ -1661,6 +1692,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Staff/Senior Data Scientist, Entity Resolution Team",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/enigmaio/jobs/8213483",
   "vc_rank": 0,
   "verified": true,
@@ -1681,7 +1713,7 @@
    "Capital One Growth Ventures",
    "Third Point"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY or Los Angeles, CA",
    "New York, NY"
@@ -1696,6 +1728,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Staff/Senior Machine Learning Engineer, Match Team",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/enigmaio/jobs/7807194",
   "vc_rank": 0,
   "verified": true,
@@ -1714,7 +1747,7 @@
    "General Catalyst",
    "Left Lane Capital"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -1728,6 +1761,7 @@
   "stage": "Series B",
   "status": "",
   "title": "ML Tech Lead",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/evvy/f47b7764-f587-49b0-8768-8f07ddfbc147",
   "vc_rank": 0,
   "verified": true,
@@ -1746,7 +1780,7 @@
    "General Catalyst",
    "Left Lane Capital"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -1760,6 +1794,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Translational ML Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/evvy/5c3dbebe-9839-4a21-9b8f-cf26339b6c73",
   "vc_rank": 0,
   "verified": true,
@@ -1779,7 +1814,7 @@
    "Point72 Ventures",
    "FinTech Collective"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -1813,7 +1848,7 @@
    "Point72 Ventures",
    "FinTech Collective"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -1847,7 +1882,7 @@
    "Point72 Ventures",
    "FinTech Collective"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -1861,6 +1896,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Machine Learning Researcher",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/extend/f66b7066-93dc-4b46-ad0f-3ea842e70fe8",
   "vc_rank": 1,
   "verified": true,
@@ -1876,7 +1912,7 @@
   "first_seen": "2026-10-12T17:48:49+00:00",
   "gap": "7+ yrs asked; analytics-engineering heavy; credit domain",
   "investors": [],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "New York, NY"
@@ -1891,6 +1927,7 @@
   "stage": "unverified",
   "status": "",
   "title": "Sr Staff Data Scientist, New Verticals",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/flex/jobs/4726643005",
   "vc_rank": 4,
   "verified": false,
@@ -1906,7 +1943,7 @@
   "first_seen": "2026-10-12T17:48:49+00:00",
   "gap": "analytics/BI-leaning; GTM/account-mgmt focus",
   "investors": [],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "New York, NY"
@@ -1921,6 +1958,7 @@
   "stage": "unverified",
   "status": "",
   "title": "Staff Data Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/flex/jobs/4731777005",
   "vc_rank": 4,
   "verified": false,
@@ -1939,7 +1977,7 @@
    "Index Ventures",
    "QED"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -1975,7 +2013,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -1990,6 +2028,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Senior Data Scientist, Business Analytics",
+  "track": "ds",
   "url": "https://www.foratravel.com/careers/jobs?gh_jid=5415821008",
   "vc_rank": 0,
   "verified": true,
@@ -2011,7 +2050,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -2026,6 +2065,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Senior Data Scientist, Marketing Science",
+  "track": "ds",
   "url": "https://www.foratravel.com/careers/jobs?gh_jid=5415800008",
   "vc_rank": 0,
   "verified": true,
@@ -2047,7 +2087,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -2062,6 +2102,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Senior Data Scientist, Product Analytics",
+  "track": "ds",
   "url": "https://www.foratravel.com/careers/jobs?gh_jid=5415778008",
   "vc_rank": 0,
   "verified": true,
@@ -2081,7 +2122,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY; Boston, MA",
    "Boston",
@@ -2097,6 +2138,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Principal Data Scientist, Medical Imaging",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7094389",
   "vc_rank": 3,
   "verified": true,
@@ -2116,7 +2158,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY; Boston, MA",
    "Boston",
@@ -2132,6 +2174,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Principal Data Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7785412",
   "vc_rank": 3,
   "verified": true,
@@ -2151,7 +2194,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY; Boston, MA; San Francisco, CA; Raleigh-Durham, NC",
    "Boston",
@@ -2167,6 +2210,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Senior Data Scientist - Real World Data",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7757932",
   "vc_rank": 3,
   "verified": true,
@@ -2186,7 +2230,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Boston, MA; New York, NY",
    "Boston",
@@ -2202,6 +2246,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Senior Data Scientist, Medical Imaging",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7523506",
   "vc_rank": 3,
   "verified": true,
@@ -2221,7 +2266,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY; Boston, MA",
    "Boston",
@@ -2237,6 +2282,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Senior Data Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/formationbio/jobs/6623947",
   "vc_rank": 3,
   "verified": true,
@@ -2256,7 +2302,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2271,6 +2317,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Applied Scientist III",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6121272004",
   "vc_rank": 3,
   "verified": true,
@@ -2290,7 +2337,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2305,6 +2352,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Applied Scientist III",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6141361004",
   "vc_rank": 3,
   "verified": true,
@@ -2324,7 +2372,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2339,6 +2387,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Associate Applied Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004",
   "vc_rank": 3,
   "verified": true,
@@ -2358,7 +2407,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2373,6 +2422,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Staff Applied Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6004814004",
   "vc_rank": 3,
   "verified": true,
@@ -2392,7 +2442,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2407,6 +2457,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Staff Applied Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6141418004",
   "vc_rank": 3,
   "verified": true,
@@ -2426,7 +2477,7 @@
    "Lightspeed",
    "Anthropic"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco, CA & New York, NY",
    "San Francisco"
@@ -2441,6 +2492,7 @@
   "stage": "unverified",
   "status": "",
   "title": "Machine Learning Engineer",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/goodfire/jobs/5019847008",
   "vc_rank": 3,
   "verified": false,
@@ -2461,7 +2513,7 @@
    "GIC",
    "Diffusion"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -2496,7 +2548,7 @@
    "GIC",
    "Diffusion"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -2531,7 +2583,7 @@
    "GIC",
    "Diffusion"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -2579,11 +2631,50 @@
   "stage": "Series B",
   "status": "",
   "title": "Staff Machine Learning Engineer - New York",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/haus/3388c93e-3033-4a5b-9690-dcc6bb6a681c",
   "vc_rank": 0,
   "verified": true,
   "what": "Incrementality / causal marketing-measurement platform; NYC office",
   "workplace": ""
+ },
+ "Headway|Senior Data Scientist|https://jobs.ashbyhq.com/headway/307f5c55-2e9d-44c0-85e8-3cdfe09e0bb6": {
+  "already_in_pipeline": false,
+  "company": "Headway",
+  "emailed": true,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-10-17T12:03:28+00:00",
+  "gap": "6+ yrs asked (has ~4.5); later-stage, healthcare domain",
+  "investors": [
+   "a16z",
+   "Thrive",
+   "Spark",
+   "Accel",
+   "GV"
+  ],
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
+  "locations": [
+   "New York, NY",
+   "San Francisco, CA",
+   "Seattle, WA"
+  ],
+  "office": "Hybrid NYC (days not stated)",
+  "open": true,
+  "posted_at": "2026-10-16T17:41:11.777000+00:00",
+  "raised": "unverified (~$325M+)",
+  "rating": "Good",
+  "reason": "Experimentation, DiD/matching causal inference, cohort/lifecycle analysis and predictive models on a consumer marketplace closely mirror his PrizePicks retention and LTV work.",
+  "salary": "$180K - $225K",
+  "stage": "Series E",
+  "status": "",
+  "title": "Senior Data Scientist",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/headway/307f5c55-2e9d-44c0-85e8-3cdfe09e0bb6",
+  "vc_rank": 3,
+  "verified": false,
+  "what": "Mental-health marketplace matching patients with in-network therapists",
+  "workplace": "Hybrid"
  },
  "Headway|Staff Data Scientist - Product Analytics|https://jobs.ashbyhq.com/headway/d6456594-a596-4bea-b698-784d9faf0baa": {
   "already_in_pipeline": false,
@@ -2607,7 +2698,7 @@
    "Seattle, WA"
   ],
   "office": "Hybrid NYC (days not stated)",
-  "open": true,
+  "open": false,
   "posted_at": "2026-01-27T15:53:41.575000+00:00",
   "raised": "unverified (~$325M+)",
   "rating": "Good",
@@ -2616,6 +2707,45 @@
   "stage": "Series E",
   "status": "",
   "title": "Staff Data Scientist - Product Analytics",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/headway/d6456594-a596-4bea-b698-784d9faf0baa",
+  "vc_rank": 3,
+  "verified": false,
+  "what": "Mental-health marketplace matching patients with in-network therapists",
+  "workplace": "Hybrid"
+ },
+ "Headway|Staff Data Scientist|https://jobs.ashbyhq.com/headway/d6456594-a596-4bea-b698-784d9faf0baa": {
+  "already_in_pipeline": false,
+  "company": "Headway",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-10-17T12:03:28+00:00",
+  "gap": "10+ yrs asked; Bayesian experimentation depth; staff-level leadership",
+  "investors": [
+   "a16z",
+   "Thrive",
+   "Spark",
+   "Accel",
+   "GV"
+  ],
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
+  "locations": [
+   "New York, NY",
+   "San Francisco, CA",
+   "Seattle, WA"
+  ],
+  "office": "Hybrid NYC (days not stated)",
+  "open": true,
+  "posted_at": "2026-01-27T15:53:41.575000+00:00",
+  "raised": "unverified (~$325M+)",
+  "rating": "Stretch",
+  "reason": "Measurement strategy, experimentation standards and ranking/matching evaluation overlap his A/B testing and personalization work, but the staff scope far exceeds his tenure.",
+  "salary": "$212K - $265K",
+  "stage": "Series E",
+  "status": "",
+  "title": "Staff Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/headway/d6456594-a596-4bea-b698-784d9faf0baa",
   "vc_rank": 3,
   "verified": false,
@@ -2635,7 +2765,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC"
   ],
@@ -2669,7 +2799,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC"
   ],
@@ -2703,7 +2833,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC"
   ],
@@ -2737,7 +2867,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC",
    "San Francisco"
@@ -2773,7 +2903,7 @@
    "Amplify",
    "Redpoint"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -2808,7 +2938,7 @@
    "Union Square Ventures",
    "Comcast Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York, United States",
    "New York Office"
@@ -2823,6 +2953,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Senior Software Engineer - Backend & Machine Learning",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/humeai/jobs/4816209008",
   "vc_rank": 0,
   "verified": true,
@@ -2843,7 +2974,7 @@
    "Ribbit Capital",
    "Kleiner Perkins"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Remote",
    "New York City",
@@ -2860,6 +2991,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Data Scientist, Risk",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/imprint/3277b37e-4972-4152-a379-9c58c000b08e",
   "vc_rank": 3,
   "verified": true,
@@ -2879,7 +3011,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Remote"
@@ -2914,7 +3046,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Remote"
@@ -2949,7 +3081,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -2966,6 +3098,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Senior Machine Learning Engineer II",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/judihealth/jobs/5379625008",
   "vc_rank": 3,
   "verified": true,
@@ -2985,7 +3118,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -3002,6 +3135,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Senior Machine Learning Engineer I",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/judihealth/jobs/5379624008",
   "vc_rank": 3,
   "verified": true,
@@ -3021,7 +3155,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -3058,7 +3192,7 @@
    "FirstMark",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York",
    "New York, NY"
@@ -3073,6 +3207,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Senior Data Scientist - Applied ML",
+  "track": "ds",
   "url": "https://boards.greenhouse.io/justworks/jobs/8236883?gh_jid=8236883",
   "vc_rank": 3,
   "verified": false,
@@ -3092,7 +3227,7 @@
    "FirstMark",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York",
    "New York, NY"
@@ -3107,6 +3242,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Senior Data Scientist",
+  "track": "ds",
   "url": "https://boards.greenhouse.io/justworks/jobs/7960800?gh_jid=7960800",
   "vc_rank": 3,
   "verified": false,
@@ -3127,7 +3263,7 @@
    "a16z",
    "Paradigm"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York Office"
   ],
@@ -3141,6 +3277,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Data Scientist (Product)",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/kalshi/b1ada97f-73f7-492e-89b7-150ebd49ad55",
   "vc_rank": 3,
   "verified": true,
@@ -3162,7 +3299,7 @@
    "General Catalyst",
    "Redpoint"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -3198,7 +3335,7 @@
    "General Catalyst",
    "Redpoint"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -3234,7 +3371,7 @@
    "General Catalyst",
    "Redpoint"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -3248,6 +3385,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Senior Data Scientist - Product",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/legora/49cecda2-8691-4c72-ac8a-a5c9d8bcd008",
   "vc_rank": 0,
   "verified": false,
@@ -3267,7 +3405,7 @@
    "Bain Capital Ventures",
    "Coatue"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York, United States",
    "New York, New York"
@@ -3282,6 +3420,7 @@
   "stage": "Series A+",
   "status": "",
   "title": "Data Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/lightningai/jobs/7860776003",
   "vc_rank": 0,
   "verified": false,
@@ -3301,7 +3440,7 @@
    "Bain Capital Ventures",
    "Coatue"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States",
    "London, UK",
@@ -3318,6 +3457,7 @@
   "stage": "Series A+",
   "status": "",
   "title": "Senior Software Engineer, Training & Experimentation",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/lightningai/jobs/7837299003",
   "vc_rank": 0,
   "verified": false,
@@ -3335,7 +3475,7 @@
   "investors": [
    "Goldman Sachs Asset Management"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Madhive HQ (New York, NY)"
   ],
@@ -3367,7 +3507,7 @@
   "investors": [
    "Goldman Sachs Asset Management"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Madhive HQ (New York, NY)"
   ],
@@ -3401,7 +3541,7 @@
    "Kleiner Perkins",
    "Lightspeed"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -3435,7 +3575,7 @@
    "General Catalyst",
    "Sequoia"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY; Remote, US (Hub cities)",
    "New York, NY"
@@ -3450,6 +3590,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Staff Software Engineer, AI/ML",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/mavenclinic/jobs/7674282002",
   "vc_rank": 3,
   "verified": true,
@@ -3467,7 +3608,7 @@
   "investors": [
    "AI x IA"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -3501,7 +3642,7 @@
    "Felicis",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -3512,10 +3653,11 @@
   "raised": "unverified (~$450M)",
   "rating": "Stretch",
   "reason": "Production ML ownership and drift monitoring carry over, but the core work is LLM evaluation, fine-tuning and human-in-the-loop quality systems.",
-  "salary": "$160K - $500K",
+  "salary": "$180K - $500K",
   "stage": "Series C",
   "status": "",
   "title": "Machine Learning Engineer, Frontier Data Products",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/mercor/73a9f1c6-3c62-4c49-b65d-e5f6a3549d95",
   "vc_rank": 0,
   "verified": false,
@@ -3536,7 +3678,7 @@
    "Insight",
    "Canapi"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -3551,6 +3693,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/middesk/f0da59d3-43fa-460b-88ea-4fc9c052b28c",
   "vc_rank": 0,
   "verified": false,
@@ -3571,7 +3714,7 @@
    "Insight",
    "Canapi"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -3607,7 +3750,7 @@
    "Insight",
    "Canapi"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -3622,6 +3765,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Lead Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/middesk/7fd5aeb2-c33c-4f0a-ad3d-2161201bc174",
   "vc_rank": 0,
   "verified": false,
@@ -3642,7 +3786,7 @@
    "Sequoia",
    "Kleiner Perkins"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Union Square, New York City"
   ],
@@ -3656,6 +3800,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Data Scientist, Product",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/mirage/52050007-3817-4151-9e68-41ec0dd03e42",
   "vc_rank": 0,
   "verified": false,
@@ -3675,7 +3820,7 @@
    "Redpoint",
    "Amplify Partners"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -3710,7 +3855,7 @@
    "Redpoint",
    "Amplify Partners"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -3745,7 +3890,7 @@
    "Redpoint",
    "Amplify Partners"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -3760,6 +3905,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Member of Technical Staff - ML Performance",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/modal/af17da5e-23ca-4802-854d-5f0546e1ed32",
   "vc_rank": 0,
   "verified": true,
@@ -3779,7 +3925,7 @@
    "Fidelity",
    "EDBI"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Menlo Park, California, United States; New York, United States",
    "Menlo Park - Office",
@@ -3795,6 +3941,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Senior Data Scientist, Growth Analytics",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/moloco/jobs/8009687003",
   "vc_rank": 1,
   "verified": true,
@@ -3814,7 +3961,7 @@
    "Sequoia",
    "Coatue"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York",
    "San Francisco, California"
@@ -3849,7 +3996,7 @@
    "Sequoia",
    "Coatue"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco, California",
    "New York, New York"
@@ -3899,6 +4046,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Staff Data Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/usenourish/jobs/5428845008",
   "vc_rank": 0,
   "verified": false,
@@ -3918,7 +4066,7 @@
    "Index",
    "J.P. Morgan Growth Equity"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "Headquarters"
@@ -3933,6 +4081,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Staff Data Scientist",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/usenourish/jobs/5451468008",
   "vc_rank": 0,
   "verified": false,
@@ -3954,7 +4103,7 @@
    "QED",
    "Oak HC/FT"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, United States",
    "Remote - US"
@@ -3969,6 +4118,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Lead Credit & Risk Data Science / Analytics",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/ocrolusinc/jobs/6212708004",
   "vc_rank": 1,
   "verified": true,
@@ -3990,7 +4140,7 @@
    "Apollo",
    "Motive Partners"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York",
    "New York"
@@ -4005,6 +4155,7 @@
   "stage": "Growth",
   "status": "",
   "title": "AI/ML Software Engineer",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/octaura/jobs/5155548007",
   "vc_rank": 4,
   "verified": true,
@@ -4024,7 +4175,7 @@
    "CRV",
    "S32"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -4038,6 +4189,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Founding Applied Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/outtake/c94d3009-2503-4e5a-a0fc-a334260bfda3",
   "vc_rank": 0,
   "verified": true,
@@ -4059,7 +4211,7 @@
    "Script Capital",
    "Cadenza"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -4073,6 +4225,7 @@
   "stage": "Seed",
   "status": "",
   "title": "Machine Learning Engineer (Junior)",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d",
   "vc_rank": 2,
   "verified": true,
@@ -4094,7 +4247,7 @@
    "Script Capital",
    "Cadenza"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Brooklyn"
   ],
@@ -4108,6 +4261,7 @@
   "stage": "Seed",
   "status": "",
   "title": "Machine Learning Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/pangramlabs/588ffef1-fa5f-4e48-9b01-1b73b42cc52c",
   "vc_rank": 2,
   "verified": true,
@@ -4128,7 +4282,7 @@
    "EQT",
    "Durable"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York Office",
    "Parloa Inc."
@@ -4164,7 +4318,7 @@
    "EQT",
    "Durable"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York Office",
    "Parloa Inc."
@@ -4200,7 +4354,7 @@
    "Initialized",
    "Y Combinator"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -4235,7 +4389,7 @@
    "Initialized",
    "Y Combinator"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -4249,6 +4403,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Applied Machine Learning Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/permitflow/036ad66d-a31e-4f08-9533-838345641335",
   "vc_rank": 0,
   "verified": false,
@@ -4269,7 +4424,7 @@
    "SoftBank",
    "Nvidia"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -4305,7 +4460,7 @@
    "SoftBank",
    "Nvidia"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -4340,7 +4495,7 @@
    "Afore Capital",
    "Pathlight Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -4354,6 +4509,7 @@
   "stage": "Seed",
   "status": "",
   "title": "Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/petra-labs/965b5c3c-41cd-4b38-94c1-62b0b7a98ff5",
   "vc_rank": 3,
   "verified": true,
@@ -4374,7 +4530,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, United States",
    "New York"
@@ -4389,6 +4545,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Data Scientist",
+  "track": "ds",
   "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4644839101",
   "vc_rank": 0,
   "verified": true,
@@ -4409,7 +4566,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, United States",
    "New York"
@@ -4445,7 +4602,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, United States ",
    "New York"
@@ -4460,6 +4617,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Machine Learning Engineer",
+  "track": "ds",
   "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4849382101",
   "vc_rank": 0,
   "verified": true,
@@ -4480,7 +4638,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, United States ",
    "New York"
@@ -4495,6 +4653,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Senior Machine Learning Engineer",
+  "track": "ds",
   "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101",
   "vc_rank": 0,
   "verified": true,
@@ -4516,7 +4675,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City Office",
    "Seattle Office",
@@ -4532,6 +4691,7 @@
   "stage": "Series D+",
   "status": "",
   "title": "Data Scientist - Fraud",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/plaid/361c4725-ab72-4895-a3aa-9b642f4927a9",
   "vc_rank": 3,
   "verified": false,
@@ -4553,7 +4713,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -4569,6 +4729,7 @@
   "stage": "Series D+",
   "status": "",
   "title": "Senior Data Scientist - Embedded Insights",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/plaid/c85370cf-7391-4307-9757-42f2ee25b98a",
   "vc_rank": 3,
   "verified": false,
@@ -4590,7 +4751,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -4606,6 +4767,7 @@
   "stage": "Series D+",
   "status": "",
   "title": "Senior Data Scientist - Network Value (Credit)",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/plaid/172bb8e8-7dc8-4fdc-ae20-525456989ff4",
   "vc_rank": 3,
   "verified": false,
@@ -4627,7 +4789,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -4643,6 +4805,7 @@
   "stage": "Series D+",
   "status": "",
   "title": "Senior Data Scientist - Network Value (Plaid App)",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/plaid/4117610d-c779-47bc-be34-51291ae6493d",
   "vc_rank": 3,
   "verified": false,
@@ -4664,7 +4827,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City Office",
    "Seattle Office",
@@ -4680,6 +4843,7 @@
   "stage": "Series D+",
   "status": "",
   "title": "Senior Machine Learning Engineer - Embedded Insights",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/plaid/a1db9566-d51d-495e-9e87-4d57ac307d3c",
   "vc_rank": 3,
   "verified": false,
@@ -4701,7 +4865,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -4717,6 +4881,7 @@
   "stage": "Series D+",
   "status": "",
   "title": "Senior Machine Learning Engineer - Fraud",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/plaid/85cd5d07-9920-45fa-931a-daf8c3558e5b",
   "vc_rank": 3,
   "verified": false,
@@ -4736,7 +4901,7 @@
    "AXA Venture Partners",
    "Bluestone Equity Partners"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -4751,6 +4916,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Machine Learning Engineer (LLM / Personalization)",
+  "track": "ds",
   "url": "https://jobs.lever.co/qloo/dc353e19-b91e-4c78-b2d0-1e59690d7e4e",
   "vc_rank": 1,
   "verified": true,
@@ -4771,7 +4937,7 @@
    "Dragonfly",
    "Norwest"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "Remote"
@@ -4786,6 +4952,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Data Scientist - Fraud Risk",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/rain/d801cb1d-0500-487f-8732-39a4afe3c741",
   "vc_rank": 0,
   "verified": true,
@@ -4806,7 +4973,7 @@
    "Dragonfly",
    "Norwest"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY"
   ],
@@ -4841,7 +5008,7 @@
    "Dragonfly",
    "Norwest"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY"
   ],
@@ -4855,6 +5022,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Machine Learning Engineer - Fraud Risk",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/rain/21bbb841-fe8c-41e3-abde-da66086e08f0",
   "vc_rank": 0,
   "verified": true,
@@ -4875,7 +5043,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY (HQ)"
   ],
@@ -4910,7 +5078,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY (HQ)"
   ],
@@ -4945,7 +5113,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY (HQ)",
    "San Francisco, CA"
@@ -4981,7 +5149,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY (HQ)",
    "San Francisco, CA"
@@ -4996,6 +5164,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Data Scientist, Finance",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803",
   "vc_rank": 3,
   "verified": true,
@@ -5016,7 +5185,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY (HQ)",
    "San Francisco, CA",
@@ -5032,6 +5201,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448",
   "vc_rank": 3,
   "verified": true,
@@ -5052,7 +5222,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY (HQ)",
    "Remote (US)"
@@ -5067,6 +5237,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Machine Learning Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951",
   "vc_rank": 3,
   "verified": true,
@@ -5087,7 +5258,7 @@
    "ICONIQ",
    "First Round"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -5123,7 +5294,7 @@
    "Khosla Ventures",
    "Tiger Global"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -5158,7 +5329,7 @@
    "Khosla Ventures",
    "Tiger Global"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -5193,7 +5364,7 @@
    "Khosla Ventures",
    "Tiger Global"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -5228,7 +5399,7 @@
    "Khosla Ventures",
    "Tiger Global"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -5263,7 +5434,7 @@
    "Khosla Ventures",
    "Tiger Global"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -5298,7 +5469,7 @@
    "Khosla Ventures",
    "Tiger Global"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -5332,7 +5503,7 @@
    "FirstMark",
    "ShawSpring"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY",
    "New York, NY"
@@ -5368,7 +5539,7 @@
    "True Ventures",
    "Upfront"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -5382,6 +5553,7 @@
   "stage": "Series A",
   "status": "",
   "title": "AI/ML Engineer, Lead",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/sandbar/c80cf04b-b597-4bc9-ae06-d920a7c88a27",
   "vc_rank": 1,
   "verified": true,
@@ -5402,7 +5574,7 @@
    "True Ventures",
    "Upfront"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City"
   ],
@@ -5416,6 +5588,7 @@
   "stage": "Series A",
   "status": "",
   "title": "ML Engineer, Audio",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/sandbar/84ec6c36-e5d6-4013-8228-17142023a475",
   "vc_rank": 1,
   "verified": true,
@@ -5435,7 +5608,7 @@
    "Sequoia",
    "Mantis VC"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York"
   ],
@@ -5449,6 +5622,7 @@
   "stage": "Series A",
   "status": "",
   "title": "AI & ML Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/sandstone/60245340-bedd-4f0c-b3b9-ed27c924b973",
   "vc_rank": 0,
   "verified": true,
@@ -5468,7 +5642,7 @@
    "Sequoia",
    "Mantis VC"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York"
   ],
@@ -5502,7 +5676,7 @@
    "TCV",
    "Wellington Management"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York",
    "United States"
@@ -5517,6 +5691,7 @@
   "stage": "Series E",
   "status": "",
   "title": "Senior Machine Learning Engineer",
+  "track": "ds",
   "url": "https://seatgeek.com/jobs/7246461?gh_jid=7246461",
   "vc_rank": 3,
   "verified": true,
@@ -5536,7 +5711,7 @@
    "Spark Capital",
    "Costanoa"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City",
    "San Francisco",
@@ -5552,6 +5727,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Actuarial Data Science Lead",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/shepherd/c47ddfda-187d-4271-9d23-79a2cee10a59",
   "vc_rank": 0,
   "verified": true,
@@ -5572,7 +5748,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
    "New York City",
@@ -5609,7 +5785,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
    "New York City",
@@ -5646,7 +5822,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
    "New York City",
@@ -5683,7 +5859,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
    "New York City",
@@ -5721,7 +5897,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -5738,6 +5914,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/5ee37ea6-a36a-472c-90a9-73067f6d6dac",
   "vc_rank": 3,
   "verified": true,
@@ -5758,7 +5935,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hub - New York",
    "Hub - San Francisco",
@@ -5776,6 +5953,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Data Scientist II, Client Analysis",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/095be3e2-8fbc-49c6-84cb-1d765d0a8576",
   "vc_rank": 3,
   "verified": true,
@@ -5796,7 +5974,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hub - San Francisco",
    "Hub - Miami",
@@ -5813,6 +5991,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Data Scientist II, Fraud & Risk",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/05533c4e-1c59-4ae8-b12c-6acad3757a77",
   "vc_rank": 3,
   "verified": true,
@@ -5833,7 +6012,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hub - San Francisco",
    "Hybrid - Seattle, WA",
@@ -5850,6 +6029,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Data Scientist ll - Digital Intelligence",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/e0da1919-2b9d-4b07-820b-4daa0f8f3309",
   "vc_rank": 3,
   "verified": true,
@@ -5870,7 +6050,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hub - Miami",
    "Hub - San Francisco",
@@ -5887,6 +6067,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Data Scientist ll - RiskOS",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/5337e747-bc84-4c2d-8f5e-042cf64bc80e",
   "vc_rank": 3,
   "verified": true,
@@ -5907,7 +6088,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hybrid - New York, NY"
   ],
@@ -5942,7 +6123,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -5958,6 +6139,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Senior Data Scientist - Digital Intelligence, Device Signals",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/819e4f69-3262-4a51-9237-ce93af394840",
   "vc_rank": 3,
   "verified": true,
@@ -5978,7 +6160,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -5995,6 +6177,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Senior Data Scientist - Document Verification",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/00bb129a-db80-4186-90fe-2279be6aa922",
   "vc_rank": 3,
   "verified": true,
@@ -6015,7 +6198,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -6031,6 +6214,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Staff Data Scientist - Digital Intelligence",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/37ee4c0c-2b5b-4fc0-a485-f921c40a7861",
   "vc_rank": 3,
   "verified": true,
@@ -6051,7 +6235,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hub - New York",
    "Hub - San Francisco"
@@ -6066,6 +6250,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Staff Data Scientist - Fraud & Risk",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/2d652fb5-55b0-42d0-a75d-dd7511721441",
   "vc_rank": 3,
   "verified": true,
@@ -6086,7 +6271,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - New York, NY",
@@ -6103,6 +6288,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Staff Data Scientist - Fraud & Risk",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/ab44e053-e58c-4e11-bf63-cdb27778c3d9",
   "vc_rank": 3,
   "verified": true,
@@ -6123,7 +6309,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "California - Remote",
    "Hub - San Francisco",
@@ -6141,6 +6327,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Staff Data Scientist, DocV",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/620b7759-fee1-41f4-ba74-592c1d063e55",
   "vc_rank": 3,
   "verified": true,
@@ -6161,7 +6348,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "California - Remote",
    "Hub - San Francisco",
@@ -6179,6 +6366,7 @@
   "stage": "Series E+",
   "status": "",
   "title": "Staff Data Scientist, Watchlist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/socure/188b635a-5534-4e1b-bdaf-1e6dfea86aad",
   "vc_rank": 3,
   "verified": true,
@@ -6199,7 +6387,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC"
   ],
@@ -6213,6 +6401,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Senior / Staff Data Scientist, Growth Monetization",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/suno/5444295f-78b1-490e-a9a1-f93120d06f77",
   "vc_rank": 0,
   "verified": false,
@@ -6233,7 +6422,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC"
   ],
@@ -6247,6 +6436,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Senior / Staff Data Scientist, Growth Product",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/suno/7b81d3fa-8a84-4d3a-b681-a6b06974e01e",
   "vc_rank": 0,
   "verified": false,
@@ -6267,7 +6457,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "NYC"
   ],
@@ -6281,6 +6471,7 @@
   "stage": "Series C",
   "status": "",
   "title": "Senior Data Scientist, Content + Social",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/suno/11036f7e-adf7-45ef-baf4-e4c3c334039d",
   "vc_rank": 0,
   "verified": false,
@@ -6299,7 +6490,7 @@
    "Hustle Fund",
    "Weekend Fund"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -6313,6 +6504,7 @@
   "stage": "Seed",
   "status": "",
   "title": "Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/sunset/82637183-2b5e-4578-9fed-b2174a434254",
   "vc_rank": 3,
   "verified": false,
@@ -6331,7 +6523,7 @@
    "Hustle Fund",
    "Weekend Fund"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -6345,6 +6537,7 @@
   "stage": "Seed",
   "status": "",
   "title": "Machine Learning Engineer",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/sunset/48131ef6-4971-403a-8127-cfdb5446fc07",
   "vc_rank": 3,
   "verified": false,
@@ -6364,7 +6557,7 @@
    "General Catalyst",
    "Primary"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -6398,7 +6591,7 @@
    "General Catalyst",
    "Primary"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -6432,7 +6625,7 @@
    "Primary Venture Partners",
    "Lerer Hippeau"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York"
   ],
@@ -6467,7 +6660,7 @@
    "a16z",
    "Foundation Capital"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City Office"
   ],
@@ -6502,7 +6695,7 @@
    "Scale Venture Partners",
    "Meritech"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York Office"
   ],
@@ -6537,7 +6730,7 @@
    "Scale Venture Partners",
    "Meritech"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York Office"
   ],
@@ -6572,7 +6765,7 @@
    "General Catalyst",
    "Addition"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -6586,6 +6779,7 @@
   "stage": "Series B",
   "status": "",
   "title": "Senior Data Scientist",
+  "track": "ds",
   "url": "https://jobs.ashbyhq.com/traba/5b2786e1-bba9-4847-970b-38ffbdf2e2b0",
   "vc_rank": 0,
   "verified": false,
@@ -6607,7 +6801,7 @@
    "FPV Ventures",
    "Redesign Health"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -6644,7 +6838,7 @@
    "FPV Ventures",
    "Redesign Health"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -6679,7 +6873,7 @@
    "Kleiner Perkins",
    "NFDG"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York"
   ],
@@ -6713,7 +6907,7 @@
    "a16z",
    "Ribbit Capital"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -6749,7 +6943,7 @@
    "CRV",
    "GV"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hybrid - San Francisco, New York City, Austin",
    "AMER"
@@ -6785,7 +6979,7 @@
    "CRV",
    "GV"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "Hybrid - San Francisco, New York City",
    "Office - New York City",
@@ -6801,6 +6995,7 @@
   "stage": "Series F",
   "status": "",
   "title": "Machine Learning Engineer, Trust & Safety",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004",
   "vc_rank": 3,
   "verified": false,
@@ -6820,7 +7015,7 @@
    "83North",
    "Pitango"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York",
    "New York City"
@@ -6855,7 +7050,7 @@
    "83North",
    "Pitango"
   ],
-  "last_seen_open": "2026-10-16T19:32:27+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, New York",
    "New York City"
@@ -6889,7 +7084,7 @@
    "Carlyle",
    "Norwest"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "US Remote",
    "New York City HQ"
@@ -6904,6 +7099,7 @@
   "stage": "Growth",
   "status": "",
   "title": "Data Scientist, Corporate",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/yipitdata/jobs/8045383",
   "vc_rank": 4,
   "verified": false,
@@ -6923,7 +7119,7 @@
    "Baillie Gifford",
    "Atomico"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY; Silicon Valley, CA; USA Remote",
    "New York"
@@ -6938,6 +7134,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Senior Data Scientist, Marketing",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/zocdoc/jobs/7958522",
   "vc_rank": 3,
   "verified": true,
@@ -6957,7 +7154,7 @@
    "Baillie Gifford",
    "Atomico"
   ],
-  "last_seen_open": "2026-10-16T12:01:26+00:00",
+  "last_seen_open": "2026-10-17T12:03:28+00:00",
   "locations": [
    "New York, NY; USA Remote",
    "New York"
@@ -6972,6 +7169,7 @@
   "stage": "Series D",
   "status": "",
   "title": "Staff Data Scientist, Marketplace Analytics",
+  "track": "ds",
   "url": "https://job-boards.greenhouse.io/zocdoc/jobs/7560841",
   "vc_rank": 3,
   "verified": true,

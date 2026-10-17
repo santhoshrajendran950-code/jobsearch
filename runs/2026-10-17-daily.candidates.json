@@ -1,0 +1,37 @@
+[
+ {
+  "id": "d63915a083",
+  "key": "Headway|Senior Data Scientist|https://jobs.ashbyhq.com/headway/307f5c55-2e9d-44c0-85e8-3cdfe09e0bb6",
+  "track": "ds",
+  "company": "Headway",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "unverified (~$325M+)",
+   "investors": [
+    "a16z",
+    "Thrive",
+    "Spark",
+    "Accel",
+    "GV"
+   ],
+   "what": "Mental-health marketplace matching patients with in-network therapists",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Senior Data Scientist",
+  "url": "https://jobs.ashbyhq.com/headway/307f5c55-2e9d-44c0-85e8-3cdfe09e0bb6",
+  "locations": [
+   "New York, NY",
+   "San Francisco, CA",
+   "Seattle, WA"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-10-16T17:41:11.777000+00:00",
+  "salary": "$180K - $225K",
+  "department": "All Cost Centers",
+  "degree_mention": false,
+  "description": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that.\n\n\n\nBut we're going further. Over 90,000 providers across all 50 states run their practice on our software, serving over 2.6 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale, and building much of it with AI. We aren't just a billing layer; we are becoming the platform where care actually happens.\n\n\n\nWe're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better.\n\n\n\nAbout the role\n\nJoin us to build the decision engine for better mental health outcomes.\n\nAs a Senior Data Scientist, you will sit in the heart of a cross-functional product team and help turn messy, real-world signals into clear decisions. You will make sure we are capturing the right data, designing experiments that tell us what is actually driving outcomes, and translating findings into recommendations that teams can act on quickly. When the insight is stable and valuable, you will help operationalize it through predictive models that improve provider and patient experiences.\n\nWe’re looking for people who like ambiguity, enjoy hard problems, and want their work to matter in the world.\n\nWhat you will do\n\n - Be the analytics partner inside the pod. Work closely with Product, Engineering, Design, Ops, and Clinical stakeholders to define the questions, the metrics, the guardrails, and the decision rules.\n\n - Design and analyze A/B tests and quasi-experiments with clear hypotheses, power considerations, and pre-defined success criteria.\n\n - Connect behavior to strategy. Use funnel, cohort, segmentation, and lifecycle analysis to understand how people and providers experience Headway, and where product changes will have the biggest impact.\n\n - Use causal inference when experiments are not possible. Apply approaches like diff-in-diff, matching, and regression-based designs with principled uncertainty quantification.\n\n - Develop predictive models that operationalize vetted insights (feature development, validation, backtesting, calibration), with clear launch criteria and monitoring plans.\n\n - Produce analysis and narratives that are crisp, honest about uncertainty, and drive action.\n\n - Help raise the bar by contributing to shared standards for metrics, experimentation, and analytical quality, so teams can move faster with confidence.\n\nWhat will make you successful\n\n - 6+ years using data to drive product or business decisions in product, growth, health, engineering, or operations environments.\n\n - Strong SQL and strong proficiency in Python or R for analysis and modeling.\n\n - Depth in experimentation and causal inference under real-world constraints.\n\n - Fluency with AI tools as part of your workflow: using LLMs and coding assistants to accelerate analysis, prototyping, and documentation, while sti",
+  "already_in_pipeline": false
+ }
+]
