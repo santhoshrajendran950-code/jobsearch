@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Sun Oct 18, 2026 — 1 new role (0 strong · 0 good · 1 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Stretch | [ML Technical Lead, Agentic Interactions](https://jobs.ashbyhq.com/sandbar/3cccdc86-b105-4e88-b4f3-5a50bebcc28b) | Sandbar<br><sub>Voice-AI wearable (Stream ring) from ex-CTRL-labs founders</sub> | Series A, $36M<br><sub>Adjacent, Kindred Ventures, True Ventures, Upfront</sub> | In-person NYC | Oct 17 | $230K - $290K | Hands-on tech lead role at a Series A consumer startup in NYC. The work is LLM agents, post-training and inference, not the tabular LTV/experimentation ML he has done. **Gap:** LLM post-training required; 6+ yrs ML |
+
 ## Sat Oct 17, 2026 — 1 new role (0 strong · 1 good · 0 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

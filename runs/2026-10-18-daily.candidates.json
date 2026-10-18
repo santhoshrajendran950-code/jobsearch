@@ -1,0 +1,34 @@
+[
+ {
+  "id": "de40d0b0c0",
+  "key": "Sandbar|ML Technical Lead, Agentic Interactions|https://jobs.ashbyhq.com/sandbar/3cccdc86-b105-4e88-b4f3-5a50bebcc28b",
+  "track": "ds",
+  "company": "Sandbar",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$36M",
+   "investors": [
+    "Adjacent",
+    "Kindred Ventures",
+    "True Ventures",
+    "Upfront"
+   ],
+   "what": "Voice-AI wearable (Stream ring) from ex-CTRL-labs founders",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 1,
+  "title": "ML Technical Lead, Agentic Interactions",
+  "url": "https://jobs.ashbyhq.com/sandbar/3cccdc86-b105-4e88-b4f3-5a50bebcc28b",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-10-17T19:51:53.380000+00:00",
+  "salary": "$230K - $290K",
+  "department": "Machine Learning",
+  "degree_mention": false,
+  "description": "About Sandbar\n\nSandbar is an interface company in New York City. We aim to augment individuals so we can each think, act, and move more freely. Our team has built SW, ML, and HW products across Meta, CTRL-labs, Google, Apple, Fitbit, Peloton, and Equinox.\n\n\n\nOur first product, Stream, is a self extension—a private voice ring and conversational interface. Stream has been featured in WSJ, Bloomberg, & Wired, and begins shipping in Summer '26.\n\n\n\nJoin us in creating technology that extends human thinking. \n\n\n\nAbout\n\nWe're looking for a tech lead to design self-aligned agentic experiences in Stream, and lead the tightly focused team building it. Stream is a self extension, where personalization, privacy, and individual control are paramount.\n\nThis is a hands-on lead role for a consumer product, not a platform or research role. You will  set the technical direction, build the end-user experience, and be responsible for an that agent works in the hands of general customers. You will work directly with the founders and the backend, iOS, and ML engineers building Stream.\n\n \n\nResponsibilities\n\n - Lead architecture, strategy, and tradeoffs for our ML-based products\n\n - Design and improve user-facing model-based experiences, including agentic control, conversational interactions, and information retrieval.\n\n - Develop infrastructure to rapidly develop, evaluate, and deploy models\n\n - Optimize inference pipelines for latency, reliability, and concurrency\n\n - Work closely with other ML/AI engineers, infrastructure engineers, designers, and cofounders on existing and future products\n   \n    \n\nQualifications\n\n - 6+ years in machine learning experience\n\n - Experience shipping ML-based products is required\n\n - Experience in large-language model evaluation and post-training is required\n\n - Experience in audio / voice ML is a plus\n\n - Comfortable writing production-grade software\n\n - Passion for human-computer interaction\n\n - Experience setting technical direction and driving execution with multidisciplinary teams\n\nFTE Benefits\n\n - Health, vision, and dental benefits\n\n - Company-sponsored 401(k)\n\n - Unlimited PTO and sick time\n\n - Early stage equity",
+  "already_in_pipeline": false
+ }
+]
