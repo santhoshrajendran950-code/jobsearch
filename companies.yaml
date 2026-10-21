@@ -3042,3 +3042,17 @@
   verified: false
   source: discover 2026-10-15
   nyc_office: true
+
+# ── auto-discovered 2026-10-21 ──
+- name: Thalo Labs
+  ats: lever
+  slug: thalolabs
+  stage: Seed
+  raised: unverified
+  investors: []
+  hq: New York, NY (Midtown Manhattan)
+  what: Hardware-plus-software ML for HVAC equipment monitoring and issue detection
+    from streaming sensor data
+  verified: false
+  source: discover 2026-10-21
+  nyc_office: true
