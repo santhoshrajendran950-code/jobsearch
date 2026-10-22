@@ -1,0 +1,221 @@
+[
+ {
+  "id": "298e8a6640",
+  "key": "Formation Bio|Data Scientist, Medical Imaging (Open Level)|https://job-boards.greenhouse.io/formationbio/jobs/8310673",
+  "track": "ds",
+  "company": "Formation Bio",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "~$600M",
+   "investors": [
+    "a16z",
+    "Sanofi",
+    "Sequoia"
+   ],
+   "what": "AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Data Scientist, Medical Imaging (Open Level)",
+  "url": "https://job-boards.greenhouse.io/formationbio/jobs/8310673",
+  "locations": [
+   "Boston, MA; New York, NY",
+   "Boston",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-21T15:53:16-04:00",
+  "salary": "$178K–$232K",
+  "department": "Data Science",
+  "degree_mention": true,
+  "description": "About Formation Bio \n Formation Bio is a tech and AI driven pharma company differentiated by radically more efficient drug development. &nbsp;\n Advancements in AI and drug discovery are creating more candidate drugs than the industry can progress because of the high cost and time of clinical trials. Recognizing that this development bottleneck may ultimately limit the number of new medicines that can reach patients, Formation Bio, founded in 2016 as TrialSpark Inc., has built technology platforms, processes, and capabilities to accelerate all aspects of drug development and clinical trials. Formation Bio partners, acquires, or in-licenses drugs from pharma companies, research organizations, and biotechs to develop programs past clinical proof of concept and beyond, ultimately helping to bring new medicines to patients. The company is backed by investors across pharma and tech, including a16z, Sequoia, Sanofi, Thrive Capital, John Doerr, Spark Capital, SV Angel Growth, and others.&nbsp;\n You can read more at the following links:\n Our Vision for AI in Pharma \n Our Current Drug Portfolio \n Our Technology &amp; Platform \n At Formation Bio, our values are the driving force behind our mission to revolutionize the pharma industry. Every team and individual at the company shares these same values, and every team and individual plays a key part in our mission to bring new treatments to patients faster and more efficiently.\n About the Position \n As a Senior Data Scientist - Medical Imaging at Formation Bio, you will lead our efforts to integrate advanced imaging analytics and AI into our drug development pipeline. In this role, you'll pioneer the application of computer vision and deep learning to medical imaging data (MRI, X-ray, CT, PET) to accelerate clinical trials and improve patient outcomes. You'll develop state-of-the-art models for automated image analysis, disease progression monitoring, and treatment response assessment. Working closely with clinical teams, radiologists, and drug development experts, you'll translate complex imaging data into actionable insights that drive key decisions across our portfolio. This position offers a unique opportunity to revolutionize how medical imaging is leveraged in pharmaceutical development while directly impacting patient care.\n Responsibilities \n Lead the development of advanced deep learning models for medical image analysis, focusing on MRI and X-ray modalities for clinical trial applications\n Design and implement automated image processing pipelines for disease detection, segmentation, and quantification across multiple therapeutic areas\n Create innovative approaches for longitudinal image analysis to track disease progression and treatment efficacy in clinical trials, incl. AI-based biomarkers and surrogate endpoints\n Collaborate with clinical operations to integrate imaging AI solutions into trial protocols and workflows\n Partner with regulatory teams to ensure imaging biomarkers and AI models meet FDA standards for clinical trial endpoints\n Build scalable infrastructure for processing and analyzing large-scale medical imaging datasets from multi-site clinical trials\n Present imaging insights and model performance to executive leadership and external partners\n About You \n Required Qualifications&nbsp;\n PhD in Computer Science, Biomedical Engineering, Medical Physics, or related field with focus on medical imaging\n 5+ years of post-PhD industry experience developing production-grade AI models",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "298e8a6640",
+   "rating": "Stretch",
+   "reason": "Senior deep-learning computer-vision role on medical imaging (MRI/CT/X-ray); this is far from his tabular LTV, churn and experimentation work.",
+   "gap": "requires PhD + 5yrs post-PhD; CV/medical imaging",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets"
+  }
+ },
+ {
+  "id": "7bf7c2e498",
+  "key": "Formation Bio|Data Scientist (Open Level)|https://job-boards.greenhouse.io/formationbio/jobs/8306480",
+  "track": "ds",
+  "company": "Formation Bio",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "~$600M",
+   "investors": [
+    "a16z",
+    "Sanofi",
+    "Sequoia"
+   ],
+   "what": "AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Data Scientist (Open Level)",
+  "url": "https://job-boards.greenhouse.io/formationbio/jobs/8306480",
+  "locations": [
+   "Boston, MA; New York, NY",
+   "Boston",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-21T15:52:16-04:00",
+  "salary": "$162K–$267K",
+  "department": "Data Science",
+  "degree_mention": true,
+  "description": "About Formation Bio \n Formation Bio is a tech and AI driven pharma company differentiated by radically more efficient drug development. &nbsp;\n Advancements in AI and drug discovery are creating more candidate drugs than the industry can progress because of the high cost and time of clinical trials. Recognizing that this development bottleneck may ultimately limit the number of new medicines that can reach patients, Formation Bio, founded in 2016 as TrialSpark Inc., has built technology platforms, processes, and capabilities to accelerate all aspects of drug development and clinical trials. Formation Bio partners, acquires, or in-licenses drugs from pharma companies, research organizations, and biotechs to develop programs past clinical proof of concept and beyond, ultimately helping to bring new medicines to patients. The company is backed by investors across pharma and tech, including a16z, Sequoia, Sanofi, Thrive Capital, John Doerr, Spark Capital, SV Angel Growth, and others.&nbsp;\n You can read more at the following links:\n Our Vision for AI in Pharma \n Our Current Drug Portfolio \n Our Technology &amp; Platform \n At Formation Bio, our values are the driving force behind our mission to revolutionize the pharma industry. Every team and individual at the company shares these same values, and every team and individual plays a key part in our mission to bring new treatments to patients faster and more efficiently.\n About the Position \n As a Data Scientist at Formation Bio, you will be at the forefront of revolutionizing drug development through AI and advanced analytics. In this role, you'll lead crucial initiatives that directly impact our drug development portfolio, from developing sophisticated models for patient selection to creating AI-powered solutions for clinical trial optimization. You'll work at the intersection of computational biology, machine learning, and drug development, collaborating with cross-functional teams to translate complex biological data into actionable insights. This position offers a unique opportunity to shape the future of pharmaceutical development by leveraging cutting-edge AI technologies while making a meaningful impact on patient lives.&nbsp;\n Responsibilities \n Lead and execute complex data science projects that directly advance our drug development portfolio&nbsp;\n Develop and implement sophisticated models for therapeutic hypothesis evaluation, including patient stratification and biomarker identification\n Design and create AI models for modernizing clinical trial evaluations, including surrogate endpoints&nbsp;\n Aid in the development and training of AI agents to automate and optimize biomedical workflows&nbsp;\n Collaborate cross-functionally with clinical, technical, and research teams&nbsp;\n Present complex analytical findings to senior stakeholders, including executive leadership&nbsp;\n About You \n Required Qualifications&nbsp;\n PhD in computational sciences or life sciences&nbsp;\n 3-5+ years of post-academic experience in life sciences (biotech, pharma, consulting)&nbsp;\n Strong programming skills, particularly in Python&nbsp;\n Extensive experience in multi-modal bioinformatics analysis&nbsp;\n Preferred Qualifications&nbsp;\n Proven expertise in cloud computing environments, including proficiency with tabular and/or graph databases&nbsp;\n Strong background in machine learning and deep learning, particularly in biological applications&nbsp;\n Experience with large language models (LLM)\n Demonstra",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "7bf7c2e498",
+   "rating": "Stretch",
+   "reason": "Biomedical DS role (patient stratification, biomarkers, bioinformatics). His modeling skills transfer, but he has no life-sciences experience and it needs a PhD.",
+   "gap": "requires PhD; life-sciences/bioinformatics domain",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets"
+  }
+ },
+ {
+  "id": "55fa945f71",
+  "key": "Attentive|Principal Software Engineer, Machine Learning|https://job-boards.greenhouse.io/attentive/jobs/4408455009",
+  "track": "ds",
+  "company": "Attentive",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$863M",
+   "investors": [
+    "Coatue",
+    "Bain Capital Ventures",
+    "Sequoia",
+    "IVP"
+   ],
+   "what": "AI-powered SMS and email marketing platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Principal Software Engineer, Machine Learning",
+  "url": "https://job-boards.greenhouse.io/attentive/jobs/4408455009",
+  "locations": [
+   "San Francisco, CA",
+   "New York, NY",
+   "San Francisco, CA"
+  ],
+  "workplace": "",
+  "posted_at": "2026-09-17T17:55:10-04:00",
+  "salary": "$350K–$430K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "Attentive® is the AI marketing platform for 1:1 personalization redefining the way brands and people connect. We’re the only marketing platform that combines powerful technology with human expertise to build authentic customer relationships. By unifying SMS, RCS, email, and push notifications, our AI-powered personalization engine delivers bespoke experiences that drive performance, revenue, and loyalty through real-time behavioral insights.\n &nbsp;\n Recognized as the&nbsp;#1&nbsp;provider in SMS Marketing by G2, Attentive partners with more than 8,000 customers across 70+ industries. Leading global brands like Crate and Barrel, Urban Outfitters, and Carter’s work with us to enable billions of interactions that power tens of billions in revenue for our customers.\n &nbsp;\n With a distributed global workforce and employee hubs in New York City, San Francisco, London, and Sydney, Attentive’s team has been consistently recognized for its performance and culture. We’re proud to be included in&nbsp; Deloitte’s Fast 500 &nbsp;(four years running!),&nbsp; LinkedIn’s Top Startups ,&nbsp; Forbes’ Cloud 100 (five years running!),&nbsp; Inc.’s Best Workplaces , and the&nbsp; Human Rights Campaign Foundation's Corporate Equality Index !\n Our Machine Learning Engineering team powers personalized experiences for hundreds of millions of customers across thousands of brands. As a Senior Machine Learning Engineer, you will play a critical role in building, scaling, and operating production-grade ML systems that drive real-time personalization across the Attentive platform.\n You will operate with a high degree of ownership, partner closely with Product and Engineering, and help raise the technical bar across our ML systems in a fast-paced, high-impact environment.\n What You’ll Accomplish \n You have a proven track record of building systems that maintain a high bar of quality\n You deeply loathe regressions and take proactive steps to protect against them through a variety of testing techniques\n You are a collaborator, technical leader, and a great communicator\n You are constantly improving the quality of the project you are working on, both via direct contributions as well as long-term advocacy for larger-scale changes\n You are enthusiastic about the high impact, fast-paced work environment of an late-stage startup\n 10+ years experience is ideal\n Your Expertise \n You have worked professionally building systems for 10+ years with experience on a single system long enough to see the consequences of your decisions\n Experience with TensorFlow/Pytorch, xgboost, pandas, matplotlib, SQL, Spark or similar tools\n You have proficiency or experience with Python\n You have extensive experience using machine learning and data analysis, or similar, to build scalable systems and data-driven products, working with cross-functional teams\n You have a proven track record of building scalable, efficient, automated processes for large-scale data analyses, model development, model validation, and model implementation from modern research\n You have led cross-functional machine learning projects across teams\n What We Use \n Our infrastructure runs primarily in Kubernetes hosted in AWS’s EKS\n Infrastructure tooling includes Istio, Datadog, Terraform, CloudFlare, and Helm\n Our backend is Java / Spring Boot microservices, built with Gradle, coupled with things like DynamoDB, Kinesis, AirFlow, Postgres, Planetscale, and Redis, hosted via AWS\n Our frontend is built with React and TypeSc",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "55fa945f71",
+   "rating": "Stretch",
+   "reason": "Production ML for marketing personalization overlaps his ranking and Braze-targeting work. But this is a principal-level engineering role wanting 10+ years building systems.",
+   "gap": "10+ yrs SWE, principal level; B2B, late-stage",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI-powered SMS and email marketing platform"
+  }
+ },
+ {
+  "id": "36b7bb019d",
+  "key": "Concourse|Forward Deployed Engineer|https://jobs.ashbyhq.com/concourse/ceedd0d9-fc29-42d8-b141-5fa12c9aa628",
+  "track": "ai",
+  "company": "Concourse",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$12M Series A (Jan 2026)",
+   "investors": [
+    "Standard Capital",
+    "Andreessen Horowitz",
+    "CRV",
+    "Y Combinator"
+   ],
+   "what": "AI agents for corporate finance teams that connect to ERPs and data warehouses",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed Engineer",
+  "url": "https://jobs.ashbyhq.com/concourse/ceedd0d9-fc29-42d8-b141-5fa12c9aa628",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2025-11-13T04:11:54.825000+00:00",
+  "salary": null,
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "ABOUT CONCOURSE\n\nConcourse builds AI agents for corporate finance teams. \n\nWe connect core enterprise data sources and deploy AI agents that can analyze the data through natural language, deliver insights in seconds, and enable our customers to make better decisions. Since launching less than a year ago, Concourse has grown extremely rapidly. Our AI agents are deployed across hundreds of high-growth companies, unicorn startups like Persona, Front, Lightmatter, and large public companies - including multiple Fortune 500 customers. \n\nConcourse is backed by Andreessen Horowitz, CRV, YC, Standard Capital, and 50+ angel investors from companies like OpenAI, Cursor, Vercel, Brex, Carta, Rippling, 1Password, Deel, Jeeves, and DoorDash.\n\n\n\n\nABOUT THE ROLE\n\n\nWe’re hiring a Forward Deployed Engineer who blends deep finance expertise with strong product intuition and technical fluency.\n\nYour mission is to scale the impact of our AI agents across every finance team we serve. You’ll work directly with customers to understand their workflows, design product experiences that increase adoption, and build systems that ensure Concourse becomes core to their financial operations.\n\nYou'll work closely with our founders, engineering, and stay hands-on with SQL, integrations, and debugging, while thinking strategically about what unlocks customer value at scale. Your work will directly shape how we grow to thousands of customers and define how finance teams interact with AI & agents.\n\nThis is a high-impact role for someone who understands finance deeply, loves solving technical problems, and thrives at the intersection of product, data, and customer outcomes.\n\n\n\n\nKEY RESPONSIBILITIES\n\n - Optimize AI & Prompt Performance: Maintain prompt libraries, tune model configurations, and ensure high-quality outputs for finance use cases.\n\n - Solve Technical & Data Problems: Debug AI outputs, integration issues, and data inconsistencies through hands-on SQL, API investigation, and collaboration with engineering.\n\n - Build Analytics & Insights: Create dashboards and analytics that reveal customer behavior, product usage patterns, and revenue expansion opportunities.\n\n - Inform GTM Strategy: Identify patterns across customers to refine positioning, messaging, onboarding playbooks, and expansion strategies.\n\n - Design High-Impact Customer Journeys: Optimize onboarding, training, and lifecycle experiences that help finance teams reach first value faster and become long-term power users\n\n - Build Customer Health Frameworks: Develop systems for segmentation, health scoring, expansion signals, and proactive account insights.\n\n - Translate Customer Needs Into Product Requirements: Partner closely with engineering to scope features, refine requirements, and shape product direction with clarity and precision.\n\n - Architect Finance System Integrations: Work across ERPs, banks, CRMs, HRIS tools, and custom databases to design scalable agent capabilities and prompts\n\n\n\n\nABOUT YOU\n\n - 2-6 years in consulting, strategic finance, FP&A, finance operations, or data and systems roles supporting finance teams\n\n - Deep understanding of financial statements, accounting principles, and how finance teams operate, and the workflows they perform\n\n - Proficient in SQL, comfortable writing queries for analysis, debugging issues, and working with customer data\n\n - Familiarity with BI tools (Looker, Tableau, PowerBI) and data warehouses (Snowflake, BigQuery, Postgres, etc.)\n\n - Excellent communicat",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "36b7bb019d",
+   "rating": "Good",
+   "reason": "Hands-on SQL, BigQuery and analytics, plus customer health scoring and segmentation that match his churn/LTV work, at an in-person NYC Series A; requires deep finance-team knowledge.",
+   "gap": "accounting/FP&A domain depth",
+   "office": "In-person NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI agents for corporate finance teams that connect to ERPs and data warehouses"
+  }
+ },
+ {
+  "id": "794ee3448d",
+  "key": "Concourse|AI Deployment Strategist|https://jobs.ashbyhq.com/concourse/776c1adb-5929-4215-ac08-e210ea500cf5",
+  "track": "ai",
+  "company": "Concourse",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$12M Series A (Jan 2026)",
+   "investors": [
+    "Standard Capital",
+    "Andreessen Horowitz",
+    "CRV",
+    "Y Combinator"
+   ],
+   "what": "AI agents for corporate finance teams that connect to ERPs and data warehouses",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "AI Deployment Strategist",
+  "url": "https://jobs.ashbyhq.com/concourse/776c1adb-5929-4215-ac08-e210ea500cf5",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-09-05T00:05:11.111000+00:00",
+  "salary": null,
+  "department": "AI Deployment",
+  "degree_mention": false,
+  "description": "ABOUT CONCOURSE\n\nConcourse builds AI agents for corporate finance teams. \n\nWe connect core enterprise data sources and deploy AI agents that can analyze the data through natural language, deliver insights in seconds, and enable our customers to make better decisions. Since launching less than a year ago, Concourse has grown extremely rapidly. Our AI agents are deployed across hundreds of high-growth companies, unicorn startups like Persona, Front, Lightmatter, and large public companies - including multiple Fortune 500 customers. \n\nConcourse is backed by Andreessen Horowitz, CRV, YC, Standard Capital, and 50+ angel investors from companies like OpenAI, Cursor, Vercel, Brex, Carta, Rippling, 1Password, Deel, Jeeves, and DoorDash.\n\n\n\n\nABOUT THE ROLE\n\nWe're hiring an AI Deployment Strategist to build and deploy AI agents for our customers, working alongside our CTO and forward deployed engineering team. \n\nYour mission is to scale the impact of our AI agents across every finance team we serve. You’ll work directly with customers to understand their workflows, design product experiences that increase adoption, and build systems that ensure Concourse becomes core to their financial operations.\n\nYou'll work closely with our founders and engineers to work directly on deployments and learn how these systems work from the inside. You'll think strategically about what unlocks customer value, prioritize use cases, and build out agent workflows. Your work will directly shape how we grow to thousands of customers and define how finance teams interact with AI & agents.\n\nThis is a high-impact role for someone who has a strong understanding of finance, problem solving, and thrives at the intersection of product, data, and customer outcomes. \n\n\n\nKEY RESPONSIBILITIES\n\n - Build agents for customers: Design, configure, and tune AI agent workflows against each customer's data, systems, and reporting conventions, and iterate these outputs with finance teams.\n\n - Optimize AI & Prompt Performance: Maintain prompt libraries, tune model configurations, and ensure high-quality outputs for finance use cases.\n\n - Identify and prioritize use cases: Sit with finance teams to map their recurring workflows, then judge which are highest-value, most repeatable, and best suited to an agent.\n\n - Run deployments with the forward deployed engineering team: Scope, build, and launch deployments, aligning on business goals and ensuring quick time-to-value.\n\n - Build Analytics & Insights: Create dashboards and analytics that reveal customer behavior, product usage patterns, and revenue expansion opportunities.\n\n - Inform GTM Strategy: Identify patterns across customers to refine positioning, messaging, onboarding playbooks, and expansion strategies.\n\n - Design High-Impact Customer Journeys: Optimize onboarding, training, and lifecycle experiences that help finance teams reach first value faster and become long-term power users\n\n - Build Customer Health Frameworks: Develop systems for segmentation, health scoring, expansion signals, and proactive account insights.\n\n - Architect Finance System Integrations: Work across ERPs, banks, CRMs, HRIS tools, and custom databases to design scalable agent capabilities and prompts\n\n\n\n\nABOUT YOU\n\n - 1-3 years in finance, investment banking, consulting, FP&A, finance operations, or data and systems roles supporting finance teams\n\n - Deep understanding of financial statements, accounting principles, and how finance teams operate, and the workflow",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "794ee3448d",
+   "rating": "Stretch",
+   "reason": "Builds and tunes LLM agent workflows on customer data alongside the FDE team, but the role is junior (1-3 yrs), heavy on GTM and finance.",
+   "gap": "finance/accounting domain; junior, GTM-leaning",
+   "office": "In-person NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI agents for corporate finance teams that connect to ERPs and data warehouses"
+  }
+ }
+]

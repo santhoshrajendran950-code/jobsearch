@@ -3056,3 +3056,32 @@
   verified: false
   source: discover 2026-10-21
   nyc_office: true
+
+# ── auto-discovered 2026-10-22 ──
+- name: OpenRouter
+  ats: ashby
+  slug: openrouter
+  stage: Series B
+  raised: $113M Series B (May 2026)
+  investors:
+  - unverified
+  hq: New York, NY
+  what: Unified API and marketplace for routing requests across LLM providers
+  verified: false
+  source: discover 2026-10-22
+  nyc_office: true
+- name: Concourse
+  ats: ashby
+  slug: concourse
+  stage: Series A
+  raised: $12M Series A (Jan 2026)
+  investors:
+  - Standard Capital
+  - Andreessen Horowitz
+  - CRV
+  - Y Combinator
+  hq: New York, NY
+  what: AI agents for corporate finance teams that connect to ERPs and data warehouses
+  verified: false
+  source: discover 2026-10-22
+  nyc_office: true

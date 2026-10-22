@@ -4,6 +4,8 @@ Every morning `jobsearch.py --daily` adds a section here with the forward-deploy
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Thu Oct 22, 2026 — no new roles
+
 ## Sun Oct 18, 2026 — no new roles
 
 ## Sat Oct 17, 2026 — no new roles

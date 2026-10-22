@@ -1,0 +1,68 @@
+[
+ {
+  "id": "298e8a6640",
+  "key": "Formation Bio|Data Scientist, Medical Imaging (Open Level)|https://job-boards.greenhouse.io/formationbio/jobs/8310673",
+  "track": "ds",
+  "company": "Formation Bio",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "~$600M",
+   "investors": [
+    "a16z",
+    "Sanofi",
+    "Sequoia"
+   ],
+   "what": "AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Data Scientist, Medical Imaging (Open Level)",
+  "url": "https://job-boards.greenhouse.io/formationbio/jobs/8310673",
+  "locations": [
+   "Boston, MA; New York, NY",
+   "Boston",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-21T15:53:16-04:00",
+  "salary": "$178K–$232K",
+  "department": "Data Science",
+  "degree_mention": true,
+  "description": "About Formation Bio \n Formation Bio is a tech and AI driven pharma company differentiated by radically more efficient drug development. &nbsp;\n Advancements in AI and drug discovery are creating more candidate drugs than the industry can progress because of the high cost and time of clinical trials. Recognizing that this development bottleneck may ultimately limit the number of new medicines that can reach patients, Formation Bio, founded in 2016 as TrialSpark Inc., has built technology platforms, processes, and capabilities to accelerate all aspects of drug development and clinical trials. Formation Bio partners, acquires, or in-licenses drugs from pharma companies, research organizations, and biotechs to develop programs past clinical proof of concept and beyond, ultimately helping to bring new medicines to patients. The company is backed by investors across pharma and tech, including a16z, Sequoia, Sanofi, Thrive Capital, John Doerr, Spark Capital, SV Angel Growth, and others.&nbsp;\n You can read more at the following links:\n Our Vision for AI in Pharma \n Our Current Drug Portfolio \n Our Technology &amp; Platform \n At Formation Bio, our values are the driving force behind our mission to revolutionize the pharma industry. Every team and individual at the company shares these same values, and every team and individual plays a key part in our mission to bring new treatments to patients faster and more efficiently.\n About the Position \n As a Senior Data Scientist - Medical Imaging at Formation Bio, you will lead our efforts to integrate advanced imaging analytics and AI into our drug development pipeline. In this role, you'll pioneer the application of computer vision and deep learning to medical imaging data (MRI, X-ray, CT, PET) to accelerate clinical trials and improve patient outcomes. You'll develop state-of-the-art models for automated image analysis, disease progression monitoring, and treatment response assessment. Working closely with clinical teams, radiologists, and drug development experts, you'll translate complex imaging data into actionable insights that drive key decisions across our portfolio. This position offers a unique opportunity to revolutionize how medical imaging is leveraged in pharmaceutical development while directly impacting patient care.\n Responsibilities \n Lead the development of advanced deep learning models for medical image analysis, focusing on MRI and X-ray modalities for clinical trial applications\n Design and implement automated image processing pipelines for disease detection, segmentation, and quantification across multiple therapeutic areas\n Create innovative approaches for longitudinal image analysis to track disease progression and treatment efficacy in clinical trials, incl. AI-based biomarkers and surrogate endpoints\n Collaborate with clinical operations to integrate imaging AI solutions into trial protocols and workflows\n Partner with regulatory teams to ensure imaging biomarkers and AI models meet FDA standards for clinical trial endpoints\n Build scalable infrastructure for processing and analyzing large-scale medical imaging datasets from multi-site clinical trials\n Present imaging insights and model performance to executive leadership and external partners\n About You \n Required Qualifications&nbsp;\n PhD in Computer Science, Biomedical Engineering, Medical Physics, or related field with focus on medical imaging\n 5+ years of post-PhD industry experience developing production-grade AI models",
+  "already_in_pipeline": false
+ },
+ {
+  "id": "7bf7c2e498",
+  "key": "Formation Bio|Data Scientist (Open Level)|https://job-boards.greenhouse.io/formationbio/jobs/8306480",
+  "track": "ds",
+  "company": "Formation Bio",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "~$600M",
+   "investors": [
+    "a16z",
+    "Sanofi",
+    "Sequoia"
+   ],
+   "what": "AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Data Scientist (Open Level)",
+  "url": "https://job-boards.greenhouse.io/formationbio/jobs/8306480",
+  "locations": [
+   "Boston, MA; New York, NY",
+   "Boston",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-21T15:52:16-04:00",
+  "salary": "$162K–$267K",
+  "department": "Data Science",
+  "degree_mention": true,
+  "description": "About Formation Bio \n Formation Bio is a tech and AI driven pharma company differentiated by radically more efficient drug development. &nbsp;\n Advancements in AI and drug discovery are creating more candidate drugs than the industry can progress because of the high cost and time of clinical trials. Recognizing that this development bottleneck may ultimately limit the number of new medicines that can reach patients, Formation Bio, founded in 2016 as TrialSpark Inc., has built technology platforms, processes, and capabilities to accelerate all aspects of drug development and clinical trials. Formation Bio partners, acquires, or in-licenses drugs from pharma companies, research organizations, and biotechs to develop programs past clinical proof of concept and beyond, ultimately helping to bring new medicines to patients. The company is backed by investors across pharma and tech, including a16z, Sequoia, Sanofi, Thrive Capital, John Doerr, Spark Capital, SV Angel Growth, and others.&nbsp;\n You can read more at the following links:\n Our Vision for AI in Pharma \n Our Current Drug Portfolio \n Our Technology &amp; Platform \n At Formation Bio, our values are the driving force behind our mission to revolutionize the pharma industry. Every team and individual at the company shares these same values, and every team and individual plays a key part in our mission to bring new treatments to patients faster and more efficiently.\n About the Position \n As a Data Scientist at Formation Bio, you will be at the forefront of revolutionizing drug development through AI and advanced analytics. In this role, you'll lead crucial initiatives that directly impact our drug development portfolio, from developing sophisticated models for patient selection to creating AI-powered solutions for clinical trial optimization. You'll work at the intersection of computational biology, machine learning, and drug development, collaborating with cross-functional teams to translate complex biological data into actionable insights. This position offers a unique opportunity to shape the future of pharmaceutical development by leveraging cutting-edge AI technologies while making a meaningful impact on patient lives.&nbsp;\n Responsibilities \n Lead and execute complex data science projects that directly advance our drug development portfolio&nbsp;\n Develop and implement sophisticated models for therapeutic hypothesis evaluation, including patient stratification and biomarker identification\n Design and create AI models for modernizing clinical trial evaluations, including surrogate endpoints&nbsp;\n Aid in the development and training of AI agents to automate and optimize biomedical workflows&nbsp;\n Collaborate cross-functionally with clinical, technical, and research teams&nbsp;\n Present complex analytical findings to senior stakeholders, including executive leadership&nbsp;\n About You \n Required Qualifications&nbsp;\n PhD in computational sciences or life sciences&nbsp;\n 3-5+ years of post-academic experience in life sciences (biotech, pharma, consulting)&nbsp;\n Strong programming skills, particularly in Python&nbsp;\n Extensive experience in multi-modal bioinformatics analysis&nbsp;\n Preferred Qualifications&nbsp;\n Proven expertise in cloud computing environments, including proficiency with tabular and/or graph databases&nbsp;\n Strong background in machine learning and deep learning, particularly in biological applications&nbsp;\n Experience with large language models (LLM)\n Demonstra",
+  "already_in_pipeline": false
+ }
+]

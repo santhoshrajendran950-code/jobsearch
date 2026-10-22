@@ -4,6 +4,13 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Thu Oct 22, 2026 — 2 new roles (0 strong · 0 good · 2 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Stretch | [Data Scientist, Medical Imaging (Open Level)](https://job-boards.greenhouse.io/formationbio/jobs/8310673) | Formation Bio<br><sub>AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets</sub> | Series D, ~$600M<br><sub>a16z, Sanofi, Sequoia</sub> |  | Oct 21 | $178K–$232K | Senior deep-learning computer-vision role on medical imaging (MRI/CT/X-ray); this is far from his tabular LTV, churn and experimentation work. **Gap:** requires PhD + 5yrs post-PhD; CV/medical imaging |
+| 2 | Stretch | [Data Scientist (Open Level)](https://job-boards.greenhouse.io/formationbio/jobs/8306480) | Formation Bio<br><sub>AI-driven drug development company (ex-TrialSpark) advancing in-licensed clinical assets</sub> | Series D, ~$600M<br><sub>a16z, Sanofi, Sequoia</sub> |  | Oct 21 | $162K–$267K | Biomedical DS role (patient stratification, biomarkers, bioinformatics). His modeling skills transfer, but he has no life-sciences experience and it needs a PhD. **Gap:** requires PhD; life-sciences/bioinformatics domain |
+
 ## Sun Oct 18, 2026 — 1 new role (0 strong · 0 good · 1 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
