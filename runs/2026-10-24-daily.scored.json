@@ -1,0 +1,119 @@
+[
+ {
+  "id": "dbe90874b8",
+  "key": "Profound|Member of Technical Staff, Data Science|https://jobs.ashbyhq.com/profound/26f3cb11-c67a-4534-adc6-13e404a883f7",
+  "track": "ds",
+  "company": "Profound",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified (Series D of $180M reported Sept 2026)",
+   "investors": [],
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Member of Technical Staff, Data Science",
+  "url": "https://jobs.ashbyhq.com/profound/26f3cb11-c67a-4534-adc6-13e404a883f7",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2025-07-24T19:43:17.429000+00:00",
+  "salary": "$140K - $230K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "Profound is the fastest-growing AI marketing platform, used by 15% of the Fortune 500 including Comcast, Estée Lauder, and Walmart, and innovators like Ramp, MongoDB, and Figma. It is where marketing teams do the work: research, briefs, content, campaigns, reporting, all in one place, alongside agents that carry the load with them.  \n\nBuilt on 2B+ real user prompts and growing, Profound’s data shows you what people ask AI and what the models say back. Profound's AI Marketer joins that data with deep context about our customers to find the opportunities worth acting on, and then puts agents to work: automating reporting, drafting content, auditing pages for readability, running competitive research. It measures what works and gets better every day.\n\nAs a Data Scientist, you will map every human and AI interaction to help brands turn AIs into their strongest advocates. You will build predictive models, develop sampling techniques, and optimize brand visibility in AI-driven search, such as ChatGPT and Perplexity. Your work will directly impact how businesses shape their presence in the generative AI era.\n\n\n\n\nWHAT YOU’LL DO\n\n - Develop and refine predictive models to analyze and forecast AI-driven search behavior\n\n - Design sampling and data classification techniques to improve AI-driven brand insights\n\n - Leverage LLMs and NLP to extract meaningful insights from unstructured text data\n\n - Work with large datasets, ensuring efficiency in querying, cleaning, and classification\n\n - Design and conduct A/B tests or other experimentation frameworks to measure impact\n\n - Collaborate with the founding team to turn complex data insights into actionable business strategies\n\n\n\n\nWHO YOU ARE\n\n - 3 or more years of advanced analytics experience in technology, marketing, or advertising\n\n - Proficient in Python, R, and SQL, with hands-on experience querying and analyzing large datasets\n\n - Expertise in data sampling techniques, including stratified sampling, bootstrapping, and extrapolation\n\n - Strong background in predictive modeling and applying machine learning techniques to estimate event frequency\n\n - Deep understanding of large language models, their limitations, and real-world applications\n\n - Passionate about staying on top of AI research, especially in multi-modal AI and LLM advancements\n\n - Comfortable in a fast-moving, high-performance startup environment\n\n\n\n\nLOCATION\n\nThis is an on-site role based in our NYC or SF office, designed for builders who thrive on speed, iteration, and meaningful impact. We are happy to support visa sponsorship for qualified international candidates.\n\nFor this role, the expected base salary range is $140,000 to $260,000 (NYC and SF). Comp may vary by location. Profound’s total compensation package is designed to be competitive and includes base salary, equity, and a full range of benefits and perks. Final compensation will depend on factors such as your skills, experience, qualifications, and location, and will be determined during the interview process. Our recruiting team will share more details about the full compensation package and benefits as you move through hiring.\n\nNote: All official communication from Profound will come from a @tryprofound.com email address. If you're contacted by anyone using a different domain, please disregard and report it as spam.",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "dbe90874b8",
+   "rating": "Good",
+   "reason": "Predictive modeling, A/B testing and Python/R/SQL match his production ML and experimentation work, but this role works on AI-search data for B2B marketers.",
+   "gap": "LLM/NLP-heavy, B2B, Series D",
+   "office": "On-site, NYC or SF office",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role"
+  }
+ },
+ {
+  "id": "d7e2095c72",
+  "key": "Profound|Member of Technical Staff, Machine Learning|https://jobs.ashbyhq.com/profound/08484c30-121a-4d1f-961b-09518f14337a",
+  "track": "ds",
+  "company": "Profound",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified (Series D of $180M reported Sept 2026)",
+   "investors": [],
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Member of Technical Staff, Machine Learning",
+  "url": "https://jobs.ashbyhq.com/profound/08484c30-121a-4d1f-961b-09518f14337a",
+  "locations": [
+   "New York, New York"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2025-09-04T19:38:47.239000+00:00",
+  "salary": "$160K - $250K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "Profound is the fastest-growing AI marketing platform, used by 15% of the Fortune 500 including Comcast, Estée Lauder, and Walmart, and innovators like Ramp, MongoDB, and Figma. It is where marketing teams do the work: research, briefs, content, campaigns, reporting, all in one place, alongside agents that carry the load with them.  \n\nBuilt on 2B+ real user prompts and growing, Profound’s data shows you what people ask AI and what the models say back. Profound's AI Marketer joins that data with deep context about our customers to find the opportunities worth acting on, and then puts agents to work: automating reporting, drafting content, auditing pages for readability, running competitive research. It measures what works and gets better every day.\n\nAs an AI and ML Engineer, you will design, build, and ship large scale NLP and LLM systems that power classification, ranking, clustering, topic discovery, and content generation. You will own workflows from data to deployment, partner across product and engineering, and turn real user conversations into production features and publish-ready content that drives visibility, engagement, and conversion.\n\n\n\n\nWHAT YOU’LL DO\n\n - Build and deploy NLP models at scale for classification, ranking, clustering, topic extraction, and summarization\n\n - Design LLM workflows for context and content generation end to end, including topic discovery, brief creation, outlines and drafts, revision loops, and publish-ready assets\n\n - Develop prompt and template libraries aligned to brand voice and channel, including blogs, landing pages, help docs, and ads, with retrieval for evidence-grounded generation and citations\n\n - Create evaluation frameworks for generated content, including factuality, coverage, tone, safety, and originality, with rubric-based LLM evaluations, human-in-the-loop review, and red teaming\n\n - Instrument content performance across AEO and SEO visibility, engagement, and conversion, and run experiments to improve quality, cost, and latency\n\n - Transform large text datasets into production features and signals that drive product insights\n\n - Partner with engineering to instrument events, maintain data pipelines, and uphold high data quality and observability\n\n - Collaborate with product, data, and go-to-market teams on success metrics and experiments that move customer-facing KPIs\n\n\n\n\nWHO YOU ARE\n\n - Proven experience shipping machine learning systems in production at scale, especially with large text data\n\n - Hands-on experience building LLM content systems including prompting, templating, retrieval or RAG, guardrails, and evaluations\n\n - Fluency in SQL and strong Python skills with modern machine learning tooling\n\n - Strong grasp of machine learning and generation quality metrics, with the ability to design offline and online evaluations and monitoring\n\n - Ability to innovate when off-the-shelf solutions do not fit the problem\n\n - Experience working in cross-functional, high-performance teams\n\n - Clear communication with both technical and non-technical partners\n\n - Ownership mindset and comfort operating in a fast-paced environment\n\n - Excited by ownership of the entire product analytics function at an early stage company\n\n - Motivated by shaping how usage is measured and how product decisions are made\n\n - Interested in close collaboration with product, engineering, and go-to-market teams\n\n - Comfortable in a fast-paced environment with trust, autonomy, and responsibility\n\n - Drawn to competi",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "d7e2095c72",
+   "rating": "Stretch",
+   "reason": "His production ML ownership and experimentation transfer, but the core job is building NLP/LLM content-generation systems with RAG and evals, which he hasn't done.",
+   "gap": "LLM/NLP-heavy, requires RAG/LLM systems experience",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role"
+  }
+ },
+ {
+  "id": "ac91f806be",
+  "key": "Profound|Forward Deployed Marketing Engineer|https://jobs.ashbyhq.com/profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8",
+  "track": "ai",
+  "company": "Profound",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified (Series D of $180M reported Sept 2026)",
+   "investors": [],
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Forward Deployed Marketing Engineer",
+  "url": "https://jobs.ashbyhq.com/profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California",
+   "London, England"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-10-07T02:07:18.912000+00:00",
+  "salary": null,
+  "department": "Customer Success",
+  "degree_mention": false,
+  "description": "Profound is the fastest-growing AI marketing platform, used by 15% of the Fortune 500 including Comcast, Estée Lauder, and Walmart, and innovators like Ramp, MongoDB, and Figma. It is where marketing teams do the work: research, briefs, content, campaigns, reporting, all in one place, alongside agents that carry the load with them.  \n\nBuilt on 2B+ real user prompts and growing, Profound’s data shows you what people ask AI and what the models say back. Profound's AI Marketer joins that data with deep context about our customers to find the opportunities worth acting on, and then puts agents to work: automating reporting, drafting content, auditing pages for readability, running competitive research. It measures what works and gets better every day.\n\nWe named this role. In April 2026, at Zero Click San Francisco, Profound introduced a new role to the marketing org: the Marketing Engineer https://www.tryprofound.com/marketing-engineer. A marketer who went deep on building, who looks at a manual process and sees a system. Since then, marketers everywhere have told us they finally have a name for what they do, companies like Google and Figma have started hiring for it, and hundreds have been certified through Profound University https://university.tryprofound.com/courses/marketing-engineering-concepts. Read the Marketing Engineer manifesto https://www.tryprofound.com/marketing-engineer, hear from practitioners on the Marketing Engineer podcast https://www.tryprofound.com/podcasts, or read our Founding Marketing Engineer's first-hand take on the role https://nicklafferty.com/blog/marketing-engineer/.\n\nNow we’re building the team that brings Marketing Engineering to the world’s biggest brands and our agency and consulting partners. As a Forward Deployed Marketing Engineer, you’ll embed with customer teams, often onsite, to understand their marketing work, identify where Profound can help, and build workflows that become part of everyday delivery. You’ll combine marketing judgment with deep product knowledge to help teams produce better work and use Profound confidently.\n\nHere's what makes this role different: shipping the build doesn't finish the job. You’ll work alongside customers on real marketing tasks - researching competitors, developing briefs, creating content and reporting on performance. You’ll help teams get useful results from Profound, improve the quality of their work and build the skills to use it independently.\n\nWhat you'll do\n\n - Be forward deployed. Work alongside customer marketing teams, onsite regularly. Join planning meetings, review briefs and campaigns, and use Profound with the people doing the work.\n\n - Recommend where Profound can help. Understand the team’s priorities, how they work and what slows them down. Bring proven applications suited to their business, and identify opportunities they may not have considered.\n\n - Apply marketing judgment. Review outputs with customers for accuracy, brand voice, audience fit and usefulness. Refine the inputs and instructions until the results meet the team’s standards.\n\n - Build and refine. Design, build, and troubleshoot agents and workflows in Profound that run real marketing work, from reporting and competitive research to content drafting and page audits.\n\n - Drive adoption. Help practitioners use Profound on live projects, resolve barriers and build their confidence to use it independently. Track usage and extend successful applications to more teams.\n\n - Work with the acc",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "ac91f806be",
+   "rating": "Stretch",
+   "reason": "This is a marketer-practitioner role: embedding with brand teams on briefs, content, campaigns and brand voice. His growth-measurement and pipeline work only touches the reporting part.",
+   "gap": "requires marketing practitioner background",
+   "office": "On-site (NYC/SF/London), regularly onsite with customers",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "marketing/content practitioner role, not DS/AI engineering",
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role"
+  }
+ }
+]

@@ -3085,3 +3085,33 @@
   verified: false
   source: discover 2026-10-22
   nyc_office: true
+
+# ── auto-discovered 2026-10-24 ──
+- name: Profound
+  ats: ashby
+  slug: profound
+  stage: Series D
+  raised: unverified (Series D of $180M reported Sept 2026)
+  investors: []
+  hq: New York, NY
+  what: AI search visibility and analytics platform for marketers; has an NYC in-office
+    Data Scientist role
+  verified: false
+  source: discover 2026-10-24
+  nyc_office: true
+- name: Prosper AI
+  ats: ashby
+  slug: prosper-ai
+  stage: Series A
+  raised: $35M total (a $30M Series A in June 2026)
+  investors:
+  - a16z
+  - Base10
+  - Y Combinator
+  - Emergence
+  hq: New York, NY
+  what: AI voice agents for healthcare patient access; its engineering roles are mostly
+    in Barcelona
+  verified: false
+  source: discover 2026-10-24
+  nyc_office: true
