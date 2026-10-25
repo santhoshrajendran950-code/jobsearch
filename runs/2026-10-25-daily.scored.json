@@ -1,0 +1,44 @@
+[
+ {
+  "id": "f6aa083d22",
+  "key": "Brandlight|AI Strategist|https://jobs.ashbyhq.com/brandlight/ac6bfef9-de68-46ec-a7c3-a2efbb289e20",
+  "track": "ai",
+  "company": "Brandlight",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$30M Series A (Feb 2026)",
+   "investors": [
+    "Pelion Venture Partners",
+    "Cardumen Capital",
+    "G20 Ventures"
+   ],
+   "what": "Enterprise AI-search visibility platform for brands and CMOs.",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 1,
+  "title": "AI Strategist",
+  "url": "https://jobs.ashbyhq.com/brandlight/ac6bfef9-de68-46ec-a7c3-a2efbb289e20",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-07-23T08:53:49.512000+00:00",
+  "salary": null,
+  "department": "Customer Success",
+  "degree_mention": false,
+  "description": "ABOUT BRANDLIGHT\n\nBrandlight is the leading enterprise AI visibility platform, built to help the world’s leading brands understand, manage, and optimize how they appear across AI-driven search, commerce, and advertising.\n\nAs AI rapidly becomes a trillion-dollar marketing and distribution channel, Brandlight is defining the systems that decide how brands are surfaced, trusted, and chosen.\n\nJoin our team and help build the next generation of tools shaping the future of brand management in an AI-first world.\n\n\nABOUT THE ROLE\n\nAs a Senior SEO & AI Search Strategist at Brandlight, you’ll be a hands-on expert and trusted advisor helping enterprise brands win across both traditional SEO and the new era of AI-driven search. You’ll blend sharp strategy with real execution, engage confidently with Fortune 500 marketing leadership, and translate Brandlight insights into measurable business impact. \n\nThis is a role for someone with deep domain mastery, strong presence, and a builder mindset who thrives at the frontier of search.\n\nSalary Range: $115,000 - $240,000 a year\n\n\nRESPONSIBILITIES\n\n - Lead enterprise customers to measurable outcomes across SEO + AI search\n\n - Build clear strategies and tactical plans customers can execute fast\n\n - Serve as a trusted expert to both VPs and hands-on practitioners\n\n - Turn product insights into high-impact use cases and adoption\n\n - Create compelling narratives that increase buy-in and retention\n\n - Partner with Product + R&D to shape features and customer value\n\n\nREQUIREMENTS\n\n - 7+ years of SEO experience, with hands-on execution in enterprise environments\n\n - Deep mastery of SEO strategy, technical SEO, content systems, and performance measurement\n\n - Strong understanding of AI-driven search and how brands win in generative discovery\n\n - Trusted domain expert, holds the room, adapts quickly, and leads with confidence under pressure\n\n - Clear grasp of enterprise marketing value and what matters to senior decision-makers\n\n - Strong executive presence, crisp communication, and advisor-level credibility\n\n - Autodidact mindset: curious, sharp, and constantly experimenting at the frontier\n\n - High ownership, hunger to win, and excellent cross-functional collaboration\n\nAdvantage\n\n - GEO / AEO experience\n\n\nWHY JOIN US\n\nAt Brandlight, you’ll build and shape a new category at the intersection of AI, marketing, and commerce.\n\nWe’re a fast-growing startup led by repeat entrepreneurs, world-class engineers, and marketing leaders, all driven to reinvent how brands are built, discovered, and chosen in the age of AI.",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "f6aa083d22",
+   "rating": "Stretch",
+   "reason": "Senior SEO/AI-search strategist advising enterprise brands; marketing-measurement background is adjacent, but there's no ML, data-pipeline, or building work like his PrizePicks experience.",
+   "gap": "requires 7+ yrs SEO",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "SEO strategy/advisory role, not DS/ML or FDE",
+   "what": "Enterprise AI-search visibility platform for brands and CMOs."
+  }
+ }
+]

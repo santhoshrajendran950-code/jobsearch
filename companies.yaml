@@ -3115,3 +3115,19 @@
   verified: false
   source: discover 2026-10-24
   nyc_office: true
+
+# ── auto-discovered 2026-10-25 ──
+- name: Brandlight
+  ats: ashby
+  slug: brandlight
+  stage: Series A
+  raised: $30M Series A (Feb 2026)
+  investors:
+  - Pelion Venture Partners
+  - Cardumen Capital
+  - G20 Ventures
+  hq: New York, NY
+  what: Enterprise AI-search visibility platform for brands and CMOs.
+  verified: false
+  source: discover 2026-10-25
+  nyc_office: true
