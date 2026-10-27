@@ -3131,3 +3131,19 @@
   verified: false
   source: discover 2026-10-25
   nyc_office: true
+
+# ── auto-discovered 2026-10-27 ──
+- name: Doppel
+  ats: greenhouse
+  slug: doppel
+  stage: Series C (per one job posting; unverified)
+  raised: unverified
+  investors:
+  - Andreessen Horowitz
+  - Bessemer Venture Partners
+  hq: New York, NY (office per postings; one aggregator lists Covina, so unverified)
+  what: AI-driven social-engineering and impersonation defense, with ML detection
+    roles open in NYC
+  verified: false
+  source: discover 2026-10-27
+  nyc_office: true

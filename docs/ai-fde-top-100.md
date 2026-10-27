@@ -1,6 +1,6 @@
 # Top 100 open NYC AI/FDE roles
 
-_Updated Mon Oct 26, 2026 8:00 AM ET · 56 open tracked roles · 0 closed since the last run · 0 hidden by your marks._
+_Updated Tue Oct 27, 2026 8:00 AM ET · 56 open tracked roles · 0 closed since the last run · 0 hidden by your marks._
 
 Every morning this file is rebuilt from the live job boards: roles that were taken down drop out, new ones are scored and slotted in. Ordered Strong → Good → Stretch, then by investor tier, then newest first. **To mark a role, edit the Status cell on GitHub** (e.g. `applied`, `interested`, `skip`) and commit; the next run reads it back and keeps it. Anything starting with `skip`, `pass`, `reject`, `no` or `closed` moves the row to the Skipped list at the bottom. 🔁 = company already in your pipeline.
 
