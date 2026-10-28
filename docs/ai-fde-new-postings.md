@@ -4,6 +4,14 @@ Every morning `jobsearch.py --daily` adds a section here with the forward-deploy
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Wed Oct 28, 2026 — 3 new roles (0 strong · 1 good · 2 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Good | [Applied AI Strategist, Federal](https://jobs.ashbyhq.com/thread-ai/6605fa39-a09d-45ba-a06c-a84cafe2980e) | Thread AI<br><sub>Lemma, composable AI workflow/agent orchestration for enterprises</sub> | Series A, $20M+<br><sub>Greycroft, Index Ventures, Scale Venture Partners, Meritech</sub> | In-person NYC | Oct 27 |  | Welcomes analytics backgrounds; framing problems, investigating data, building workflows and measuring adoption match his stakeholder-facing DS and experimentation work at an early-stage NYC startup. **Gap:** federal/government domain; light hands-on coding |
+| 2 | Stretch | [Senior Applied AI Engineer, Federal](https://jobs.ashbyhq.com/thread-ai/b84765f4-750d-4a89-8050-111e7e4bc17a) | Thread AI<br><sub>Lemma, composable AI workflow/agent orchestration for enterprises</sub> | Series A, $20M+<br><sub>Greycroft, Index Ventures, Scale Venture Partners, Meritech</sub> |  | Oct 27 |  | Applied AI work fits his production pipeline and model-evaluation experience, but it centers on senior production software engineering, integrations and operations for federal customers. **Gap:** 5+ yrs SWE track record; federal domain |
+| 3 | Stretch | [Staff AI Deployment Strategist](https://job-boards.greenhouse.io/altanaai/jobs/8046424003) | Altana<br><sub>AI value-chain management / supply-chain intelligence platform</sub> | Series C, $322M<br><sub>US Innovative Technology Fund, Activate Capital, GV, OMERS Ventures</sub> |  | Oct 27 | $165K–$195K | His data assessment and success-measurement skills apply, but it is a staff-level role asking for 5+ years of customer-facing solutioning or consulting in B2B trade compliance. **Gap:** 5+ yrs customer solutioning; B2B supply-chain domain |
+
 ## Thu Oct 22, 2026 — no new roles
 
 ## Sun Oct 18, 2026 — no new roles

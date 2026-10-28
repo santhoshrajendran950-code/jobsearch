@@ -3147,3 +3147,22 @@
   verified: false
   source: discover 2026-10-27
   nyc_office: true
+
+# ── auto-discovered 2026-10-28 ──
+- name: Highbeam
+  ats: ashby
+  slug: highbeam
+  stage: Series A
+  raised: $30M Series A, Sep 2025 (CB Insights shows about $47M total; unconfirmed)
+  investors:
+  - Acrew Capital (lead)
+  - FirstMark
+  - Mayfield Fund
+  - Vesey Ventures
+  - Two Sigma Ventures
+  hq: New York, NY
+  what: Fintech banking and finance platform for ecommerce brands; has posted data
+    scientist roles
+  verified: false
+  source: discover 2026-10-28
+  nyc_office: true

@@ -1,0 +1,264 @@
+[
+ {
+  "id": "f7860a17dd",
+  "key": "Legora|Data Scientist - Growth|https://jobs.ashbyhq.com/legora/5fd9fc81-e9af-4d6b-af86-94a1c3d4fdce",
+  "track": "ds",
+  "company": "Legora",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "unverified (~$300M)",
+   "investors": [
+    "Benchmark",
+    "ICONIQ",
+    "Bessemer",
+    "General Catalyst",
+    "Redpoint"
+   ],
+   "what": "Collaborative AI workspace for law firms and in-house legal teams; large NYC office",
+   "verified": false,
+   "hq": "Stockholm, Sweden"
+  },
+  "vc_rank": 0,
+  "title": "Data Scientist - Growth",
+  "url": "https://jobs.ashbyhq.com/legora/5fd9fc81-e9af-4d6b-af86-94a1c3d4fdce",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-10-28T10:39:58.490000+00:00",
+  "salary": "$131,750 - $178,250",
+  "department": "Analytics",
+  "degree_mention": false,
+  "description": "ABOUT US\n\nLegora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar.\n\nOur AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes.\n\n2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler.\n\nWe partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law.\n\nJoining Legora means three things.\n\n - We lean in: ownership over titles, outcomes over intentions.\n\n - We fight for excellence: high standards, direct, ego-free feedback.\n\n - We grow together: as a team and with our customers.\n\nMission before ego. Everyone contributes. No one coasts.\n\nIf you’re driven by impact, pace, and raising the bar. This is the place.\n\nAs a Data Scientist for Growth at Legora, you'll build the data foundations that help our go-to-market teams make better decisions. You'll work end-to-end: connecting data from business systems, building reliable pipelines and dbt models, defining shared metrics, and answering questions about how we grow.\n\nYour background may be in analytics engineering, data science or data engineering. You enjoy building data models that others can trust and reuse, and working closely with business teams to put that data to use.\n\nYou'll be based in our New York office, sitting with the Growth data team. Our go-to-market data is spread across a CRM, marketing automation and messaging platforms, sales engagement and call tools, support tooling, and our own product. Making those systems agree with each other, and with what customers actually do in Legora, is the heart of this job.\n\nWe're an AI-first data team. We believe the data function should be redesigned around what AI now makes possible, not retrofitted with it, and we want someone excited to help define what that looks like in practice.\n\nWe're a small, centralised team supporting the whole company. This seat is for Growth. Working closely with RevOps and the GTM teams, you'll help answer questions like:\n\n - Marketing: acquisition funnels, attribution and CAC, campaign measurement, and what actually moves enterprise legal buyers.\n\n - Sales & RevOps: what drives pipeline, sales performance and pilot-to-customer conversion.\n\n - Customer Success: account health, expansion and churn signals, and renewals in a category that didn't exist three years ago.\n\n - Lifecycle: getting modelled data back into the CRM and messaging tools, so teams act on it where they already work.\n\n\nYou'll partner directly with leaders across Marketing, Sales, RevOps and Customer Success who are data-fluent and eager to act on the wealth of data across our business. Your role is to bring structure to that data, uncover insights together, and build the tools and foundations that let them explore questions for themselves, shaping how we sell, where we spend, how we price, and which customers we in",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "f7860a17dd",
+   "rating": "Good",
+   "reason": "Growth DS covering CAC/attribution, churn/expansion signals and pushing modeled data into CRM/messaging tools fits his dbt, LTV:CAC and Braze activation work.",
+   "gap": "B2B/enterprise GTM; analytics-engineering heavy",
+   "office": "On-site, NYC office",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Collaborative AI workspace for law firms and in-house legal teams; large NYC office"
+  }
+ },
+ {
+  "id": "b223cddb93",
+  "key": "Thread AI|Senior Applied AI Engineer, Federal|https://jobs.ashbyhq.com/thread-ai/b84765f4-750d-4a89-8050-111e7e4bc17a",
+  "track": "ai",
+  "company": "Thread AI",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$20M+",
+   "investors": [
+    "Greycroft",
+    "Index Ventures",
+    "Scale Venture Partners",
+    "Meritech"
+   ],
+   "what": "Lemma, composable AI workflow/agent orchestration for enterprises",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Senior Applied AI Engineer, Federal",
+  "url": "https://jobs.ashbyhq.com/thread-ai/b84765f4-750d-4a89-8050-111e7e4bc17a",
+  "locations": [
+   "New York Office"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-27T22:07:12.876000+00:00",
+  "salary": null,
+  "department": "Government",
+  "degree_mention": false,
+  "description": "ABOUT THREAD AI\n\nThread AI is focused on building an AI orchestration engine and is looking for dedicated individuals to join its growing team. Our goal is to make infrastructure simple for enterprises and public sector agencies seeking to get the most from AI and AI Agents.\n\nHeadquartered in New York, our growing team is a group of experts who have a track record of creating and executing against complex workflows and infrastructure.\n\n\n\n\nABOUT THE ROLE\n\nYou will work directly with federal customers to build AI workflows and integrations on Lemma. The work may start with data spread across several systems, a process full of manual handoffs, or a prototype that needs to become reliable enough for daily use. You will own the engineering through deployment and ongoing operation.\n\nYou will partner with an Applied AI Strategist who leads workflow discovery, customer coordination and adoption. You will own the architecture and production code, working with Thread’s product and engineering teams on technical review and platform changes. What you learn from customers will help determine what we build into Lemma next.\n\nThis is a senior individual contributor role with direct customer responsibility.\n\n - Work with users and customer engineers to define the problem, map system dependencies and agree on a first deployment.\n\n - Write production code that connects APIs, data sources and customer applications to Lemma. Build and test the workflows that use those connections.\n\n - Evaluate AI behavior against realistic examples. Define checks for output quality and reliability, and decide where a person needs to review or approve a result.\n\n - Deploy and operate the solution with the relevant engineering teams. Diagnose failures across application code, data, authentication and network boundaries.\n\n - Document technical decisions and operating procedures so customers and teammates can maintain what you ship.\n\n - Turn recurring customer needs into reusable integrations and product improvements. Work with core engineering when a solution belongs in the platform.\n\n - Help Growth assess technical feasibility and scope customer evaluations before delivery commitments are made.\n\n\n\n\nWHAT WE’RE LOOKING FOR\n\n - Five or more years of software engineering experience, or comparable evidence of independently delivering and operating production systems.\n\n - Strong programming skills in Python, TypeScript/JavaScript, Java or a similar language. You can explain your design choices, review code and debug unfamiliar systems.\n\n - Experience building APIs or integrations, working with databases and data pipelines, and using automated tests and deployment practices.\n\n - Hands-on experience with AI or ML applications, including evaluating their outputs and understanding where they fail.\n\n - Experience working directly with users or customer engineers to resolve incomplete requirements and make practical tradeoffs.\n\n - Clear communication about progress and technical risks, and the judgment to seek engineering review when needed.\n\nRelevant backgrounds include product engineering, previous FDE work, and implementation engineering with substantial production coding. We welcome formal technical education and equivalent practical experience.\n\n\n\n\nNICE TO HAVES\n\n - Delivering software for federal customers or other organizations with demanding security and operational requirements.\n\n - Building AI workflows that involve external tools, retrieval, evaluation or human review.\n\n - Wor",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "b223cddb93",
+   "rating": "Stretch",
+   "reason": "Applied AI work fits his production pipeline and model-evaluation experience, but it centers on senior production software engineering, integrations and operations for federal customers.",
+   "gap": "5+ yrs SWE track record; federal domain",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Lemma, composable AI workflow/agent orchestration for enterprises"
+  }
+ },
+ {
+  "id": "ea7f4443fa",
+  "key": "Thread AI|Applied AI Strategist, Federal|https://jobs.ashbyhq.com/thread-ai/6605fa39-a09d-45ba-a06c-a84cafe2980e",
+  "track": "ai",
+  "company": "Thread AI",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$20M+",
+   "investors": [
+    "Greycroft",
+    "Index Ventures",
+    "Scale Venture Partners",
+    "Meritech"
+   ],
+   "what": "Lemma, composable AI workflow/agent orchestration for enterprises",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Applied AI Strategist, Federal",
+  "url": "https://jobs.ashbyhq.com/thread-ai/6605fa39-a09d-45ba-a06c-a84cafe2980e",
+  "locations": [
+   "New York Office"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-10-27T22:02:08.973000+00:00",
+  "salary": null,
+  "department": "Government",
+  "degree_mention": false,
+  "description": "ABOUT THREAD AI\n\nThread AI is focused on building an AI orchestration engine and is looking for dedicated individuals to join its growing team. Our goal is to make infrastructure simple for enterprises and public sector agencies seeking to get the most from AI and AI Agents.\n\nHeadquartered in New York, our growing team is a group of experts who have a track record of creating and executing against complex workflows and infrastructure.\n\n\n\n\nABOUT THE ROLE\n\nYou will help federal customers decide where AI can improve their work, then get that capability into use. You will investigate their data and processes, build workflows in Lemma, and test them with the people doing the work. That may mean fixing a handoff between offices or helping a team turn a successful evaluation into a workflow they use every week.\n\nYou will own problem definition, workflow requirements, customer execution and adoption. Your Applied AI Engineer partner will own production software and integrations. Together, you will decide what to build and how to measure success. Growth will own commercial negotiations and account expansion, informed by the results you deliver.\n\nThis is an individual contributor role with responsibility for leading customer engagements.\n\n - Work alongside users to understand their decisions and the obstacles that consume their time. Identify a problem worth solving and establish how to measure improvement.\n\n - Investigate available data and systems with the customer and your engineering partner. Surface access, data-quality and integration dependencies early.\n\n - Build agents and workflows in Lemma. Test their logic with realistic examples, review outputs with users and refine what you build.\n\n - Agree on scope, milestones and acceptance criteria. Keep customer decisions and dependencies moving, and raise changes that affect delivery commitments.\n\n - Run working sessions and training. Help users operate the workflow independently and recognize when it needs attention.\n\n - Measure adoption and results, and explain them clearly to users, program leaders and technical stakeholders.\n\n - Bring specific customer problems back to product and engineering. Develop reusable workflows and implementation guidance from what succeeds in the field.\n\n - Work with Growth on discovery and evaluations, using customer evidence to shape feasible follow-on work.\n\n\n\n\nWHAT WE ARE LOOKING FOR\n\n - Four or more years of relevant experience, or comparable evidence of independently leading customer delivery, product implementation or operational technology adoption.\n\n - A track record of taking an ambiguous problem through implementation and into sustained use, with clear evidence of what changed for users.\n\n - Strong analytical judgment. You can investigate data, question assumptions and turn competing requests into a manageable scope.\n\n - Technical fluency with APIs, data structures and AI models. You can follow engineering tradeoffs and learn a product well enough to build useful workflows yourself.\n\n - The ability to work credibly with users, technical teams and senior stakeholders and help them reach decisions.\n\n - Clear writing and practical execution: useful requirements, decision records, training materials and concise updates.\n\nRelevant backgrounds include implementation consulting, product management, analytics, customer delivery and military or government technology adoption. We welcome varied educational backgrounds and equivalent practical experience; an advanc",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "ea7f4443fa",
+   "rating": "Good",
+   "reason": "Welcomes analytics backgrounds; framing problems, investigating data, building workflows and measuring adoption match his stakeholder-facing DS and experimentation work at an early-stage NYC startup.",
+   "gap": "federal/government domain; light hands-on coding",
+   "office": "In-person NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Lemma, composable AI workflow/agent orchestration for enterprises"
+  }
+ },
+ {
+  "id": "ee38e367f0",
+  "key": "Clay|Growth Strategist, Key (Deployment Strategist) - NY|https://jobs.ashbyhq.com/claylabs/0e68a973-af22-423f-8410-e14ff4d3fef0",
+  "track": "ai",
+  "company": "Clay",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$204M",
+   "investors": [
+    "CapitalG",
+    "Sequoia",
+    "Meritech",
+    "Sapphire Ventures"
+   ],
+   "what": "AI go-to-market data enrichment/automation platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Growth Strategist, Key (Deployment Strategist) - NY",
+  "url": "https://jobs.ashbyhq.com/claylabs/0e68a973-af22-423f-8410-e14ff4d3fef0",
+  "locations": [
+   "New York"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-10-27T18:39:59.968000+00:00",
+  "salary": "$210K - $240K",
+  "department": "CX",
+  "degree_mention": false,
+  "description": "ABOUT CLAY\n\nAI is unleashing the biggest wave of company creation in history. Clay's mission is to be the engine those companies use to grow to their full potential.\n\nClay predicts the next best action for your business and then helps you take it. We started by aggregating the best data for B2B companies. Then, we built the infrastructure to run any personalized campaign on top of it, including emails, ads, landing pages, and workflows that make reps more productive. Now, we're building agents that can help grow your company for you. We're already helping thousands of customers — including Anthropic, OpenAI, Google, and Visa — go to market with unique data, signals, and AI research.\n\nIn 2026, we raised a $115M Series D https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F09%2F09%2Fbusiness%2Fdealbook%2Fclay-ai-fundraising.html%3Fsmid%3Durl-share%26unlocked_article_code%3D1._1A.E5rN.MeYsbgEsUKbB&urlhash=XS4q&mt=4bpSf4a8omAKuAHqAqZx6C11QpbLK_QwIhSV7gSf4Wf9aywPF_KBSiX9IkWE1AhXBEjPH8mK6fAEN7CMFlpvo0lPAtKRjs-dhgzYqHiVKUMCRtw0jScFgxWCRRfYs4HCX0YL9L6PCQz-edBLinvRdU_TaVUL2dA3&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoQmIsufoRJm7X2HC5Rqd%2Fw%3D%3D at $7.1B Valuation led by Wellington — and are on track to cross $200M in revenue this quarter. We also launched a $1M Scholarship fund for GTME Education.\n\nSome things to know about us:\n\n - Our community http://community.clay.com includes 17,000+ customers, 200+ integration partners, 125+ agencies, 50+ Clay clubs https://luma.com/claylive, and 30k members on Slack.\n\n - Our culture https://nextplayso.substack.com/p/spotlight-clay is unique inside and outside of work. Our team members are also DJs, activists, writers, clowns, marathoners, skydivers, psychedelic therapists, social workers, and more.\n\n - All employees can work with world-class coaches who specialize in creativity, management, and more.\n\n - Our operating principles — including negative maintenance and non-attached action — guide our work. Read more about them here https://cdn.prod.website-files.com/61477f2c24a826836f969afe/685d83a71452245cc1129791_4d770abfd83e276ec15315a2e06945bd_Clay2025_OperatingPrinciples.pdf.\n\n - Read about us in the NYT https://www.nytimes.com/2025/08/05/business/dealbook/clay-ai-marketing-fundraise.html, Forbes http://google.com/search?q=forbes+clay&rlz=1C5OZZY_enUS1155US1155&oq=forbes+clay&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzkzM2owajSoAgOwAgHxBVAe8UAxJx_p&sourceid=chrome&ie=UTF-8, First Round Review https://review.firstround.com/podcast/inside-clays-unconventional-path-to-1-25b/, and more https://www.clay.com/press.\n   \n   \n\nHear from our employees directly on our Glassdoor https://www.glassdoor.com/Overview/Working-at-Clay-EI_IE9850794.11,15.htm page!\n\n \n\n\nGROWTH STRATEGIST, KEY @ CLAY\n\nWe’re building a new Key Accounts team within Clay’s Strategic GS segment. It’s a senior team dedicated to Clay’s largest and highest-potential customers.\n\nYou’ll be a strategic partner to a small number of the world’s most influential companies, including Fortune 500 enterprises and leading AI companies. You’ll help their revenue operations and marketing leaders change how they go to market with Clay. As a founding member, you’ll also help define how this segment engages, retains, and grows Clay’s most important relationships.\n\nWhat You’ll Do\n\n - Own a focused portfolio. Be the senior owne",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "ee38e367f0",
+   "rating": "Stretch",
+   "reason": "Despite the Deployment Strategist label, this is senior key-account ownership for enterprise RevOps and marketing leaders, with little hands-on data or ML work.",
+   "gap": "enterprise account management/GTM",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "key-account management, not technical deployment",
+   "what": "AI go-to-market data enrichment/automation platform"
+  }
+ },
+ {
+  "id": "c40eac12b1",
+  "key": "Altana|Staff AI Deployment Strategist|https://job-boards.greenhouse.io/altanaai/jobs/8046424003",
+  "track": "ai",
+  "company": "Altana",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$322M",
+   "investors": [
+    "US Innovative Technology Fund",
+    "Activate Capital",
+    "GV",
+    "OMERS Ventures"
+   ],
+   "what": "AI value-chain management / supply-chain intelligence platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Staff AI Deployment Strategist",
+  "url": "https://job-boards.greenhouse.io/altanaai/jobs/8046424003",
+  "locations": [
+   "Brooklyn, NY; Washington, DC",
+   "Brooklyn, NY",
+   "Washington, D.C."
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-27T14:30:48-04:00",
+  "salary": "$165K–$195K",
+  "department": "Implementation",
+  "degree_mention": false,
+  "description": "Altana is the network for trusted trade. Our AI-powered product network empowers governments and businesses to build a more resilient and secure global economy while keeping trade flowing.\n The Opportunity at Altana\n Altana's AI Deployment team gets our platform into production inside customers' businesses, taking each engagement from signed contract to realized value. As an AI Deployment Strategist, you'll shape what we deploy for each customer: you'll lead discovery with stakeholders from trade compliance analysts to operations leaders to enterprise IT, identify where Altana's platform and agentic AI will change outcomes, and design the solution that AI Deployment Engineers build and run. You'll be the customer's strategic counterpart on how AI fits their business, and you'll work closely with Altana's sales, customer success, engineering, machine learning, and product teams so that what we commit to is what we deliver.\n You Will\n Run discovery to map how each customer's work gets done today, assess their data, systems, and process maturity, and prioritize the use cases where Altana and agentic AI will change outcomes, based on customer value, feasibility, and data readiness.\n Design end-to-end agentic AI solutions (the workflows an agent owns, the decisions it supports, the data and systems of record it draws on, and where people stay in the loop) in enough detail for an AI Deployment Engineer to build against.\n Draft the prompts, system instructions, and evaluation criteria that define a good result, and prototype solution concepts on Altana's platform to validate an approach with the customer before engineering effort is committed.\n Write solution designs, requirements, workflow maps, and acceptance criteria, hand off cleanly to AI Deployment Engineers, and stay engaged through build, validation, and go-live as the owner of the solution's intent.\n Define measurable success for each engagement (adoption, decision quality, time saved, risk reduced), drive adoption through training and enablement, and build the business case for expansion into the next workflows.\n Partner with sales and customer success on scoping new and expanding engagements, feed field learning back to product, and build reusable solution patterns, discovery guides, and templates.\n You Have\n 5+ years in customer-facing solutioning or advisory roles, such as solutions consulting, solution architecture, sales engineering, technical consulting, product management, or implementation with design-level scope.\n A track record of turning ambiguous customer problems into delivered solutions with external stakeholders on real deadlines with real consequences.\n Strong communication and facilitation skills: you can run a discovery workshop with operators, present a solution to an executive, and walk an engineer through the design, all in the same day.\n Product instincts and structured thinking: you ask what problem a request solves, look for the smallest thing that solves it, and make progress with partial information.\n A bias toward repeatable solutions; you look for the pattern behind each customer request.\n A strong working understanding of agentic AI systems (LLM-powered agents, tool and function calling, retrieval-augmented generation, and human-in-the-loop design) and where they succeed or fail in practice.\n Hands-on skill with prompt design and evaluation: you can write prompts and evaluation criteria, diagnose why an agent's output falls short, and describe what would ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "c40eac12b1",
+   "rating": "Stretch",
+   "reason": "His data assessment and success-measurement skills apply, but it is a staff-level role asking for 5+ years of customer-facing solutioning or consulting in B2B trade compliance.",
+   "gap": "5+ yrs customer solutioning; B2B supply-chain domain",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI value-chain management / supply-chain intelligence platform"
+  }
+ },
+ {
+  "id": "c6acec46d1",
+  "key": "Highbeam|AI Implementation Associate|https://jobs.ashbyhq.com/highbeam/60b69921-b805-4a8d-a6ef-bba2a3aba05d",
+  "track": "ai",
+  "company": "Highbeam",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$30M Series A, Sep 2025 (CB Insights shows about $47M total; unconfirmed)",
+   "investors": [
+    "Acrew Capital (lead)",
+    "FirstMark",
+    "Mayfield Fund",
+    "Vesey Ventures",
+    "Two Sigma Ventures"
+   ],
+   "what": "Fintech banking and finance platform for ecommerce brands; has posted data scientist roles",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 1,
+  "title": "AI Implementation Associate",
+  "url": "https://jobs.ashbyhq.com/highbeam/60b69921-b805-4a8d-a6ef-bba2a3aba05d",
+  "locations": [
+   "New York"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-05-15T20:44:13.213000+00:00",
+  "salary": "$130K - $180K",
+  "department": "Product",
+  "degree_mention": false,
+  "description": "Highbeam is building the future of business banking and cash management.\n\nOur platform combines AI agents, automated financial workflows, and integrated financial products that save brands time and money.\n\nCustomers have generated billions in sales and include well-known brands such as Cuts https://www.cutsclothing.com/, Tushy https://hellotushy.com/, Rocco https://roccofridge.com, Sabah https://www.sabah.am/, Still Here https://www.stillhere.nyc/, Alice Mushrooms https://alicemushrooms.com/, Original Grain https://www.originalgrain.com/, birddogs https://www.birddogs.com/, and more.\n\nOur team includes alumni of Shopify, Square, Toast, Rippling, and McKinsey.\n\nWe’ve raised $42M in equity from Acrew, FirstMark, Mayfield, and Two Sigma Ventures.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/7f0a2d9f-58d8-4b30-b1d9-7e652dfbd66d/962259dc-2fcd-40ed-8403-289c8a933cc7/image.png]\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/7f0a2d9f-58d8-4b30-b1d9-7e652dfbd66d/a1d94b4e-50f8-4748-857e-9567893f3532/Ashby_Team_Img.png]\n\n\n\n\nABOUT THIS ROLE\n\n\n\nWe're hiring a Finance AI Implementation Associate to sit at the seam between our customers and our product. You'll work directly with brands to optimize their cash across cash management, bill pay, and forecast health on our agentic platform and you'll be the primary channel feeding what you learn back into what we build. Every manual workflow you run today is a candidate for tomorrow's autonomous capability, and you'll be the one spotting which ones, specifying them, and partnering with Product and Engineering to ship them.This role is based in our NoHo, NYC office.\n\n\n\n\nWhat you’ll do\n\n - Implement and operate customer workflows. Configure each customer's setup across cash management recommendations, AP and bill pay, and forecast health monitoring. Own the outcome,  customers should see measurable cash improvements from your work\n\n - Work hands-on with the agentic platform. Prompt it, evaluate outputs, tune behavior, and build the skills and workflows it uses to serve customers. You're not just a user of the platform, you're shaping how it behaves\n\n - Partner closely with Product. Spot patterns across customers, translate them into clear asks, and work with PMs and engineers to translate manual workflows into autonomous ones\n\n - Prototype new AI-powered workflows. When a customer need doesn't fit what exists, build something. Partner with customers and internal teams to test ideas quickly and bring the winners into the product\n\n - Solve ambiguous financial problems. Break down messy customer situations, reason through them, and design workflows that scale beyond a single brand\n\n - Engage customers directly. Be a person they trust to optimize their cash and resolve issues completely\n\n\n\nQualifications\n\n - Experience in a customer-facing, strategy & operations or product role\n\n - Strong analytical thinking; able to break down ambiguous financial problems and reason through them clearly\n\n - Hands-on experience tinkering with AI tools like Claude, ChatGPT, or Cursor (personal projects, school, or work all count)\n\n - Desire to learn; able to pick up on unfamiliar concepts quickly and directly apply in day-to-day work\n\n - Understanding of core financial concepts (cash flow, P&L, AP/AR) and genuine curiosity about fintech\n\n - Comfort in Excel or Google Sheets modeling and analysis\n\n - Strong communication skills; can articulate complex concepts clearly to customers\n\n - Comfort working cross-functionally",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "c6acec46d1",
+   "rating": "Good",
+   "reason": "Series A in-person NYC fintech role prompting and evaluating agents and prototyping workflows; his analytical and AI-tool fluency fit, but the work is finance-ops rather than ML.",
+   "gap": "associate-level; finance ops, little data/ML",
+   "office": "In-person NYC (NoHo office)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Fintech banking and finance platform for ecommerce brands; has posted data scientist roles"
+  }
+ }
+]

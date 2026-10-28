@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Wed Oct 28, 2026 — 1 new role (0 strong · 1 good · 0 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Good | [Data Scientist - Growth](https://jobs.ashbyhq.com/legora/5fd9fc81-e9af-4d6b-af86-94a1c3d4fdce) | Legora<br><sub>Collaborative AI workspace for law firms and in-house legal teams; large NYC office</sub> | Series C, unverified (~$300M)<br><sub>Benchmark, ICONIQ, Bessemer, General Catalyst, Redpoint · funding unverified</sub> | On-site, NYC office | Oct 28 | $131,750 - $178,250 | Growth DS covering CAC/attribution, churn/expansion signals and pushing modeled data into CRM/messaging tools fits his dbt, LTV:CAC and Braze activation work. **Gap:** B2B/enterprise GTM; analytics-engineering heavy |
+
 ## Thu Oct 22, 2026 — 2 new roles (0 strong · 0 good · 2 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
