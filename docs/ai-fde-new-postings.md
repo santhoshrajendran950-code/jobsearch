@@ -4,6 +4,8 @@ Every morning `jobsearch.py --daily` adds a section here with the forward-deploy
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Thu Oct 29, 2026 — no new roles
+
 ## Wed Oct 28, 2026 — 3 new roles (0 strong · 1 good · 2 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

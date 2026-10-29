@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Thu Oct 29, 2026 — 1 new role (0 strong · 0 good · 1 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Stretch | [Staff Data Scientist](https://job-boards.greenhouse.io/via/jobs/8923185002) | Via<br><sub>Transit-tech / on-demand mobility software</sub> | Series G, unverified (~$1B)<br><sub>Exor, 83North, Pitango · funding unverified</sub> | NYC, telecommuting permitted | Oct 29 | $116K–$175K | His end-to-end production modeling and user-behavior analysis carry over, but the role centers on Bayesian and stochastic simulation for transit systems, not LTV or experimentation. **Gap:** requires MS; Bayesian/stochastic simulation focus; late-stage |
+
 ## Wed Oct 28, 2026 — 1 new role (0 strong · 1 good · 0 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

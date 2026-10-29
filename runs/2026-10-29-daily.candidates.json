@@ -1,0 +1,34 @@
+[
+ {
+  "id": "4618a2110c",
+  "key": "Via|Staff Data Scientist|https://job-boards.greenhouse.io/via/jobs/8923185002",
+  "track": "ds",
+  "company": "Via",
+  "company_meta": {
+   "stage": "Series G",
+   "raised": "unverified (~$1B)",
+   "investors": [
+    "Exor",
+    "83North",
+    "Pitango"
+   ],
+   "what": "Transit-tech / on-demand mobility software",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Staff Data Scientist",
+  "url": "https://job-boards.greenhouse.io/via/jobs/8923185002",
+  "locations": [
+   "New York, NY",
+   "New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-29T06:22:50-04:00",
+  "salary": "$116K–$175K",
+  "department": "Algorithm Research and Data Science",
+  "degree_mention": false,
+  "description": "Position: Staff Data Scientist, Via Transportation, Inc. (New York City, NY) - Telecommuting permitted \n Duties: Apply advanced quantitative and statistical methods to support business model development and product innovation. Develop and implement Bayesian models and stochastic simulations to generate insights and predictions, including analyses of user behavior and system performance. Manage projects end-to-end, including data extraction, cleaning, and preparation; model development and validation; and deployment of analytical solutions. Design and develop proof-of-concept applications, as needed, to operationalize and demonstrate modeling results. Prepare and deliver regular reports and presentations summarizing methodologies, progress, and key findings to stakeholders.\n Salary: $115,835 to $175,000\n Requirements: Master’s degree or higher in Data Science, Computer Science, Systems Engineering, or a closely related quantitative field. Experience completing at least two (2) projects utilizing Bayesian inference, stochastic modeling, or a combination of both, gained in either academic or professional settings. Demonstrated experience developing high-quality functional or object-oriented code, evidenced by approximately 10,000 lines of code written in Python, R, or another programming language suitable for data analytics. Telecommuting permitted.\n Contact: Sharon Lee, SVP, People Operations\n Via Transportation, Inc.\n 114 5th Avenue, 17th Floor\n New York, NY, 20022\n (888) 501-7511\n strategic-growth-us@ridewithvia.com \n &nbsp;\n Via is an equal opportunity employer.",
+  "already_in_pipeline": false
+ }
+]
