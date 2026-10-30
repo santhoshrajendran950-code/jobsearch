@@ -4,6 +4,13 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Fri Oct 30, 2026 — 2 new roles (0 strong · 2 good · 0 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Good | [Staff Data Scientist, Actuarial](https://job-boards.greenhouse.io/usenourish/jobs/5467658008) | Nourish<br><sub>Telehealth marketplace matching patients with in-network registered dietitians</sub> | Series B, unverified (~$109M)<br><sub>Thrive, Index, J.P. Morgan Growth Equity · funding unverified</sub> | Hybrid, 3+ days/wk in NYC office | Oct 29 |  | Leans on his DiD, matching and incrementality work to measure Nourish's effect on care costs, as the first actuarial DS in an in-office NYC team. **Gap:** healthcare claims/actuarial domain |
+| 2 | Good | [Data Scientist](https://job-boards.greenhouse.io/zocdoc/jobs/8335345) | Zocdoc<br><sub>Online doctor-appointment booking marketplace</sub> | Series D, ~$527M<br><sub>Founders Fund, Baillie Gifford, Atomico</sub> | In-office NYC, occasional remote permitted | Oct 29 | $165K–$175K | Consumer marketplace DS role built on experiment design, causal analyses and metric investigations, using the BigQuery, R, SQL, Python and Tableau stack he already uses. **Gap:** later-stage; analytics-leaning, mid-level pay band |
+
 ## Thu Oct 29, 2026 — 1 new role (0 strong · 0 good · 1 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

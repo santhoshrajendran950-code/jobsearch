@@ -1,0 +1,66 @@
+[
+ {
+  "id": "16437d1ec7",
+  "key": "Nourish|Staff Data Scientist, Actuarial|https://job-boards.greenhouse.io/usenourish/jobs/5467658008",
+  "track": "ds",
+  "company": "Nourish",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "unverified (~$109M)",
+   "investors": [
+    "Thrive",
+    "Index",
+    "J.P. Morgan Growth Equity"
+   ],
+   "what": "Telehealth marketplace matching patients with in-network registered dietitians",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Staff Data Scientist, Actuarial",
+  "url": "https://job-boards.greenhouse.io/usenourish/jobs/5467658008",
+  "locations": [
+   "New York, NY",
+   "Headquarters"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-29T19:05:41-04:00",
+  "salary": null,
+  "department": "Analytics",
+  "degree_mention": false,
+  "description": "About Us \n Health is the most important thing in life, and the American healthcare system is completely broken - poor outcomes, high cost, bad patient experience. We're building a new system from the ground up.\n Our mission is to improve people’s health by making it easy to live a healthy lifestyle. \n Nourish is the country's largest dietitian-led metabolic health clinic. We’re an AI-native digital health system matching patients with 10,000+ Registered Dietitians, physicians, medications, lab testing, and AI agents to deliver insurance-covered care across all 50 states. Founded four years ago, we've completed millions of appointments, tripled year-over-year, and partnered with health plans covering 200M+ Americans across 250+ health systems.\n In 2026 we raised a $100M Series C , bringing total funding to $215M. The round was led by&nbsp; Menlo Ventures , with participation from&nbsp; Thrive Capital ,&nbsp; Index Ventures ,&nbsp; J.P. Morgan Growth Equity Partners ,&nbsp; Maverick Ventures ,&nbsp; Y Combinator ,&nbsp; BoxGroup ,&nbsp; Atomico ,&nbsp; Daybreak , and&nbsp; Operator Partners .\n Learn more about our Series C here: Nourish Blog , Bloomberg , Fierce Healthcare , Digital Native , The Pulse Podcast . \n This is not a job for everyone. We hold an extremely high bar because we believe talent density is our biggest competitive advantage. We're looking for people who actively choose hard, ambiguous problems, who run toward unglamorous work, give and receive candid feedback, and bring relentless resilience without the ego. Our work is important, but we are not self-important. We do this because we’re solving one of the hardest problems in the world, and the problem matters. If that's you, we disproportionately reward it.\n About the Role \n Can nutrition care meaningfully improve health outcomes while reducing healthcare costs? This question is critical to Nourish's mission and our ability to bring care to millions more patients.\n As our Actuarial Data Scientist , you'll lead the effort to quantify the economic impact of Nourish care. You'll design rigorous claims-based studies, develop actuarial models, and translate your findings into compelling evidence that demonstrates the value of Nourish to existing and prospective payer partners.\n You'll be our first dedicated actuarial data science hire, with the opportunity to shape how we measure, validate, and communicate our impact. Your work will directly influence our payer partnerships, commercial strategy, and understanding of where our care creates the most value.\n This is a hands-on role, working closely with our Commercial and Clinical teams, partnering with Analytics Engineering, and reporting to our Head of Data.\n Our data team is based in NYC and works from the office 3+ days a week, so we're looking for people who are excited to join us onsite and be part of that culture.\n Key Responsibilities \n Lead Nourish's payer value studies: Design and execute rigorous claims-based analyses to quantify the impact of Nourish care on medical and pharmacy spending, healthcare utilization, and total cost of care.\n Develop credible causal impact estimates: Apply appropriate study designs, matched comparison groups, risk adjustment, and causal inference methods to isolate the incremental impact of Nourish care.\n Model financial impact for prospective partners: Build actuarial models to estimate potential cost savings, PMPM impact, and ROI for specific health plan populations.\n Translate evidence",
+  "already_in_pipeline": false
+ },
+ {
+  "id": "fdd43727fc",
+  "key": "Zocdoc|Data Scientist|https://job-boards.greenhouse.io/zocdoc/jobs/8335345",
+  "track": "ds",
+  "company": "Zocdoc",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "~$527M",
+   "investors": [
+    "Founders Fund",
+    "Baillie Gifford",
+    "Atomico"
+   ],
+   "what": "Online doctor-appointment booking marketplace",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Data Scientist",
+  "url": "https://job-boards.greenhouse.io/zocdoc/jobs/8335345",
+  "locations": [
+   "New York, NY",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-29T17:47:39-04:00",
+  "salary": "$165K–$175K",
+  "department": "Data & Analytics",
+  "degree_mention": false,
+  "description": "Our Mission \n You call. You wait. You call again. In every other part of your life, you book in seconds. In healthcare, you’re blocked.&nbsp;&nbsp;\n We’re here to give power to the patient.&nbsp;\n For nearly 20 years, we’ve built the leading healthcare marketplace - helping tens of millions of people find and book the care they need. Now, we’re going further: building our infrastructure beyond Zocdoc’s marketplace to power access to care wherever patients search, from provider websites and insurance directories to search engines, AI platforms, and more.\n Healthcare still lacks something every other major consumer industry takes for granted: a seamless way to go from seeking to getting . We don’t want to own the front door to care; there isn't one. We want to make sure all of those doors open when patients are knocking.\n Fixing healthcare starts with fixing access to it. And we're still just getting started.\n &nbsp;\n &nbsp;\n DUTIES: Analyze, manipulate, or process large sets of data using statistical software. Clean and manipulate raw data using statistical software. Identify business problems or management objectives that can be addressed through data analysis. Recommend data-driven solutions to key stakeholders. Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software. Execute end-to-end analyses to answer key product and business questions. Apply SQL and analytical programming tools to extract, transform, and analyze data from various data sources with accuracy and reproducibility. Design and analyze experiments using valid frameworks, correctly interpreting results and surfacing limitations, assumptions, and sources of uncertainty. Perform structured investigations into metric changes and evaluate plausible drivers. Partner with Product, Engineering, and Data Engineering to validate metric definitions, experiment setup, and measurement readiness. Clearly document analytical context, methodology, assumptions, and conclusions to ensure work can be understood and reused by others. Communicate findings to stakeholders in a clear and concise manner, focusing on how results answer the underlying business question. Identify potential data quality or measurement issues and escalate them appropriately. Design causal analyses for complex initiatives, ensuring methodological soundness and appropriate interpretation of results. Remote work may be permitted on occasion within a commutable distance from the worksite.&nbsp;\n &nbsp;\n REQUIREMENTS: Bachelor’s degree or foreign equivalent in Business Analytics, Engineering (any), Math or related; and 2 years of experience in the job offered or a related quantitative occupation. Must include 2 years of experience in each of the following: Reviewing business intelligence, dashboarding, reporting, and data analytics using Tableau, Looker, BigQuery, and AWS (S3) to monitor key metrics, analyze trends, and deliver insights that support process execution, financial analysis, and product development; Analyzing statistical modeling, causal analytics, and experimental design using R (including R Shiny) and SQL to implement clear, actionable insights that inform product strategy, optimize financial outcomes, and guide data-driven business decisions; Manipulating large data sets using Python and Snowflake to perform data extraction, cleaning, transformation, and workflow automation for reporting and analysis; Using Tableau, Looker, and visualization tools i",
+  "already_in_pipeline": false
+ }
+]
