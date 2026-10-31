@@ -1,0 +1,45 @@
+[
+ {
+  "id": "7ed0a90ed1",
+  "key": "Mercor|Sr. Machine Learning Engineer, Anonymization|https://jobs.ashbyhq.com/mercor/73a9f1c6-3c62-4c49-b65d-e5f6a3549d95",
+  "track": "ds",
+  "company": "Mercor",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "unverified (~$450M)",
+   "investors": [
+    "Benchmark",
+    "Felicis",
+    "General Catalyst"
+   ],
+   "what": "AI data / expert-labor marketplace for training frontier models",
+   "verified": false,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 0,
+  "title": "Sr. Machine Learning Engineer, Anonymization",
+  "url": "https://jobs.ashbyhq.com/mercor/73a9f1c6-3c62-4c49-b65d-e5f6a3549d95",
+  "locations": [
+   "San Francisco",
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-05-29T18:20:10.747000+00:00",
+  "salary": "$180K - $500K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "ABOUT MERCOR\n\n\n\nMercor's mission is to organize human intelligence to power the AI economy. We're a leading AI data company, building the layer between human expertise and frontier models. Millions of domain experts on the platform are paid over $4 million per day to train frontier AI models. Mercor's APEX benchmark family measures AI's real-world impact on professional work. Mercor Enterprise brings this same infrastructure to Fortune 500 companies: helping companies capture how their best people actually work, translating that expertise directly back into agents.\n\n \n\nMercor is creating a new category of work where expertise powers AI advancement. Achieving this requires an ambitious, fast-paced and deeply committed team. You’ll work alongside researchers, operators, and AI companies at the forefront of shaping the systems that are redefining society. Mercor is a profitable Series C company valued at $10 billion. We work in-person five days a week in our San Francisco, NYC, or London offices.\n\nAbout the Role:\n\nFrontier AI companies are increasingly bottlenecked on expert judgment — capturing it reliably, validating it at scale, and turning it into durable model behavior. This role sits at the center of that problem.\n\nYou'll build the ML systems that power Mercor's Frontier Data Products: the infrastructure that scores, validates, and improves complex work products where correctness is rarely binary and labels are often noisy, delayed, or disputed. A single job can stay live for days, interleaving model inference, automated checks, expert review, disagreement resolution, and feedback loops. Your work determines how models reason over ambiguous inputs, when they should defer to humans, how quality is measured, and how feedback compounds into better systems over time.\n\nThis is applied ML product engineering under real production constraints — incomplete ground truth, shifting requirements, latency and cost tradeoffs, and workflows where a silent model failure corrupts the final output. It is not an offline benchmarks role.\n\n\n\nWhat You'll Do\n\n• Build ML systems that score, validate, and improve complex work products where correctness is nuanced and labels are imperfect.\n\n• Design evaluation frameworks for ambiguous tasks where ground truth is partial, delayed, or disputed.\n\n• Build feedback loops that turn review, disagreement, correction, and adjudication into measurable model and system improvements.\n\n• Own production ML behavior end-to-end: precision/recall tradeoffs, regression detection, drift, latency, cost, and explainability.\n\n• Improve model quality using the right tool for the job — prompting, fine-tuning, retrieval, active learning, heuristics, and error analysis.\n\n• Partner with backend engineers to integrate inference into durable, long-running workflows without sacrificing debuggability or human oversight.\n\nWhat Makes This Role Different\n\n• The architecture is not set — early engineers will define how quality is measured, how models and humans interact, where automation is trusted, and how the system compounds over time.\n\n• The feedback loop is short: shipping a model behavior change directly and visibly affects what customers receive.\n\n• You're working on a strategically central product area at Mercor at a moment when frontier AI companies have no good solution to the problem you're solving.\n\n\n\nDay-to-Day\n\n• Moving fast on a young, high-ownership codebase where your decisions have long-term architectural weight.\n\n• Operating",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "7ed0a90ed1",
+   "rating": "Stretch",
+   "reason": "His end-to-end production ML ownership (drift monitoring, retraining, evaluation) carries over, but the core work is LLM prompting, fine-tuning and retrieval for scoring expert work products.",
+   "gap": "LLM-heavy, B2B AI-data domain",
+   "office": "In-person 5 days/wk in SF, NYC, or London",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI data / expert-labor marketplace for training frontier models"
+  }
+ }
+]
