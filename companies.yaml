@@ -3166,3 +3166,22 @@
   verified: false
   source: discover 2026-10-28
   nyc_office: true
+
+# ── auto-discovered 2026-11-01 ──
+- name: Regal
+  ats: lever
+  slug: regal.ai
+  stage: Series B
+  raised: ~$82-83M total ($40M Series B, Oct 2024)
+  investors:
+  - Emergence Capital
+  - Founder Collective
+  - Homebrew
+  - Operator Collective
+  - Flex Capital
+  - Inspired Capital
+  hq: New York, NY
+  what: Voice and SMS AI agent platform for contact centers and customer communication.
+  verified: true
+  source: discover 2026-11-01
+  nyc_office: true
