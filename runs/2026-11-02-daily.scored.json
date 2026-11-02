@@ -1,0 +1,132 @@
+[
+ {
+  "id": "f116a79cbf",
+  "key": "Plaid|Data Scientist - Credit (Retros)|https://jobs.ashbyhq.com/plaid/9d8a139c-8f99-4049-b7bd-8de693820d7b",
+  "track": "ds",
+  "company": "Plaid",
+  "company_meta": {
+   "stage": "Series D+",
+   "raised": "unverified (~$1.3B)",
+   "investors": [
+    "a16z",
+    "Index",
+    "Kleiner Perkins",
+    "NEA",
+    "Spark"
+   ],
+   "what": "Financial-data connectivity / fintech infrastructure; large NYC office",
+   "verified": false,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "Data Scientist - Credit (Retros)",
+  "url": "https://jobs.ashbyhq.com/plaid/9d8a139c-8f99-4049-b7bd-8de693820d7b",
+  "locations": [
+   "New York City Office"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-11-02T05:28:53.960000+00:00",
+  "salary": "$176.4K - $226.8K",
+  "department": "All Departments",
+  "degree_mention": false,
+  "description": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Seattle, Washington D.C., Raleigh, London, and Amsterdam.\n\n\nABOUT THE TEAM\n\nWe’re part of Plaid’s Data organization, building models and insights that help millions of people better understand and grow their financial lives. We use Plaid’s unique financial data to help lenders make more informed decisions and build better credit experiences.\n\nWe partner across data science, engineering, product, and Go-to-Market to turn complex data into practical customer recommendations and scalable solutions. We value technical rigor, creativity, user empathy, and teamwork.\n\n\n\nABOUT THE ROLE\n\nAs a Data Scientist on the Credit team, you’ll apply quantitative analysis and deep credit expertise to help lenders make better use of cash flow insights. You’ll work across customer problems, credit policy, and data products—translating Plaid’s data into recommendations and insights that drive business impact and inform product direction.\n\nYour day-to-day responsibilities may include:\n\n - Deep-dive into model performance for clients, triage issues, and identify opportunities to improve outcomes.\n\n - Analyze Plaid’s unique data to identify emerging credit risk signals and build and evaluate credit retrospectives.\n\n - Create tailored recommendations for clients based on their data and Plaid’s insights.\n\n - Build and maintain data pipelines, including ETL processes using tools such as dbt.\n\n - Develop metrics, alerts, and dashboards to monitor production machine learning model performance.\n\nIn this role, you will:\n\n - Own the process of developing hands-on recommendations for incorporating cash flow insights into lending decisions, using best practices for account-level decisioning.\n\n - Improve customer adoption of Plaid Insights through custom analysis tailored to each customer’s needs.\n\n - Serve as a subject matter expert on credit insights and credit policy implementation, supporting Data Science, Engineering, and Go-to-Market partners.\n\n - Apply your expertise in quantitative analysis, data mining, and data visualization to develop models and actionable insights.\n\n - Identify useful signals that can inform machine learning models.\n\n - Inform and influence Product and Engineering teams through clear analysis and presentations.\n\n\n\nWHAT EXCITES YOU\n\n - Applying data science and credit expertise to real-world lending decisions.\n\n - Working with Plaid’s unique financial data to uncover emerging credit risk signals and create useful customer insights.\n\n - Helping lenders make more informed decisions with cash flow data and account-level recommendations.\n\n - Partnering across Data Science, Engineering, Product, and Go-to-Market to turn analysis into customer and product impact.\n\n - Working on high-impact problems that can improve financi",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "f116a79cbf",
+   "rating": "Stretch",
+   "reason": "dbt pipelines and production model monitoring match his experience, but the role centers on credit policy, lending retrospectives and client recommendations, not his consumer LTV and experimentation work.",
+   "gap": "deep credit expertise; B2B, later-stage",
+   "office": "Hybrid, NYC office (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Financial-data connectivity / fintech infrastructure; large NYC office"
+  }
+ },
+ {
+  "id": "e72c594b1e",
+  "key": "Plaid|Machine Learning Engineer - Lendscore|https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+  "track": "ds",
+  "company": "Plaid",
+  "company_meta": {
+   "stage": "Series D+",
+   "raised": "unverified (~$1.3B)",
+   "investors": [
+    "a16z",
+    "Index",
+    "Kleiner Perkins",
+    "NEA",
+    "Spark"
+   ],
+   "what": "Financial-data connectivity / fintech infrastructure; large NYC office",
+   "verified": false,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "Machine Learning Engineer - Lendscore",
+  "url": "https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+  "locations": [
+   "New York City Office"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-11-02T05:27:54.363000+00:00",
+  "salary": "$211,680 - $272,160",
+  "department": "All Departments",
+  "degree_mention": false,
+  "description": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Seattle, Washington D.C., Raleigh, London, and Amsterdam.\n\n\nABOUT THE TEAM\n\nWe’re part of Plaid’s Data organization, building models that help millions of people better understand and grow their financial lives. We apply machine learning to high-impact product challenges, working across product areas to develop solutions that create meaningful customer value.\n\nWe focus on credit, building models to the standards required in lending and supporting the next wave of cash-flow-based underwriting. We value technical expertise, creativity, user empathy, and teamwork, and we’re guided by Plaid’s principles of impact, growing together, openness and positivity, and inventing tomorrow.\n\n\n\nABOUT THE ROLE\n\nAs a Machine Learning Engineer on the Credit team, you’ll design, build, and deploy scalable machine learning solutions that support LendScore and the future of cash-flow-based underwriting. You’ll work across the full model lifecycle—from experimentation and offline training through production serving and monitoring—and partner with engineers and cross-functional teams to turn data and new modeling approaches into reliable systems.\n\nIn this role, you will:\n\n - Develop and productionize AI and machine learning models, from offline training through online serving and ongoing monitoring.\n\n - Experiment with modeling approaches and strategies for credit use cases, balancing model performance with the requirements of lending environments.\n\n - Partner with engineering teams to ingest signals and build the systems needed to bring models into production.\n\n - Contribute to both 0-to-1 problems and the scaling and improvement of established solutions.\n\n - Collaborate with teams across Plaid to help define the machine learning roadmap.\n\n - Dive into data and use evidence-based analysis to guide day-to-day decisions.\n\n\nWHAT EXCITES YOU\n\n - Building products that can empower millions of people through well-known and emerging fintech applications.\n\n - Experimenting with modern machine learning techniques on meaningful credit and lending problems.\n\n - Working across the full lifecycle of machine learning systems, from exploration to production and ongoing improvement.\n\n - Taking on both greenfield challenges and opportunities to scale solutions that are already delivering value.\n\n - Joining a high-ownership, bottom-up team where your work can shape the roadmap and drive business impact.\n\n\nWHAT EXCITES US\n\n - 2+ years of experience training and serving AI or machine learning models in a production environment.\n\n - Experience in fintech lending and a strong understanding of how models are built and used in lending.\n\n - Experience building or working with data-intensive backend applications in large, distributed systems.\n\n - Ability t",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "e72c594b1e",
+   "rating": "Good",
+   "reason": "Full-lifecycle production ML on financial data fits his LightGBM pipeline, retraining and monitoring ownership, though online serving and lending standards go beyond his consumer LTV/churn work.",
+   "gap": "lending domain; distributed backend; B2B, later-stage",
+   "office": "Hybrid, NYC office (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Financial-data connectivity / fintech infrastructure; large NYC office"
+  }
+ },
+ {
+  "id": "586d222bfd",
+  "key": "Ritual|Machine Learning Engineer|https://job-boards.greenhouse.io/ritual/jobs/4029531007",
+  "track": "ds",
+  "company": "Ritual",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$25M (unverified)",
+   "investors": [
+    "Archetype (unverified)"
+   ],
+   "what": "Decentralized network and execution layer for AI models; hiring ML engineers.",
+   "verified": false,
+   "hq": "New York, NY (unverified)"
+  },
+  "vc_rank": 1,
+  "title": "Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/ritual/jobs/4029531007",
+  "locations": [
+   "Remote",
+   "NY",
+   "Remote"
+  ],
+  "workplace": "",
+  "posted_at": "2023-11-07T09:14:58-05:00",
+  "salary": null,
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "About Ritual&nbsp;\n Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.\n About the role\n We are looking for a talented and motivated Machine Learning Product Engineer to join our team. In this role, you will work on a variety of projects related to applied machine learning, including working with the product team on automating Data ETL pipelines, deploying machine learning models, and shipping customer-facing products.&nbsp;\n Scale up model inference and running predictions at scale on cutting-edge models\n Work end to end to connect ML models to human interfaces (e.g. APIs, browsers, and applications)&nbsp;\n Designing and implementing large-scale data and ML pipelines through a full end-to-end product development lifecycle&nbsp;\n Collaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations teammates to create cutting-edge products&nbsp;\n About you\n Experience as a software engineer\n Experience building and serving machine learning models\n Familiarity with Python and related ML frameworks such as PyTorch, Tensorflow, Jax, and other open-source stacks such as HuggingFace\n Ability to reason through machine learning system tradeoffs&nbsp;\n A high level of end-to-end ownership and self-direction\n Extras\n Familiarity with basic machine learning system stacks e.g. TinyML, Triton, CUDA, ROCm, Exo, MLIR, Halide, etc\n Familiarity with DataOps, MLOps, and ML orchestration pipelines&nbsp;\n Understanding of modern ML architectures and intuition for inference performance tradeoffs\n Experience or interest in working on open-source ML products\n Interest in building tech aligned with user privacy, computational integrity, and/or censorship resistance\n Experience at fast-growing companies or startups\n Why join us&nbsp;\n Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&nbsp;\n Highly competitive compensation package, including annual discretionary bonus &amp; optimized tax structure compared to the vast majority of web3 startups\n Top 1% of benefits across the web3 startup space\n 100% of premiums covered on highest quality healthcare&nbsp;\n Aggressive company 401k match\n Fully remote and/or hybrid, up to you!\n Participate in virtual and in-person events\n Much much more!",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "586d222bfd",
+   "rating": "Stretch",
+   "reason": "His ML pipeline and deployment experience overlaps, and it is early-stage, but the role needs software engineering, PyTorch/HuggingFace model inference at scale and customer-facing product building for crypto-AI infrastructure.",
+   "gap": "SWE background; DL inference/infra; crypto domain",
+   "office": "Fully remote and/or hybrid, employee's choice",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Decentralized network and execution layer for AI models; hiring ML engineers."
+  }
+ }
+]

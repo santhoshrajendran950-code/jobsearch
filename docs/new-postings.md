@@ -4,6 +4,13 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Mon Nov 2, 2026 — 2 new roles (0 strong · 1 good · 1 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Good | [Machine Learning Engineer - Lendscore](https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4) | Plaid<br><sub>Financial-data connectivity / fintech infrastructure; large NYC office</sub> | Series D+, unverified (~$1.3B)<br><sub>a16z, Index, Kleiner Perkins, NEA, Spark · funding unverified</sub> | Hybrid, NYC office (days not stated) | Nov 2 | $211,680 - $272,160 | Full-lifecycle production ML on financial data fits his LightGBM pipeline, retraining and monitoring ownership, though online serving and lending standards go beyond his consumer LTV/churn work. **Gap:** lending domain; distributed backend; B2B, later-stage |
+| 2 | Stretch | [Data Scientist - Credit (Retros)](https://jobs.ashbyhq.com/plaid/9d8a139c-8f99-4049-b7bd-8de693820d7b) | Plaid<br><sub>Financial-data connectivity / fintech infrastructure; large NYC office</sub> | Series D+, unverified (~$1.3B)<br><sub>a16z, Index, Kleiner Perkins, NEA, Spark · funding unverified</sub> | Hybrid, NYC office (days not stated) | Nov 2 | $176.4K - $226.8K | dbt pipelines and production model monitoring match his experience, but the role centers on credit policy, lending retrospectives and client recommendations, not his consumer LTV and experimentation work. **Gap:** deep credit expertise; B2B, later-stage |
+
 ## Fri Oct 30, 2026 — 2 new roles (0 strong · 2 good · 0 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

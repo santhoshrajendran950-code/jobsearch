@@ -3185,3 +3185,17 @@
   verified: true
   source: discover 2026-11-01
   nyc_office: true
+
+# ── auto-discovered 2026-11-02 ──
+- name: Ritual
+  ats: greenhouse
+  slug: ritual
+  stage: Series A
+  raised: $25M (unverified)
+  investors:
+  - Archetype (unverified)
+  hq: New York, NY (unverified)
+  what: Decentralized network and execution layer for AI models; hiring ML engineers.
+  verified: false
+  source: discover 2026-11-02
+  nyc_office: true
