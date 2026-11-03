@@ -1,0 +1,264 @@
+[
+ {
+  "id": "972ef7648e",
+  "key": "PhysicsX|Deployment Strategist|https://job-boards.eu.greenhouse.io/physicsx/jobs/5025320101",
+  "track": "ai",
+  "company": "PhysicsX",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$155M",
+   "investors": [
+    "Atomico",
+    "Temasek",
+    "NVentures",
+    "General Catalyst"
+   ],
+   "what": "AI simulation/engineering models for physical industries; NYC office",
+   "verified": true,
+   "hq": "London, UK"
+  },
+  "vc_rank": 0,
+  "title": "Deployment Strategist",
+  "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/5025320101",
+  "locations": [
+   "New York, United States",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-02T19:29:59-05:00",
+  "salary": "$90K–$130K",
+  "department": "Delivery",
+  "degree_mention": false,
+  "description": "About us\n Re-architecting Engineering for the Age of Intelligence PhysicsX is the physics AI company for industrials. The company’s mission is to accelerate hardware innovation by overhauling what industrial engineering and manufacturing look like today. PhysicsX is building a new simulation software stack to deliver deep physics AI enablement across the entire engineering lifecycle. The company partners with leading organisations in aerospace &amp; defence, automotive, semiconductors, materials, and energy &amp; renewables, supporting them on some of their most critical and complex challenges. PhysicsX is headquartered in the United Kingdom, with offices in London, New York, and Singapore and an expanding presence in the Bay Area.\n Who we are looking for\n As a customer-facing Deployment Strategist (internally we call these Delivery Engineers), you are a relationship builder and technical guide who is passionate about growing strategic accounts by transforming AI solutions into lasting customer partnerships. Due to the deep technical nature of the environment we work in, you are someone who can understand advanced engineering concepts across multiple industries and excel at working directly with customers to understand their challenges, ambitions, and evolving needs while serving as their primary point of contact.\n We welcome diverse technical backgrounds that bring valuable perspectives to our product. You may come from a Data Science/Machine Learning background with deep understanding of the end-to-end AI/ML product lifecycle, enabling you to explain complex technical concepts to stakeholders and identify new areas of application. Alternatively, you may have an engineering profile bringing domain-specific engineering understanding that helps connect our solutions to real industry challenges. In either case, you bring a unique perspective and you help customers bridge the gap between advanced AI capabilities and practical engineering applications. Note that your current role might not leverage your technical background - for example you might have left the field of engineering but are interesting in returning! You are a keen learner who will become up-to-speed with our core technology stack, cloud/software deployment, and product features, allowing you to support customers with guiding activities and technical requests.\n With 4+ years industry experience in a commercial, customer-facing environment, you're ready to take ownership of the complete customer journey, from onboarding and change management to roadmap planning and contract preparation. You excel at strategic planning, time management, and problem-solving, with natural organizational skills that enable you to manage sprint planning, deliverables alignment, and smooth project delivery. Experience in industrial or advanced manufacturing sectors—such as automotive, semiconductors, or materials—is preferred.\n Responsibilities \n In this role, you’ll work closely with both customers and our Simulation Engineers, Software Engineers, Machine Learning Engineers and Data Scientists to understand and define the engineering and physics challenges we are build solutions for. You will:\n Build and maintain relationships with users and senior decision-makers at our customers\n Run the account operating rhythm: executive reviews, account reporting, and tracking of delivery progress and value\n Own the customer onboarding journey and drive change management, making sure what we build gets adopted",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "972ef7648e",
+   "rating": "Good",
+   "reason": "Customer-facing deployment role explicitly welcoming DS/ML backgrounds; his end-to-end production ML and stakeholder partnering fit, though the job leans toward account ownership and delivery management over hands-on building.",
+   "gap": "account-management heavy; lacks 4+ yrs commercial customer-facing; industrial domain preferred",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI simulation/engineering models for physical industries; NYC office"
+  }
+ },
+ {
+  "id": "45ce8a84f4",
+  "key": "Hebbia|AI Strategist, Credit (Legal)|https://jobs.ashbyhq.com/hebbia-ai/c7685e5e-ab89-4073-b99d-48da3b1d0e77",
+  "track": "ai",
+  "company": "Hebbia",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$160M",
+   "investors": [
+    "a16z",
+    "Index Ventures",
+    "GV"
+   ],
+   "what": "AI document analysis and agents for finance and law",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "AI Strategist, Credit (Legal)",
+  "url": "https://jobs.ashbyhq.com/hebbia-ai/c7685e5e-ab89-4073-b99d-48da3b1d0e77",
+  "locations": [
+   "NYC"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-11-02T18:40:11.481000+00:00",
+  "salary": null,
+  "department": "AI Strategy",
+  "degree_mention": false,
+  "description": "About Hebbia\n\nThe AI platform for investors and bankers that generates alpha and drives upside.\n\nFounded in 2020 by George Sivulka and backed by Peter Thiel and Andreessen Horowitz, Hebbia powers investment decisions for BlackRock, KKR, Carlyle, Centerview, and 40% of the world’s largest asset managers. Our flagship product, Matrix, delivers industry-leading accuracy, speed, and transparency in AI-driven analysis. It is trusted to help manage over $30 trillion in assets globally.\n\nWe do not just streamline workflows. We transform how capital is deployed, how risk is managed, and how value is created across markets, and increasingly, how the law firms behind those deals get them done.\n\nAbout the Role\n\nThe finance groups at leading law firms sit at the center of every leveraged buyout, private credit deal, and refinancing our investor clients do. They’re also buried in documents: precedent credit agreements, rounds of lender and sponsor comments, diligence, and closing deliverables.\n\nAs an AI Strategist focused on credit, you’ll be the former finance lawyer who walks into a law firm and speaks the practice’s language. You’ll own the relationship with finance partners, practice group leaders, and innovation teams. You’ll show them how Hebbia changes the way they run credit transactions, deploy it across their deal teams, and grow it into a firm-wide standard.\n\nYou’ve lived the 2 a.m. markup and the precedent hunt. Now you’ll help fix them.\n\nResponsibilities\n\n - Win and grow law firm accounts: Partner with our sales team to land finance and credit practices at leading firms, then drive adoption and expansion across partners, associates, and offices.\n\n - Own the credit transaction use case: Build and deploy Hebbia workflows for the work finance lawyers actually do, including:\n   \n   - precedent and market-terms research across a firm’s deal history\n   \n   - reviewing and comparing lender and sponsor markups\n   \n   - issues lists and covenant / definitions analysis\n   \n   - diligence and closing checklists\n   \n   - amendments, refinancings, and liability management transactions\n\n - Be the trusted advisor: Build relationships with finance partners, practice group leaders, knowledge management, and innovation teams. Lead demos, pilots, and trainings that turn skeptics into champions.\n\n - Prove the ROI: Quantify time saved and quality gained on live deals, and turn wins into case studies that open the next practice group and the next firm.\n\n - Shape the product: Bring the voice of the finance lawyer to product and engineering. Define what Hebbia needs to become the standard tool for credit transactions.\n\n - Help build the team: Be an early member of our legal vertical, with the chance to shape how we go to market with law firms and grow the team around you.\n\nWho You Are\n\n - A JD (or equivalent law degree) from an accredited law school.\n\n - 2–6 years of experience in a credit-focused transactional practice at a leading law firm. Relevant practices include leveraged and acquisition finance, banking & finance, private credit and direct lending, fund finance, structured finance, restructuring, and debt capital markets.\n\n - Hands-on experience running credit transactions, including drafting and negotiating credit agreements, intercreditor agreements, and related documents.\n\n - You understand how law firms work: how partners make decisions, how associates spend their time, and why change is hard to drive in a practice group.\n\n - Strong communicator, c",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "45ce8a84f4",
+   "rating": "Stretch",
+   "reason": "Requires a former finance lawyer running credit transactions; his production ML and data science experience does not meet this legal-practice requirement.",
+   "gap": "requires JD and credit law practice",
+   "office": "In-person NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "requires JD and prior law firm career",
+   "what": "AI document analysis and agents for finance and law"
+  }
+ },
+ {
+  "id": "ed3cc77269",
+  "key": "ElevenLabs|Deployment Strategist - North America|https://jobs.ashbyhq.com/elevenlabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
+  "track": "ai",
+  "company": "ElevenLabs",
+  "company_meta": {
+   "stage": "Series C+",
+   "raised": "unverified (~$280M+)",
+   "investors": [
+    "a16z",
+    "ICONIQ",
+    "Sequoia"
+   ],
+   "what": "AI voice/audio models and products",
+   "verified": false,
+   "hq": "London, UK / New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Deployment Strategist - North America",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
+  "locations": [
+   "United States",
+   "New York",
+   "Los Angeles",
+   "Boston",
+   "San Francisco",
+   "Washington, D.C."
+  ],
+  "workplace": "Remote",
+  "posted_at": "2026-11-02T18:19:57.531000+00:00",
+  "salary": null,
+  "department": "Engineering & Product",
+  "degree_mention": false,
+  "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\n\nABOUT THE ROLE\n\nAs a Deployment Strategist, you'll work as part of a driven and creative team of Forward Deployed Engineers, Go to Market professionals, Product Engineers and other Strategists to deploy ElevenAgents, our enterprise AI platform, against the challenging problems our customers face. Your mission is to synthesize disconnected streams of thought into a cohesive understanding of what the most important problem is, what the existing workflows are, what the product needs, what users are motivated by, and where the impact could be.\n\n \n\nNo two days are the same, but as a Deployment Strategist you can expect to:\n\n - Meet with strategic customers to deeply understand their AI transformation goals and locate their biggest pain points, particularly around customer-facing and operational workflows powered by AI agents.\n\n -",
+  "already_in_pipeline": true,
+  "score": {
+   "id": "ed3cc77269",
+   "rating": "Good",
+   "reason": "Customer problem framing and AI agent deployment match his applied ML and stakeholder work, but enterprise voice-agent workflows are new to him and the company is late-stage and remote.",
+   "gap": "B2B/enterprise; remote, late-stage",
+   "office": "Remote (US); New York among listed locations",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI voice/audio models and products"
+  }
+ },
+ {
+  "id": "267d235a82",
+  "key": "Hebbia|AI Strategist, Corporate (Legal)|https://jobs.ashbyhq.com/hebbia-ai/f6372e23-a80d-4c26-b831-3dd5bce96a7d",
+  "track": "ai",
+  "company": "Hebbia",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$160M",
+   "investors": [
+    "a16z",
+    "Index Ventures",
+    "GV"
+   ],
+   "what": "AI document analysis and agents for finance and law",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "AI Strategist, Corporate (Legal)",
+  "url": "https://jobs.ashbyhq.com/hebbia-ai/f6372e23-a80d-4c26-b831-3dd5bce96a7d",
+  "locations": [
+   "NYC"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-06-12T17:43:08.202000+00:00",
+  "salary": null,
+  "department": "AI Strategy",
+  "degree_mention": false,
+  "description": "About Hebbia\n\nThe AI platform for investors and bankers that generates alpha and drives upside.\n\nFounded in 2020 by George Sivulka and backed by Peter Thiel and Andreessen Horowitz, Hebbia powers investment decisions for BlackRock https://www.blackrock.com/us/individual/about-us/about-blackrock?cid=ppc:blk_us:corpaffairs_us_br_reputationmediamanagement_na_exact_ol:google:brand_nonprod:ol&gclsrc=aw.ds&gad_source=1&gad_campaignid=21584717446&gbraid=0AAAAACc6WDFbRb5bgB6zxVFLE_7yIy25I&gclid=CjwKCAiA9aPKBhBhEiwAyz82J2uDlcIPVsy0fhSZMS_rp_OsGerYzYFPFfLo4TlN8K4eCHWzPfvysRoC7oQQAvD_BwE, KKR https://www.kkr.com/, Carlyle https://www.carlyle.com/, Centerview https://www.centerviewpartners.com/, and 40% of the world’s largest asset managers. Our flagship product, Matrix, delivers industry-leading accuracy, speed, and transparency in AI-driven analysis. It is trusted to help manage over $30 trillion in assets globally.\n\nWe deliver the intelligence that gives finance professionals a definitive edge. Our AI uncovers signals no human could see, surfaces hidden opportunities, and accelerates decisions with unmatched speed and conviction. We do not just streamline workflows. We transform how capital is deployed, how risk is managed, and how value is created across markets.\n\nHebbia is not a tool. Hebbia is the competitive advantage that drives performance, alpha, and market leadership.\n\n\n\nAbout the AI Strategy Team\n\nOur AI Strategists are deep domain experts and problem-solvers who bridge product, commercial strategy, and customer impact. They understand deeply the manual drain of our users’ workflows and the myriad ways Hebbia provides value, and are focused on embedding and expanding Hebbia use cases within customer environments to maximize ROI and transform how work gets done.\n\nAs we continue to scale in hypergrowth, our AI Strategists sit at the intersection of GTM, product, and post-sales - helping shape commercial strategy and expanding our footprint across the global financial industry landscape. The team owns deployment and early adoption, leads strategic growth initiatives post-sale, and partners cross-functionally to inform product roadmap, sales strategy, and executive account management.\n\n\n\nAbout the Role\n\nThis is not a typical post-sales role: you’ll drive the strategic deployment and measurable value creation of Hebbia’s platform across top global financial institutions, shaping how AI transforms the enterprise.\n\nOur AI Strategists bring curiosity, critical thinking, commercial edge, and executive polish - they  move seamlessly between strategic conversations and hands-on execution in a fast-moving environment.\n\nIf you thrive on solving complex problems, building meaningful partnerships, and helping define how AI reshapes finance, we’d love to meet you.\n\nThis role is based out of our SoHo office (5 days per week).\n\n\n\nResponsibilities\n\n - Apply cutting-edge AI: Develop expertise with leading LLMs, become a SME in Hebbia’s product and features, and apply to complex professional settings and workflows\n\n - Build domain expertise: Develop an intimate understanding of the complex banking, financial and legal workflows of our users (e.g., credit agreements, lease documents, etc.)\n\n - Become a core advisor: Deeply understand our customer stakeholders, drive value and growth as a trusted AI advisor\n\n - Drive value-backed growth: Identify and capture value with customers, serving as a key driver of our land-and-expand commercial strategy\n\n - Optimize ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "267d235a82",
+   "rating": "Stretch",
+   "reason": "Legal-vertical strategist role built on deep domain expertise in corporate legal and financial workflows; his consumer data science background offers no prior legal career to draw on.",
+   "gap": "requires corporate legal domain background",
+   "office": "In-person NYC, 5 days/wk (SoHo)",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "legal-vertical role requiring prior law career",
+   "what": "AI document analysis and agents for finance and law"
+  }
+ },
+ {
+  "id": "823c8f4784",
+  "key": "Justworks|Senior Data Scientist - Product Analytics|https://boards.greenhouse.io/justworks/jobs/7960800?gh_jid=7960800",
+  "track": "ds",
+  "company": "Justworks",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$150M",
+   "investors": [
+    "Union Square Ventures",
+    "FirstMark",
+    "Bain Capital Ventures"
+   ],
+   "what": "PEO/HR, payroll and benefits platform for SMBs",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Senior Data Scientist - Product Analytics",
+  "url": "https://boards.greenhouse.io/justworks/jobs/7960800?gh_jid=7960800",
+  "locations": [
+   "New York, New York",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-05-28T14:35:16-04:00",
+  "salary": "$166K–$214K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "Who We Are \n At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. \n We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We’re data-driven and never stop iterating. If you’d like to work in a supportive, entrepreneurial environment, are interested in building something meaningful and having fun while doing it, we’d love to hear from you. \n We're united by shared goals and shared motivations at Justworks. These are best summed up in our company values, which are reflected in our product and in our team. \n Our Values \n If this sounds like you, you’ll fit right in. \n Department \n Technology, Data &amp; Analytics Team\n Who You Are \n You're an experienced data scientist who gets excited about understanding how customers interact with a product – and using that understanding to help teams make smarter decisions. You're a trusted data storyteller: you can write a tight SQL query, design a rigorous experiment, and then turn those findings into a narrative that moves a roadmap. You believe that the best data science work accelerates learning, improves decision making, and ultimately drives measurable impact for customers and the business.\n Justworks is looking for a Senior Data Scientist to join our Product Analytics group within the Data &amp; Analytics team. You'll partner across Product, Engineering, Design, Finance, Marketing, and Revenue to define success metrics, run experiments, size opportunities, and build a data-informed approach to how we grow and improve our product.\n Your Success Profile \n What You Will Work On \n Lead end-to-end analytics projects, from defining metrics to analyzing data and delivering insights\n Partner with product leaders to define and measure goal metrics\n Design and analyze A/B tests, quasi-experiments, and causal analyses to measure the impact of product changes and help teams understand not just if something worked, but why \n Accelerate product learning cycles through frameworks for experimentation, measurement, and iteration so teams can move faster without sacrificing rigor\n Analyze strategic opportunities to inform roadmap prioritization\n Build compelling narratives from complex data, presenting findings in ways that influence decisions with both technical and non-technical audiences, from product pods to senior leadership\n Identify friction and opportunity across the customer lifecycle, from onboarding flows to feature adoption to retention signals, and translate what you find into actionable strategies\n Develop and apply AI-assisted approaches to analysis, insight delivery, and data workflows to multiply your impact and expand the reach of data science across the organization\n Partner with data engineering and analytics engineering to improve data foundations, instrument key events, and ensure the right data exists to answer the questions product teams are asking\n Perform other related responsibilities as needed based on department and/or organizational needs.\n How You Will Do Your Work \n In the Data Scientist role, how results are achieved is paramount for your success and ultimately result in our success as an organization. In this role, your foundational knowledge, skills, abilities and personal attributes are anchored in the",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "823c8f4784",
+   "rating": "Good",
+   "reason": "Experimentation, quasi-experiments and causal analysis across the customer lifecycle match his PrizePicks A/B and DiD work, but the role is product analytics at a later-stage B2B company.",
+   "gap": "B2B/HR domain; later-stage; analytics-leaning",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "PEO/HR, payroll and benefits platform for SMBs"
+  }
+ },
+ {
+  "id": "cc764b5b84",
+  "key": "PhysicsX|Principal Deployment Strategist|https://job-boards.eu.greenhouse.io/physicsx/jobs/4670058101",
+  "track": "ai",
+  "company": "PhysicsX",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$155M",
+   "investors": [
+    "Atomico",
+    "Temasek",
+    "NVentures",
+    "General Catalyst"
+   ],
+   "what": "AI simulation/engineering models for physical industries; NYC office",
+   "verified": true,
+   "hq": "London, UK"
+  },
+  "vc_rank": 0,
+  "title": "Principal Deployment Strategist",
+  "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4670058101",
+  "locations": [
+   "New York, United States",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2025-09-08T09:03:43-04:00",
+  "salary": "$150K–$250K",
+  "department": "Delivery",
+  "degree_mention": false,
+  "description": "About us\n Re-architecting Engineering for the Age of Intelligence PhysicsX is the physics AI company for industrials. The company’s mission is to accelerate hardware innovation by overhauling what industrial engineering and manufacturing look like today. PhysicsX is building a new simulation software stack to deliver deep physics AI enablement across the entire engineering lifecycle. The company partners with leading organisations in aerospace &amp; defence, automotive, semiconductors, materials, and energy &amp; renewables, supporting them on some of their most critical and complex challenges. PhysicsX is headquartered in the United Kingdom, with offices in London, New York, and Singapore and an expanding presence in the Bay Area.\n Who we are looking for\n As a customer-facing Deployment Strategist (internally we call these Delivery Engineers), you are a relationship builder and technical guide who is passionate about growing strategic accounts by transforming AI solutions into lasting customer partnerships. Due to the deep technical nature of the environment we work in, you are someone who can understand advanced engineering concepts across multiple industries and excel at working directly with customers to understand their challenges, ambitions, and evolving needs while serving as their primary point of contact.\n We welcome diverse technical backgrounds that bring valuable perspectives to our product. You may come from a Data Science/Machine Learning background with deep understanding of the end-to-end AI/ML product lifecycle, enabling you to explain complex technical concepts to stakeholders and identify new areas of application. Alternatively, you may have an engineering profile bringing domain-specific engineering understanding that helps connect our solutions to real industry challenges. In either case, you bring a unique perspective and you help customers bridge the gap between advanced AI capabilities and practical engineering applications. Note that your current role might not leverage your technical background - for example you might have left the field of engineering but are interesting in returning! You are a keen learner who will become up-to-speed with our core technology stack, cloud/software deployment, and product features, allowing you to support customers with guiding activities and technical requests.\n With 8+ years industry experience in a commercial, customer-facing environment, you're ready to take ownership of the complete customer journey, from onboarding and change management to roadmap planning and contract preparation. You excel at strategic planning, time management, and problem-solving, with natural organizational skills that enable you to manage sprint planning, deliverables alignment, and smooth project delivery. Experience in industrial or advanced manufacturing sectors—such as automotive, semiconductors, or materials—is preferred.\n Responsibilities \n In this role, you’ll work closely with both customers and our Simulation Engineers, Software Engineers, Machine Learning Engineers and Data Scientists to understand and define the engineering and physics challenges we are build solutions for. You will:\n Build and maintain relationships with users and decision-makers at our customers\n Understand customer industry challenges and translate them into product opportunities and roadmap alignment\n Own the customer onboarding journey into our platform, working in delivery teams to ensure we build things that are us",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "cc764b5b84",
+   "rating": "Stretch",
+   "reason": "Welcomes DS/ML backgrounds and uses his stakeholder and ML lifecycle experience, but the principal level expects 8+ years customer-facing against his 4.5 years in-house at a consumer startup.",
+   "gap": "requires 8+ yrs commercial customer-facing; industrial domain preferred",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI simulation/engineering models for physical industries; NYC office"
+  }
+ }
+]

@@ -4,6 +4,13 @@ Every morning `jobsearch.py --daily` adds a section here with the forward-deploy
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Tue Nov 3, 2026 — 2 new roles (0 strong · 2 good · 0 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Good | [Deployment Strategist](https://job-boards.eu.greenhouse.io/physicsx/jobs/5025320101) | PhysicsX<br><sub>AI simulation/engineering models for physical industries; NYC office</sub> | Series B, ~$155M<br><sub>Atomico, Temasek, NVentures, General Catalyst</sub> |  | Nov 2 | $90K–$130K | Customer-facing deployment role explicitly welcoming DS/ML backgrounds; his end-to-end production ML and stakeholder partnering fit, though the job leans toward account ownership and delivery management over hands-on building. **Gap:** account-management heavy; lacks 4+ yrs commercial customer-facing; industrial domain preferred |
+| 2 | Good | [Deployment Strategist - North America](https://jobs.ashbyhq.com/elevenlabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f) | ElevenLabs 🔁<br><sub>AI voice/audio models and products</sub> | Series C+, unverified (~$280M+)<br><sub>a16z, ICONIQ, Sequoia · funding unverified</sub> | Remote (US); New York among listed locations | Nov 2 |  | Customer problem framing and AI agent deployment match his applied ML and stakeholder work, but enterprise voice-agent workflows are new to him and the company is late-stage and remote. **Gap:** B2B/enterprise; remote, late-stage |
+
 ## Mon Nov 2, 2026 — no new roles
 
 ## Fri Oct 30, 2026 — no new roles
