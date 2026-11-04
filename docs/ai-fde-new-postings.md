@@ -4,6 +4,13 @@ Every morning `jobsearch.py --daily` adds a section here with the forward-deploy
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Wed Nov 4, 2026 — 2 new roles (0 strong · 1 good · 1 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Good | [Agent Engineer](https://jobs.ashbyhq.com/profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b) | Profound<br><sub>AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role</sub> | Series D, unverified (Series D of $180M reported Sept 2026)<br><sub>funding unverified</sub> | On-site NYC or SF | Nov 3 |  | Customer-embedded agent building and outcome measurement fit his stakeholder work, AI-assisted development and marketing analytics background, though he hasn't held a client-facing post-sale role. **Gap:** client-facing experience; later-stage (Series D) |
+| 2 | Stretch | [AI Engineer - Forward Deployed Engineer](https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd) | Traversal<br><sub>AI SRE agent that finds root causes of production incidents</sub> | Series A, $48M<br><sub>Sequoia, Kleiner Perkins, NFDG</sub> |  | Nov 3 |  | Customer deployment and LLM evaluation suit his production ML and pipeline work, but the role centers on backend systems and requires software engineering experience he lacks. **Gap:** 3+ yrs SWE; backend/AWS-heavy; SRE domain |
+
 ## Tue Nov 3, 2026 — 2 new roles (0 strong · 2 good · 0 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

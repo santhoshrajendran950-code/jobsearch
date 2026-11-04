@@ -1,0 +1,130 @@
+[
+ {
+  "id": "14fcebaf62",
+  "key": "Traversal|AI Engineer - Forward Deployed Engineer|https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd",
+  "track": "ai",
+  "company": "Traversal",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$48M",
+   "investors": [
+    "Sequoia",
+    "Kleiner Perkins",
+    "NFDG"
+   ],
+   "what": "AI SRE agent that finds root causes of production incidents",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "AI Engineer - Forward Deployed Engineer",
+  "url": "https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd",
+  "locations": [
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-03T18:27:05.839000+00:00",
+  "salary": null,
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "ABOUT TRAVERSAL\n\nTraversal https://www.traversal.com/?utm_source=chatgpt.com is the AI Site Reliability Engineer (AI SRE) for the enterprise.\n\nProduction complexity was already outpacing what engineering teams could manage manually, and AI-generated code is accelerating that gap. Traversal is built for that challenge, autonomously understanding and reasoning across even the largest, most complex production environments to diagnose, fix, and prevent incidents. Our mission is to free engineers from endless firefighting and give them more time to focus on creative, high-impact work.\n\nToday, Traversal operates in mission-critical environments at some of the world’s largest enterprises, including PepsiCo, Nubank, Harvey, and DigitalOcean. Our roots remain deeply embedded in AI research, and we’ve brought together researchers from institutions including MIT, Harvard, Berkeley, Columbia, and Cornell with world-class technical staff and operators from companies like Google, Meta, Datadog, ServiceNow, and Citadel Securities to take on one of the hardest problems for AI to solve. Traversal is backed by Sequoia Capital, Kleiner Perkins, Redpoint Ventures, and Khosla Ventures.\n\n\nTHE ROLE\n\nAs a Forward Deployed Engineer at Traversal, you will own the last-mile delivery of the Traversal platform and product for our most strategic customers to upgrade and tune the performance of our core AI agent directly in their environments. You will need to iterate and prototype rapidly based on customer feedback, understand the nuances of production software systems across industries and scale, and build cutting edge AI systems that operate performantly across petabytes of data.\n\nOur FDEs’ primary objective is to own large-scale strategic projects to meaningfully upgrade the core Traversal platform, product, and AI, based on their learnings from deploying Traversal and delivering value to our customers on the field. In doing so, they help drive our engineering roadmap, orchestrate cross-team initiatives, and explore entirely new opportunities for the business as a whole.\n\n\nRESPONSIBILITIES\n\n - Lead the design and implementation of scalable, robust backend systems to support AI agents and observability tools.\n\n - Prototype and evaluate prompting strategies, reasoning workflows, and tool-use policies for agents operating on large-scale observability data and complex troubleshooting workflows.\n\n - Collaborate with AI researchers, product engineers, and infrastructure teams to drive cross-cutting upgrades to our core platform and product offerings.\n\n - Provide white glove deployment support for the Traversal platform and products in enterprise environments.\n\n - Build long term relationships with customers and proactively identify new opportunities for AI deployment throughout the lifecycle of an engagement.\n\n - Be a champion for Traversal’s mission in the field.\n\n\nREQUIREMENTS\n\n - 3+ years of software engineering experience, with a strong focus on backend, data, and/or cloud infrastructure systems.\n\n - Experience with LLM-based applications and/or multi-agent systems, with judgment in model evaluation and experimental iteration to improve product accuracy and behavior.\n\n - Proven ability to lead in fast-paced startup environments, with minimal structure, shifting priorities, and limited resources.\n\n - Collaborative, impact-driven mindset and ability to work across research and engineering teams.\n\n - Experience deploying and maintaining applications on AWS, working wi",
+  "already_in_pipeline": false
+ },
+ {
+  "id": "6d31e5c53a",
+  "key": "PhysicsX|Principal Machine Learning Engineer|https://job-boards.eu.greenhouse.io/physicsx/jobs/5026120101",
+  "track": "ds",
+  "company": "PhysicsX",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$155M",
+   "investors": [
+    "Atomico",
+    "Temasek",
+    "NVentures",
+    "General Catalyst"
+   ],
+   "what": "AI simulation/engineering models for physical industries; NYC office",
+   "verified": true,
+   "hq": "London, UK"
+  },
+  "vc_rank": 0,
+  "title": "Principal Machine Learning Engineer",
+  "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/5026120101",
+  "locations": [
+   "New York, United States ",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-03T09:26:26-05:00",
+  "salary": "$140K–$190K",
+  "department": "Delivery",
+  "degree_mention": true,
+  "description": "About us\n Re-architecting Engineering for the Age of Intelligence PhysicsX is the physics AI company for industrials. The company’s mission is to accelerate hardware innovation by overhauling what industrial engineering and manufacturing look like today. PhysicsX is building a new simulation software stack to deliver deep physics AI enablement across the entire engineering lifecycle. The company partners with leading organisations in aerospace &amp; defence, automotive, semiconductors, materials, and energy &amp; renewables, supporting them on some of their most critical and complex challenges. PhysicsX is headquartered in the United Kingdom, with offices in London, New York, and Singapore and an expanding presence in the Bay Area.\n Who We're Looking For\n As a Principal Machine Learning Engineer in Delivery, you are an experienced problem solver and technical leader who stays anchored to impact. You can grasp advanced engineering concepts across multiple industries, lead technical initiatives, and work directly with customers (often side by side on-site) to embed cutting-edge AI models into tools that are useful and used.\n For this role, that means manufacturing and maintenance, repair and overhaul (MRO). You have put ML into production on industrial process or sensor data, not benchmarks. You know the difference between a model that scores well offline and one a process owner will accept on a qualified production line. Your data comes off equipment rather than out of a solver: it is sparse, drifting, miscalibrated and partly unrecorded, and you know how to work with it.\n You've shipped ML systems end to end and at scale: you design, build and test reliable, scalable ML data pipelines, select the right libraries, frameworks and tools, and make pragmatic product decisions that set Delivery up for success. Working at the intersection of data science and software engineering, you translate R&amp;D and project outputs into reusable libraries, tooling and products.\n With at least 5 years of industry experience (post Masters or PhD) in a commercial, non-research environment, you're ready not only to execute but to lead and mentor others.\n This Role\n You'll work closely with Data Scientists, Simulation Engineers, Manufacturing Process Experts and customers to define the process and physics problems we are solving, and you'll drive decisions on reliable deployment with measurable outcomes on the shop floor.\n You'll:\n Own the ML approach to manufacturing and MRO data, from modelling through deployment in customer production environments (cloud, on-prem and edge).\n Build production ML on sparse, drifting, miscalibrated process and sensor data (process logs, sensor traces, inspection records, small DoE sets), and judge whether the data is enough to train on.\n Choose between physics simulation, reduced-order and learned models, and fuse simulation with shop-floor measurement where the two disagree.\n Set the UQ and validation standard for what a process recommendation may claim against a qualified process window, and design experiments where machine time is the cost.\n Make models transfer across machines, material lots and consumable batches.\n Define the product requirements that manufacturing and MRO place on the PhysicsX platform.\n Lead scoping and architecture for data and ML systems, and communicate results and trade-offs to senior stakeholders and process owners.\n Build end-to-end training and inference pipelines and APIs (Python, PyTorch, Pand",
+  "already_in_pipeline": false
+ },
+ {
+  "id": "37976891df",
+  "key": "Vestwell|Data Scientist|https://job-boards.greenhouse.io/vestwell/jobs/8108241003",
+  "track": "ds",
+  "company": "Vestwell",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "$660M",
+   "investors": [
+    "Blue Owl Capital",
+    "Sixth Street Growth",
+    "Lightspeed",
+    "Morgan Stanley"
+   ],
+   "what": "Digital savings/retirement infrastructure (401k, 529, state auto-IRA)",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Data Scientist",
+  "url": "https://job-boards.greenhouse.io/vestwell/jobs/8108241003",
+  "locations": [
+   "New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ",
+   "Austin",
+   "King of Prussia",
+   "New York",
+   "Scottsdale"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-03T10:50:36-05:00",
+  "salary": "$135K–$145K",
+  "department": "Product",
+  "degree_mention": true,
+  "description": "&nbsp;\n Vestwell is the financial technology company powering the new savings economy. The New York City-based fintech platform redefines how people save for the critical aspects of life across retirement, education, and healthcare savings needs. Today, Vestwell enables over 790,000 businesses and more than 2.75 million active savers, with over $57 billion in assets saved across all 50 United States.&nbsp;\n Vestwell offers a range of products, including workplace-delivered retirement plans, employer-offered student loan repayment benefits, and various savings accounts for education, emergencies, and individuals with disabilities.\n Vestwell's platform serves a diverse clientele, including financial advisers, employers, third-party administrators, financial institutions, payroll providers, government agencies, and individual savers. To learn more, visit&nbsp; vestwell.com \n Who Are We Looking For? \n Vestwell is expanding and we’re keen to add an amazing Data Science role to our team. Someone who’s passionate about maths and algorithms to extract deep insights from large data sets, who will work primarily with our Cortex/AI solution, implementing ML and predictive analysis to help Vestwell see further into both the past and the future. We’re looking for someone who loves to solve problems and is driven to build great solutions. You will work across all our product lines - translating end-user needs into focused, actionable steps, that result in timely data products. You will help refine and execute our product vision, improving the requirement-intake process, and implementing new processes on a quarterly basis. Vestwell is a continuously evolving data engine at its heart.\n If you are someone who dives into whatever challenge is placed in front of you, you will find yourself&nbsp; involved in the planning and coordinating our overall AI-BI solutions, working with our Technical Director and his data engineering team to develop new research models and predictive analysis tooling.\n What Will You Be Doing? \n Understand high-level strategic initiatives and stakeholder requirements; identify opportunities; and translate inputs into buildable features with clear benefits\n Effectively communicate and share plans and rationales\n Partner with developers to break down product requirements into discrete tasks with clear functional requirements/acceptance criteria\n Provide constant and iterative feedback to the development team, including identifying bugs and assisting in resolution\n Complete functional testing and provide initial product sign-off when features are ready for end-user verification\n Develop processes and tools for tracking usage trends and allow data to inform future development plans\n Requirements The Necessities\n Graduate degree in data science or heavily-weighted category\n Ability to define and plan overall ML strategy with our Technical Director\n Ability to define and write algorithms\n 2-3+ years of Product Management experience\n Exceptional business and systems analysis skills\n Ability to work in a fast-paced, project-oriented environment to meet deadlines under tight time constraints\n Ability to work independently as well as collaboratively within a team environment consisting of Product, Engineering, and QA resources\n Excellent communication skills, both in verbal and written formats\n Must have the ability to interface with internal stakeholders\n Ability to write/design python and/or R statistical programming\n The Extras\n Data ware",
+  "already_in_pipeline": false
+ },
+ {
+  "id": "8ad57f1218",
+  "key": "Profound|Agent Engineer|https://jobs.ashbyhq.com/profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b",
+  "track": "ai",
+  "company": "Profound",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified (Series D of $180M reported Sept 2026)",
+   "investors": [],
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Agent Engineer",
+  "url": "https://jobs.ashbyhq.com/profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-11-03T15:05:16.967000+00:00",
+  "salary": null,
+  "department": "Customer Success",
+  "degree_mention": false,
+  "description": "Profound is the fastest-growing AI marketing platform, used by 15% of the Fortune 500 including Comcast, Estée Lauder, and Walmart, and innovators like Ramp, MongoDB, and Figma. It is where marketing teams do the work: research, briefs, content, campaigns, reporting, all in one place, alongside agents that carry the load with them.  \n\nBuilt on 2B+ real user prompts and growing, Profound’s data shows you what people ask AI and what the models say back. Profound's AI Marketer joins that data with deep context about our customers to find the opportunities worth acting on, and then puts agents to work: automating reporting, drafting content, auditing pages for readability, running competitive research. It measures what works and gets better every day.\n\nAs an Agent Engineer, you will work directly with customers who have already purchased Profound’s Agents product and need help deploying it effectively to drive real business outcomes.\n\nThis is a high-impact, customer-embedded role at the intersection of customer success, strategy, and technical implementation. You will partner closely with customers to identify the highest-value use cases for agents, design solutions, and build working implementations inside the Profound platform. When work becomes deeply technical, you will collaborate with engineering, but you will retain ownership of outcomes and ensure deployments are fast, tailored, and clearly tied to customer value. Early customer use cases will directly inform how the Agents product evolves over time.\n\n\n\n\nWHAT YOU’LL DO\n\n - Work closely with customers to understand their goals, workflows, and AI visibility challenges\n\n - Translate ambiguous customer needs into concrete, agent-based use cases that deliver measurable business impact\n\n - Identify what should be built and why before focusing on how it should be implemented\n\n - Design agents such as AI visibility and competitor-ranking alerts, content gap identification workflows, content drafting workflows informed by AI visibility data, and agents that crawl and analyze existing content for optimization opportunities\n\n - Configure and build agents using Profound’s workflow platform by connecting nodes, APIs, data sources, and outputs\n\n - Rapidly prototype and deploy solutions directly with customers in a forward-deployed model\n\n - Own deployments end to end where possible, and clearly scope and hand off work to engineering when requirements exceed your technical depth\n\n - Serve as the primary post-sale partner for Agents customers during deployment\n\n - Turn successful customer deployments into repeatable patterns and internal best practices\n\n - Provide feedback to Product and Engineering on gaps, friction points, and roadmap priorities surfaced through customer work\n\n\n\n\nWHO YOU ARE\n\n - Experience in client-facing roles such as consulting, solutions, strategy, implementation, or customer success\n\n - Comfortable working with ambiguity and early-stage products\n\n - Strong problem-framing skills, with the ability to turn vague goals into concrete plans\n\n - Technical fluency without being a full-time engineer, including experience building with low-code or no-code tools, workflows, scripts, or APIs\n\n - Hands-on experimentation with AI tools, agents, or automation systems\n\n - Clear communicator who can translate effectively between customers and engineers\n\n - Enjoy being embedded with customers and owning outcomes end to end\n\n - Backgrounds such as strategy consultants with technical projects,",
+  "already_in_pipeline": false
+ }
+]

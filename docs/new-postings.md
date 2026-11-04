@@ -4,6 +4,13 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Wed Nov 4, 2026 — 2 new roles (0 strong · 0 good · 2 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Stretch | [Principal Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/5026120101) | PhysicsX<br><sub>AI simulation/engineering models for physical industries; NYC office</sub> | Series B, ~$155M<br><sub>Atomico, Temasek, NVentures, General Catalyst</sub> |  | Nov 3 | $140K–$190K | Production ML pipeline and drift experience transfers, but this role centers on industrial sensor data, physics simulation and on-site customer delivery, far from his consumer LTV/experimentation work. **Gap:** requires 5+ yrs post-MS/PhD; manufacturing/sensor domain |
+| 2 | Stretch | [Data Scientist](https://job-boards.greenhouse.io/vestwell/jobs/8108241003) | Vestwell<br><sub>Digital savings/retirement infrastructure (401k, 529, state auto-IRA)</sub> | Series E, $660M<br><sub>Blue Owl Capital, Sixth Street Growth, Lightspeed, Morgan Stanley</sub> |  | Nov 3 | $135K–$145K | Python/R predictive modeling fits and consumer fintech savings is relevant, but the role leans product management and BI on a later-stage platform rather than foundational production ML. **Gap:** requires graduate degree; 2-3+ yrs Product Management |
+
 ## Tue Nov 3, 2026 — no new roles
 
 ## Mon Nov 2, 2026 — 2 new roles (0 strong · 1 good · 1 stretch)
