@@ -1,0 +1,88 @@
+[
+ {
+  "id": "3fc15ce7cb",
+  "key": "Clay|Growth Strategist, Strategic (Deployment Strategist) - NY|https://jobs.ashbyhq.com/claylabs/a8584148-6546-4ffa-991c-6f4976376201",
+  "track": "ai",
+  "company": "Clay",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$204M",
+   "investors": [
+    "CapitalG",
+    "Sequoia",
+    "Meritech",
+    "Sapphire Ventures"
+   ],
+   "what": "AI go-to-market data enrichment/automation platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Growth Strategist, Strategic (Deployment Strategist) - NY",
+  "url": "https://jobs.ashbyhq.com/claylabs/a8584148-6546-4ffa-991c-6f4976376201",
+  "locations": [
+   "New York"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-11-04T16:29:58.177000+00:00",
+  "salary": "$190K - $210K",
+  "department": "CX",
+  "degree_mention": false,
+  "description": "ABOUT CLAY\n\nAI is unleashing the biggest wave of company creation in history. Clay's mission is to be the engine those companies use to grow to their full potential.\n\nClay predicts the next best action for your business and then helps you take it. We started by aggregating the best data for B2B companies. Then, we built the infrastructure to run any personalized campaign on top of it, including emails, ads, landing pages, and workflows that make reps more productive. Now, we're building agents that can help grow your company for you. We're already helping thousands of customers — including Anthropic, OpenAI, Google, and Visa — go to market with unique data, signals, and AI research.\n\nIn 2026, we raised a $115M Series D https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F09%2F09%2Fbusiness%2Fdealbook%2Fclay-ai-fundraising.html%3Fsmid%3Durl-share%26unlocked_article_code%3D1._1A.E5rN.MeYsbgEsUKbB&urlhash=XS4q&mt=4bpSf4a8omAKuAHqAqZx6C11QpbLK_QwIhSV7gSf4Wf9aywPF_KBSiX9IkWE1AhXBEjPH8mK6fAEN7CMFlpvo0lPAtKRjs-dhgzYqHiVKUMCRtw0jScFgxWCRRfYs4HCX0YL9L6PCQz-edBLinvRdU_TaVUL2dA3&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoQmIsufoRJm7X2HC5Rqd%2Fw%3D%3D at $7.1B Valuation led by Wellington — and are on track to cross $200M in revenue this quarter. We also launched a $1M Scholarship fund for GTME Education.\n\nSome things to know about us:\n\n - Our community http://community.clay.com includes 17,000+ customers, 200+ integration partners, 125+ agencies, 50+ Clay clubs https://luma.com/claylive, and 30k members on Slack.\n\n - Our culture https://nextplayso.substack.com/p/spotlight-clay is unique inside and outside of work. Our team members are also DJs, activists, writers, clowns, marathoners, skydivers, psychedelic therapists, social workers, and more.\n\n - All employees can work with world-class coaches who specialize in creativity, management, and more.\n\n - Our operating principles — including negative maintenance and non-attached action — guide our work. Read more about them here https://cdn.prod.website-files.com/61477f2c24a826836f969afe/685d83a71452245cc1129791_4d770abfd83e276ec15315a2e06945bd_Clay2025_OperatingPrinciples.pdf.\n\n - Read about us in the NYT https://www.nytimes.com/2025/08/05/business/dealbook/clay-ai-marketing-fundraise.html, Forbes http://google.com/search?q=forbes+clay&rlz=1C5OZZY_enUS1155US1155&oq=forbes+clay&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzkzM2owajSoAgOwAgHxBVAe8UAxJx_p&sourceid=chrome&ie=UTF-8, First Round Review https://review.firstround.com/podcast/inside-clays-unconventional-path-to-1-25b/, and more https://www.clay.com/press.\n   \n   \n\nHear from our employees directly on our Glassdoor https://www.glassdoor.com/Overview/Working-at-Clay-EI_IE9850794.11,15.htm page!\n\n \n\n\nGROWTH STRATEGIST, STRATEGIC (DEPLOYMENT STRATEGIST) @ CLAY\n\nWe're growing our Growth Strategy (Customer Success) team at Clay: the group responsible for helping customers unlock the full potential of the platform. Our mission is simple: we want every team to use Clay as their growth engine.\n\nYou'll act as a trusted advisor to Clay's largest and most complex enterprise customers. You'll drive real business outcomes for the accounts you own, build relationships at the executive level, and help customers turn their biggest GTM goals into reality. You'll shape how some of the most influential companies in the world use Clay",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "3fc15ce7cb",
+   "rating": "Stretch",
+   "reason": "Customer success role advising enterprise accounts on GTM; his growth measurement and stakeholder work overlaps, but the posting shows no data science or ML building.",
+   "gap": "customer success/account ownership, B2B GTM",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "customer success/account management, not a technical deployment role",
+   "what": "AI go-to-market data enrichment/automation platform"
+  }
+ },
+ {
+  "id": "76f9347dda",
+  "key": "Rogo|Forward Deployed, Consultant|https://jobs.ashbyhq.com/rogo/0612fd71-b93a-444c-a3da-0857d06edd3f",
+  "track": "ai",
+  "company": "Rogo",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$165M+",
+   "investors": [
+    "Sequoia",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Tiger Global"
+   ],
+   "what": "AI agents for investment banks and investors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed, Consultant",
+  "url": "https://jobs.ashbyhq.com/rogo/0612fd71-b93a-444c-a3da-0857d06edd3f",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-09-03T03:47:44.753000+00:00",
+  "salary": "$100K - $200K",
+  "department": "Advisory",
+  "degree_mention": false,
+  "description": "Why Rogo\n\nOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.\n\nThis is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world. With a rapidly growing, global client base, proven product-market fit, and backing from world-class investors, we are scaling quickly and defining a new category of enterprise AI.\n\nOur team is sharp, motivated, and deeply committed to Rogo’s mission. We take ownership of complex problems and stay relentlessly focused on our users. If you thrive in a fast-paced environment, demand excellence, and want to help build the future of finance, we invite you to join us.\n\n\nWHAT YOU WILL OWN\n\n - Rogo's Forward Deployed team consists of former bankers and investors who guide top financial institutions on how to apply AI in their day-to-day workflows and long-term strategy. You'll lead full-cycle client engagements, building consultative relationships and tailoring demos that resonate with investors and deal teams. Similar to how Solutions Architects secure the \"technical win,\" you'll drive the \"financial win\" by translating Rogo's capabilities into real impact across banking and investing use cases.\n\n - Engage with bankers/investors at existing and prospective customers to understand and address their workflow challenges, and then explain and demonstrate the value of Rogo's AI solutions to address them.\n\n - Establish yourself as a credible expert in solving customers' specific problems (e.g., public company financial research, M&A advisory, company diligence workflows).\n\n - Lead product demonstrations tailored to the context of various financial firms, asking questions to validate how Rogo can add value and then showcasing Rogo's features and benefits relevant to each prospective client's potential use cases.\n\n - Partner with the marketing team to develop content that will resonate with bankers/investors, tailored to the unique needs of their practice areas and client types.\n\n - Act as the \"Voice of the Customer,\" using your industry perspective to help the broader sales team develop and implement more effective strategies and synthesize customer feedback for the product team through a financial services lens.\n\n - Tailor the introduction of new solutions to specific customer needs.\n\n - Further the market perception of Rogo as uniquely credible, substantive, and helpful in applying its AI solutions to make bankers/investors better at their jobs.\n\n - Conduct research and analysis on customers and competitors.\n\n\n\n\nWHAT YOU WILL NEED\n\n - 3+ years of experience at a strategic alliance partner (Deloitte, PwC, EY, KPMG, Accenture, and similar) in transaction services, deals advisory, valuations, M&A, or a financial advisory practice serving financial institutions or corporate deal teams.\n\n - Executive engagement skills and presence, with an ability to establish strong relationships with key decision-makers and build credibility at all levels.\n\n - Outstanding presentation skills, whether impromptu on a whiteboard or using presentations and demos.\n\n - Curiosity about AI's potential to transform financial services.\n\n - Client-facing experience, including directly managing client engagements and relationships in a deal or advisory co",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "76f9347dda",
+   "rating": "Stretch",
+   "reason": "Client-facing finance demo and advisory role for former bankers; his ML, experimentation and pipeline experience doesn't meet its transaction-advisory requirement.",
+   "gap": "requires 3+ yrs Big 4/deal advisory",
+   "office": "In-person NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "requires prior banking/deal advisory career; sales-oriented",
+   "what": "AI agents for investment banks and investors"
+  }
+ }
+]
