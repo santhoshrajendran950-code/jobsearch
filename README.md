@@ -14,6 +14,15 @@ with `claude -p`, renders an HTML digest and emails it via the Gmail MCP tool.
 - **`docs/top-100.md`** — the 100 best-fit DS/ML roles that are still live on the boards, rebuilt every morning
 - **`docs/ai-fde-new-postings.md`** / **`docs/ai-fde-top-100.md`** — the same two files for the second track
 
+## Where jobs come from
+
+Only the company boards in `companies.yaml` (Ashby / Greenhouse / Lever) are fetched. VC portfolio job boards
+(YC, a16z, Sequoia, General Catalyst, Accel, Lightspeed, Bessemer, Greylock) are used for discovery: each
+morning the discover step browses three of them in rotation (`VC_BOARDS` in `jobsearch.py`), and any NYC company
+with matching roles whose own board is on Ashby / Greenhouse / Lever is appended to `companies.yaml`, after which
+its roles are tracked like every other company. Companies on other ATSs (Workday, Rippling, Workable, ...) are
+skipped. Index Ventures' board blocks automated fetching and First Round's needs a login, so neither is browsed.
+
 ## Two tracks
 
 Every title is routed to one track by regex (`track_of()`), scored with that track's rubric in `profile.md`,
