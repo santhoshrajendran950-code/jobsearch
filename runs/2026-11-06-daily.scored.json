@@ -1,0 +1,221 @@
+[
+ {
+  "id": "0b7337f544",
+  "key": "Gusto|Staff Machine Learning Engineer - Risk|https://job-boards.greenhouse.io/gusto/jobs/7168696",
+  "track": "ds",
+  "company": "Gusto",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$746M",
+   "investors": [
+    "Generation Investment Management",
+    "T. Rowe Price",
+    "General Catalyst"
+   ],
+   "what": "Payroll, benefits and HR platform for SMBs; large NYC office",
+   "verified": true,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "Staff Machine Learning Engineer - Risk",
+  "url": "https://job-boards.greenhouse.io/gusto/jobs/7168696",
+  "locations": [
+   "San Francisco, CA - Hybrid",
+   "New York, NY - Hybrid"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-05T14:56:39-05:00",
+  "salary": "$227K–$284K",
+  "department": "Data",
+  "degree_mention": true,
+  "description": "&nbsp;\n About Gusto \n At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.\n All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy .\n AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\n About the Role: \n For this role, we are looking for a technical leader (an individual contributor) to drive machine learning and AI in the identity and risk domains.&nbsp; You will build a model-driven risk platform to provide a trusted environment for Gusto Ecosystem.&nbsp;\n You’ll work with an established team and seasoned leaders across Engineering, Product, Design, and Operations, spanning the Identity, Risk, and Compliance domains.&nbsp; In this role, you’ll work cross functionally to build Platforms that span the entire breadth of the Identity and Risk Stacks, and use ML and AI to build a world- class, high secure platform that safeguards our users’ activities and money, and ensures unparalleled reliability.&nbsp;\n About the Team: \n Gusto’s Data Science team leverages Gusto’s rich dataset to guide product direction and decision-making. We operate full-stack, conducting analyses, prototyping and deploying predictive models and statistical tools both for internal use and for our customers.&nbsp;\n Here’s what you’ll do day-to-day: \n Build and deploy machine learning models to identify, assess and mitigate risks&nbsp;\n Responsible for driving research in the problem space, working with stakeholders to understand model requirements, developing the model from scratch, deploying the model alongside your engineering counterparts, and monitoring and maintaining the model’s performance over time\n Partner with Engineering, Design, and Product counterparts in Identity and Risk to solve complex cross functional problems\n Develop scalable frameworks and libraries that enhance and contribute to the team’s core analysis and modeling capabilities, including through the integration of LLMs to improve data processing, analysis, and insights.\n Identify new opportunities to leverage data to improve Gusto’s products and help risk management team to understand business requirements&nbsp; and develop tailored solutions&nbsp;\n Present and communicate results to stakeholders across the company\n Here’s what we're looking for: \n 8+ years of experience conducting statistical analyses on large datasets and deep domain knowledge in machine learning and artificial intelligence, including familiarity with Large Language Models (LLMs) and their applications. This could mean either a MS or PhD in a quantitative field with at least 5 years experience in a business environment, or BS or Data Science Bootcamp graduate with at least 8 years of experience working as a data scientist or a machine learning engineer in a business setting.&nbsp;\n Proven experien",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "0b7337f544",
+   "rating": "Stretch",
+   "reason": "His end-to-end production ML on tabular data carries over, but this staff role is risk-domain modeling and needs 8+ years without a graduate degree; he has about 4.5.",
+   "gap": "risk domain; 8+ yrs required (BS path)",
+   "office": "Hybrid NYC or SF (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Payroll, benefits and HR platform for SMBs; large NYC office"
+  }
+ },
+ {
+  "id": "3fc15ce7cb",
+  "key": "Clay|Growth Strategist, Strategic (Deployment Strategist) - NY|https://jobs.ashbyhq.com/claylabs/a8584148-6546-4ffa-991c-6f4976376201",
+  "track": "ai",
+  "company": "Clay",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$204M",
+   "investors": [
+    "CapitalG",
+    "Sequoia",
+    "Meritech",
+    "Sapphire Ventures"
+   ],
+   "what": "AI go-to-market data enrichment/automation platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Growth Strategist, Strategic (Deployment Strategist) - NY",
+  "url": "https://jobs.ashbyhq.com/claylabs/a8584148-6546-4ffa-991c-6f4976376201",
+  "locations": [
+   "New York"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-11-04T16:29:58.177000+00:00",
+  "salary": "$190K - $210K",
+  "department": "CX",
+  "degree_mention": false,
+  "description": "ABOUT CLAY\n\nAI is unleashing the biggest wave of company creation in history. Clay's mission is to be the engine those companies use to grow to their full potential.\n\nClay predicts the next best action for your business and then helps you take it. We started by aggregating the best data for B2B companies. Then, we built the infrastructure to run any personalized campaign on top of it, including emails, ads, landing pages, and workflows that make reps more productive. Now, we're building agents that can help grow your company for you. We're already helping thousands of customers — including Anthropic, OpenAI, Google, and Visa — go to market with unique data, signals, and AI research.\n\nIn 2026, we raised a $115M Series D https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F09%2F09%2Fbusiness%2Fdealbook%2Fclay-ai-fundraising.html%3Fsmid%3Durl-share%26unlocked_article_code%3D1._1A.E5rN.MeYsbgEsUKbB&urlhash=XS4q&mt=4bpSf4a8omAKuAHqAqZx6C11QpbLK_QwIhSV7gSf4Wf9aywPF_KBSiX9IkWE1AhXBEjPH8mK6fAEN7CMFlpvo0lPAtKRjs-dhgzYqHiVKUMCRtw0jScFgxWCRRfYs4HCX0YL9L6PCQz-edBLinvRdU_TaVUL2dA3&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoQmIsufoRJm7X2HC5Rqd%2Fw%3D%3D at $7.1B Valuation led by Wellington — and are on track to cross $200M in revenue this quarter. We also launched a $1M Scholarship fund for GTME Education.\n\nSome things to know about us:\n\n - Our community http://community.clay.com includes 17,000+ customers, 200+ integration partners, 125+ agencies, 50+ Clay clubs https://luma.com/claylive, and 30k members on Slack.\n\n - Our culture https://nextplayso.substack.com/p/spotlight-clay is unique inside and outside of work. Our team members are also DJs, activists, writers, clowns, marathoners, skydivers, psychedelic therapists, social workers, and more.\n\n - All employees can work with world-class coaches who specialize in creativity, management, and more.\n\n - Our operating principles — including negative maintenance and non-attached action — guide our work. Read more about them here https://cdn.prod.website-files.com/61477f2c24a826836f969afe/685d83a71452245cc1129791_4d770abfd83e276ec15315a2e06945bd_Clay2025_OperatingPrinciples.pdf.\n\n - Read about us in the NYT https://www.nytimes.com/2025/08/05/business/dealbook/clay-ai-marketing-fundraise.html, Forbes http://google.com/search?q=forbes+clay&rlz=1C5OZZY_enUS1155US1155&oq=forbes+clay&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzkzM2owajSoAgOwAgHxBVAe8UAxJx_p&sourceid=chrome&ie=UTF-8, First Round Review https://review.firstround.com/podcast/inside-clays-unconventional-path-to-1-25b/, and more https://www.clay.com/press.\n   \n   \n\nHear from our employees directly on our Glassdoor https://www.glassdoor.com/Overview/Working-at-Clay-EI_IE9850794.11,15.htm page!\n\n \n\n\nGROWTH STRATEGIST, STRATEGIC (DEPLOYMENT STRATEGIST) @ CLAY\n\nWe're growing our Growth Strategy (Customer Success) team at Clay: the group responsible for helping customers unlock the full potential of the platform. Our mission is simple: we want every team to use Clay as their growth engine.\n\nYou'll act as a trusted advisor to Clay's largest and most complex enterprise customers. You'll drive real business outcomes for the accounts you own, build relationships at the executive level, and help customers turn their biggest GTM goals into reality. You'll shape how some of the most influential companies in the world use Clay",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "3fc15ce7cb",
+   "rating": "Stretch",
+   "reason": "Titled Deployment Strategist, but the job is enterprise customer success: owning accounts and advising executives on GTM, with little hands-on data or ML building.",
+   "gap": "customer success / account management, B2B GTM",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "customer success/account management, not technical FDE",
+   "what": "AI go-to-market data enrichment/automation platform"
+  }
+ },
+ {
+  "id": "a05915a478",
+  "key": "iCapital|Artificial Intelligence / Machine Learning Engineer - Associate|https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002",
+  "track": "ds",
+  "company": "iCapital",
+  "company_meta": {
+   "stage": "Late-stage growth",
+   "raised": "unverified",
+   "investors": [
+    "SurgoCap",
+    "T. Rowe Price",
+    "Temasek",
+    "Blackstone"
+   ],
+   "what": "Alternative-investments platform for wealth managers (1,500+ staff)",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Artificial Intelligence / Machine Learning Engineer - Associate",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002",
+  "locations": [
+   "New York, New York, United States",
+   "US NY - New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-06T09:56:33-04:00",
+  "salary": "$100K–$130K",
+  "department": "Artificial Intelligence",
+  "degree_mention": false,
+  "description": "About the Role \n &nbsp;\n iCapital is seeking an Associate AI Engineer to help build and scale production-grade AI systems that deliver real business outcomes.&nbsp;This role is ideal for an engineer early in their career who enjoys turning ambiguous problem statements into working systems, and who pairs creative problem-solving with disciplined measurement, reproducibility, and operational rigor.&nbsp;This individual will be on the AI/ML team and will work closely with senior AI and machine learning engineers, as well as cross-functional partners, to design, implement, evaluate, and operate AI capabilities as APIs and services in a real-world FinTech environment.&nbsp;This individual will be expected to bring strong analytical fundamentals, curiosity, and a bias toward delivering robust, maintainable systems.&nbsp;\n &nbsp; \n Responsibilities \n &nbsp;\n Design and implement modular AI capabilities including LLM-based reasoning, document intelligence (OCR/IDP), intelligent knowledge systems, and agentic orchestration to power internal and external workflow automation.&nbsp;\n Own components of the full AI system life cycle to achieve tangible business outcomes, including scoping, POC, solution design, model development, deployment, monitoring and continuous improvement in production environments.&nbsp;\n Build robust evaluation pipelines for AI systems, defining statistically sound, problem-specific metrics, constructing and curating benchmark datasets, and enforcing strict dataset and model versioning to ensure reproducibility and continuous improvement.&nbsp;\n Collaborate across teams and communicate results clearly via documentation, write-ups, and handoffs.\n &nbsp;\n &nbsp;\n Qualifications \n &nbsp;\n 2-3 years of relevant experience, including hands-on experience developing production AI/ML systems, including exposure to AWS or cloud-native development patterns for AI/ML workloads, and familiarity with AI development life cycle best practices\n Strong proficiency in Python\n Solid fundamentals in statistics, exploratory data analysis, and the ability to reason about data quality, experiments, and error patterns\n Clear written and verbal communication with the ability to document work and collaborate in a team setting&nbsp;\n Experience with modern LLM tooling (i.e. transformers, unsloth, vLLM, agentic frameworks) or document AI approaches (IDP)\n Familiar with software development best practices (source control, CI/CD, testing, documentation) and working through a full development lifecycle\n Experience with various agentic communication protocols, (i.e. MCP, A2A) is a plus&nbsp;\n &nbsp;\n Benefits \n The base salary range for this role is $100,000 to $130,000.&nbsp; iCapital offers a compensation package which includes salary, equity for all full-time employees, and an annual performance bonus. Employees also receive a comprehensive benefits package that includes an employer matched retirement plan, generously subsidized healthcare with 100% employer paid dental, vision, telemedicine, and virtual mental health counseling, parental leave, and unlimited paid time off (PTO).\n We believe the best ideas and innovation happen when we are together. Employees in this role will work in the office Monday-Thursday, with the flexibility to work remotely on Friday.\n For additional information on iCapital, please visit https://www.icapitalnetwork.com/about-us &nbsp; Twitter: @icapitalnetwork | LinkedIn: https://www.linkedin.com/company/icapital-network-inc | ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "a05915a478",
+   "rating": "Stretch",
+   "reason": "His production ML, statistics and evaluation skills fit, but the work is mostly LLM, document-AI and agentic systems at a junior level for a B2B fintech.",
+   "gap": "LLM/doc-AI heavy; junior level, B2B",
+   "office": "In-office Mon–Thu NYC, remote Fridays",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Alternative-investments platform for wealth managers (1,500+ staff)"
+  }
+ },
+ {
+  "id": "c5a2dff878",
+  "key": "Plaid|Machine Learning Engineer - Income Insights|https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+  "track": "ds",
+  "company": "Plaid",
+  "company_meta": {
+   "stage": "Series D+",
+   "raised": "unverified (~$1.3B)",
+   "investors": [
+    "a16z",
+    "Index",
+    "Kleiner Perkins",
+    "NEA",
+    "Spark"
+   ],
+   "what": "Financial-data connectivity / fintech infrastructure; large NYC office",
+   "verified": false,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "Machine Learning Engineer - Income Insights",
+  "url": "https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+  "locations": [
+   "New York City Office"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-11-02T05:27:54.363000+00:00",
+  "salary": "$211,680 - $272,160",
+  "department": "All Departments",
+  "degree_mention": false,
+  "description": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Seattle, Washington D.C., Raleigh, London, and Amsterdam.\n\n\nABOUT THE TEAM\n\nWe’re part of Plaid’s Data organization, building models that help millions of people better understand and grow their financial lives. We apply machine learning to high-impact product challenges, working across product areas to develop solutions that create meaningful customer value.\n\nWe focus on credit, building models to the standards required in lending and supporting the next wave of cash-flow-based underwriting. We value technical expertise, creativity, user empathy, and teamwork, and we’re guided by Plaid’s principles of impact, growing together, openness and positivity, and inventing tomorrow.\n\n\n\nABOUT THE ROLE\n\nAs a Machine Learning Engineer on the Credit team, you’ll design, build, and deploy scalable machine learning solutions that support Income Insights and the future of cash-flow-based underwriting. You’ll work across the full model lifecycle—from experimentation and offline training through production serving and monitoring—and partner with engineers and cross-functional teams to turn data and new modeling approaches into reliable systems.\n\nIn this role, you will:\n\n - Develop and productionize AI and machine learning models, from offline training through online serving and ongoing monitoring.\n\n - Experiment with modeling approaches and strategies for credit use cases, balancing model performance with the requirements of lending environments.\n\n - Partner with engineering teams to ingest signals and build the systems needed to bring models into production.\n\n - Contribute to both 0-to-1 problems and the scaling and improvement of established solutions.\n\n - Collaborate with teams across Plaid to help define the machine learning roadmap.\n\n - Dive into data and use evidence-based analysis to guide day-to-day decisions.\n\n\nWHAT EXCITES YOU\n\n - Building products that can empower millions of people through well-known and emerging fintech applications.\n\n - Experimenting with modern machine learning techniques on meaningful credit and lending problems.\n\n - Working across the full lifecycle of machine learning systems, from exploration to production and ongoing improvement.\n\n - Taking on both greenfield challenges and opportunities to scale solutions that are already delivering value.\n\n - Joining a high-ownership, bottom-up team where your work can shape the roadmap and drive business impact.\n\n\nWHAT EXCITES US\n\n - 2+ years of experience training and serving AI or machine learning models in a production environment.\n\n - Experience in fintech lending and a strong understanding of how models are built and used in lending.\n\n - Experience building or working with data-intensive backend applications in large, distributed systems.\n\n - Abi",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "c5a2dff878",
+   "rating": "Good",
+   "reason": "Fits his full-lifecycle tabular ML (training, serving, monitoring) on consumer financial data, but the role is credit underwriting and wants lending experience.",
+   "gap": "credit/lending domain; distributed backend systems",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Financial-data connectivity / fintech infrastructure; large NYC office"
+  }
+ },
+ {
+  "id": "a1eeece47c",
+  "key": "Snorkel AI|Senior/Staff Forward Deployed Engineer - Computer Use Agents|https://job-boards.greenhouse.io/snorkelai/jobs/6167049004",
+  "track": "ai",
+  "company": "Snorkel AI",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "$237M",
+   "investors": [
+    "Addition",
+    "Greylock",
+    "Lightspeed",
+    "Prosperity7"
+   ],
+   "what": "AI data development / evaluation platform; NYC office",
+   "verified": true,
+   "hq": "Redwood City, CA"
+  },
+  "vc_rank": 3,
+  "title": "Senior/Staff Forward Deployed Engineer - Computer Use Agents",
+  "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6167049004",
+  "locations": [
+   "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
+   "New York City",
+   "San Francisco"
+  ],
+  "workplace": "",
+  "posted_at": "2026-08-27T12:38:34-04:00",
+  "salary": "$180K–$320K",
+  "department": "310 - DaaS FDE",
+  "degree_mention": false,
+  "description": "About Snorkel \n Snorkel AI is the frontier AI data lab, helping teams build the data and environments behind high-performing frontier and agentic AI. We combine technology with research-driven AI data development to create datasets, benchmarks, evals, and custom solutions for real-world AI systems. Founded out of the Stanford AI Lab in 2019, Snorkel works with leading AI labs and enterprises to move from better data to better outcomes.&nbsp; Excited to help us redefine how AI is built? Apply to be the newest Snorkeler!\n About the Role\n Snorkel AI is hiring a Forward Deployed Engineer focused on Computer Use Agents to partner with leading AI labs and enterprises on their most critical agentic-AI initiatives.\n In this role, you will lead the technical execution of complex customer engagements involving agents that operate computers, browsers, and software environments to complete realistic, multi-step tasks. You will translate ambiguous product and model challenges into robust task environments, datasets, evaluators, and delivery plans that improve agent reliability and downstream performance.\n You will work across the full delivery lifecycle—from technical discovery and solution design through implementation, evaluation, and production delivery. You will also identify patterns across engagements and turn successful approaches into reusable capabilities, technical standards, and product improvements.\n Main Responsibilities\n Computer Use Agents, Data, and Evaluation\n Design and build task environments, datasets, and evaluation workflows for computer-using agents operating across browsers, desktop applications, terminals, and other software interfaces\n Translate customer goals, agent failure modes, and real-world workflows into representative, multi-step tasks with clear success criteria\n Develop data-generation, validation, and quality-assurance pipelines for multimodal and agentic training and evaluation data\n Build automated evaluators, checks, and measurement frameworks to assess task completion, correctness, robustness, efficiency, and adherence to requirements\n Diagnose agent failures across planning, tool use, perception, state management, and interaction with user interfaces; turn findings into improved tasks, data, and evaluations\n Design and run experiments to measure how data, task design, and evaluation changes affect downstream agent performance\n Deliver reusable, production-grade task suites, datasets, and evaluation assets that help customers train, benchmark, and improve computer-use agents\n Forward Deployed Engineering &amp; Customer Partnership\n Lead technical workstreams from initial solution design through production delivery, navigating ambiguity and making sound technical decisions\n Build, refine, and iterate on solutions that address customer needs, incorporating feedback to ensure the delivered work provides tangible value\n Rapidly prototype and productionize solutions across models, agent frameworks, APIs, browser or desktop environments, and custom applications\n Communicate technical tradeoffs, experimental results, and recommendations clearly to technical and cross-functional stakeholders\n Serve as a trusted technical partner to customers and internal delivery teams, resolving complex blockers and driving alignment\n Technical Leadership &amp; Scale\n Identify recurring patterns across customer engagements and turn successful solutions into reusable task frameworks, evaluators, tooling, and best practices\n Define an",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "a1eeece47c",
+   "rating": "Stretch",
+   "reason": "His experiment design and measurement work fits building evaluators, but the core job is building agentic computer-use environments and multimodal data pipelines, far from tabular ML.",
+   "gap": "computer-use agents / agentic eval heavy, senior SWE-leaning",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI data development / evaluation platform; NYC office"
+  }
+ }
+]

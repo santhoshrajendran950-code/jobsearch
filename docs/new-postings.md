@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Fri Nov 6, 2026 — 1 new role (0 strong · 0 good · 1 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Stretch | [Staff Machine Learning Engineer - Risk](https://job-boards.greenhouse.io/gusto/jobs/7168696) | Gusto<br><sub>Payroll, benefits and HR platform for SMBs; large NYC office</sub> | Series E, ~$746M<br><sub>Generation Investment Management, T. Rowe Price, General Catalyst</sub> | Hybrid NYC or SF (days not stated) | Nov 5 | $227K–$284K | His end-to-end production ML on tabular data carries over, but this staff role is risk-domain modeling and needs 8+ years without a graduate degree; he has about 4.5. **Gap:** risk domain; 8+ yrs required (BS path) |
+
 ## Wed Nov 4, 2026 — 2 new roles (0 strong · 0 good · 2 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

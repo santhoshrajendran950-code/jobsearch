@@ -1,0 +1,34 @@
+[
+ {
+  "id": "0b7337f544",
+  "key": "Gusto|Staff Machine Learning Engineer - Risk|https://job-boards.greenhouse.io/gusto/jobs/7168696",
+  "track": "ds",
+  "company": "Gusto",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$746M",
+   "investors": [
+    "Generation Investment Management",
+    "T. Rowe Price",
+    "General Catalyst"
+   ],
+   "what": "Payroll, benefits and HR platform for SMBs; large NYC office",
+   "verified": true,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "Staff Machine Learning Engineer - Risk",
+  "url": "https://job-boards.greenhouse.io/gusto/jobs/7168696",
+  "locations": [
+   "San Francisco, CA - Hybrid",
+   "New York, NY - Hybrid"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-05T14:56:39-05:00",
+  "salary": "$227K–$284K",
+  "department": "Data",
+  "degree_mention": true,
+  "description": "&nbsp;\n About Gusto \n At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.\n All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy .\n AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\n About the Role: \n For this role, we are looking for a technical leader (an individual contributor) to drive machine learning and AI in the identity and risk domains.&nbsp; You will build a model-driven risk platform to provide a trusted environment for Gusto Ecosystem.&nbsp;\n You’ll work with an established team and seasoned leaders across Engineering, Product, Design, and Operations, spanning the Identity, Risk, and Compliance domains.&nbsp; In this role, you’ll work cross functionally to build Platforms that span the entire breadth of the Identity and Risk Stacks, and use ML and AI to build a world- class, high secure platform that safeguards our users’ activities and money, and ensures unparalleled reliability.&nbsp;\n About the Team: \n Gusto’s Data Science team leverages Gusto’s rich dataset to guide product direction and decision-making. We operate full-stack, conducting analyses, prototyping and deploying predictive models and statistical tools both for internal use and for our customers.&nbsp;\n Here’s what you’ll do day-to-day: \n Build and deploy machine learning models to identify, assess and mitigate risks&nbsp;\n Responsible for driving research in the problem space, working with stakeholders to understand model requirements, developing the model from scratch, deploying the model alongside your engineering counterparts, and monitoring and maintaining the model’s performance over time\n Partner with Engineering, Design, and Product counterparts in Identity and Risk to solve complex cross functional problems\n Develop scalable frameworks and libraries that enhance and contribute to the team’s core analysis and modeling capabilities, including through the integration of LLMs to improve data processing, analysis, and insights.\n Identify new opportunities to leverage data to improve Gusto’s products and help risk management team to understand business requirements&nbsp; and develop tailored solutions&nbsp;\n Present and communicate results to stakeholders across the company\n Here’s what we're looking for: \n 8+ years of experience conducting statistical analyses on large datasets and deep domain knowledge in machine learning and artificial intelligence, including familiarity with Large Language Models (LLMs) and their applications. This could mean either a MS or PhD in a quantitative field with at least 5 years experience in a business environment, or BS or Data Science Bootcamp graduate with at least 8 years of experience working as a data scientist or a machine learning engineer in a business setting.&nbsp;\n Proven experien",
+  "already_in_pipeline": false
+ }
+]
