@@ -1,4 +1,39 @@
 {
+ "Abridge|Member of Product Staff, Forward Deployed|https://jobs.ashbyhq.com/Abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c": {
+  "already_in_pipeline": false,
+  "company": "Abridge",
+  "emailed": false,
+  "exclude_reason": "product management role, not DS/AI engineering",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires 7+ yrs product management",
+  "investors": [
+   "a16z",
+   "Khosla Ventures",
+   "Elad Gil"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "SF Office",
+   "NYC Office"
+  ],
+  "office": "In-person Mon/Wed/Fri, SF or NYC office",
+  "open": true,
+  "posted_at": "2026-06-22T17:17:11.072000+00:00",
+  "raised": "~$800M",
+  "rating": "Stretch",
+  "reason": "Senior forward-deployed product manager running health-system engagements; it asks for 7+ years of PM experience, which his DS/production-ML background doesn't cover.",
+  "salary": "$260K - $290K",
+  "stage": "Series E",
+  "status": "",
+  "title": "Member of Product Staff, Forward Deployed",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c",
+  "vc_rank": 3,
+  "verified": true,
+  "what": "Generative-AI clinical documentation (ambient scribe) for health systems; NYC office",
+  "workplace": "Hybrid"
+ },
  "Abridge|Member of Product Staff, Forward Deployed|https://jobs.ashbyhq.com/abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c": {
   "already_in_pipeline": false,
   "company": "Abridge",
@@ -18,7 +53,7 @@
    "NYC Office"
   ],
   "office": "In-person SF Mon/Wed/Fri",
-  "open": true,
+  "open": false,
   "posted_at": "2026-06-22T17:17:11.072000+00:00",
   "raised": "~$800M",
   "rating": "Stretch",
@@ -29,6 +64,41 @@
   "title": "Member of Product Staff, Forward Deployed",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c",
+  "vc_rank": 3,
+  "verified": true,
+  "what": "Generative-AI clinical documentation (ambient scribe) for health systems; NYC office",
+  "workplace": "Hybrid"
+ },
+ "Abridge|Member of Technical Staff, Machine Learning|https://jobs.ashbyhq.com/Abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2": {
+  "already_in_pipeline": false,
+  "company": "Abridge",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires MS/PhD + publications; NLP research",
+  "investors": [
+   "a16z",
+   "Khosla Ventures",
+   "Elad Gil"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "SF Office",
+   "NYC Office"
+  ],
+  "office": "Hybrid, SF or NYC office",
+  "open": true,
+  "posted_at": "2025-07-11T22:30:33.442000+00:00",
+  "raised": "~$800M",
+  "rating": "Stretch",
+  "reason": "Medical NLP research role requiring publications and foundation-model work; his production ML experience is on tabular data, not research.",
+  "salary": "$205K - $300K",
+  "stage": "Series E",
+  "status": "",
+  "title": "Member of Technical Staff, Machine Learning",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/Abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2",
   "vc_rank": 3,
   "verified": true,
   "what": "Generative-AI clinical documentation (ambient scribe) for health systems; NYC office",
@@ -53,7 +123,7 @@
    "NYC Office"
   ],
   "office": "Hybrid, 3 days/wk in SF office",
-  "open": true,
+  "open": false,
   "posted_at": "2025-07-11T22:30:33.442000+00:00",
   "raised": "~$800M",
   "rating": "Stretch",
@@ -83,7 +153,7 @@
    "OpenAI Startup Fund",
    "NVentures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -152,7 +222,7 @@
    "Bessemer",
    "Canapi"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, Remote",
    "Alloy New York"
@@ -188,7 +258,7 @@
    "Bessemer",
    "Canapi"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City",
    "Alloy New York"
@@ -223,7 +293,7 @@
    "J.P. Morgan Asset Management",
    "D.E. Shaw Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York, United States",
    "Remote - United States"
@@ -258,7 +328,7 @@
    "J.P. Morgan Asset Management",
    "D.E. Shaw Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York, United States",
    "Remote - United States"
@@ -294,7 +364,7 @@
    "GV",
    "OMERS Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Boston, MA; Brooklyn, NY; San Francisco, CA; Washington, D.C.",
    "Boston, MA",
@@ -335,7 +405,7 @@
    "GV",
    "OMERS Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Brooklyn, NY; Washington, DC",
    "Brooklyn, NY",
@@ -372,7 +442,7 @@
    "GV",
    "OMERS Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Boston, MA; Brooklyn, NY; San Francisco, CA; Washington, D.C.",
    "Boston, MA",
@@ -429,6 +499,36 @@
   "what": "Healthcare startup attacking admin/middleman costs (health-plan ops, billing)",
   "workplace": "OnSite"
  },
+ "Arlo|Senior Data Scientist|https://jobs.ashbyhq.com/Arlo/daa2038d-1bf1-474c-a5e2-da4170108bb2": {
+  "already_in_pipeline": false,
+  "company": "Arlo",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "health insurance/actuarial domain",
+  "investors": [],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-08-27T18:13:10.966000+00:00",
+  "raised": "unverified",
+  "rating": "Good",
+  "reason": "Hands-on tabular modeling with backtesting and prediction monitoring, like his LTV and churn work, applied to predicting member cost for underwriting at an early-stage NYC company.",
+  "salary": null,
+  "stage": "unverified",
+  "status": "",
+  "title": "Senior Data Scientist",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/Arlo/daa2038d-1bf1-474c-a5e2-da4170108bb2",
+  "vc_rank": 4,
+  "verified": false,
+  "what": "Healthcare startup attacking admin/middleman costs (health-plan ops, billing)",
+  "workplace": "OnSite"
+ },
  "Arlo|Senior Data Scientist|https://jobs.ashbyhq.com/arlo/daa2038d-1bf1-474c-a5e2-da4170108bb2": {
   "already_in_pipeline": false,
   "company": "Arlo",
@@ -443,7 +543,7 @@
    "New York City"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-08-27T18:13:10.966000+00:00",
   "raised": "unverified",
   "rating": "Good",
@@ -454,6 +554,36 @@
   "title": "Senior Data Scientist",
   "track": "ds",
   "url": "https://jobs.ashbyhq.com/arlo/daa2038d-1bf1-474c-a5e2-da4170108bb2",
+  "vc_rank": 4,
+  "verified": false,
+  "what": "Healthcare startup attacking admin/middleman costs (health-plan ops, billing)",
+  "workplace": "OnSite"
+ },
+ "Arlo|Senior ML Engineer|https://jobs.ashbyhq.com/Arlo/e7ff21eb-689e-47d4-973f-d5c77d8c2ad0": {
+  "already_in_pipeline": false,
+  "company": "Arlo",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "infra-heavy MLE; Spark/serving; insurance domain",
+  "investors": [],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-05-28T15:55:34.104000+00:00",
+  "raised": "unverified",
+  "rating": "Stretch",
+  "reason": "He has run production pipelines and retraining, but this role is mainly training and low-latency serving infrastructure for underwriting at trillion-row scale.",
+  "salary": null,
+  "stage": "unverified",
+  "status": "",
+  "title": "Senior ML Engineer",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/Arlo/e7ff21eb-689e-47d4-973f-d5c77d8c2ad0",
   "vc_rank": 4,
   "verified": false,
   "what": "Healthcare startup attacking admin/middleman costs (health-plan ops, billing)",
@@ -473,7 +603,7 @@
    "New York City"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-05-28T15:55:34.104000+00:00",
   "raised": "unverified",
   "rating": "Stretch",
@@ -724,7 +854,7 @@
    "IVP",
    "CapitalG"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -760,7 +890,7 @@
    "IVP",
    "CapitalG"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco",
    "Remote",
@@ -834,7 +964,7 @@
    "NEA",
    "Salesforce Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, Hybrid",
    "New York"
@@ -868,7 +998,7 @@
    "NEA",
    "Salesforce Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, Hybrid",
    "New York"
@@ -902,7 +1032,7 @@
    "NEA",
    "Salesforce Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, Hybrid",
    "New York"
@@ -936,7 +1066,7 @@
    "Gil Capital",
    "Affinity Partners"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, NY"
   ],
@@ -970,7 +1100,7 @@
    "Cardumen Capital",
    "G20 Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1071,7 +1201,7 @@
   "investors": [
    "Insight Partners"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC, New York"
   ],
@@ -1146,7 +1276,7 @@
    "BoxGroup",
    "Y Combinator"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -1182,7 +1312,7 @@
    "Accel",
    "83North"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, US, New York",
    "New York, US, New York"
@@ -1254,7 +1384,7 @@
    "Adams Street",
    "RARE Capital"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "New York"
@@ -1289,7 +1419,7 @@
    "Y Combinator",
    "J2 Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -1358,7 +1488,7 @@
    "Meritech",
    "Sapphire Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -1393,7 +1523,7 @@
    "Meritech",
    "Sapphire Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -1428,7 +1558,7 @@
    "Meritech",
    "Sapphire Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -1463,7 +1593,7 @@
    "CRV",
    "Y Combinator"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1498,7 +1628,7 @@
    "CRV",
    "Y Combinator"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1534,7 +1664,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1570,7 +1700,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1606,7 +1736,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1642,7 +1772,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1678,7 +1808,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1714,7 +1844,7 @@
    "Watchfire",
    "Boulder Food Group"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC Office"
   ],
@@ -1748,7 +1878,7 @@
    "General Catalyst",
    "Fuel Venture Capital"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "United States (Remote)",
    "New York"
@@ -1784,7 +1914,7 @@
    "Lux",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1890,7 +2020,7 @@
    "Shield Capital",
    "Felicis"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -1910,6 +2040,45 @@
   "verified": true,
   "what": "AI-powered RF sensors and spectrum-monitoring software for defense",
   "workplace": "OnSite"
+ },
+ "ElevenLabs|Deployment Strategist - North America|https://jobs.ashbyhq.com/ElevenLabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f": {
+  "already_in_pipeline": true,
+  "company": "ElevenLabs",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "remote-first; enterprise voice-agent domain",
+  "investors": [
+   "a16z",
+   "ICONIQ",
+   "Sequoia"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "United States",
+   "New York",
+   "Los Angeles",
+   "Boston",
+   "San Francisco",
+   "Washington, D.C."
+  ],
+  "office": "Remote (US), co-working stipend",
+  "open": true,
+  "posted_at": "2026-11-02T18:19:57.531000+00:00",
+  "raised": "unverified (~$280M+)",
+  "rating": "Good",
+  "reason": "Customer problem framing and workflow discovery for AI agent deployments fits his stakeholder-facing, measurement-driven production ML work, but the role is strategy-heavy and remote.",
+  "salary": null,
+  "stage": "Series C+",
+  "status": "",
+  "title": "Deployment Strategist - North America",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/ElevenLabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
+  "vc_rank": 0,
+  "verified": false,
+  "what": "AI voice/audio models and products",
+  "workplace": "Remote"
  },
  "ElevenLabs|Deployment Strategist - North America|https://jobs.ashbyhq.com/elevenlabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f": {
   "already_in_pipeline": true,
@@ -1934,7 +2103,7 @@
    "Washington, D.C."
   ],
   "office": "Remote (US); New York among listed locations",
-  "open": true,
+  "open": false,
   "posted_at": "2026-11-02T18:19:57.531000+00:00",
   "raised": "unverified (~$280M+)",
   "rating": "Good",
@@ -1949,6 +2118,41 @@
   "verified": false,
   "what": "AI voice/audio models and products",
   "workplace": "Remote"
+ },
+ "EliseAI|Deployment Strategist, Ecosystem Partnerships|https://jobs.ashbyhq.com/EliseAI/49e9c0b6-fd1e-4a5e-a66f-1b4874193efb": {
+  "already_in_pipeline": false,
+  "company": "EliseAI",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "vendor/integration advisory, light on data/ML",
+  "investors": [
+   "a16z",
+   "Navitas Capital",
+   "Bessemer",
+   "Sapphire"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-09-16T19:36:26.360000+00:00",
+  "raised": "~$390M",
+  "rating": "Stretch",
+  "reason": "Vendor-landscape advisory and integration project management for housing operators; little data, modeling or measurement work for his ML and experimentation strengths.",
+  "salary": null,
+  "stage": "Series E",
+  "status": "",
+  "title": "Deployment Strategist, Ecosystem Partnerships",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/EliseAI/49e9c0b6-fd1e-4a5e-a66f-1b4874193efb",
+  "vc_rank": 3,
+  "verified": true,
+  "what": "Conversational AI for housing and healthcare operations",
+  "workplace": "OnSite"
  },
  "EliseAI|Deployment Strategist, Ecosystem Partnerships|https://jobs.ashbyhq.com/eliseai/49e9c0b6-fd1e-4a5e-a66f-1b4874193efb": {
   "already_in_pipeline": false,
@@ -1969,7 +2173,7 @@
    "New York City"
   ],
   "office": "On-site NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-09-16T19:36:26.360000+00:00",
   "raised": "~$390M",
   "rating": "Stretch",
@@ -1999,7 +2203,7 @@
    "Capital One Growth Ventures",
    "Third Point"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY or Los Angeles, CA",
    "New York, NY"
@@ -2035,7 +2239,7 @@
    "Capital One Growth Ventures",
    "Third Point"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY or Los Angeles, CA",
    "New York, NY"
@@ -2057,6 +2261,39 @@
   "what": "Data and intelligence on small businesses for banks, fintechs and insurers",
   "workplace": ""
  },
+ "Evvy|ML Tech Lead|https://jobs.ashbyhq.com/Evvy/f47b7764-f587-49b0-8768-8f07ddfbc147": {
+  "already_in_pipeline": false,
+  "company": "Evvy",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "team leadership; microbiome/clinical domain",
+  "investors": [
+   "General Catalyst",
+   "Left Lane Capital"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "Primarily in-person NYC (remote for exceptional fit)",
+  "open": true,
+  "posted_at": "2026-05-18T14:02:47.088000+00:00",
+  "raised": "~$60M",
+  "rating": "Stretch",
+  "reason": "A hands-on lead role building a small ML team; his foundational DS experience helps, but the work is guiding scientists on microbiome diagnostic models.",
+  "salary": null,
+  "stage": "Series B",
+  "status": "",
+  "title": "ML Tech Lead",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/Evvy/f47b7764-f587-49b0-8768-8f07ddfbc147",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "Vaginal-microbiome testing and women's-health research data",
+  "workplace": "OnSite"
+ },
  "Evvy|ML Tech Lead|https://jobs.ashbyhq.com/evvy/f47b7764-f587-49b0-8768-8f07ddfbc147": {
   "already_in_pipeline": false,
   "company": "Evvy",
@@ -2074,7 +2311,7 @@
    "New York City"
   ],
   "office": "Primarily in-person NYC; remote possible",
-  "open": true,
+  "open": false,
   "posted_at": "2026-05-18T14:02:47.088000+00:00",
   "raised": "~$60M",
   "rating": "Stretch",
@@ -2085,6 +2322,39 @@
   "title": "ML Tech Lead",
   "track": "ds",
   "url": "https://jobs.ashbyhq.com/evvy/f47b7764-f587-49b0-8768-8f07ddfbc147",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "Vaginal-microbiome testing and women's-health research data",
+  "workplace": "OnSite"
+ },
+ "Evvy|Translational ML Scientist|https://jobs.ashbyhq.com/Evvy/5c3dbebe-9839-4a21-9b8f-cf26339b6c73": {
+  "already_in_pipeline": false,
+  "company": "Evvy",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "microbiome/clinical science domain; degree likely expected",
+  "investors": [
+   "General Catalyst",
+   "Left Lane Capital"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "Primarily in-person NYC (remote for exceptional fit)",
+  "open": true,
+  "posted_at": "2026-05-18T13:58:56.171000+00:00",
+  "raised": "~$60M",
+  "rating": "Stretch",
+  "reason": "His end-to-end modeling and risk-prediction skills transfer, but the core work is clinical and biological modeling on shotgun metagenomics data.",
+  "salary": null,
+  "stage": "Series B",
+  "status": "",
+  "title": "Translational ML Scientist",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/Evvy/5c3dbebe-9839-4a21-9b8f-cf26339b6c73",
   "vc_rank": 0,
   "verified": true,
   "what": "Vaginal-microbiome testing and women's-health research data",
@@ -2107,7 +2377,7 @@
    "New York City"
   ],
   "office": "Primarily in-person NYC; remote possible",
-  "open": true,
+  "open": false,
   "posted_at": "2026-05-18T13:58:56.171000+00:00",
   "raised": "~$60M",
   "rating": "Stretch",
@@ -2234,7 +2504,7 @@
   "first_seen": "2026-10-12T17:48:49+00:00",
   "gap": "7+ yrs asked; analytics-engineering heavy; credit domain",
   "investors": [],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "New York, NY"
@@ -2265,7 +2535,7 @@
   "first_seen": "2026-10-12T17:48:49+00:00",
   "gap": "analytics/BI-leaning; GTM/account-mgmt focus",
   "investors": [],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "New York, NY"
@@ -2299,7 +2569,7 @@
    "Index Ventures",
    "QED"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -2335,7 +2605,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -2372,7 +2642,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -2409,7 +2679,7 @@
    "Insight",
    "Heartcore"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -2444,7 +2714,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Boston, MA; New York, NY",
    "Boston",
@@ -2480,7 +2750,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Boston, MA; New York, NY",
    "Boston",
@@ -2588,7 +2858,7 @@
    "Sanofi",
    "Sequoia"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY; Boston, MA; San Francisco, CA; Raleigh-Durham, NC",
    "Boston",
@@ -2732,7 +3002,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2767,7 +3037,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2802,7 +3072,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2837,7 +3107,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2872,7 +3142,7 @@
    "Redpoint",
    "Maverick"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, New York",
    "Headquarters"
@@ -2907,7 +3177,7 @@
    "Lightspeed",
    "Anthropic"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco, CA & New York, NY",
    "San Francisco"
@@ -2942,7 +3212,7 @@
    "T. Rowe Price",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco, CA - Hybrid",
    "New York, NY - Hybrid"
@@ -2978,7 +3248,7 @@
    "GIC",
    "Diffusion"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -3013,7 +3283,7 @@
    "GIC",
    "Diffusion"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -3048,7 +3318,7 @@
    "GIC",
    "Diffusion"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -3118,7 +3388,7 @@
    "Accel",
    "GV"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "San Francisco, CA",
@@ -3230,7 +3500,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -3298,7 +3568,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -3332,7 +3602,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -3366,7 +3636,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -3400,7 +3670,7 @@
    "Index Ventures",
    "GV"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC",
    "San Francisco"
@@ -3473,7 +3743,7 @@
    "Vesey Ventures",
    "Two Sigma Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -3507,7 +3777,7 @@
    "Union Square Ventures",
    "Comcast Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York, United States",
    "New York Office"
@@ -3543,7 +3813,7 @@
    "Ribbit Capital",
    "Kleiner Perkins"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Remote",
    "New York City",
@@ -3580,7 +3850,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Remote"
@@ -3615,7 +3885,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Remote"
@@ -3650,7 +3920,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -3687,7 +3957,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -3724,7 +3994,7 @@
    "General Catalyst",
    "Goldman Sachs Growth"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
    "Charlotte, NC",
@@ -3761,7 +4031,7 @@
    "FirstMark",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York",
    "New York, NY"
@@ -3796,7 +4066,7 @@
    "FirstMark",
    "Bain Capital Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York",
    "New York, NY"
@@ -3867,7 +4137,7 @@
    "a16z",
    "Paradigm"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York Office"
   ],
@@ -3903,7 +4173,7 @@
    "General Catalyst",
    "Redpoint"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -3939,7 +4209,7 @@
    "General Catalyst",
    "Redpoint"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -3975,7 +4245,7 @@
    "General Catalyst",
    "Redpoint"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -4011,7 +4281,7 @@
    "General Catalyst",
    "Redpoint"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -4045,7 +4315,7 @@
    "Bain Capital Ventures",
    "Coatue"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York, United States",
    "New York, New York"
@@ -4080,7 +4350,7 @@
    "Bain Capital Ventures",
    "Coatue"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States",
    "London, UK",
@@ -4181,7 +4451,7 @@
    "Kleiner Perkins",
    "Lightspeed"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -4215,7 +4485,7 @@
    "General Catalyst",
    "Sequoia"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY; Remote, US (Hub cities)",
    "New York, NY"
@@ -4248,7 +4518,7 @@
   "investors": [
    "AI x IA"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -4317,7 +4587,7 @@
    "Felicis",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -4353,7 +4623,7 @@
    "Insight",
    "Canapi"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -4389,7 +4659,7 @@
    "Insight",
    "Canapi"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -4425,7 +4695,7 @@
    "Insight",
    "Canapi"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco",
    "New York"
@@ -4461,7 +4731,7 @@
    "Sequoia",
    "Kleiner Perkins"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Union Square, New York City"
   ],
@@ -4495,7 +4765,7 @@
    "Redpoint",
    "Amplify Partners"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -4530,7 +4800,7 @@
    "Redpoint",
    "Amplify Partners"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -4565,7 +4835,7 @@
    "Redpoint",
    "Amplify Partners"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York",
    "San Francisco"
@@ -4600,7 +4870,7 @@
    "Fidelity",
    "EDBI"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Menlo Park, California, United States; New York, United States",
    "Menlo Park - Office",
@@ -4636,7 +4906,7 @@
    "Sequoia",
    "Coatue"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York",
    "San Francisco, California"
@@ -4671,7 +4941,7 @@
    "Sequoia",
    "Coatue"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco, California",
    "New York, New York"
@@ -4706,7 +4976,7 @@
    "Index",
    "J.P. Morgan Growth Equity"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "Headquarters"
@@ -4776,7 +5046,7 @@
    "Index",
    "J.P. Morgan Growth Equity"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "Headquarters"
@@ -4813,7 +5083,7 @@
    "QED",
    "Oak HC/FT"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, United States",
    "Remote - US"
@@ -4850,7 +5120,7 @@
    "Apollo",
    "Motive Partners"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York",
    "New York"
@@ -4885,7 +5155,7 @@
    "CRV",
    "S32"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -4921,7 +5191,7 @@
    "Script Capital",
    "Cadenza"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -4957,7 +5227,7 @@
    "Script Capital",
    "Cadenza"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Brooklyn"
   ],
@@ -4998,7 +5268,7 @@
    "Parloa Inc."
   ],
   "office": "NYC office (days not stated)",
-  "open": false,
+  "open": true,
   "posted_at": "2025-08-18T10:58:12-04:00",
   "raised": "~$500M",
   "rating": "Stretch",
@@ -5120,6 +5390,42 @@
   "what": "Applied-AI construction permitting platform for builders",
   "workplace": "Hybrid"
  },
+ "Perplexity|AI Strategist, Financial Services|https://jobs.ashbyhq.com/Perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f": {
+  "already_in_pipeline": false,
+  "company": "Perplexity",
+  "emailed": false,
+  "exclude_reason": "sales engineering requiring investing career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "buyside investing expertise; sales engineering",
+  "investors": [
+   "IVP",
+   "NEA",
+   "SoftBank",
+   "Nvidia"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "San Francisco",
+   "New York City"
+  ],
+  "office": "Hybrid (days not stated), SF or NYC",
+  "open": true,
+  "posted_at": "2026-07-23T23:01:27.682000+00:00",
+  "raised": "~$1.5B+",
+  "rating": "Stretch",
+  "reason": "Buyside-finance subject-matter-expert role described as commercial and sales engineering; it relies on investment-workflow fluency he hasn't built professionally.",
+  "salary": "$215K - $250K",
+  "stage": "Series E",
+  "status": "",
+  "title": "AI Strategist, Financial Services",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f",
+  "vc_rank": 3,
+  "verified": true,
+  "what": "AI answer engine / search; NYC office",
+  "workplace": "Hybrid"
+ },
  "Perplexity|AI Strategist, Financial Services|https://jobs.ashbyhq.com/perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f": {
   "already_in_pipeline": false,
   "company": "Perplexity",
@@ -5140,7 +5446,7 @@
    "New York City"
   ],
   "office": "Hybrid NYC (days not stated)",
-  "open": true,
+  "open": false,
   "posted_at": "2026-07-23T23:01:27.682000+00:00",
   "raised": "~$1.5B+",
   "rating": "Stretch",
@@ -5155,6 +5461,42 @@
   "verified": true,
   "what": "AI answer engine / search; NYC office",
   "workplace": "Hybrid"
+ },
+ "Perplexity|AI Strategist, Legal|https://jobs.ashbyhq.com/Perplexity/fb1815de-07d9-4933-8746-979dbcb00870": {
+  "already_in_pipeline": false,
+  "company": "Perplexity",
+  "emailed": false,
+  "exclude_reason": "sales engineering requiring legal domain career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "legal domain expertise; sales engineering",
+  "investors": [
+   "IVP",
+   "NEA",
+   "SoftBank",
+   "Nvidia"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "San Francisco",
+   "New York City"
+  ],
+  "office": "",
+  "open": true,
+  "posted_at": "2026-07-23T22:58:54.371000+00:00",
+  "raised": "~$1.5B+",
+  "rating": "Stretch",
+  "reason": "Legal-vertical subject-matter-expert role described as commercial and sales engineering; his consumer DS background lacks the legal practice expertise it centres on.",
+  "salary": "$215K - $250K",
+  "stage": "Series E",
+  "status": "",
+  "title": "AI Strategist, Legal",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Perplexity/fb1815de-07d9-4933-8746-979dbcb00870",
+  "vc_rank": 3,
+  "verified": true,
+  "what": "AI answer engine / search; NYC office",
+  "workplace": ""
  },
  "Perplexity|AI Strategist, Legal|https://jobs.ashbyhq.com/perplexity/fb1815de-07d9-4933-8746-979dbcb00870": {
   "already_in_pipeline": false,
@@ -5176,7 +5518,7 @@
    "New York City"
   ],
   "office": "",
-  "open": true,
+  "open": false,
   "posted_at": "2026-07-23T22:58:54.371000+00:00",
   "raised": "~$1.5B+",
   "rating": "Stretch",
@@ -5205,7 +5547,7 @@
    "Afore Capital",
    "Pathlight Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -5240,7 +5582,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, United States",
    "New York"
@@ -5312,7 +5654,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, United States",
    "New York"
@@ -5348,7 +5690,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, United States ",
    "New York"
@@ -5384,7 +5726,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, United States",
    "New York"
@@ -5401,6 +5743,42 @@
   "title": "Principal Deployment Strategist",
   "track": "ai",
   "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4670058101",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI simulation/engineering models for physical industries; NYC office",
+  "workplace": ""
+ },
+ "PhysicsX|Principal Machine Learning Engineer (Aerospace Manufacturing)|https://job-boards.eu.greenhouse.io/physicsx/jobs/5026120101": {
+  "already_in_pipeline": false,
+  "company": "PhysicsX",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires MS/PhD + 5 yrs; industrial/physics domain",
+  "investors": [
+   "Atomico",
+   "Temasek",
+   "NVentures",
+   "General Catalyst"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York, United States ",
+   "New York"
+  ],
+  "office": "NYC office; frequent customer on-site work",
+  "open": true,
+  "posted_at": "2026-11-03T09:26:26-05:00",
+  "raised": "~$155M",
+  "rating": "Stretch",
+  "reason": "He has end-to-end production ML and drift monitoring, but this principal role needs industrial sensor and physics modeling, plus 5 years of experience after a Master's or PhD.",
+  "salary": null,
+  "stage": "Series B",
+  "status": "",
+  "title": "Principal Machine Learning Engineer (Aerospace Manufacturing)",
+  "track": "ds",
+  "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/5026120101",
   "vc_rank": 0,
   "verified": true,
   "what": "AI simulation/engineering models for physical industries; NYC office",
@@ -5426,7 +5804,7 @@
    "New York"
   ],
   "office": "",
-  "open": true,
+  "open": false,
   "posted_at": "2026-11-03T09:26:26-05:00",
   "raised": "~$155M",
   "rating": "Stretch",
@@ -5456,7 +5834,7 @@
    "NVentures",
    "General Catalyst"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, United States ",
    "New York"
@@ -5493,7 +5871,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City Office"
   ],
@@ -5529,7 +5907,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City Office",
    "Seattle Office",
@@ -5567,7 +5945,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City Office"
   ],
@@ -5639,7 +6017,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -5677,7 +6055,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -5753,7 +6131,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City Office",
    "Seattle Office",
@@ -5791,7 +6169,7 @@
    "NEA",
    "Spark"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco HQ",
    "Seattle Office",
@@ -5814,6 +6192,37 @@
   "what": "Financial-data connectivity / fintech infrastructure; large NYC office",
   "workplace": "Hybrid"
  },
+ "Profound|Agent Engineer|https://jobs.ashbyhq.com/Profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b": {
+  "already_in_pipeline": false,
+  "company": "Profound",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "low-code workflow building; later-stage",
+  "investors": [],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "office": "On-site NYC or SF",
+  "open": true,
+  "posted_at": "2026-11-03T15:05:16.967000+00:00",
+  "raised": "unverified (Series D of $180M reported Sept 2026)",
+  "rating": "Good",
+  "reason": "Customer-embedded agent building for marketing teams overlaps his growth/marketing measurement background, and the posting explicitly welcomes technically fluent non-engineers.",
+  "salary": null,
+  "stage": "Series D",
+  "status": "",
+  "title": "Agent Engineer",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b",
+  "vc_rank": 4,
+  "verified": false,
+  "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+  "workplace": "OnSite"
+ },
  "Profound|Agent Engineer|https://jobs.ashbyhq.com/profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b": {
   "already_in_pipeline": false,
   "company": "Profound",
@@ -5829,7 +6238,7 @@
    "San Francisco, California"
   ],
   "office": "On-site NYC or SF",
-  "open": true,
+  "open": false,
   "posted_at": "2026-11-03T15:05:16.967000+00:00",
   "raised": "unverified (Series D of $180M reported Sept 2026)",
   "rating": "Good",
@@ -5840,6 +6249,38 @@
   "title": "Agent Engineer",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b",
+  "vc_rank": 4,
+  "verified": false,
+  "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+  "workplace": "OnSite"
+ },
+ "Profound|Forward Deployed Marketing Engineer|https://jobs.ashbyhq.com/Profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8": {
+  "already_in_pipeline": false,
+  "company": "Profound",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "content-marketing practitioner background",
+  "investors": [],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California",
+   "London, England"
+  ],
+  "office": "On-site NYC/SF/London; regularly onsite at customers",
+  "open": true,
+  "posted_at": "2026-10-07T02:07:18.912000+00:00",
+  "raised": "unverified (Series D of $180M reported Sept 2026)",
+  "rating": "Stretch",
+  "reason": "Builds marketing agents onsite with customers, but the role centres on content-marketing judgment like brand voice and briefs more than his measurement and ML work.",
+  "salary": null,
+  "stage": "Series D",
+  "status": "",
+  "title": "Forward Deployed Marketing Engineer",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8",
   "vc_rank": 4,
   "verified": false,
   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
@@ -5861,7 +6302,7 @@
    "London, England"
   ],
   "office": "On-site (NYC/SF/London), regularly onsite with customers",
-  "open": true,
+  "open": false,
   "posted_at": "2026-10-07T02:07:18.912000+00:00",
   "raised": "unverified (Series D of $180M reported Sept 2026)",
   "rating": "Stretch",
@@ -5872,6 +6313,37 @@
   "title": "Forward Deployed Marketing Engineer",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8",
+  "vc_rank": 4,
+  "verified": false,
+  "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+  "workplace": "OnSite"
+ },
+ "Profound|Member of Technical Staff, Data Science|https://jobs.ashbyhq.com/Profound/26f3cb11-c67a-4534-adc6-13e404a883f7": {
+  "already_in_pipeline": false,
+  "company": "Profound",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "B2B; LLM/NLP text work; later-stage",
+  "investors": [],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "office": "On-site NYC or SF",
+  "open": true,
+  "posted_at": "2025-07-24T19:43:17.429000+00:00",
+  "raised": "unverified (Series D of $180M reported Sept 2026)",
+  "rating": "Good",
+  "reason": "Predictive modeling, sampling and A/B testing for marketing analytics fit his experimentation and growth-measurement work, though the role adds LLM and text work.",
+  "salary": "$140K - $230K",
+  "stage": "Series D",
+  "status": "",
+  "title": "Member of Technical Staff, Data Science",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/Profound/26f3cb11-c67a-4534-adc6-13e404a883f7",
   "vc_rank": 4,
   "verified": false,
   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
@@ -5892,7 +6364,7 @@
    "San Francisco, California"
   ],
   "office": "On-site, NYC or SF office",
-  "open": true,
+  "open": false,
   "posted_at": "2025-07-24T19:43:17.429000+00:00",
   "raised": "unverified (Series D of $180M reported Sept 2026)",
   "rating": "Good",
@@ -5903,6 +6375,37 @@
   "title": "Member of Technical Staff, Data Science",
   "track": "ds",
   "url": "https://jobs.ashbyhq.com/profound/26f3cb11-c67a-4534-adc6-13e404a883f7",
+  "vc_rank": 4,
+  "verified": false,
+  "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+  "workplace": "OnSite"
+ },
+ "Profound|Member of Technical Staff, Machine Learning|https://jobs.ashbyhq.com/Profound/08484c30-121a-4d1f-961b-09518f14337a": {
+  "already_in_pipeline": false,
+  "company": "Profound",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "NLP/LLM-heavy; B2B",
+  "investors": [],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "office": "On-site NYC or SF",
+  "open": true,
+  "posted_at": "2025-09-04T19:38:47.239000+00:00",
+  "raised": "unverified (Series D of $180M reported Sept 2026)",
+  "rating": "Stretch",
+  "reason": "Mostly NLP and LLM content-generation systems (RAG, evals, prompting); only the experimentation and metrics parts match his background.",
+  "salary": "$160K - $250K",
+  "stage": "Series D",
+  "status": "",
+  "title": "Member of Technical Staff, Machine Learning",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/Profound/08484c30-121a-4d1f-961b-09518f14337a",
   "vc_rank": 4,
   "verified": false,
   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
@@ -5922,7 +6425,7 @@
    "New York, New York"
   ],
   "office": "On-site NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2025-09-04T19:38:47.239000+00:00",
   "raised": "unverified (Series D of $180M reported Sept 2026)",
   "rating": "Stretch",
@@ -5951,7 +6454,7 @@
    "AXA Venture Partners",
    "Bluestone Equity Partners"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -5987,7 +6490,7 @@
    "Dragonfly",
    "Norwest"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "Remote"
@@ -6023,7 +6526,7 @@
    "Dragonfly",
    "Norwest"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY"
   ],
@@ -6058,7 +6561,7 @@
    "Dragonfly",
    "Norwest"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY"
   ],
@@ -6093,7 +6596,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY (HQ)"
   ],
@@ -6128,7 +6631,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY (HQ)"
   ],
@@ -6163,7 +6666,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY (HQ)",
    "San Francisco, CA"
@@ -6199,7 +6702,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY (HQ)",
    "San Francisco, CA"
@@ -6235,7 +6738,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY (HQ)",
    "San Francisco, CA",
@@ -6272,7 +6775,7 @@
    "Founders Fund",
    "Thrive"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY (HQ)",
    "Remote (US)"
@@ -6310,7 +6813,7 @@
    "Flex Capital",
    "Inspired Capital"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York",
    "New York, New York"
@@ -6346,7 +6849,7 @@
    "ICONIQ",
    "First Round"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "San Francisco",
    "New York City"
@@ -6379,7 +6882,7 @@
   "investors": [
    "Archetype (unverified)"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Remote",
    "NY",
@@ -6437,6 +6940,41 @@
   "what": "AI agents for investment banks and investors",
   "workplace": "OnSite"
  },
+ "Rogo|Forward Deployed, Asset Management (EMEA)|https://jobs.ashbyhq.com/Rogo/9cc38600-5b03-4037-87ea-45085f99cd09": {
+  "already_in_pipeline": false,
+  "company": "Rogo",
+  "emailed": false,
+  "exclude_reason": "requires prior investing career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires asset management career; EMEA coverage",
+  "investors": [
+   "Sequoia",
+   "Thrive Capital",
+   "Khosla Ventures",
+   "Tiger Global"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site (NYC tag, EMEA-focused)",
+  "open": true,
+  "posted_at": "2026-10-19T16:11:13.350000+00:00",
+  "raised": "$165M+",
+  "rating": "Stretch",
+  "reason": "EMEA-focused asset-management forward-deployed role requiring front-office buyside experience he lacks.",
+  "salary": null,
+  "stage": "Series C",
+  "status": "",
+  "title": "Forward Deployed, Asset Management (EMEA)",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Rogo/9cc38600-5b03-4037-87ea-45085f99cd09",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI agents for investment banks and investors",
+  "workplace": "OnSite"
+ },
  "Rogo|Forward Deployed, Asset Management (EMEA)|https://jobs.ashbyhq.com/rogo/9cc38600-5b03-4037-87ea-45085f99cd09": {
   "already_in_pipeline": false,
   "company": "Rogo",
@@ -6456,7 +6994,7 @@
    "New York City"
   ],
   "office": "On-site NYC (EMEA client coverage)",
-  "open": true,
+  "open": false,
   "posted_at": "2026-10-19T16:11:13.350000+00:00",
   "raised": "$165M+",
   "rating": "Stretch",
@@ -6467,6 +7005,41 @@
   "title": "Forward Deployed, Asset Management (EMEA)",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/rogo/9cc38600-5b03-4037-87ea-45085f99cd09",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI agents for investment banks and investors",
+  "workplace": "OnSite"
+ },
+ "Rogo|Forward Deployed, Asset Management|https://jobs.ashbyhq.com/Rogo/bc0086cd-42a3-470b-8ced-b7ad8f44c7b0": {
+  "already_in_pipeline": false,
+  "company": "Rogo",
+  "emailed": false,
+  "exclude_reason": "requires prior investing career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires asset management career",
+  "investors": [
+   "Sequoia",
+   "Thrive Capital",
+   "Khosla Ventures",
+   "Tiger Global"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-09-01T04:19:44.660000+00:00",
+  "raised": "$165M+",
+  "rating": "Stretch",
+  "reason": "Requires 3+ years front-office asset management experience plus sales background; his work is consumer product DS.",
+  "salary": "$115K - $200K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Forward Deployed, Asset Management",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Rogo/bc0086cd-42a3-470b-8ced-b7ad8f44c7b0",
   "vc_rank": 0,
   "verified": true,
   "what": "AI agents for investment banks and investors",
@@ -6491,7 +7064,7 @@
    "New York City"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-09-01T04:19:44.660000+00:00",
   "raised": "$165M+",
   "rating": "Stretch",
@@ -6502,6 +7075,41 @@
   "title": "Forward Deployed, Asset Management",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/rogo/bc0086cd-42a3-470b-8ced-b7ad8f44c7b0",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI agents for investment banks and investors",
+  "workplace": "OnSite"
+ },
+ "Rogo|Forward Deployed, Consultant|https://jobs.ashbyhq.com/Rogo/0612fd71-b93a-444c-a3da-0857d06edd3f": {
+  "already_in_pipeline": false,
+  "company": "Rogo",
+  "emailed": false,
+  "exclude_reason": "requires prior consulting career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires deals-advisory consulting career",
+  "investors": [
+   "Sequoia",
+   "Thrive Capital",
+   "Khosla Ventures",
+   "Tiger Global"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-09-03T03:47:44.753000+00:00",
+  "raised": "$165M+",
+  "rating": "Stretch",
+  "reason": "Requires 3+ years at Big Four/Accenture-type deals advisory; his background is in-house startup data science.",
+  "salary": "$100K - $200K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Forward Deployed, Consultant",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Rogo/0612fd71-b93a-444c-a3da-0857d06edd3f",
   "vc_rank": 0,
   "verified": true,
   "what": "AI agents for investment banks and investors",
@@ -6526,7 +7134,7 @@
    "New York City"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-09-03T03:47:44.753000+00:00",
   "raised": "$165M+",
   "rating": "Stretch",
@@ -6537,6 +7145,41 @@
   "title": "Forward Deployed, Consultant",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/rogo/0612fd71-b93a-444c-a3da-0857d06edd3f",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI agents for investment banks and investors",
+  "workplace": "OnSite"
+ },
+ "Rogo|Forward Deployed, Corporate Banking|https://jobs.ashbyhq.com/Rogo/d2142883-08fd-4ffe-a678-44381c0d1b87": {
+  "already_in_pipeline": false,
+  "company": "Rogo",
+  "emailed": false,
+  "exclude_reason": "requires prior banking career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires corporate banking career",
+  "investors": [
+   "Sequoia",
+   "Thrive Capital",
+   "Khosla Ventures",
+   "Tiger Global"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-06-22T23:31:25.581000+00:00",
+  "raised": "$165M+",
+  "rating": "Stretch",
+  "reason": "Demo-led client role for bankers requiring 3+ years front-office corporate/commercial banking, outside his data science background.",
+  "salary": "$115K - $200K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Forward Deployed, Corporate Banking",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Rogo/d2142883-08fd-4ffe-a678-44381c0d1b87",
   "vc_rank": 0,
   "verified": true,
   "what": "AI agents for investment banks and investors",
@@ -6561,7 +7204,7 @@
    "New York City"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-06-22T23:31:25.581000+00:00",
   "raised": "$165M+",
   "rating": "Stretch",
@@ -6572,6 +7215,41 @@
   "title": "Forward Deployed, Corporate Banking",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/rogo/d2142883-08fd-4ffe-a678-44381c0d1b87",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI agents for investment banks and investors",
+  "workplace": "OnSite"
+ },
+ "Rogo|Forward Deployed, Corporate Development|https://jobs.ashbyhq.com/Rogo/7a995f99-b4e1-46e1-a805-d76c65ff63a0": {
+  "already_in_pipeline": false,
+  "company": "Rogo",
+  "emailed": false,
+  "exclude_reason": "requires prior corp dev/M&A career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires corporate development/M&A career",
+  "investors": [
+   "Sequoia",
+   "Thrive Capital",
+   "Khosla Ventures",
+   "Tiger Global"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-09-03T03:44:03.604000+00:00",
+  "raised": "$165M+",
+  "rating": "Stretch",
+  "reason": "Requires 3+ years corporate development/M&A at a large corporation; doesn't map to his LTV, experimentation and production ML experience.",
+  "salary": "$100K - $200K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Forward Deployed, Corporate Development",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Rogo/7a995f99-b4e1-46e1-a805-d76c65ff63a0",
   "vc_rank": 0,
   "verified": true,
   "what": "AI agents for investment banks and investors",
@@ -6596,7 +7274,7 @@
    "New York City"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-09-03T03:44:03.604000+00:00",
   "raised": "$165M+",
   "rating": "Stretch",
@@ -6607,6 +7285,41 @@
   "title": "Forward Deployed, Corporate Development",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/rogo/7a995f99-b4e1-46e1-a805-d76c65ff63a0",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI agents for investment banks and investors",
+  "workplace": "OnSite"
+ },
+ "Rogo|Forward Deployed, Sales & Trading|https://jobs.ashbyhq.com/Rogo/bf24d498-775c-4dae-be99-8e99dae8c40e": {
+  "already_in_pipeline": false,
+  "company": "Rogo",
+  "emailed": false,
+  "exclude_reason": "requires prior banking career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires 5+ yrs sales & trading",
+  "investors": [
+   "Sequoia",
+   "Thrive Capital",
+   "Khosla Ventures",
+   "Tiger Global"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-06-22T23:40:36.721000+00:00",
+  "raised": "$165M+",
+  "rating": "Stretch",
+  "reason": "Forward Deployed team made of former bankers; requires 5+ years front-office sales & trading experience he does not have.",
+  "salary": "$115K - $200K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Forward Deployed, Sales & Trading",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Rogo/bf24d498-775c-4dae-be99-8e99dae8c40e",
   "vc_rank": 0,
   "verified": true,
   "what": "AI agents for investment banks and investors",
@@ -6631,7 +7344,7 @@
    "New York City"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-06-22T23:40:36.721000+00:00",
   "raised": "$165M+",
   "rating": "Stretch",
@@ -6642,6 +7355,41 @@
   "title": "Forward Deployed, Sales & Trading",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/rogo/bf24d498-775c-4dae-be99-8e99dae8c40e",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI agents for investment banks and investors",
+  "workplace": "OnSite"
+ },
+ "Rogo|Forward Deployed, Wealth Management|https://jobs.ashbyhq.com/Rogo/bae7053e-80de-4cd7-966f-06abe55426c1": {
+  "already_in_pipeline": false,
+  "company": "Rogo",
+  "emailed": false,
+  "exclude_reason": "requires prior wealth management/banking career",
+  "excluded": true,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires wealth management career",
+  "investors": [
+   "Sequoia",
+   "Thrive Capital",
+   "Khosla Ventures",
+   "Tiger Global"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-07-20T03:33:28.740000+00:00",
+  "raised": "$165M+",
+  "rating": "Stretch",
+  "reason": "Client-facing demo role requiring 3+ years private/brokerage wealth management, which his consumer DS experience does not cover.",
+  "salary": "$115K - $200K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Forward Deployed, Wealth Management",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Rogo/bae7053e-80de-4cd7-966f-06abe55426c1",
   "vc_rank": 0,
   "verified": true,
   "what": "AI agents for investment banks and investors",
@@ -6666,7 +7414,7 @@
    "New York City"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-07-20T03:33:28.740000+00:00",
   "raised": "$165M+",
   "rating": "Stretch",
@@ -6695,7 +7443,7 @@
    "FirstMark",
    "ShawSpring"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "New York, NY"
@@ -6766,7 +7514,7 @@
    "True Ventures",
    "Upfront"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -6801,7 +7549,7 @@
    "True Ventures",
    "Upfront"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City"
   ],
@@ -6822,6 +7570,40 @@
   "what": "Voice-AI wearable (Stream ring) from ex-CTRL-labs founders",
   "workplace": "OnSite"
  },
+ "Sandstone|AI & ML Engineer|https://jobs.ashbyhq.com/Sandstone/60245340-bedd-4f0c-b3b9-ed27c924b973": {
+  "already_in_pipeline": false,
+  "company": "Sandstone",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "LLM/agents + full-stack; B2B legal",
+  "investors": [
+   "Lightspeed",
+   "Sequoia",
+   "Mantis VC"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York, New York"
+  ],
+  "office": "In-person 5 days/wk, Lower East Side NYC",
+  "open": true,
+  "posted_at": "2026-06-05T00:48:21.975000+00:00",
+  "raised": "~$40M",
+  "rating": "Stretch",
+  "reason": "An applied LLM product-engineering role (agents, RAG, evals) across the stack; it accepts data scientists, but his work has been tabular ML rather than LLM systems.",
+  "salary": "$225K - $300K",
+  "stage": "Series A",
+  "status": "",
+  "title": "AI & ML Engineer",
+  "track": "ds",
+  "url": "https://jobs.ashbyhq.com/Sandstone/60245340-bedd-4f0c-b3b9-ed27c924b973",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI legal-ops platform for in-house legal teams",
+  "workplace": "OnSite"
+ },
  "Sandstone|AI & ML Engineer|https://jobs.ashbyhq.com/sandstone/60245340-bedd-4f0c-b3b9-ed27c924b973": {
   "already_in_pipeline": false,
   "company": "Sandstone",
@@ -6840,7 +7622,7 @@
    "New York, New York"
   ],
   "office": "In-person 5 days/wk, Lower East Side NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-06-05T00:48:21.975000+00:00",
   "raised": "~$40M",
   "rating": "Stretch",
@@ -6851,6 +7633,40 @@
   "title": "AI & ML Engineer",
   "track": "ds",
   "url": "https://jobs.ashbyhq.com/sandstone/60245340-bedd-4f0c-b3b9-ed27c924b973",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI legal-ops platform for in-house legal teams",
+  "workplace": "OnSite"
+ },
+ "Sandstone|Founding Forward-Deployed Engineer|https://jobs.ashbyhq.com/Sandstone/06284122-3dd8-4e1e-9028-a45ece5b043e": {
+  "already_in_pipeline": false,
+  "company": "Sandstone",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "SWE-caliber bar; legal-ops B2B",
+  "investors": [
+   "Lightspeed",
+   "Sequoia",
+   "Mantis VC"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York, New York"
+  ],
+  "office": "In-person 5 days/wk, Lower East Side NYC",
+  "open": true,
+  "posted_at": "2026-05-22T22:21:44.613000+00:00",
+  "raised": "~$40M",
+  "rating": "Stretch",
+  "reason": "Founding FDE at an early-stage, five-day in-person NYC startup matches his preferences, but it expects engineers at or above core SWE caliber shipping software end to end.",
+  "salary": "$170K - $250K",
+  "stage": "Series A",
+  "status": "",
+  "title": "Founding Forward-Deployed Engineer",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Sandstone/06284122-3dd8-4e1e-9028-a45ece5b043e",
   "vc_rank": 0,
   "verified": true,
   "what": "AI legal-ops platform for in-house legal teams",
@@ -6874,7 +7690,7 @@
    "New York, New York"
   ],
   "office": "In-person NYC, 5 days/wk (Lower East Side)",
-  "open": true,
+  "open": false,
   "posted_at": "2026-05-22T22:21:44.613000+00:00",
   "raised": "~$40M",
   "rating": "Stretch",
@@ -6903,7 +7719,7 @@
    "TCV",
    "Wellington Management"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York",
    "United States"
@@ -6975,7 +7791,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
    "San Francisco"
@@ -7048,7 +7864,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
    "New York City",
@@ -7085,7 +7901,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
    "New York City",
@@ -7122,7 +7938,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
    "New York City",
@@ -7159,7 +7975,7 @@
    "Lightspeed",
    "Prosperity7"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
    "New York City",
@@ -7197,7 +8013,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -7235,7 +8051,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hub - New York",
    "Hub - San Francisco",
@@ -7274,7 +8090,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hub - San Francisco",
    "Hub - Miami",
@@ -7312,7 +8128,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hub - San Francisco",
    "Hybrid - Seattle, WA",
@@ -7350,7 +8166,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hub - Miami",
    "Hub - San Francisco",
@@ -7388,7 +8204,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hybrid - New York, NY"
   ],
@@ -7498,7 +8314,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - Seattle, WA",
@@ -7535,7 +8351,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hub - New York",
    "Hub - San Francisco"
@@ -7571,7 +8387,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hybrid - San Francisco, CA",
    "Hybrid - New York, NY",
@@ -7609,7 +8425,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "California - Remote",
    "Hub - San Francisco",
@@ -7648,7 +8464,7 @@
    "Accel",
    "Capital One Ventures"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "California - Remote",
    "Hub - San Francisco",
@@ -7687,7 +8503,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -7722,7 +8538,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -7757,7 +8573,7 @@
    "NEA",
    "Matrix"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "NYC"
   ],
@@ -7790,7 +8606,7 @@
    "Hustle Fund",
    "Weekend Fund"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -7823,7 +8639,7 @@
    "Hustle Fund",
    "Weekend Fund"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -7844,6 +8660,40 @@
   "what": "Startup wind-down service expanding into de-identified enterprise data products",
   "workplace": ""
  },
+ "Tabs|Deployment Strategist - Accounting Solutions|https://jobs.ashbyhq.com/Tabs/d9a97a1f-53ce-4909-a891-70d5c81761c6": {
+  "already_in_pipeline": false,
+  "company": "Tabs",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires accounting/ERP expertise",
+  "investors": [
+   "Lightspeed",
+   "General Catalyst",
+   "Primary"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City, NY"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-06-26T18:21:58.543000+00:00",
+  "raised": "~$80M",
+  "rating": "Stretch",
+  "reason": "ERP/accounting implementation role needing deep accounting expertise and deployment PM; his finance-partner dashboards and pipelines are only tangential.",
+  "salary": "$120K - $170K",
+  "stage": "Series B",
+  "status": "",
+  "title": "Deployment Strategist - Accounting Solutions",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Tabs/d9a97a1f-53ce-4909-a891-70d5c81761c6",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI operating system for revenue / AR for finance teams",
+  "workplace": "OnSite"
+ },
  "Tabs|Deployment Strategist - Accounting Solutions|https://jobs.ashbyhq.com/tabs/d9a97a1f-53ce-4909-a891-70d5c81761c6": {
   "already_in_pipeline": false,
   "company": "Tabs",
@@ -7862,7 +8712,7 @@
    "New York City, NY"
   ],
   "office": "On-site NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-06-26T18:21:58.543000+00:00",
   "raised": "~$80M",
   "rating": "Stretch",
@@ -7873,6 +8723,40 @@
   "title": "Deployment Strategist - Accounting Solutions",
   "track": "ai",
   "url": "https://jobs.ashbyhq.com/tabs/d9a97a1f-53ce-4909-a891-70d5c81761c6",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "AI operating system for revenue / AR for finance teams",
+  "workplace": "OnSite"
+ },
+ "Tabs|Deployment Strategist|https://jobs.ashbyhq.com/Tabs/f461b040-d20d-4eb3-bb34-38bca8a98a70": {
+  "already_in_pipeline": false,
+  "company": "Tabs",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "requires accounting/ERP expertise",
+  "investors": [
+   "Lightspeed",
+   "General Catalyst",
+   "Primary"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York City, NY"
+  ],
+  "office": "On-site NYC",
+  "open": true,
+  "posted_at": "2026-06-08T15:21:47.390000+00:00",
+  "raised": "~$80M",
+  "rating": "Stretch",
+  "reason": "Accounting-systems subject-matter-expert deployment role; limited use of his modeling and experimentation strengths beyond working with finance stakeholders.",
+  "salary": "$120K - $170K",
+  "stage": "Series B",
+  "status": "",
+  "title": "Deployment Strategist",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Tabs/f461b040-d20d-4eb3-bb34-38bca8a98a70",
   "vc_rank": 0,
   "verified": true,
   "what": "AI operating system for revenue / AR for finance teams",
@@ -7896,7 +8780,7 @@
    "New York City, NY"
   ],
   "office": "In-person NYC",
-  "open": true,
+  "open": false,
   "posted_at": "2026-06-08T15:21:47.390000+00:00",
   "raised": "~$80M",
   "rating": "Stretch",
@@ -7959,7 +8843,7 @@
    "Primary Venture Partners",
    "Lerer Hippeau"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York"
   ],
@@ -7994,7 +8878,7 @@
    "a16z",
    "Foundation Capital"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City Office"
   ],
@@ -8029,7 +8913,7 @@
    "Scale Venture Partners",
    "Meritech"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York Office"
   ],
@@ -8064,7 +8948,7 @@
    "Scale Venture Partners",
    "Meritech"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York Office"
   ],
@@ -8099,7 +8983,7 @@
    "Scale Venture Partners",
    "Meritech"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York Office"
   ],
@@ -8134,7 +9018,7 @@
    "Scale Venture Partners",
    "Meritech"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York Office"
   ],
@@ -8205,7 +9089,7 @@
    "FPV Ventures",
    "Redesign Health"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -8242,7 +9126,7 @@
    "FPV Ventures",
    "Redesign Health"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York City",
    "New York City"
@@ -8277,7 +9161,7 @@
    "Kleiner Perkins",
    "NFDG"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -8311,7 +9195,7 @@
    "Kleiner Perkins",
    "NFDG"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York"
   ],
@@ -8332,6 +9216,41 @@
   "what": "AI SRE agent that finds root causes of production incidents",
   "workplace": ""
  },
+ "Valon|Deployment Strategist|https://jobs.ashbyhq.com/Valon/de0903c4-f947-47d5-8888-175f5a4fa541": {
+  "already_in_pipeline": false,
+  "company": "Valon",
+  "emailed": false,
+  "exclude_reason": "",
+  "excluded": false,
+  "first_seen": "2026-11-07T13:02:35+00:00",
+  "gap": "mortgage-servicing B2B domain; later-stage",
+  "investors": [
+   "WestCap",
+   "a16z",
+   "Ribbit Capital"
+  ],
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
+  "locations": [
+   "New York",
+   "San Francisco"
+  ],
+  "office": "Hybrid NYC (days not stated)",
+  "open": true,
+  "posted_at": "2026-06-04T23:15:21.306000+00:00",
+  "raised": "~$250M",
+  "rating": "Good",
+  "reason": "'Part data investigator' owning live deployments to measurable outcomes suits his end-to-end production ML and causal measurement work, though mortgage servicing is new.",
+  "salary": "$140K - $240K",
+  "stage": "Series C",
+  "status": "",
+  "title": "Deployment Strategist",
+  "track": "ai",
+  "url": "https://jobs.ashbyhq.com/Valon/de0903c4-f947-47d5-8888-175f5a4fa541",
+  "vc_rank": 0,
+  "verified": true,
+  "what": "Tech-first mortgage servicing platform",
+  "workplace": "Hybrid"
+ },
  "Valon|Deployment Strategist|https://jobs.ashbyhq.com/valon/de0903c4-f947-47d5-8888-175f5a4fa541": {
   "already_in_pipeline": false,
   "company": "Valon",
@@ -8351,7 +9270,7 @@
    "San Francisco"
   ],
   "office": "Hybrid NYC (days not stated)",
-  "open": true,
+  "open": false,
   "posted_at": "2026-06-04T23:15:21.306000+00:00",
   "raised": "~$250M",
   "rating": "Good",
@@ -8381,7 +9300,7 @@
    "CRV",
    "GV"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hybrid - San Francisco, New York City, Austin",
    "AMER"
@@ -8417,7 +9336,7 @@
    "CRV",
    "GV"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "Hybrid - San Francisco, New York City",
    "Office - New York City",
@@ -8454,7 +9373,7 @@
    "Lightspeed",
    "Morgan Stanley"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ",
    "Austin",
@@ -8492,7 +9411,7 @@
    "83North",
    "Pitango"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York",
    "New York City"
@@ -8527,7 +9446,7 @@
    "83North",
    "Pitango"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York",
    "New York City"
@@ -8562,7 +9481,7 @@
    "83North",
    "Pitango"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "New York City"
@@ -8596,7 +9515,7 @@
    "Carlyle",
    "Norwest"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "US Remote",
    "New York City HQ"
@@ -8631,7 +9550,7 @@
    "Baillie Gifford",
    "Atomico"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY",
    "New York"
@@ -8666,7 +9585,7 @@
    "Baillie Gifford",
    "Atomico"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY; Silicon Valley, CA; USA Remote",
    "New York"
@@ -8701,7 +9620,7 @@
    "Baillie Gifford",
    "Atomico"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, NY; USA Remote",
    "New York"
@@ -8737,7 +9656,7 @@
    "Temasek",
    "Blackstone"
   ],
-  "last_seen_open": "2026-11-06T14:17:20+00:00",
+  "last_seen_open": "2026-11-07T13:02:35+00:00",
   "locations": [
    "New York, New York, United States",
    "US NY - New York City"

@@ -1,0 +1,1137 @@
+[
+ {
+  "id": "1c1648e957",
+  "key": "Abridge|Member of Technical Staff, Machine Learning|https://jobs.ashbyhq.com/Abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2",
+  "track": "ds",
+  "company": "Abridge",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$800M",
+   "investors": [
+    "a16z",
+    "Khosla Ventures",
+    "Elad Gil"
+   ],
+   "what": "Generative-AI clinical documentation (ambient scribe) for health systems; NYC office",
+   "verified": true,
+   "hq": "Pittsburgh, PA"
+  },
+  "vc_rank": 3,
+  "title": "Member of Technical Staff, Machine Learning",
+  "url": "https://jobs.ashbyhq.com/Abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2",
+  "locations": [
+   "SF Office",
+   "NYC Office"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2025-07-11T22:30:33.442000+00:00",
+  "salary": "$205K - $300K",
+  "department": "Builder",
+  "degree_mention": true,
+  "description": "ABOUT ABRIDGE\n\nFounded in 2018, Abridge is the first AI-native clinician intelligence platform organized around the patient, built for clinicians, and designed to help health systems coordinate the clinical, financial, and evidence-based decisions for every moment of care. Powered by purpose-built AI for healthcare, Abridge connects patients, providers, payers, and life sciences companies. This year, the platform will support more than 100 million patient-clinician conversations across more than 300 of the largest and most complex health systems in the U.S. With deep workflow integration, the Abridge clinician intelligence platform has been validated to support encounters in 28+ languages across specialties and care settings.\n\nAbridge is setting the industry standard for the responsible deployment of Al across health systems with continual and transparent Al evaluation. Clinical decision support references and cites gold-standard sources of evidence, and features like Linked Evidence map AI-generated documentation to source data, helping clinicians quickly trust and verify the output.\n\nAbridge was awarded Best in KLAS for Ambient AI in 2025 and 2026, in addition to other accolades, including TIME Best Inventions of 2024 and 2025, CNBC Disruptor 2025, and Fast Company’s Most Innovative Companies 2025.\n\nWe are a growing team of practicing clinicians, AI scientists, PhDs, creatives, technologists, and engineers working together to transform healthcare. We have offices located in San Francisco, New York, and Pittsburgh.\n\n\nTHE ROLE\n\nFrom transcribing medical conversations to delivering key takeaways, our trailblazing work in machine learning research makes the Abridge experience possible. We're currently looking to hire research scientists with experience in machine learning and natural language processing. The ideal candidate will bring technical mastery, fluency with foundation models, genuine interest in the medical domain, and strong critical thinking skills to the role. At Abridge, all of our ML work has a strong research component, and all of our research scientists contribute directly to real products that impact the lives of doctors. \n\n\nWHAT YOU'LL DO\n\n - Advance the state of the art in medical NLP, in areas including conversation summarization, evidence extraction, outcome prediction, evaluation techniques, and experimentation.\n\n - Actively contribute to the wider research community by sharing and publishing original research\n\n - Help to define important problems, identify appropriate baselines, develop state-of-the-art methods, and ship them into production.\n\n - Dial deeply into real-time feedback from clinicians to guide further refinements and innovations\n\n - Be results-oriented in the face of ambiguous problems and uncertain outcomes\n\n\nWHAT YOU'LL BRING\n\n - Strong research background, as demonstrated through papers and a graduate degree (MS or PhD) in Electrical Engineering, Computer Sciences, Mathematics, or equivalent experience.\n\n - High-impact publications at peer-reviewed AI conferences (e.g. ACL, COLM, EACL, NAACL, NeurIPS, ICML, ICLR, Interspeech, ICASSP, SLT, MLHC, ML4H).\n\n - Significant real-world impact, as demonstrated through open source contributions and deployed technology.\n\n - Strong programming skills with proven experience crafting, prototyping, and delivering machine learning solutions into production.\n\n - Experience with deep learning libraries (e.g. PyTorch, Jax, Tensorflow) and platforms, multi-GPU training,",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "1c1648e957",
+   "rating": "Stretch",
+   "reason": "Medical NLP research role requiring publications and foundation-model work; his production ML experience is on tabular data, not research.",
+   "gap": "requires MS/PhD + publications; NLP research",
+   "office": "Hybrid, SF or NYC office",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Generative-AI clinical documentation (ambient scribe) for health systems; NYC office"
+  }
+ },
+ {
+  "id": "a1836f922a",
+  "key": "Abridge|Member of Product Staff, Forward Deployed|https://jobs.ashbyhq.com/Abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c",
+  "track": "ai",
+  "company": "Abridge",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$800M",
+   "investors": [
+    "a16z",
+    "Khosla Ventures",
+    "Elad Gil"
+   ],
+   "what": "Generative-AI clinical documentation (ambient scribe) for health systems; NYC office",
+   "verified": true,
+   "hq": "Pittsburgh, PA"
+  },
+  "vc_rank": 3,
+  "title": "Member of Product Staff, Forward Deployed",
+  "url": "https://jobs.ashbyhq.com/Abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c",
+  "locations": [
+   "SF Office",
+   "NYC Office"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-06-22T17:17:11.072000+00:00",
+  "salary": "$260K - $290K",
+  "department": "Builder",
+  "degree_mention": true,
+  "description": "ABOUT ABRIDGE\n\nFounded in 2018, Abridge is the first AI-native clinician intelligence platform organized around the patient, built for clinicians, and designed to help health systems coordinate the clinical, financial, and evidence-based decisions for every moment of care. Powered by purpose-built AI for healthcare, Abridge connects patients, providers, payers, and life sciences companies. This year, the platform will support more than 100 million patient-clinician conversations across more than 300 of the largest and most complex health systems in the U.S. With deep workflow integration, the Abridge clinician intelligence platform has been validated to support encounters in 28+ languages across specialties and care settings.\n\nAbridge is setting the industry standard for the responsible deployment of Al across health systems with continual and transparent Al evaluation. Clinical decision support references and cites gold-standard sources of evidence, and features like Linked Evidence map AI-generated documentation to source data, helping clinicians quickly trust and verify the output.\n\nAbridge was awarded Best in KLAS for Ambient AI in 2025 and 2026, in addition to other accolades, including TIME Best Inventions of 2024 and 2025, CNBC Disruptor 2025, and Fast Company’s Most Innovative Companies 2025.\n\nWe are a growing team of practicing clinicians, AI scientists, PhDs, creatives, technologists, and engineers working together to transform healthcare. We have offices located in San Francisco, New York, and Pittsburgh.\n\n\nTHE ROLE\n\nAbridge is launching a Forward Deployed Engineering motion to go deeper with our health system partners. As one of the founding Forward Deployed Product Managers, you will run focused engagements with our health system partners: going on-site to understand the workflow gap, scoping the engagement with the partner, and owning the outcome end-to-end. You will lead a pod and feed your learnings from the field directly back into the core Abridge product.\n\nThis is a role for a senior product leader who can earn the trust of CMOs, CMIOs, CIOs, and operational leaders inside large health systems, while staying close enough to our core product roadmap to make sharp technical trade-offs in real time. You will set the tone for what forward deployed means at Abridge: deep, fast, opinionated, and focused on solving our partners’ most burning problems, which in turn strengthens our core product suite overall.\n\nThis role can be based out of our San Francisco or NYC office and is in-person Monday, Wednesday, and Friday. Please only apply if you are open to relocation and our hybrid in-person model. \n\n\n\n\nWHAT YOU’LL DO\n\n - Run discovery on-site at our partner accounts. Meet with the executive sponsor, clinicians, and integration teams to scope the engagement and define success before any code is written.\n\n - Lead a small pod through focused, sprint-style engagements, protecting pod focus and pace.\n\n - Own the product and feature answer for the engagement, partnering with Partner Success on the broader commercial relationship.\n\n - Decide what gets built, what gets declined, and what gets routed to the core roadmap. Hold the line on bespoke requests that don't generalize back to the core product.\n\n - Partner with internal product and engineering teams when an engagement surfaces a net-new product build that belongs on a different track.\n\n\nWHAT YOU'LL BRING\n\n - 7+ years of product management experience shipping products that users ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "a1836f922a",
+   "rating": "Stretch",
+   "reason": "Senior forward-deployed product manager running health-system engagements; it asks for 7+ years of PM experience, which his DS/production-ML background doesn't cover.",
+   "gap": "requires 7+ yrs product management",
+   "office": "In-person Mon/Wed/Fri, SF or NYC office",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "product management role, not DS/AI engineering",
+   "what": "Generative-AI clinical documentation (ambient scribe) for health systems; NYC office"
+  }
+ },
+ {
+  "id": "079621af3d",
+  "key": "Arlo|Senior ML Engineer|https://jobs.ashbyhq.com/Arlo/e7ff21eb-689e-47d4-973f-d5c77d8c2ad0",
+  "track": "ds",
+  "company": "Arlo",
+  "company_meta": {
+   "stage": "unverified",
+   "raised": "unverified",
+   "investors": [],
+   "what": "Healthcare startup attacking admin/middleman costs (health-plan ops, billing)",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Senior ML Engineer",
+  "url": "https://jobs.ashbyhq.com/Arlo/e7ff21eb-689e-47d4-973f-d5c77d8c2ad0",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-05-28T15:55:34.104000+00:00",
+  "salary": null,
+  "department": "Data, ML, & Underwriting",
+  "degree_mention": false,
+  "description": "Most of what makes American healthcare expensive isn’t medical care. It’s the machinery wrapped around it: middlemen taking a cut, fraud nobody stops, and billing systems designed to fight over payment instead of deliver care. The result is higher premiums, denied claims, surprise bills, and a system patients increasingly experience as adversarial.\n\n\n\nArlo is rebuilding health insurance for small businesses from first principles: making sure as much of every premium dollar as possible goes to care instead of getting absorbed by the system around it. We do that by identifying fraud earlier, steering members toward higher-quality and lower-cost care, automating operational overhead, and eliminating vendors whose business exists mostly to take a cut.\n\n\n\nAI is the foundation that makes this work. We use it across underwriting, operations, clinical programs, and member experience to build an insurer that becomes more efficient as the technology improves.\n\n\n\nWe’re already operating at meaningful scale: profitable, hundreds of millions in premiums, tens of thousands of members covered, and growing quickly through brokers, employers, and partners. Backed by Upfront Ventures, 8VC, and General Catalyst, with a team from Palantir, YC companies, and longtime healthcare operators.\n\n\n\n\nABOUT THE ROLE\n\n\n\nArlo's underwriting is the core of the business, and it runs on machine learning at serious scale. We're hiring a Senior ML Engineer to build and own the infrastructure that powers it — from training models on tens of millions of patients and hundreds of millions of rows of claims data, to serving real-time quotes in seconds against inference-time datasets that run into the trillions of rows. You'll also build the tooling that lets our data scientists and actuaries iterate faster than ever.\n\nThis is an ML role with real room to do ML and data science. You'll own the platform, but you'll also have the opportunity to work alongside our data scientists and actuaries to test and evaluate your own ideas — not just support theirs.\n\n\n\n\nWHAT YOU'LL WORK ON\n\n\n\nTraining infrastructure for underwriting\n\n\n\n - Build and own the infrastructure layer that powers our underwriting model, trained on tens of millions of patients and hundreds of millions of rows of claims data.\n\n - Make training reliable, reproducible, and scalable as data volume and model complexity grow.\n\n\n\nReal-time inference for quoting\n\n\n\n - Build and own the API layer that produces quotes in seconds — serving a trained model against a much larger inference-time dataset, on the order of trillions of rows of claims across hundreds of millions of people.\n\n - Own the latency, reliability, and scalability of the serving path the quoting product depends on.\n\n\n\nAccelerate data science iteration\n\n\n\n - Make it as easy as possible for data scientists and actuaries to test new features and ideas.\n\n - Build backtesting and validation infrastructure so model performance can be measured quickly and trustworthily.\n\n - Remove friction from the path between an idea and a validated, production-ready model — make experimentation simpler than it's ever been.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\n\n\n - A strong track record building ML or data infrastructure in production at scale.\n\n - Deep proficiency in Python, with comfort in processing large datasets (Spark, Databricks, or equivalent).\n\n - Experience with model training pipelines and/or low-latency model serving in production.\n\n - Experience building tooling that makes other ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "079621af3d",
+   "rating": "Stretch",
+   "reason": "He has run production pipelines and retraining, but this role is mainly training and low-latency serving infrastructure for underwriting at trillion-row scale.",
+   "gap": "infra-heavy MLE; Spark/serving; insurance domain",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Healthcare startup attacking admin/middleman costs (health-plan ops, billing)"
+  }
+ },
+ {
+  "id": "f695a06f32",
+  "key": "Arlo|Senior Data Scientist|https://jobs.ashbyhq.com/Arlo/daa2038d-1bf1-474c-a5e2-da4170108bb2",
+  "track": "ds",
+  "company": "Arlo",
+  "company_meta": {
+   "stage": "unverified",
+   "raised": "unverified",
+   "investors": [],
+   "what": "Healthcare startup attacking admin/middleman costs (health-plan ops, billing)",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Senior Data Scientist",
+  "url": "https://jobs.ashbyhq.com/Arlo/daa2038d-1bf1-474c-a5e2-da4170108bb2",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-08-27T18:13:10.966000+00:00",
+  "salary": null,
+  "department": "Data, ML, & Underwriting",
+  "degree_mention": false,
+  "description": "Most of what makes American healthcare expensive isn’t medical care. It’s the machinery wrapped around it: middlemen taking a cut, fraud nobody stops, and billing systems designed to fight over payment instead of deliver care. The result is higher premiums, denied claims, surprise bills, and a system patients increasingly experience as adversarial.\n\n\n\nArlo is rebuilding health insurance for small businesses from first principles: making sure as much of every premium dollar as possible goes to care instead of getting absorbed by the system around it. We do that by identifying fraud earlier, steering members toward higher-quality and lower-cost care, automating operational overhead, and eliminating vendors whose business exists mostly to take a cut.\n\n\n\nAI is the foundation that makes this work. We use it across underwriting, operations, clinical programs, and member experience to build an insurer that becomes more efficient as the technology improves.\n\n\n\nWe’re already operating at meaningful scale: profitable, hundreds of millions in premiums, tens of thousands of members covered, and growing quickly through brokers, employers, and partners. Backed by Upfront Ventures, 8VC, and General Catalyst, with a team from Palantir, YC companies, and longtime healthcare operators.\n\n\n\nAbout the role:\n\n\n\nUnderwriting is at the core of Arlo. Every group we price depends on how accurately we can estimate the risk of the individual members inside, and the quality of the estimate is essential to the sustainability of our business. We’re hiring a Senior Data Scientist to own our underwriting model and continuously deploy measurable improvements to it based on learnings from real-world outcomes. You’ll work with billions of claims across tens of millions of patients to identify what signals in claims history predict future medical cost, how to roll it up to a competitive price for a group, and how to deploy the system at scale. You’ll constantly monitor the lifecycle of predictions, group policies sold, and claims incurred by our tens of thousands of members to gather novel insights that can improve our model and pricing approach.\n\n\n\nThis is a hands-on modeling role in which you will sit on the underwriting team alongside our team of data scientists and actuaries thinking through issues beyond point estimates of cost including how to handle data blindness, variability, and when the risk is too high to issue a quote. You’ll own the model but work alongside ML engineers to ensure that your ideas can be tested and deployed at scale.\n\n\n\nWhat you’ll work on:\n\nEvaluate the existing Arlo underwriting model and find where it breaks\n\n - Develop a robust evaluation framework to stress the model outcomes and identify specific gaps in risk estimates (cohorts, conditions, or claims patterns) and the underlying causal factors\n\n - Use those findings to generate a roadmap of model and feature work that is prioritized based on making sure our rates are competitive in the market while ensuring we can remain a profitable business.\n\nBuild features that capture the full risk of a member\n\n - Account for training and inference dataset bias to optimize member predictions\n\n - Improve handling of member cost variance in our quoting pipeline\n\nExperiment with model designs\n\n - Implement different ML architectures that balance efficacy, generalizability, and understanding so we can outperform the market\n\nProve the lift before it ships\n\n - Work with our backtesting harness to measure th",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "f695a06f32",
+   "rating": "Good",
+   "reason": "Hands-on tabular modeling with backtesting and prediction monitoring, like his LTV and churn work, applied to predicting member cost for underwriting at an early-stage NYC company.",
+   "gap": "health insurance/actuarial domain",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Healthcare startup attacking admin/middleman costs (health-plan ops, billing)"
+  }
+ },
+ {
+  "id": "6c501a3014",
+  "key": "ElevenLabs|Deployment Strategist - North America|https://jobs.ashbyhq.com/ElevenLabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
+  "track": "ai",
+  "company": "ElevenLabs",
+  "company_meta": {
+   "stage": "Series C+",
+   "raised": "unverified (~$280M+)",
+   "investors": [
+    "a16z",
+    "ICONIQ",
+    "Sequoia"
+   ],
+   "what": "AI voice/audio models and products",
+   "verified": false,
+   "hq": "London, UK / New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Deployment Strategist - North America",
+  "url": "https://jobs.ashbyhq.com/ElevenLabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
+  "locations": [
+   "United States",
+   "New York",
+   "Los Angeles",
+   "Boston",
+   "San Francisco",
+   "Washington, D.C."
+  ],
+  "workplace": "Remote",
+  "posted_at": "2026-11-02T18:19:57.531000+00:00",
+  "salary": null,
+  "department": "Engineering & Product",
+  "degree_mention": false,
+  "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\n\nABOUT THE ROLE\n\nAs a Deployment Strategist, you'll work as part of a driven and creative team of Forward Deployed Engineers, Go to Market professionals, Product Engineers and other Strategists to deploy ElevenAgents, our enterprise AI platform, against the challenging problems our customers face. Your mission is to synthesize disconnected streams of thought into a cohesive understanding of what the most important problem is, what the existing workflows are, what the product needs, what users are motivated by, and where the impact could be.\n\n \n\nNo two days are the same, but as a Deployment Strategist you can expect to:\n\n - Meet with strategic customers to deeply understand their AI transformation goals and locate their biggest pain points, particularly around customer-facing and operational workflows powered by AI agents.\n\n -",
+  "already_in_pipeline": true,
+  "score": {
+   "id": "6c501a3014",
+   "rating": "Good",
+   "reason": "Customer problem framing and workflow discovery for AI agent deployments fits his stakeholder-facing, measurement-driven production ML work, but the role is strategy-heavy and remote.",
+   "gap": "remote-first; enterprise voice-agent domain",
+   "office": "Remote (US), co-working stipend",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI voice/audio models and products"
+  }
+ },
+ {
+  "id": "70ad90aa7f",
+  "key": "EliseAI|Deployment Strategist, Ecosystem Partnerships|https://jobs.ashbyhq.com/EliseAI/49e9c0b6-fd1e-4a5e-a66f-1b4874193efb",
+  "track": "ai",
+  "company": "EliseAI",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$390M",
+   "investors": [
+    "a16z",
+    "Navitas Capital",
+    "Bessemer",
+    "Sapphire"
+   ],
+   "what": "Conversational AI for housing and healthcare operations",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Deployment Strategist, Ecosystem Partnerships",
+  "url": "https://jobs.ashbyhq.com/EliseAI/49e9c0b6-fd1e-4a5e-a66f-1b4874193efb",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-09-16T19:36:26.360000+00:00",
+  "salary": null,
+  "department": "Deployments",
+  "degree_mention": false,
+  "description": "About EliseAI\n\nAt EliseAI, we're improving the industries that matter most: housing and healthcare. Everyone needs a place to live and access to quality healthcare, yet both are often harder to secure than they should be. \n\nBy integrating AI agents deeply into existing workflows, we make them more efficient, reduce costs, and improve the experience for everyone.\n\n\n\n - Housing: We simplify how renters tour apartments, sign leases, submit maintenance requests, and stay connected with their property team—bringing everything they need for their home into one place.\n\n - Healthcare: We make it easy to schedule appointments, complete intake forms, and we help patients communicate with providers, so everyone can focus on health instead of paperwork.\n   \n   \n\nWith EliseAI, organizations reduce manual work, improve accessibility, and deliver a seamless experience across essential services. We recently raised a $350 million https://eliseai.com/blog/intelligence-is-getting-cheaper-life-should-too funding round at a $4 billion valuation led by Andreessen Horowitz (a16z) and Bessemer Venture Partners to accelerate this mission.\n\n\n\n\nTHE FUTURE PLATFORMS TEAM - EXECUTING ON ELISEAI'S FUTURE PRODUCTS\n\nThe Future Platforms team is responsible for executing on the next generation of AI products and business lines. This team will blend go-to-market, product, operations, and strategy with a mandate to push the frontier of AI and own everything required to take them from idea to market leadership.\n\n\n\nOur goal is to take Elise from agentic AI to truly end-to-end autonomous operations, fundamentally transforming how housing operators run their businesses and how residents experience their homes.\n\n\n\nFuture Platforms will operate as a startup within a startup, run like a Seed or Series A company but with the capital, resources, and market access of a well-funded Series E, deep C-suite involvement (CEO, CRO, CSO, CTO) and founder-level ownership from day one.\n\n\n\n\nABOUT THE ROLE\n\nAs the Deployment Strategist, you'll help clients make sense of their technology and vendor landscape, and design the future state of each client's ecosystem integrations in order to unlock the most of the EliseAI platform’s automation potential. You will then drive that vision to a live, working implementation. This is a cross-functional, high-autonomy role that centers on strategic execution, with real influence over how we build and scale this motion.\n\n\n\nYou'll work hand-in-hand with Engagement Managers in the Future Platforms team, who own the overall client relationship, and the Partnerships team, who build relationships with the ecosystem of technology partners you'll draw on. Because this function is early and scaling quickly, you won't just run these engagements - you'll systematize how we do them, building the repeatable playbooks, processes, and vendor knowledge base that let us do this well at scale.\n\n\n\n\nKEY RESPONSIBILITIES\n\n - Own vendor and technology advisory end-to-end: serve as the primary advisor to clients navigating their technology stack, from initial assessment through implementation and go-live\n\n - Lead discovery and decisioning: translate a client's existing vendor landscape into clear future state recommendations\n\n - Drive partner enablement: facilitate client-to-vendor dialogues, coordinate with technology partners and internal stakeholders to scope and drive new integrations, and manage vendor implementations in support of client launches\n\n - Contribute to the p",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "70ad90aa7f",
+   "rating": "Stretch",
+   "reason": "Vendor-landscape advisory and integration project management for housing operators; little data, modeling or measurement work for his ML and experimentation strengths.",
+   "gap": "vendor/integration advisory, light on data/ML",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Conversational AI for housing and healthcare operations"
+  }
+ },
+ {
+  "id": "53d6f81d7b",
+  "key": "Evvy|Translational ML Scientist|https://jobs.ashbyhq.com/Evvy/5c3dbebe-9839-4a21-9b8f-cf26339b6c73",
+  "track": "ds",
+  "company": "Evvy",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$60M",
+   "investors": [
+    "General Catalyst",
+    "Left Lane Capital"
+   ],
+   "what": "Vaginal-microbiome testing and women's-health research data",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Translational ML Scientist",
+  "url": "https://jobs.ashbyhq.com/Evvy/5c3dbebe-9839-4a21-9b8f-cf26339b6c73",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-05-18T13:58:56.171000+00:00",
+  "salary": null,
+  "department": "Science / R&D",
+  "degree_mention": true,
+  "description": "ABOUT EVVY\n\nAt Evvy, we believe the female body shouldn’t be a medical mystery.\n\nWe are a precision women’s health company leveraging the vaginal microbiome to improve outcomes across a woman's lifespan. Backed by $60M+ from leading investors, we serve over 100,000 patients and 3,000 providers nationwide with our validated Vaginal Microbiome Test and AI-powered personalized care platform.\n\nThrough this work, we have built the world’s largest dataset on the vaginal microbiome — a proprietary foundation that will drive breakthroughs in infertility, preterm birth, gynecological cancers, and beyond.\n\n\n\nWhy join now?\n\nEvvy is a generational opportunity in women's health — and we're at the inflection point.\n\n\n\n - We’ve built a dataset no one has. Evvy has generated the world’s largest vaginal microbiome dataset from 100,000+ patients, uncovering novel biological markers underlying women’s health conditions that collectively cost the healthcare system $180B+ annually.\n\n - Validated, AI-first platform. We’ve built a comprehensive testing and care platform that unlocks personalized treatment pathways for each patient. Our work is supported by research published in major peer-reviewed journals and presented at major clinical conferences (including ACOG, ASRM, IDSOG, and more).\n\n - Proven traction, massive opportunity. We serve 100,000+ patients and 2,000 providers nationwide, with rapidly growing revenue and an expanding suite of diagnostics and treatments to improve outcomes across condition areas. We've only scratched the surface.\n\n - Top tier team, investors, and partners. Our world-class team is backed by industry leading investors, including General Catalyst, Left Lane Capital, US Fertility, and Labcorp.\n\n\n\nWe're looking for high-horsepower, mission-driven people who find it unacceptable that the female body is still a medical mystery — and want to help change that.\n\n\n\n\nABOUT THE ROLE\n\nWe’re looking for a Senior ML Translational Scientist to help turn Evvy’s microbiome data into the diagnostic and prognostic tools that power our products. You’ll work with the world’s largest dataset on the vaginal microbiome paired with longitudinal symptom, treatment, and outcomes data. The opportunity is to move beyond analysis and build models that become part of real clinical and patient-facing products.\n\n\n\nReporting to the Co-founder & CSO, you’ll lead the modeling work behind Evvy’s classifiers, risk prediction tools, biomarker discovery, and treatment personalization efforts. We’re looking for someone who can move comfortably between biological questions, modeling decisions, and product implications.\n\nYou’ll decide how models are built and work closely with cross-functional teams to determine how they are interpreted, validated, and translated into tools clinicians and patients can trust. This role sits at the intersection of machine learning, microbiome science, clinical translation, product, and engineering.\n\n\n\nEvvy is a primarily in-person team based in NYC. We strongly prefer NYC-based candidates, but we're open to remote for an exceptional fit.\n\n\n\n\nWHAT YOU'LL DO\n\n - Build the diagnostic and prognostic models that power Evvy's clinical and consumer products– including classifiers, risk prediction, biomarker discovery, and treatment response and personalization models\n\n - Work hands-on with Evvy's proprietary dataset of shotgun metagenomics paired with patient-reported outcomes\n\n - Own models end-to-end, from feature engineering and training throu",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "53d6f81d7b",
+   "rating": "Stretch",
+   "reason": "His end-to-end modeling and risk-prediction skills transfer, but the core work is clinical and biological modeling on shotgun metagenomics data.",
+   "gap": "microbiome/clinical science domain; degree likely expected",
+   "office": "Primarily in-person NYC (remote for exceptional fit)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Vaginal-microbiome testing and women's-health research data"
+  }
+ },
+ {
+  "id": "2e93a9a3ad",
+  "key": "Evvy|ML Tech Lead|https://jobs.ashbyhq.com/Evvy/f47b7764-f587-49b0-8768-8f07ddfbc147",
+  "track": "ds",
+  "company": "Evvy",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$60M",
+   "investors": [
+    "General Catalyst",
+    "Left Lane Capital"
+   ],
+   "what": "Vaginal-microbiome testing and women's-health research data",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "ML Tech Lead",
+  "url": "https://jobs.ashbyhq.com/Evvy/f47b7764-f587-49b0-8768-8f07ddfbc147",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-05-18T14:02:47.088000+00:00",
+  "salary": null,
+  "department": "Science / R&D",
+  "degree_mention": false,
+  "description": "ABOUT EVVY\n\nAt Evvy, we believe the female body shouldn’t be a medical mystery.\n\nWe are a precision women’s health company leveraging the vaginal microbiome to improve outcomes across a woman's lifespan. Backed by $60M+ from leading investors, we serve over 100,000 patients and 3,000 providers nationwide with our validated Vaginal Microbiome Test and AI-powered personalized care platform.\n\nThrough this work, we have built the world’s largest dataset on the vaginal microbiome — a proprietary foundation that will drive breakthroughs in infertility, preterm birth, gynecological cancers, and beyond.\n\nWhy join now?\n\nEvvy is a generational opportunity in women's health — and we're at the inflection point.\n\n\n\n - We’ve built a dataset no one has. Evvy has generated the world’s largest vaginal microbiome dataset from 100,000+ patients, uncovering novel biological markers underlying women’s health conditions that collectively cost the healthcare system $180B+ annually.\n\n - Validated, AI-first platform. We’ve built a comprehensive testing and care platform that unlocks personalized treatment pathways for each patient. Our work is supported by research published in major peer-reviewed journals and presented at major clinical conferences (including ACOG, ASRM, IDSOG, and more).\n\n - Proven traction, massive opportunity. We serve 100,000+ patients and 2,000 providers nationwide, with rapidly growing revenue and an expanding suite of diagnostics and treatments to improve outcomes across condition areas. We've only scratched the surface.\n\n - Top tier team, investors, and partners. Our world-class team is backed by industry leading investors, including General Catalyst, Left Lane Capital, US Fertility, and Labcorp.\n\n\n\nWe're looking for high-horsepower, mission-driven people who find it unacceptable that the female body is still a medical mystery — and want to help change that.\n\n\n\n\nABOUT THE ROLE\n\nWe’re looking for an experienced ML Tech Lead to help build the next generation of Evvy’s diagnostic and prognostic products. This person will lead the small but growing ML team within R&D responsible for turning Evvy’s unique microbiome dataset into models that can meaningfully improve how women’s health conditions are understood, predicted, and treated.\n\n\n\nReporting to the Co-founder & CSO, you’ll be the operational and technical lead for this function — helping a team of talented scientists move from ambitious research questions to validated, product-ready models.\n\n\n\nThis is a hands-on leadership role for someone energized by the opportunity to build an ML function at the center of a category-defining women’s health company. You’ll stay close enough to the science and modeling work to ask the right questions, challenge assumptions, and ensure the team is building models that are reliable, clinically meaningful, and ready to become part of Evvy’s products. You’ll also bring structure to complex scientific work: setting realistic yet ambitious timelines, sequence priorities, communicate tradeoffs, and move with both speed and rigor.\n\n\n\nEvvy is a primarily in-person team based in NYC. We strongly prefer NYC-based candidates, but we're open to remote for an exceptional fit.\n\n\n\n\nWHAT YOU'LL DO\n\n - Set and hold the technical quality bar across the team's work. Review methods, models, and code deeply enough to catch validation gaps, design issues, or assumptions that won't survive contact with real-world data\n\n - Partner with the team to build credible timelines and",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "2e93a9a3ad",
+   "rating": "Stretch",
+   "reason": "A hands-on lead role building a small ML team; his foundational DS experience helps, but the work is guiding scientists on microbiome diagnostic models.",
+   "gap": "team leadership; microbiome/clinical domain",
+   "office": "Primarily in-person NYC (remote for exceptional fit)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Vaginal-microbiome testing and women's-health research data"
+  }
+ },
+ {
+  "id": "ec396c8089",
+  "key": "Perplexity|AI Strategist, Legal|https://jobs.ashbyhq.com/Perplexity/fb1815de-07d9-4933-8746-979dbcb00870",
+  "track": "ai",
+  "company": "Perplexity",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$1.5B+",
+   "investors": [
+    "IVP",
+    "NEA",
+    "SoftBank",
+    "Nvidia"
+   ],
+   "what": "AI answer engine / search; NYC office",
+   "verified": true,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "AI Strategist, Legal",
+  "url": "https://jobs.ashbyhq.com/Perplexity/fb1815de-07d9-4933-8746-979dbcb00870",
+  "locations": [
+   "San Francisco",
+   "New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2026-07-23T22:58:54.371000+00:00",
+  "salary": "$215K - $250K",
+  "department": "Sales",
+  "degree_mention": false,
+  "description": "Perplexity is an AI-powered answer engine founded in December 2022 and growing rapidly as one of the world's leading AI platforms. Perplexity has raised over $1B in venture investment from some of the world's most visionary and successful leaders, including Elad Gil, Daniel Gross, Jeff Bezos, Accel, IVP, NEA, NVIDIA, Samsung, and many more. Our objective is to build accurate, trustworthy AI that powers decision-making for people and assistive AI wherever decisions are being made.\n\n\n\nThroughout human history, change and innovation have always been driven by curious people. Today, curious people use Perplexity to answer more than 780 million queries every month—a number that's growing rapidly for one simple reason: everyone can be curious.\n\n\n\nABOUT THE ROLE\n\nPerplexity is building the AI platform for professional legal work: Perplexity Computer, our agentic platform that navigates tools, completes multi-step workflows, and connects to the case law, statutes, filings, contracts, and internal documents that legal professionals already rely on, and our API Platform, which powers search, retrieval, and automation across structured and unstructured legal data.\n\n\n\nAt the center of this is our Applied AI / Forward Deployed motion: we work closely with law firms and in-house legal teams to distill their core legal processes and embed them into bespoke solutions built on our platform. That means sitting with partners, associates, and counsel to understand how they research, review, draft, and advise, then translating those workflows into custom skills, agents, and connector configurations that run inside their daily process—and feeding what we learn back into the product so it compounds across customers.\n\n\n\nAs an AI Strategist on our Applied AI team focused on the legal vertical, you are the subject matter expert who makes this real for legal professionals. This is a commercial and sales engineering role: you will own strategic customer engagements end to end—leading discovery, defining what to build, demonstrating frontier capabilities against real legal workflows, and driving deployments from first conversation through production and expansion. You are part customer owner, part product strategist, part sales engineer—fluent in both the language of the practice group and the language of the platform.\n\n\nRESPONSIBILITIES\n\n\nOWN STRATEGIC LEGAL ENGAGEMENTS\n\n - Lead discovery with law firms and in-house legal departments: what matters to the practice, what problems they are solving, and which workflows are worth automating\n\n - Define scope—what is the right thing to build—and own success metrics, pilot design, and commercial structure\n\n - Drive deployment and rollout across practice groups and legal departments, with real revenue responsibility alongside Sales\n\n\nBE THE DEMO AND TECHNICAL PROOF ENGINE\n\n - Build and deliver compelling, workflow-specific demonstrations: legal research, contract review and analysis, due diligence, drafting, deposition and discovery summarization, regulatory monitoring\n\n - Prototype workflows, skills, and connector configurations hands-on in Perplexity Computer and the API Platform to prove value in the customer's own use cases\n\n - Run pilots and evaluations that hold up to scrutiny from skeptical partners and general counsel\n\n\nBRING DOMAIN JUDGMENT TO THE PRODUCT\n\n - Translate how practice groups, legal departments, and legal ops teams actually work into product, connector, and data-partnership priorities\n\n - Assess wheth",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "ec396c8089",
+   "rating": "Stretch",
+   "reason": "Legal-vertical subject-matter-expert role described as commercial and sales engineering; his consumer DS background lacks the legal practice expertise it centres on.",
+   "gap": "legal domain expertise; sales engineering",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "sales engineering requiring legal domain career",
+   "what": "AI answer engine / search; NYC office"
+  }
+ },
+ {
+  "id": "0e0f9c128c",
+  "key": "Perplexity|AI Strategist, Financial Services|https://jobs.ashbyhq.com/Perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f",
+  "track": "ai",
+  "company": "Perplexity",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$1.5B+",
+   "investors": [
+    "IVP",
+    "NEA",
+    "SoftBank",
+    "Nvidia"
+   ],
+   "what": "AI answer engine / search; NYC office",
+   "verified": true,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "AI Strategist, Financial Services",
+  "url": "https://jobs.ashbyhq.com/Perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f",
+  "locations": [
+   "San Francisco",
+   "New York City"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-07-23T23:01:27.682000+00:00",
+  "salary": "$215K - $250K",
+  "department": "Sales",
+  "degree_mention": false,
+  "description": "Perplexity is an AI-powered answer engine founded in December 2022 and growing rapidly as one of the world's leading AI platforms. Perplexity has raised over $1B in venture investment from some of the world's most visionary and successful leaders, including Elad Gil, Daniel Gross, Jeff Bezos, Accel, IVP, NEA, NVIDIA, Samsung, and many more. Our objective is to build accurate, trustworthy AI that powers decision-making for people and assistive AI wherever decisions are being made.\n\n\n\nThroughout human history, change and innovation have always been driven by curious people. Today, curious people use Perplexity to answer more than 780 million queries every month—a number that's growing rapidly for one simple reason: everyone can be curious.\n\n\nABOUT THE ROLE\n\nPerplexity is building the AI platform for professional finance: Perplexity Computer, our agentic platform that navigates tools, completes multi-step workflows, and connects to the market data, filings, transcripts, and research that investment professionals already rely on, and our API Platform, which powers search, retrieval, and automation across structured and unstructured financial data.\n\n\n\nAt the center of this is our Applied AI / Forward Deployed motion: we work closely with buyside firms—hedge funds, private equity, and asset managers—to distill their core investment processes and embed them into bespoke solutions built on our platform. That means sitting with analysts and PMs to understand how they screen, diligence, monitor, and decide, then translating those workflows into custom skills, agents, and connector configurations that run inside their daily process—and feeding what we learn back into the product so it compounds across customers.\n\n\n\nAs an AI Strategist on our Applied AI team focused on financial services, you are the subject matter expert who makes this real for investment professionals. This is a commercial and sales engineering role: you will own strategic customer engagements end to end—leading discovery, defining what to build, demonstrating frontier capabilities against real investment workflows, and driving deployments from first conversation through production and expansion. You are part customer owner, part product strategist, part sales engineer—fluent in both the language of the deal team and the language of the platform.\n\n\nRESPONSIBILITIES\n\n\nOWN STRATEGIC FINANCIAL-SERVICES ENGAGEMENTS\n\n - Lead discovery with banks, PE firms, hedge funds, and asset managers: what matters to the investment team, what problems they are solving, and which workflows are worth automating\n\n - Define scope—what is the right thing to build—and own success metrics, pilot design, and commercial structure\n\n - Drive deployment and rollout across front-office teams, with real revenue responsibility alongside Sales\n\n\nBE THE DEMO AND TECHNICAL PROOF ENGINE\n\n - Build and deliver compelling, workflow-specific demonstrations: screening, comps, diligence, earnings analysis, research synthesis, portfolio monitoring\n\n - Prototype workflows, skills, and connector configurations hands-on in Perplexity Computer and the API Platform to prove value in the customer's own use cases\n\n - Run pilots and evaluations that hold up to scrutiny from skeptical analysts and PMs\n\n\nBRING DOMAIN JUDGMENT TO THE PRODUCT\n\n - Translate how deal teams, research desks, and portfolio managers actually work into product, connector, and data-partnership priorities\n\n - Assess whether we have the right market data, filin",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "0e0f9c128c",
+   "rating": "Stretch",
+   "reason": "Buyside-finance subject-matter-expert role described as commercial and sales engineering; it relies on investment-workflow fluency he hasn't built professionally.",
+   "gap": "buyside investing expertise; sales engineering",
+   "office": "Hybrid (days not stated), SF or NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "sales engineering requiring investing career",
+   "what": "AI answer engine / search; NYC office"
+  }
+ },
+ {
+  "id": "ffcda68e90",
+  "key": "PhysicsX|Principal Machine Learning Engineer (Aerospace Manufacturing)|https://job-boards.eu.greenhouse.io/physicsx/jobs/5026120101",
+  "track": "ds",
+  "company": "PhysicsX",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$155M",
+   "investors": [
+    "Atomico",
+    "Temasek",
+    "NVentures",
+    "General Catalyst"
+   ],
+   "what": "AI simulation/engineering models for physical industries; NYC office",
+   "verified": true,
+   "hq": "London, UK"
+  },
+  "vc_rank": 0,
+  "title": "Principal Machine Learning Engineer (Aerospace Manufacturing)",
+  "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/5026120101",
+  "locations": [
+   "New York, United States ",
+   "New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-03T09:26:26-05:00",
+  "salary": null,
+  "department": "Delivery",
+  "degree_mention": true,
+  "description": "About us\n Re-architecting Engineering for the Age of Intelligence PhysicsX is the physics AI company for industrials. The company’s mission is to accelerate hardware innovation by overhauling what industrial engineering and manufacturing look like today. PhysicsX is building a new simulation software stack to deliver deep physics AI enablement across the entire engineering lifecycle. The company partners with leading organisations in aerospace &amp; defence, automotive, semiconductors, materials, and energy &amp; renewables, supporting them on some of their most critical and complex challenges. PhysicsX is headquartered in the United Kingdom, with offices in London, New York, and Singapore and an expanding presence in the Bay Area.\n Who We're Looking For\n As a Principal Machine Learning Engineer in Delivery, you are an experienced problem solver and technical leader who stays anchored to impact. You can grasp advanced engineering concepts across multiple industries, lead technical initiatives, and work directly with customers (often side by side on-site) to embed cutting-edge AI models into tools that are useful and used.\n For this role, that means manufacturing and maintenance, repair and overhaul (MRO). You have put ML into production on industrial process or sensor data, not benchmarks. You know the difference between a model that scores well offline and one a process owner will accept on a qualified production line. Your data comes off equipment rather than out of a solver: it is sparse, drifting, miscalibrated and partly unrecorded, and you know how to work with it.\n You've shipped ML systems end to end and at scale: you design, build and test reliable, scalable ML data pipelines, select the right libraries, frameworks and tools, and make pragmatic product decisions that set Delivery up for success. Working at the intersection of data science and software engineering, you translate R&amp;D and project outputs into reusable libraries, tooling and products.\n With at least 5 years of industry experience (post Masters or PhD) in a commercial, non-research environment, you're ready not only to execute but to lead and mentor others.\n This Role\n You'll work closely with Data Scientists, Simulation Engineers, Manufacturing Process Experts and customers to define the process and physics problems we are solving, and you'll drive decisions on reliable deployment with measurable outcomes on the shop floor.\n You'll:\n Own the ML approach to manufacturing and MRO data, from modelling through deployment in customer production environments (cloud, on-prem and edge).\n Build production ML on sparse, drifting, miscalibrated process and sensor data (process logs, sensor traces, inspection records, small DoE sets), and judge whether the data is enough to train on.\n Choose between physics simulation, reduced-order and learned models, and fuse simulation with shop-floor measurement where the two disagree.\n Set the UQ and validation standard for what a process recommendation may claim against a qualified process window, and design experiments where machine time is the cost.\n Make models transfer across machines, material lots and consumable batches.\n Define the product requirements that manufacturing and MRO place on the PhysicsX platform.\n Lead scoping and architecture for data and ML systems, and communicate results and trade-offs to senior stakeholders and process owners.\n Build end-to-end training and inference pipelines and APIs (Python, PyTorch, Pand",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "ffcda68e90",
+   "rating": "Stretch",
+   "reason": "He has end-to-end production ML and drift monitoring, but this principal role needs industrial sensor and physics modeling, plus 5 years of experience after a Master's or PhD.",
+   "gap": "requires MS/PhD + 5 yrs; industrial/physics domain",
+   "office": "NYC office; frequent customer on-site work",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI simulation/engineering models for physical industries; NYC office"
+  }
+ },
+ {
+  "id": "504480dc5c",
+  "key": "Rogo|Forward Deployed, Sales & Trading|https://jobs.ashbyhq.com/Rogo/bf24d498-775c-4dae-be99-8e99dae8c40e",
+  "track": "ai",
+  "company": "Rogo",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$165M+",
+   "investors": [
+    "Sequoia",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Tiger Global"
+   ],
+   "what": "AI agents for investment banks and investors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed, Sales & Trading",
+  "url": "https://jobs.ashbyhq.com/Rogo/bf24d498-775c-4dae-be99-8e99dae8c40e",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-06-22T23:40:36.721000+00:00",
+  "salary": "$115K - $200K",
+  "department": "Advisory",
+  "degree_mention": false,
+  "description": "Why Rogo\n\nOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.\n\nThis is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world. With a rapidly growing, global client base, proven product-market fit, and backing from world-class investors, we are scaling quickly and defining a new category of enterprise AI.\n\nOur team is sharp, motivated, and deeply committed to Rogo’s mission. We take ownership of complex problems and stay relentlessly focused on our users. If you thrive in a fast-paced environment, demand excellence, and want to help build the future of finance, we invite you to join us.\n\n\nWHAT YOU WILL OWN\n\n - Rogo's Forward Deployed team consists of former bankers and investors who guide top financial institutions on how to apply AI in their day-to-day workflows and long-term strategy. You'll lead full-cycle client engagements, building consultative relationships and tailoring demos that resonate with investors and deal teams. Similar to how Solutions Architects secure the \"technical win,\" you'll drive the \"financial win\" by translating Rogo's capabilities into real impact across banking and investing use cases.\n\n - Engage with bankers/investors at existing and prospective customers to understand and address their workflow challenges, and then explain and demonstrate the value of Rogo's AI solutions to address them.\n\n - Establish yourself as a credible expert in solving customers' specific problems (e.g., public company financial research, M&A advisory, company diligence workflows).\n\n - Lead product demonstrations tailored to the context of various financial firms, asking questions to validate how Rogo can add value and then showcasing Rogo's features and benefits relevant to each prospective client's potential use cases.\n\n - Partner with the marketing team to develop content that will resonate with bankers/investors, tailored to the unique needs of their practice areas and client types.\n\n - Act as the \"Voice of the Customer,\" using your industry perspective to help the broader sales team develop and implement more effective strategies and synthesize customer feedback for the product team through a financial services lens.\n\n - Tailor the introduction of new solutions to specific customer needs.\n\n - Further the market perception of Rogo as uniquely credible, substantive, and helpful in applying its AI solutions to make bankers/investors better at their jobs.\n\n - Conduct research and analysis on customers and competitors.\n\n\nWHAT YOU WILL NEED\n\n - 5+ years experience in a front office finance position, specifically sales & trading \n\n - Outstanding project management and communication skills; extremely organized, detail-oriented\n\n - An action-oriented mindset that balances creative problem-solving with the scrappiness to ultimately deliver results\n\nBonus\n\n - Early employee at a hyper-growth startup.\n\n - LLM knowledge (can you explain how a transformer works?)\n\n\nWHO YOU ARE\n\n - You thrive in fast-paced environments. You are high-intensity and care a lot about what you do, and you're ecstatic to work at a startup. \n\n - You are ambitious. You have fun solving problems that others think are impossible. \n\n - You are curious.  You find joy in le",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "504480dc5c",
+   "rating": "Stretch",
+   "reason": "Forward Deployed team made of former bankers; requires 5+ years front-office sales & trading experience he does not have.",
+   "gap": "requires 5+ yrs sales & trading",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "requires prior banking career",
+   "what": "AI agents for investment banks and investors"
+  }
+ },
+ {
+  "id": "bbdcdb76f3",
+  "key": "Rogo|Forward Deployed, Corporate Banking|https://jobs.ashbyhq.com/Rogo/d2142883-08fd-4ffe-a678-44381c0d1b87",
+  "track": "ai",
+  "company": "Rogo",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$165M+",
+   "investors": [
+    "Sequoia",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Tiger Global"
+   ],
+   "what": "AI agents for investment banks and investors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed, Corporate Banking",
+  "url": "https://jobs.ashbyhq.com/Rogo/d2142883-08fd-4ffe-a678-44381c0d1b87",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-06-22T23:31:25.581000+00:00",
+  "salary": "$115K - $200K",
+  "department": "Advisory",
+  "degree_mention": false,
+  "description": "Why Rogo\n\nOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.\n\nThis is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world. With a rapidly growing, global client base, proven product-market fit, and backing from world-class investors, we are scaling quickly and defining a new category of enterprise AI.\n\nOur team is sharp, motivated, and deeply committed to Rogo’s mission. We take ownership of complex problems and stay relentlessly focused on our users. If you thrive in a fast-paced environment, demand excellence, and want to help build the future of finance, we invite you to join us.\n\n\nWHAT YOU WILL OWN\n\n - Rogo's Forward Deployed team consists of former bankers and investors who guide top financial institutions on how to apply AI in their day-to-day workflows and long-term strategy. You'll lead full-cycle client engagements, building consultative relationships and tailoring demos that resonate with investors and deal teams. Similar to how Solutions Architects secure the \"technical win,\" you'll drive the \"financial win\" by translating Rogo's capabilities into real impact across banking and investing use cases.\n\n - Engage with bankers/investors at existing and prospective customers to understand and address their workflow challenges, and then explain and demonstrate the value of Rogo's AI solutions to address them.\n\n - Establish yourself as a credible expert in solving customers' specific problems (e.g., public company financial research, M&A advisory, company diligence workflows).\n\n - Lead product demonstrations tailored to the context of various financial firms, asking questions to validate how Rogo can add value and then showcasing Rogo's features and benefits relevant to each prospective client's potential use cases.\n\n - Partner with the marketing team to develop content that will resonate with bankers/investors, tailored to the unique needs of their practice areas and client types.\n\n - Act as the \"Voice of the Customer,\" using your industry perspective to help the broader sales team develop and implement more effective strategies and synthesize customer feedback for the product team through a financial services lens.\n\n - Tailor the introduction of new solutions to specific customer needs.\n\n - Further the market perception of Rogo as uniquely credible, substantive, and helpful in applying its AI solutions to make bankers/investors better at their jobs.\n\n - Conduct research and analysis on customers and competitors.\n\n\nWHAT YOU WILL NEED\n\n - 3+ years experience in a front office finance position — specifically corporate banking and/or commercial banking \n\n - Outstanding project management and communication skills; extremely organized, detail-oriented\n\n - An action-oriented mindset that balances creative problem-solving with the scrappiness to ultimately deliver results\n\nBonus\n\n - Early employee at a hyper-growth startup.\n\n - LLM knowledge (can you explain how a transformer works?)\n\n\nWHO YOU ARE\n\n - You thrive in fast-paced environments. You are high-intensity and care a lot about what you do, and you're ecstatic to work at a startup. \n\n - You are ambitious. You have fun solving problems that others think are impossible. \n\n - You are",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "bbdcdb76f3",
+   "rating": "Stretch",
+   "reason": "Demo-led client role for bankers requiring 3+ years front-office corporate/commercial banking, outside his data science background.",
+   "gap": "requires corporate banking career",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "requires prior banking career",
+   "what": "AI agents for investment banks and investors"
+  }
+ },
+ {
+  "id": "d04d74bbad",
+  "key": "Rogo|Forward Deployed, Wealth Management|https://jobs.ashbyhq.com/Rogo/bae7053e-80de-4cd7-966f-06abe55426c1",
+  "track": "ai",
+  "company": "Rogo",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$165M+",
+   "investors": [
+    "Sequoia",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Tiger Global"
+   ],
+   "what": "AI agents for investment banks and investors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed, Wealth Management",
+  "url": "https://jobs.ashbyhq.com/Rogo/bae7053e-80de-4cd7-966f-06abe55426c1",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-07-20T03:33:28.740000+00:00",
+  "salary": "$115K - $200K",
+  "department": "Advisory",
+  "degree_mention": false,
+  "description": "Why Rogo\n\nOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.\n\nThis is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world. With a rapidly growing, global client base, proven product-market fit, and backing from world-class investors, we are scaling quickly and defining a new category of enterprise AI.\n\nOur team is sharp, motivated, and deeply committed to Rogo’s mission. We take ownership of complex problems and stay relentlessly focused on our users. If you thrive in a fast-paced environment, demand excellence, and want to help build the future of finance, we invite you to join us.\n\n\nWHAT YOU WILL OWN\n\n - Rogo's Forward Deployed team consists of former bankers and investors who guide top financial institutions on how to apply AI in their day-to-day workflows and long-term strategy. You'll lead full-cycle client engagements, building consultative relationships and tailoring demos that resonate with investors and deal teams. Similar to how Solutions Architects secure the \"technical win,\" you'll drive the \"financial win\" by translating Rogo's capabilities into real impact across banking and investing use cases.\n\n - Engage with bankers/investors at existing and prospective customers to understand and address their workflow challenges, and then explain and demonstrate the value of Rogo's AI solutions to address them.\n\n - Establish yourself as a credible expert in solving customers' specific problems (e.g., public company financial research, M&A advisory, company diligence workflows).\n\n - Lead product demonstrations tailored to the context of various financial firms, asking questions to validate how Rogo can add value and then showcasing Rogo's features and benefits relevant to each prospective client's potential use cases.\n\n - Partner with the marketing team to develop content that will resonate with bankers/investors, tailored to the unique needs of their practice areas and client types.\n\n - Act as the \"Voice of the Customer,\" using your industry perspective to help the broader sales team develop and implement more effective strategies and synthesize customer feedback for the product team through a financial services lens.\n\n - Tailor the introduction of new solutions to specific customer needs.\n\n - Further the market perception of Rogo as uniquely credible, substantive, and helpful in applying its AI solutions to make bankers/investors better at their jobs.\n\n - Conduct research and analysis on customers and competitors.\n\n\nWHAT YOU WILL NEED\n\n - 3+ years experience in private and/or brokerage wealth management, ideally within a top-tier banking or private banking platform \n\n - Outstanding project management and communication skills; extremely organized, detail-oriented\n\n - An action-oriented mindset that balances creative problem-solving with the scrappiness to ultimately deliver results\n\nBonus\n\n - Early employee at a hyper-growth startup.\n\n - LLM knowledge (can you explain how a transformer works?)\n\n\nWHO YOU ARE\n\n - You thrive in fast-paced environments. You are high-intensity and care a lot about what you do, and you're ecstatic to work at a startup. \n\n - You are ambitious. You have fun solving problems that others think are impossibl",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "d04d74bbad",
+   "rating": "Stretch",
+   "reason": "Client-facing demo role requiring 3+ years private/brokerage wealth management, which his consumer DS experience does not cover.",
+   "gap": "requires wealth management career",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "requires prior wealth management/banking career",
+   "what": "AI agents for investment banks and investors"
+  }
+ },
+ {
+  "id": "8fc90549a0",
+  "key": "Rogo|Forward Deployed, Asset Management|https://jobs.ashbyhq.com/Rogo/bc0086cd-42a3-470b-8ced-b7ad8f44c7b0",
+  "track": "ai",
+  "company": "Rogo",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$165M+",
+   "investors": [
+    "Sequoia",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Tiger Global"
+   ],
+   "what": "AI agents for investment banks and investors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed, Asset Management",
+  "url": "https://jobs.ashbyhq.com/Rogo/bc0086cd-42a3-470b-8ced-b7ad8f44c7b0",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-09-01T04:19:44.660000+00:00",
+  "salary": "$115K - $200K",
+  "department": "Advisory",
+  "degree_mention": false,
+  "description": "Why Rogo\n\nOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.\n\nThis is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world. With a rapidly growing, global client base, proven product-market fit, and backing from world-class investors, we are scaling quickly and defining a new category of enterprise AI.\n\nOur team is sharp, motivated, and deeply committed to Rogo’s mission. We take ownership of complex problems and stay relentlessly focused on our users. If you thrive in a fast-paced environment, demand excellence, and want to help build the future of finance, we invite you to join us.\n\n\nWHAT YOU WILL OWN\n\n - Rogo's Forward Deployed team consists of former bankers and investors who guide top financial institutions on how to apply AI in their day-to-day workflows and long-term strategy. You'll lead full-cycle client engagements, building consultative relationships and tailoring demos that resonate with investors and deal teams. Similar to how Solutions Architects secure the \"technical win,\" you'll drive the \"financial win\" by translating Rogo's capabilities into real impact across banking and investing use cases.\n\n - Engage with bankers/investors at existing and prospective customers to understand and address their workflow challenges, and then explain and demonstrate the value of Rogo's AI solutions to address them.\n\n - Establish yourself as a credible expert in solving customers' specific problems (e.g., public company financial research, M&A advisory, company diligence workflows).\n\n - Lead product demonstrations tailored to the context of various financial firms, asking questions to validate how Rogo can add value and then showcasing Rogo's features and benefits relevant to each prospective client's potential use cases.\n\n - Partner with the marketing team to develop content that will resonate with bankers/investors, tailored to the unique needs of their practice areas and client types.\n\n - Act as the \"Voice of the Customer,\" using your industry perspective to help the broader sales team develop and implement more effective strategies and synthesize customer feedback for the product team through a financial services lens.\n\n - Tailor the introduction of new solutions to specific customer needs.\n\n - Further the market perception of Rogo as uniquely credible, substantive, and helpful in applying its AI solutions to make bankers/investors better at their jobs.\n\n - Conduct research and analysis on customers and competitors.\n\nWhat You Will Need\n\n - 3+ years of front-office experience at a large asset manager.  \n\n - Executive engagement skills and presence, with an ability to establish strong relationships with key decision-makers and build credibility at all levels.\n\n - Outstanding presentation skills, whether impromptu on a whiteboard or using presentations and demos.\n\n - Curiosity about AI's potential to transform financial services.\n\n - Sales or client-facing experience, including business development and/or experience directly managing institutional client matters and relationships.\n\n\nWHO YOU ARE\n\n - You thrive in fast-paced environments. You are high-intensity and care a lot about what you do, and you're ecstatic to work at a startup. ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "8fc90549a0",
+   "rating": "Stretch",
+   "reason": "Requires 3+ years front-office asset management experience plus sales background; his work is consumer product DS.",
+   "gap": "requires asset management career",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "requires prior investing career",
+   "what": "AI agents for investment banks and investors"
+  }
+ },
+ {
+  "id": "8831913a13",
+  "key": "Rogo|Forward Deployed, Corporate Development|https://jobs.ashbyhq.com/Rogo/7a995f99-b4e1-46e1-a805-d76c65ff63a0",
+  "track": "ai",
+  "company": "Rogo",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$165M+",
+   "investors": [
+    "Sequoia",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Tiger Global"
+   ],
+   "what": "AI agents for investment banks and investors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed, Corporate Development",
+  "url": "https://jobs.ashbyhq.com/Rogo/7a995f99-b4e1-46e1-a805-d76c65ff63a0",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-09-03T03:44:03.604000+00:00",
+  "salary": "$100K - $200K",
+  "department": "Advisory",
+  "degree_mention": false,
+  "description": "Why Rogo\n\nOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.\n\nThis is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world. With a rapidly growing, global client base, proven product-market fit, and backing from world-class investors, we are scaling quickly and defining a new category of enterprise AI.\n\nOur team is sharp, motivated, and deeply committed to Rogo’s mission. We take ownership of complex problems and stay relentlessly focused on our users. If you thrive in a fast-paced environment, demand excellence, and want to help build the future of finance, we invite you to join us.\n\n\nWHAT YOU WILL OWN\n\n - Rogo's Forward Deployed team consists of former bankers and investors who guide top financial institutions on how to apply AI in their day-to-day workflows and long-term strategy. You'll lead full-cycle client engagements, building consultative relationships and tailoring demos that resonate with investors and deal teams. Similar to how Solutions Architects secure the \"technical win,\" you'll drive the \"financial win\" by translating Rogo's capabilities into real impact across banking and investing use cases.\n\n - Engage with bankers/investors at existing and prospective customers to understand and address their workflow challenges, and then explain and demonstrate the value of Rogo's AI solutions to address them.\n\n - Establish yourself as a credible expert in solving customers' specific problems (e.g., public company financial research, M&A advisory, company diligence workflows).\n\n - Lead product demonstrations tailored to the context of various financial firms, asking questions to validate how Rogo can add value and then showcasing Rogo's features and benefits relevant to each prospective client's potential use cases.\n\n - Partner with the marketing team to develop content that will resonate with bankers/investors, tailored to the unique needs of their practice areas and client types.\n\n - Act as the \"Voice of the Customer,\" using your industry perspective to help the broader sales team develop and implement more effective strategies and synthesize customer feedback for the product team through a financial services lens.\n\n - Tailor the introduction of new solutions to specific customer needs.\n\n - Further the market perception of Rogo as uniquely credible, substantive, and helpful in applying its AI solutions to make bankers/investors better at their jobs.\n\n - Conduct research and analysis on customers and competitors.\n\n\n\n\nWHAT YOU WILL NEED\n\n - 3+ years of experience in corporate development, corporate strategy, and/or business development at a large-scale corporation (e.g., Disney), with exposure to M&A, partnerships, or strategic investments.\n\n - Executive engagement skills and presence, with an ability to establish strong relationships with key decision-makers and build credibility at all levels.\n\n - Outstanding presentation skills, whether impromptu on a whiteboard or using presentations and demos.\n\n - Curiosity about AI's potential to transform financial services.\n\n - Experience working cross-functionally with senior internal and external stakeholders, including business development and/or directly managing client or partner rel",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "8831913a13",
+   "rating": "Stretch",
+   "reason": "Requires 3+ years corporate development/M&A at a large corporation; doesn't map to his LTV, experimentation and production ML experience.",
+   "gap": "requires corporate development/M&A career",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "requires prior corp dev/M&A career",
+   "what": "AI agents for investment banks and investors"
+  }
+ },
+ {
+  "id": "f0e8a1264e",
+  "key": "Rogo|Forward Deployed, Consultant|https://jobs.ashbyhq.com/Rogo/0612fd71-b93a-444c-a3da-0857d06edd3f",
+  "track": "ai",
+  "company": "Rogo",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$165M+",
+   "investors": [
+    "Sequoia",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Tiger Global"
+   ],
+   "what": "AI agents for investment banks and investors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed, Consultant",
+  "url": "https://jobs.ashbyhq.com/Rogo/0612fd71-b93a-444c-a3da-0857d06edd3f",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-09-03T03:47:44.753000+00:00",
+  "salary": "$100K - $200K",
+  "department": "Advisory",
+  "degree_mention": false,
+  "description": "Why Rogo\n\nOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.\n\nThis is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world. With a rapidly growing, global client base, proven product-market fit, and backing from world-class investors, we are scaling quickly and defining a new category of enterprise AI.\n\nOur team is sharp, motivated, and deeply committed to Rogo’s mission. We take ownership of complex problems and stay relentlessly focused on our users. If you thrive in a fast-paced environment, demand excellence, and want to help build the future of finance, we invite you to join us.\n\n\nWHAT YOU WILL OWN\n\n - Rogo's Forward Deployed team consists of former bankers and investors who guide top financial institutions on how to apply AI in their day-to-day workflows and long-term strategy. You'll lead full-cycle client engagements, building consultative relationships and tailoring demos that resonate with investors and deal teams. Similar to how Solutions Architects secure the \"technical win,\" you'll drive the \"financial win\" by translating Rogo's capabilities into real impact across banking and investing use cases.\n\n - Engage with bankers/investors at existing and prospective customers to understand and address their workflow challenges, and then explain and demonstrate the value of Rogo's AI solutions to address them.\n\n - Establish yourself as a credible expert in solving customers' specific problems (e.g., public company financial research, M&A advisory, company diligence workflows).\n\n - Lead product demonstrations tailored to the context of various financial firms, asking questions to validate how Rogo can add value and then showcasing Rogo's features and benefits relevant to each prospective client's potential use cases.\n\n - Partner with the marketing team to develop content that will resonate with bankers/investors, tailored to the unique needs of their practice areas and client types.\n\n - Act as the \"Voice of the Customer,\" using your industry perspective to help the broader sales team develop and implement more effective strategies and synthesize customer feedback for the product team through a financial services lens.\n\n - Tailor the introduction of new solutions to specific customer needs.\n\n - Further the market perception of Rogo as uniquely credible, substantive, and helpful in applying its AI solutions to make bankers/investors better at their jobs.\n\n - Conduct research and analysis on customers and competitors.\n\n\n\n\nWHAT YOU WILL NEED\n\n - 3+ years of experience at a strategic alliance partner (Deloitte, PwC, EY, KPMG, Accenture, and similar) in transaction services, deals advisory, valuations, M&A, or a financial advisory practice serving financial institutions or corporate deal teams.\n\n - Executive engagement skills and presence, with an ability to establish strong relationships with key decision-makers and build credibility at all levels.\n\n - Outstanding presentation skills, whether impromptu on a whiteboard or using presentations and demos.\n\n - Curiosity about AI's potential to transform financial services.\n\n - Client-facing experience, including directly managing client engagements and relationships in a deal or advisory co",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "f0e8a1264e",
+   "rating": "Stretch",
+   "reason": "Requires 3+ years at Big Four/Accenture-type deals advisory; his background is in-house startup data science.",
+   "gap": "requires deals-advisory consulting career",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "requires prior consulting career",
+   "what": "AI agents for investment banks and investors"
+  }
+ },
+ {
+  "id": "d1933ba671",
+  "key": "Rogo|Forward Deployed, Asset Management (EMEA)|https://jobs.ashbyhq.com/Rogo/9cc38600-5b03-4037-87ea-45085f99cd09",
+  "track": "ai",
+  "company": "Rogo",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$165M+",
+   "investors": [
+    "Sequoia",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Tiger Global"
+   ],
+   "what": "AI agents for investment banks and investors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed, Asset Management (EMEA)",
+  "url": "https://jobs.ashbyhq.com/Rogo/9cc38600-5b03-4037-87ea-45085f99cd09",
+  "locations": [
+   "New York City"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-10-19T16:11:13.350000+00:00",
+  "salary": null,
+  "department": "Advisory",
+  "degree_mention": false,
+  "description": "Why Rogo\n\nOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.\n\nThis is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world. With a rapidly growing, global client base, proven product-market fit, and backing from world-class investors, we are scaling quickly and defining a new category of enterprise AI.\n\nOur team is sharp, motivated, and deeply committed to Rogo’s mission. We take ownership of complex problems and stay relentlessly focused on our users. If you thrive in a fast-paced environment, demand excellence, and want to help build the future of finance, we invite you to join us.\n\n\nWHAT YOU WILL OWN\n\n - Rogo's Forward Deployed team consists of former bankers and investors who guide top financial institutions on how to apply AI in their day-to-day workflows and long-term strategy. You'll lead full-cycle client engagements, building consultative relationships and tailoring demos that resonate with investors and deal teams. Similar to how Solutions Architects secure the \"technical win,\" you'll drive the \"financial win\" by translating Rogo's capabilities into real impact across banking and investing use cases.\n\n - Engage with bankers/investors at existing and prospective customers to understand and address their workflow challenges, and then explain and demonstrate the value of Rogo's AI solutions to address them.\n\n - Establish yourself as a credible expert in solving customers' specific problems (e.g., public company financial research, M&A advisory, company diligence workflows).\n\n - Lead product demonstrations tailored to the context of various financial firms, asking questions to validate how Rogo can add value and then showcasing Rogo's features and benefits relevant to each prospective client's potential use cases.\n\n - Partner with the marketing team to develop content that will resonate with bankers/investors, tailored to the unique needs of their practice areas and client types.\n\n - Act as the \"Voice of the Customer,\" using your industry perspective to help the broader sales team develop and implement more effective strategies and synthesize customer feedback for the product team through a financial services lens.\n\n - Tailor the introduction of new solutions to specific customer needs.\n\n - Further the market perception of Rogo as uniquely credible, substantive, and helpful in applying its AI solutions to make bankers/investors better at their jobs.\n\n - Conduct research and analysis on customers and competitors.\n\nWhat You Will Need\n\n - 3+ years of front-office experience at a large asset manager.  \n\n - Executive engagement skills and presence, with an ability to establish strong relationships with key decision-makers and build credibility at all levels.\n\n - Outstanding presentation skills, whether impromptu on a whiteboard or using presentations and demos.\n\n - Curiosity about AI's potential to transform financial services.\n\n - Sales or client-facing experience, including business development and/or experience directly managing institutional client matters and relationships.\n\n\nWHO YOU ARE\n\n - You thrive in fast-paced environments. You are high-intensity and care a lot about what you do, and you're ecstatic to work at a startup. ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "d1933ba671",
+   "rating": "Stretch",
+   "reason": "EMEA-focused asset-management forward-deployed role requiring front-office buyside experience he lacks.",
+   "gap": "requires asset management career; EMEA coverage",
+   "office": "On-site (NYC tag, EMEA-focused)",
+   "nyc_ok": false,
+   "exclude": true,
+   "exclude_reason": "requires prior investing career",
+   "what": "AI agents for investment banks and investors"
+  }
+ },
+ {
+  "id": "a36b5071be",
+  "key": "Sandstone|Founding Forward-Deployed Engineer|https://jobs.ashbyhq.com/Sandstone/06284122-3dd8-4e1e-9028-a45ece5b043e",
+  "track": "ai",
+  "company": "Sandstone",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "~$40M",
+   "investors": [
+    "Lightspeed",
+    "Sequoia",
+    "Mantis VC"
+   ],
+   "what": "AI legal-ops platform for in-house legal teams",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Founding Forward-Deployed Engineer",
+  "url": "https://jobs.ashbyhq.com/Sandstone/06284122-3dd8-4e1e-9028-a45ece5b043e",
+  "locations": [
+   "New York, New York"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-05-22T22:21:44.613000+00:00",
+  "salary": "$170K - $250K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "ABOUT US\n\nSandstone is on a mission to elevate in-house legal from a support function into a true strategic partner. From day one, we’ve been clear about what we are—and are not. We are not replacing in-house legal teams. We are building a platform that amplifies them.\n\n\nOur platform enables modern legal teams to move at the speed of AI, deliver better outcomes, and create measurable business value. We unify legal data, power end-to-end workflows, and organize business context within the tools teams already use. Sandstone is the home for AI-native legal departments.\n\n\nToday, Sandstone is trusted by Fortune 500 companies and fast-growing innovators alike. We ship quickly, iterate relentlessly, and scale with intention.\n\n\nWhen you join Sandstone, you become part of a team that believes deeply in the compounding power of collaboration, rigorous problem-solving, and obsessive attention to detail. Our engineering team is elite, our lawyers ship code every day, and we are dedicated to building the most delightful product an in-house lawyer opens in the morning—and closes at the end of the day.\n\n\n\nWe work five days a week out of our offices in the Lower East Side. Dogs welcome; shoes optional; chess encouraged.\n\n\n\n\nABOUT THE ROLE\n\nWe’re seeking Founding Forward-Deployed Engineers (FDE) to serve as the technical face of Sandstone for a cohort of in-house legal teams post-sale, owning engagements from onboarding through adoption, expansion, and renewal.\n\n\n\nOur FDEs are fully ambidextrous: they sit on our Post-Sales team and they also meet or exceed the technical caliber of our core software engineers. Our Post-Sales team is relentlessly focused on customer outcomes, while our core engineers are relentlessly focused on executing the product roadmap. Sometimes those are the same thing - in a perfect world, our product roadmap would always be seamlessly aligned with what is needed for customer success. The reality is that often the two are not perfectly aligned, however. Discerning and navigating the difference - in real time on a customer call - is the essence of success in this role.\n\n\nThis is not a sales role. This is a systems and outcomes role — owning how Client readiness translates into strong adoption, retention, and expansion.\n\n\nYou'll be a builder: designing programs, defining standards, and working directly with in-house legal teams to ensure early success and long-term scale.\n\n\n\n\nWHAT YOU’LL DO\n\n - Build software end to end that enables the success of our largest customers - understanding customer pain points, scoping product specs, and delivering high-quality solutions.\n\n - Own a portfolio of accounts, establishing a strong foundation for long-term adoption and clear, measurable client outcomes from day one.\n\n - Drive sustained product adoption through structured enablement programs, tailored success plans, regular engagement, and proactive usage optimization.\n\n - Act as a trusted strategic advisor to legal and operational leaders—aligning Sandstone to client goals, uncovering new use cases, and helping teams re-imagine how legal work gets done.\n\n - Collaborate closely with Product, Engineering, Legal Engineering, and Marketing to translate customer feedback into actionable insights that shape our roadmap, messaging, and go-to-market strategy.\n\n - Design, refine, and operationalize Sandstone's engagement playbook at scale. We’re building this machine together—your ideas and execution won’t just be welcomed, they’ll be expected.\n\n\n\n\nWHA",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "a36b5071be",
+   "rating": "Stretch",
+   "reason": "Founding FDE at an early-stage, five-day in-person NYC startup matches his preferences, but it expects engineers at or above core SWE caliber shipping software end to end.",
+   "gap": "SWE-caliber bar; legal-ops B2B",
+   "office": "In-person 5 days/wk, Lower East Side NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI legal-ops platform for in-house legal teams"
+  }
+ },
+ {
+  "id": "03508e146e",
+  "key": "Sandstone|AI & ML Engineer|https://jobs.ashbyhq.com/Sandstone/60245340-bedd-4f0c-b3b9-ed27c924b973",
+  "track": "ds",
+  "company": "Sandstone",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "~$40M",
+   "investors": [
+    "Lightspeed",
+    "Sequoia",
+    "Mantis VC"
+   ],
+   "what": "AI legal-ops platform for in-house legal teams",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "AI & ML Engineer",
+  "url": "https://jobs.ashbyhq.com/Sandstone/60245340-bedd-4f0c-b3b9-ed27c924b973",
+  "locations": [
+   "New York, New York"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-06-05T00:48:21.975000+00:00",
+  "salary": "$225K - $300K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "ABOUT SANDSTONE\n\nSandstone is on a mission to elevate in-house legal from a support function into a true strategic partner. From day one, we’ve been clear about what we are—and are not. We are not replacing in-house legal teams. We are building a platform that amplifies them.\n\nOur platform enables modern legal teams to move at the speed of AI, deliver better outcomes, and create measurable business value. We unify legal data, power end-to-end workflows, and organize business context within the tools teams already use. Sandstone is the home for AI-native legal departments.\n\nToday, Sandstone is trusted by Fortune 500 companies and fast-growing innovators alike. We ship quickly, iterate relentlessly, and scale with intention.\n\nWhen you join Sandstone, you become part of a team that believes deeply in the compounding power of collaboration, rigorous problem-solving, and obsessive attention to detail. Our engineering team is elite, our lawyers ship code every day, and we are dedicated to building the most delightful product an in-house lawyer opens in the morning—and closes at the end of the day.\n\nWe work five days a week out of our offices in the Lower East Side. Dogs welcome; shoes optional; chess encouraged.\n\n\n\nTHE ROLE\n\nSandstone is building the AI-native operating system for in-house legal teams. As an AI & ML Engineer, you will build the systems that make that possible: agents that reason over contracts and business context, retrieval systems that surface the right precedent, document understanding pipelines that turn legal work into structured intelligence, and evals that help us measure and improve quality.\n\nThis is an applied AI product engineering role. You will own production AI systems end-to-end, from problem definition and data strategy through model behavior, orchestration, reliability, UX, and launch. You will work closely with engineers, lawyers, designers, and customers to translate legal judgment into product behavior.\n\nThis is not a research role, a prompt engineering role, or a narrow ML infrastructure role. We are looking for product-minded AI engineers who can move quickly through ambiguity, work across the stack, and build systems that are useful, trustworthy, and delightful for lawyers to use every day.\n\n\n\n\nWHAT YOU’LL DO\n\n - Build production AI systems for legal workflows such as contract review, redlining, legal intake, drafting, negotiation, search, and knowledge management\n\n - Improve retrieval and context systems that reason over contracts, playbooks, precedent, customer data, and business context\n\n - Build document parsing and understanding pipelines that extract structure, entities, obligations, issues, and negotiation context from complex legal documents\n\n - Develop agentic and workflow-based LLM systems for long-running, multi-step legal tasks\n\n - Create evals, datasets, metrics, and feedback loops to measure quality, reliability, cost, and latency\n\n - Partner with lawyers and customers to turn real workflow feedback into product improvements\n\n - Work across backend AI services, data pipelines, APIs, and product surfaces\n\n - Make pragmatic system design decisions about when to use frontier models, smaller models, retrieval, rules, human review, or product design\n\n\nWHAT WE LOOK FOR\n\n - 4+ years of experience as an AI engineer, ML engineer, full-stack engineer, product engineer, data scientist, or similar role\n\n - Experience shipping applied AI or LLM-powered products, especially involving retrieval, agents, e",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "03508e146e",
+   "rating": "Stretch",
+   "reason": "An applied LLM product-engineering role (agents, RAG, evals) across the stack; it accepts data scientists, but his work has been tabular ML rather than LLM systems.",
+   "gap": "LLM/agents + full-stack; B2B legal",
+   "office": "In-person 5 days/wk, Lower East Side NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI legal-ops platform for in-house legal teams"
+  }
+ },
+ {
+  "id": "40a0ad4972",
+  "key": "Tabs|Deployment Strategist - Accounting Solutions|https://jobs.ashbyhq.com/Tabs/d9a97a1f-53ce-4909-a891-70d5c81761c6",
+  "track": "ai",
+  "company": "Tabs",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$80M",
+   "investors": [
+    "Lightspeed",
+    "General Catalyst",
+    "Primary"
+   ],
+   "what": "AI operating system for revenue / AR for finance teams",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Deployment Strategist - Accounting Solutions",
+  "url": "https://jobs.ashbyhq.com/Tabs/d9a97a1f-53ce-4909-a891-70d5c81761c6",
+  "locations": [
+   "New York City, NY"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-06-26T18:21:58.543000+00:00",
+  "salary": "$120K - $170K",
+  "department": "Deployment",
+  "degree_mention": false,
+  "description": "Tabs is the AI Operating System for Revenue, built for modern finance and accounting teams. It combines deep revenue and accounting expertise with the agents and applications needed to run revenue work end to end. Tabs understands customer and contract context, applies accounting logic, and executes critical workflows with built in controls, auditability, and human oversight. With Tabs, finance teams can move from manually managing revenue workflows to directing outcomes while the system executes the work.\n\nAbout the Role\n\nTabs is hiring an experienced Deployment Strategist – Accounting Solutions to support signed customers with deployment and onboarding until full go-live. You’ll be a crucial member of the Deployment Team at Tabs and directly involved in building out the department.\n\nThis role is critical to our customers’ success, as your work sets the foundation for long-term value. You’ll guide customers through system integrations, align Tabs to their existing financial workflows, and ensure adoption of our platform across Finance, Accounting, and Operations teams. \n\nThis role is crucial for customer success, as deployment lays the foundation for long-term adoption of Tabs. You’ll work cross-functionally with GTM, Customer Success, and Operations, and partner closely with Product and Engineering to help shape the product roadmap based on customer needs.\n\n\n\nWhat You’ll Do\n\n - Be a Subject Matter Expert in accounting systems: Partner with customers and internal teams to navigate complex accounting requirements and ensure seamless ERP and finance integrations.\n\n - Lead deployments from start to finish: Learn each customer’s tech stack, map current business processes to Tabs’ product offering, and guide them through integrations with ERPs, CRMs, Tax, Payments, and other systems. Support testing, piloting, and go-live on Tabs for critical finance and billing workflows.\n\n - Coach and guide internal teams: Share accounting best practices with colleagues to ensure deployments reflect both technical precision and financial rigor.\n\n - Partner with the software team: Identify product gaps, escalate issues, and collaborate with Deployment and Engineering teams to find scalable solutions.\n\n - Drive project management: Manage requirements, set clear timelines, and hold customers accountable to deployment milestones. For complex multi-month projects, develop and maintain detailed deployment roadmaps.\n\n - Manage stakeholders: Build productive customer relationships, engage with CFOs, controllers, finance leaders, and system administrators, and ensure all stakeholders are aligned on progress, blockers, and next steps.\n\n\n\nWho You Are\n\nYou are a proactive self-starter who thrives in fast-paced, ambiguous environments and enjoys building playbooks and processes from scratch. With deep expertise in accounting principles and technical systems, you’re comfortable getting hands-on with both finance concepts and integrations, and excel at designing and executing deployment plans.\n\nYou communicate clearly across audiences—whether CFOs, controllers, or engineers—balancing customer expectations and building trust. A strong problem-solver and project manager, you anticipate challenges, drive solutions, and manage multiple deployments to completion. Collaborative and accountable, you engage with professionalism and empathy to ensure collective success.\n\nExperience\n\n - 4–6+ years in deployment, implementation or customer onboarding at early-stage startups, with ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "40a0ad4972",
+   "rating": "Stretch",
+   "reason": "ERP/accounting implementation role needing deep accounting expertise and deployment PM; his finance-partner dashboards and pipelines are only tangential.",
+   "gap": "requires accounting/ERP expertise",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI operating system for revenue / AR for finance teams"
+  }
+ },
+ {
+  "id": "1cd1edc66d",
+  "key": "Tabs|Deployment Strategist|https://jobs.ashbyhq.com/Tabs/f461b040-d20d-4eb3-bb34-38bca8a98a70",
+  "track": "ai",
+  "company": "Tabs",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$80M",
+   "investors": [
+    "Lightspeed",
+    "General Catalyst",
+    "Primary"
+   ],
+   "what": "AI operating system for revenue / AR for finance teams",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Deployment Strategist",
+  "url": "https://jobs.ashbyhq.com/Tabs/f461b040-d20d-4eb3-bb34-38bca8a98a70",
+  "locations": [
+   "New York City, NY"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-06-08T15:21:47.390000+00:00",
+  "salary": "$120K - $170K",
+  "department": "Deployment",
+  "degree_mention": false,
+  "description": "Tabs is the AI Operating System for Revenue, built for modern finance and accounting teams. It combines deep revenue and accounting expertise with the agents and applications needed to run revenue work end to end. Tabs understands customer and contract context, applies accounting logic, and executes critical workflows with built in controls, auditability, and human oversight. With Tabs, finance teams can move from manually managing revenue workflows to directing outcomes while the system executes the work.\n\nAbout the Role\n\nTabs is hiring an experienced Deployment Strategist to support signed customers with deployment and onboarding until full go-live. You’ll be a crucial member of the Deployment Team at Tabs and directly involved in building out the department.\n\nIn this role, you’ll serve as a subject-matter expert in accounting systems to deliver seamless deployments. You’ll communicate complex accounting concepts and Tabs’ platform functionality to controllers, AR leaders, and finance teams, ensuring customers understand and adopt the platform effectively. Beyond guiding customers, you’ll coach the internal team on accounting best practices, provide change management recommendations, and collaborate across Product, Engineering, and Operations to drive successful outcomes.\n\nThis role is crucial for customer success, as deployment lays the foundation for long-term adoption of Tabs. You’ll work cross-functionally with GTM, Customer Success, and Operations, and partner closely with Product and Engineering to help shape the product roadmap based on customer needs.\n\n\n\nWhat You’ll Do\n\n - Be a Subject Matter Expert in accounting systems: Partner with customers and internal teams to navigate complex accounting requirements and ensure seamless ERP and finance integrations.\n\n - Lead deployments from start to finish: Learn each customer’s tech stack, map current business processes to Tabs’ product offering, and guide them through integrations with ERPs, CRMs, Tax, Payments, and other systems. Support testing, piloting, and go-live on Tabs for critical finance and billing workflows.\n\n - Coach and guide internal teams: Share accounting best practices with colleagues to ensure deployments reflect both technical precision and financial rigor.\n\n - Partner with the software team: Identify product gaps, escalate issues, and collaborate with Deployment and Engineering teams to find scalable solutions.\n\n - Drive project management: Manage requirements, set clear timelines, and hold customers accountable to deployment milestones. For complex multi-month projects, develop and maintain detailed deployment roadmaps.\n\n - Manage stakeholders: Build productive customer relationships, engage with CFOs, controllers, finance leaders, and system administrators, and ensure all stakeholders are aligned on progress, blockers, and next steps.\n\n\n\nWho You Are\n\nYou are a proactive self-starter who thrives in fast-paced, ambiguous environments and enjoys building playbooks and processes from scratch. With deep expertise in accounting principles and technical systems, you’re comfortable getting hands-on with both finance concepts and integrations, and excel at designing and executing deployment plans.\n\nYou communicate clearly across audiences—whether CFOs, controllers, or engineers—balancing customer expectations and building trust. A strong problem-solver and project manager, you anticipate challenges, drive solutions, and manage multiple deployments to completion. Collabor",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "1cd1edc66d",
+   "rating": "Stretch",
+   "reason": "Accounting-systems subject-matter-expert deployment role; limited use of his modeling and experimentation strengths beyond working with finance stakeholders.",
+   "gap": "requires accounting/ERP expertise",
+   "office": "On-site NYC",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI operating system for revenue / AR for finance teams"
+  }
+ },
+ {
+  "id": "a29d688ecb",
+  "key": "Valon|Deployment Strategist|https://jobs.ashbyhq.com/Valon/de0903c4-f947-47d5-8888-175f5a4fa541",
+  "track": "ai",
+  "company": "Valon",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "~$250M",
+   "investors": [
+    "WestCap",
+    "a16z",
+    "Ribbit Capital"
+   ],
+   "what": "Tech-first mortgage servicing platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Deployment Strategist",
+  "url": "https://jobs.ashbyhq.com/Valon/de0903c4-f947-47d5-8888-175f5a4fa541",
+  "locations": [
+   "New York",
+   "San Francisco"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-06-04T23:15:21.306000+00:00",
+  "salary": "$140K - $240K",
+  "department": "Deployment",
+  "degree_mention": false,
+  "description": "ABOUT THE COMPANY\n\nValon is the leading AI platform for mortgage servicing, building the AI-native operating system for regulated finance.\n\n\n\nBefore providing the system of record that powers the entire industry, we built and ran our own mortgage servicer on it. That gave us a real regulated environment to prove our technology could replace the mainframe systems servicers have used for decades. Carrington acquired that servicer and adopted ValonOS as its core platform, allowing us to focus entirely on scaling our SaaS platform.\n\n\n\nValonOS is now on track to power 1 in 6 U.S. mortgages across major mortgage servicers like Newrez, Carrington, and ServiceMac. Every process on the platform is structured and programmable, enabling our AI agents to perform core servicing work, like handling payments, escrow, and homeowner questions, directly within the system's controls.\n\n\n\nWe recently raised a $150 million Series D at a $2.3 billion valuation by new investor Ribbit Capital, with continued support from existing backer a16z, amongst others.\n\n\n\n\nWHAT THIS ROLE IS\n\nDeployment Strategists own live enterprise deployments of ValonOS: part operator, part product strategist, part data investigator, and part executive translator. You diagnose how a regulated servicing operation works, decide what needs to change, configure the solution, and stay accountable until client operators are live and the business outcome is measurable.\n\nThe job is not to make recommendations from the outside. The job is to figure out what is true, make the right call under ambiguity, and drive the work until the outcome exists in the real world.\n\n\n\n\nWHY VALON\n\nHow many times in your career are you going to get the chance to deploy an eight- or nine-figure software contract into one of the most regulated industries on the planet?\n\nNot many. That's what we do here.\n\nValon is the AI-native operating system for mortgage servicing - a $13 trillion industry running on infrastructure built before the iPhone. We did not try to fix it from the outside. We bought our way in: built and operate our own mortgage servicing business managing $110B+ in loans, used that operation to deeply understand every workflow that breaks at scale, and then built the software we wished existed.\n\nThe result: a 0% margin business turned 60%+. Our own servicing operation runs at 4x the employee efficiency of the industry. Major enterprise servicers - including Newrez - are now deploying ValonOS across the industry. The contracts we are rolling out are some of the largest and most complex enterprise software deployments anywhere in financial services right now.\n\nDeployment Strategists are the people who make those rollouts actually work.\n\n \n\n\nWHY MORTGAGE SERVICING IS THE MOST INTERESTING PROBLEM YOU'VE (PROBABLY) NEVER THOUGHT ABOUT\n\nEvery monthly payment from a homeowner triggers a chain reaction: money has to move, accounting entries have to balance, escrow has to disburse to the right counties and insurers, and every step has to satisfy regulators across all 50 states - each with its own foreclosure rules, notice timelines, fee restrictions, and licensing regimes. Get any of it wrong and you have created a CFPB headline.\n\nNow do that for millions of loans, with hundreds of legacy vendors, dozens of capital partners, and operators who have been doing it one way for 30 years.\n\nMortgage servicing has resisted software automation for decades not because the individual problems are unsolvable, but because the",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "a29d688ecb",
+   "rating": "Good",
+   "reason": "'Part data investigator' owning live deployments to measurable outcomes suits his end-to-end production ML and causal measurement work, though mortgage servicing is new.",
+   "gap": "mortgage-servicing B2B domain; later-stage",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Tech-first mortgage servicing platform"
+  }
+ },
+ {
+  "id": "12632f198f",
+  "key": "Profound|Member of Technical Staff, Data Science|https://jobs.ashbyhq.com/Profound/26f3cb11-c67a-4534-adc6-13e404a883f7",
+  "track": "ds",
+  "company": "Profound",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified (Series D of $180M reported Sept 2026)",
+   "investors": [],
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Member of Technical Staff, Data Science",
+  "url": "https://jobs.ashbyhq.com/Profound/26f3cb11-c67a-4534-adc6-13e404a883f7",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2025-07-24T19:43:17.429000+00:00",
+  "salary": "$140K - $230K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "Profound is the fastest-growing AI marketing platform, used by 15% of the Fortune 500 including Comcast, Estée Lauder, and Walmart, and innovators like Ramp, MongoDB, and Figma. It is where marketing teams do the work: research, briefs, content, campaigns, reporting, all in one place, alongside agents that carry the load with them.  \n\nBuilt on 2B+ real user prompts and growing, Profound’s data shows you what people ask AI and what the models say back. Profound's AI Marketer joins that data with deep context about our customers to find the opportunities worth acting on, and then puts agents to work: automating reporting, drafting content, auditing pages for readability, running competitive research. It measures what works and gets better every day.\n\nAs a Data Scientist, you will map every human and AI interaction to help brands turn AIs into their strongest advocates. You will build predictive models, develop sampling techniques, and optimize brand visibility in AI-driven search, such as ChatGPT and Perplexity. Your work will directly impact how businesses shape their presence in the generative AI era.\n\n\n\n\nWHAT YOU’LL DO\n\n - Develop and refine predictive models to analyze and forecast AI-driven search behavior\n\n - Design sampling and data classification techniques to improve AI-driven brand insights\n\n - Leverage LLMs and NLP to extract meaningful insights from unstructured text data\n\n - Work with large datasets, ensuring efficiency in querying, cleaning, and classification\n\n - Design and conduct A/B tests or other experimentation frameworks to measure impact\n\n - Collaborate with the founding team to turn complex data insights into actionable business strategies\n\n\n\n\nWHO YOU ARE\n\n - 3 or more years of advanced analytics experience in technology, marketing, or advertising\n\n - Proficient in Python, R, and SQL, with hands-on experience querying and analyzing large datasets\n\n - Expertise in data sampling techniques, including stratified sampling, bootstrapping, and extrapolation\n\n - Strong background in predictive modeling and applying machine learning techniques to estimate event frequency\n\n - Deep understanding of large language models, their limitations, and real-world applications\n\n - Passionate about staying on top of AI research, especially in multi-modal AI and LLM advancements\n\n - Comfortable in a fast-moving, high-performance startup environment\n\n\n\n\nLOCATION\n\nThis is an on-site role based in our NYC or SF office, designed for builders who thrive on speed, iteration, and meaningful impact. We are happy to support visa sponsorship for qualified international candidates.\n\nFor this role, the expected base salary range is $140,000 to $260,000 (NYC and SF). Comp may vary by location. Profound’s total compensation package is designed to be competitive and includes base salary, equity, and a full range of benefits and perks. Final compensation will depend on factors such as your skills, experience, qualifications, and location, and will be determined during the interview process. Our recruiting team will share more details about the full compensation package and benefits as you move through hiring.\n\nNote: All official communication from Profound will come from a @tryprofound.com email address. If you're contacted by anyone using a different domain, please disregard and report it as spam.",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "12632f198f",
+   "rating": "Good",
+   "reason": "Predictive modeling, sampling and A/B testing for marketing analytics fit his experimentation and growth-measurement work, though the role adds LLM and text work.",
+   "gap": "B2B; LLM/NLP text work; later-stage",
+   "office": "On-site NYC or SF",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role"
+  }
+ },
+ {
+  "id": "cbc1e4deb8",
+  "key": "Profound|Member of Technical Staff, Machine Learning|https://jobs.ashbyhq.com/Profound/08484c30-121a-4d1f-961b-09518f14337a",
+  "track": "ds",
+  "company": "Profound",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified (Series D of $180M reported Sept 2026)",
+   "investors": [],
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Member of Technical Staff, Machine Learning",
+  "url": "https://jobs.ashbyhq.com/Profound/08484c30-121a-4d1f-961b-09518f14337a",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2025-09-04T19:38:47.239000+00:00",
+  "salary": "$160K - $250K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "Profound is the fastest-growing AI marketing platform, used by 15% of the Fortune 500 including Comcast, Estée Lauder, and Walmart, and innovators like Ramp, MongoDB, and Figma. It is where marketing teams do the work: research, briefs, content, campaigns, reporting, all in one place, alongside agents that carry the load with them.  \n\nBuilt on 2B+ real user prompts and growing, Profound’s data shows you what people ask AI and what the models say back. Profound's AI Marketer joins that data with deep context about our customers to find the opportunities worth acting on, and then puts agents to work: automating reporting, drafting content, auditing pages for readability, running competitive research. It measures what works and gets better every day.\n\nAs an AI and ML Engineer, you will design, build, and ship large scale NLP and LLM systems that power classification, ranking, clustering, topic discovery, and content generation. You will own workflows from data to deployment, partner across product and engineering, and turn real user conversations into production features and publish-ready content that drives visibility, engagement, and conversion.\n\n\n\n\nWHAT YOU’LL DO\n\n - Build and deploy NLP models at scale for classification, ranking, clustering, topic extraction, and summarization\n\n - Design LLM workflows for context and content generation end to end, including topic discovery, brief creation, outlines and drafts, revision loops, and publish-ready assets\n\n - Develop prompt and template libraries aligned to brand voice and channel, including blogs, landing pages, help docs, and ads, with retrieval for evidence-grounded generation and citations\n\n - Create evaluation frameworks for generated content, including factuality, coverage, tone, safety, and originality, with rubric-based LLM evaluations, human-in-the-loop review, and red teaming\n\n - Instrument content performance across AEO and SEO visibility, engagement, and conversion, and run experiments to improve quality, cost, and latency\n\n - Transform large text datasets into production features and signals that drive product insights\n\n - Partner with engineering to instrument events, maintain data pipelines, and uphold high data quality and observability\n\n - Collaborate with product, data, and go-to-market teams on success metrics and experiments that move customer-facing KPIs\n\n\n\n\nWHO YOU ARE\n\n - Proven experience shipping machine learning systems in production at scale, especially with large text data\n\n - Hands-on experience building LLM content systems including prompting, templating, retrieval or RAG, guardrails, and evaluations\n\n - Fluency in SQL and strong Python skills with modern machine learning tooling\n\n - Strong grasp of machine learning and generation quality metrics, with the ability to design offline and online evaluations and monitoring\n\n - Ability to innovate when off-the-shelf solutions do not fit the problem\n\n - Experience working in cross-functional, high-performance teams\n\n - Clear communication with both technical and non-technical partners\n\n - Ownership mindset and comfort operating in a fast-paced environment\n\n - Excited by ownership of the entire product analytics function at an early stage company\n\n - Motivated by shaping how usage is measured and how product decisions are made\n\n - Interested in close collaboration with product, engineering, and go-to-market teams\n\n - Comfortable in a fast-paced environment with trust, autonomy, and responsibility\n\n - Drawn to competi",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "cbc1e4deb8",
+   "rating": "Stretch",
+   "reason": "Mostly NLP and LLM content-generation systems (RAG, evals, prompting); only the experimentation and metrics parts match his background.",
+   "gap": "NLP/LLM-heavy; B2B",
+   "office": "On-site NYC or SF",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role"
+  }
+ },
+ {
+  "id": "3c6ca419c9",
+  "key": "Profound|Agent Engineer|https://jobs.ashbyhq.com/Profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b",
+  "track": "ai",
+  "company": "Profound",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified (Series D of $180M reported Sept 2026)",
+   "investors": [],
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Agent Engineer",
+  "url": "https://jobs.ashbyhq.com/Profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-11-03T15:05:16.967000+00:00",
+  "salary": null,
+  "department": "Customer Success",
+  "degree_mention": false,
+  "description": "Profound is the fastest-growing AI marketing platform, used by 15% of the Fortune 500 including Comcast, Estée Lauder, and Walmart, and innovators like Ramp, MongoDB, and Figma. It is where marketing teams do the work: research, briefs, content, campaigns, reporting, all in one place, alongside agents that carry the load with them.  \n\nBuilt on 2B+ real user prompts and growing, Profound’s data shows you what people ask AI and what the models say back. Profound's AI Marketer joins that data with deep context about our customers to find the opportunities worth acting on, and then puts agents to work: automating reporting, drafting content, auditing pages for readability, running competitive research. It measures what works and gets better every day.\n\nAs an Agent Engineer, you will work directly with customers who have already purchased Profound’s Agents product and need help deploying it effectively to drive real business outcomes.\n\nThis is a high-impact, customer-embedded role at the intersection of customer success, strategy, and technical implementation. You will partner closely with customers to identify the highest-value use cases for agents, design solutions, and build working implementations inside the Profound platform. When work becomes deeply technical, you will collaborate with engineering, but you will retain ownership of outcomes and ensure deployments are fast, tailored, and clearly tied to customer value. Early customer use cases will directly inform how the Agents product evolves over time.\n\n\n\n\nWHAT YOU’LL DO\n\n - Work closely with customers to understand their goals, workflows, and AI visibility challenges\n\n - Translate ambiguous customer needs into concrete, agent-based use cases that deliver measurable business impact\n\n - Identify what should be built and why before focusing on how it should be implemented\n\n - Design agents such as AI visibility and competitor-ranking alerts, content gap identification workflows, content drafting workflows informed by AI visibility data, and agents that crawl and analyze existing content for optimization opportunities\n\n - Configure and build agents using Profound’s workflow platform by connecting nodes, APIs, data sources, and outputs\n\n - Rapidly prototype and deploy solutions directly with customers in a forward-deployed model\n\n - Own deployments end to end where possible, and clearly scope and hand off work to engineering when requirements exceed your technical depth\n\n - Serve as the primary post-sale partner for Agents customers during deployment\n\n - Turn successful customer deployments into repeatable patterns and internal best practices\n\n - Provide feedback to Product and Engineering on gaps, friction points, and roadmap priorities surfaced through customer work\n\n\n\n\nWHO YOU ARE\n\n - Experience in client-facing roles such as consulting, solutions, strategy, implementation, or customer success\n\n - Comfortable working with ambiguity and early-stage products\n\n - Strong problem-framing skills, with the ability to turn vague goals into concrete plans\n\n - Technical fluency without being a full-time engineer, including experience building with low-code or no-code tools, workflows, scripts, or APIs\n\n - Hands-on experimentation with AI tools, agents, or automation systems\n\n - Clear communicator who can translate effectively between customers and engineers\n\n - Enjoy being embedded with customers and owning outcomes end to end\n\n - Backgrounds such as strategy consultants with technical projects,",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "3c6ca419c9",
+   "rating": "Good",
+   "reason": "Customer-embedded agent building for marketing teams overlaps his growth/marketing measurement background, and the posting explicitly welcomes technically fluent non-engineers.",
+   "gap": "low-code workflow building; later-stage",
+   "office": "On-site NYC or SF",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role"
+  }
+ },
+ {
+  "id": "cf1a5772ec",
+  "key": "Profound|Forward Deployed Marketing Engineer|https://jobs.ashbyhq.com/Profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8",
+  "track": "ai",
+  "company": "Profound",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified (Series D of $180M reported Sept 2026)",
+   "investors": [],
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Forward Deployed Marketing Engineer",
+  "url": "https://jobs.ashbyhq.com/Profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8",
+  "locations": [
+   "New York, New York",
+   "San Francisco, California",
+   "London, England"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-10-07T02:07:18.912000+00:00",
+  "salary": null,
+  "department": "Customer Success",
+  "degree_mention": false,
+  "description": "Profound is the fastest-growing AI marketing platform, used by 15% of the Fortune 500 including Comcast, Estée Lauder, and Walmart, and innovators like Ramp, MongoDB, and Figma. It is where marketing teams do the work: research, briefs, content, campaigns, reporting, all in one place, alongside agents that carry the load with them.  \n\nBuilt on 2B+ real user prompts and growing, Profound’s data shows you what people ask AI and what the models say back. Profound's AI Marketer joins that data with deep context about our customers to find the opportunities worth acting on, and then puts agents to work: automating reporting, drafting content, auditing pages for readability, running competitive research. It measures what works and gets better every day.\n\nWe named this role. In April 2026, at Zero Click San Francisco, Profound introduced a new role to the marketing org: the Marketing Engineer https://www.tryprofound.com/marketing-engineer. A marketer who went deep on building, who looks at a manual process and sees a system. Since then, marketers everywhere have told us they finally have a name for what they do, companies like Google and Figma have started hiring for it, and hundreds have been certified through Profound University https://university.tryprofound.com/courses/marketing-engineering-concepts. Read the Marketing Engineer manifesto https://www.tryprofound.com/marketing-engineer, hear from practitioners on the Marketing Engineer podcast https://www.tryprofound.com/podcasts, or read our Founding Marketing Engineer's first-hand take on the role https://nicklafferty.com/blog/marketing-engineer/.\n\nNow we’re building the team that brings Marketing Engineering to the world’s biggest brands and our agency and consulting partners. As a Forward Deployed Marketing Engineer, you’ll embed with customer teams, often onsite, to understand their marketing work, identify where Profound can help, and build workflows that become part of everyday delivery. You’ll combine marketing judgment with deep product knowledge to help teams produce better work and use Profound confidently.\n\nHere's what makes this role different: shipping the build doesn't finish the job. You’ll work alongside customers on real marketing tasks - researching competitors, developing briefs, creating content and reporting on performance. You’ll help teams get useful results from Profound, improve the quality of their work and build the skills to use it independently.\n\nWhat you'll do\n\n - Be forward deployed. Work alongside customer marketing teams, onsite regularly. Join planning meetings, review briefs and campaigns, and use Profound with the people doing the work.\n\n - Recommend where Profound can help. Understand the team’s priorities, how they work and what slows them down. Bring proven applications suited to their business, and identify opportunities they may not have considered.\n\n - Apply marketing judgment. Review outputs with customers for accuracy, brand voice, audience fit and usefulness. Refine the inputs and instructions until the results meet the team’s standards.\n\n - Build and refine. Design, build, and troubleshoot agents and workflows in Profound that run real marketing work, from reporting and competitive research to content drafting and page audits.\n\n - Drive adoption. Help practitioners use Profound on live projects, resolve barriers and build their confidence to use it independently. Track usage and extend successful applications to more teams.\n\n - Work with the acc",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "cf1a5772ec",
+   "rating": "Stretch",
+   "reason": "Builds marketing agents onsite with customers, but the role centres on content-marketing judgment like brand voice and briefs more than his measurement and ML work.",
+   "gap": "content-marketing practitioner background",
+   "office": "On-site NYC/SF/London; regularly onsite at customers",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI search visibility and analytics platform for marketers; has an NYC in-office Data Scientist role"
+  }
+ }
+]
