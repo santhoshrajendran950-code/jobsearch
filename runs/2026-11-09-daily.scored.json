@@ -1,0 +1,234 @@
+[
+ {
+  "id": "450ce83cf4",
+  "key": "Kalepa|Forward Deployed Engineer - Kalepa for IT|https://job-boards.greenhouse.io/kalepa/jobs/6207800004",
+  "track": "ai",
+  "company": "Kalepa",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "$75M Series B (Nov 2026, $470M valuation); about $91M total",
+   "investors": [
+    "Updata Partners",
+    "IA Ventures",
+    "Inspired Capital"
+   ],
+   "what": "AI platform for insurance underwriting, pricing and portfolio management.",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 1,
+  "title": "Forward Deployed Engineer - Kalepa for IT",
+  "url": "https://job-boards.greenhouse.io/kalepa/jobs/6207800004",
+  "locations": [
+   "New York, NY",
+   "Kalepa HQ",
+   "Kalepa Remote"
+  ],
+  "workplace": "",
+  "posted_at": "2026-09-24T13:46:27-04:00",
+  "salary": "$213K–$314K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "About Kalepa:\n Insurance is a $7T global industry built on professional labor: underwriting, claims, pricing, operations, and distribution. Kalepa is building AI that can perform that work.\n We create professional-grade AI systems for insurers: software that can read, reason, decide, and act inside real workflows and operate over long-time horizons. Kalepa begins by augmenting professionals with the tools to succeed at their jobs. That earns us the right to learn from real decisions, capture decision traces, and automate what can be automated successfully over time.\n Our products are already in production with leading insurers, driving measurable outcomes and expanding across functions. The opportunity is far broader than any single workflow: to build the AI operating system for decision-making across insurance. For people who want to work on AI that matters, in a sector where correctness, trust, and real-world impact count, Kalepa is just getting started.\n Kalepa is backed by leading investors such as IA Ventures and Inspired Capital, and our team brings experience from Meta, Palantir, Block, Affirm, Google, Amazon, McKinsey, Mastercard, and Uber.\n Our Values (This is important):\n Our culture is shaped by everyday decisions. Our values help us make them thoughtfully and consistently, especially when tradeoffs are difficult. We learn from mistakes so our good decisions outweigh our bad ones and their benefits compound over time.\n Excellence - We take pride in our craft and expect excellent outcomes in everything we do. We set high standards, verify our work, and own the result. We make deliberate tradeoffs, including rethinking an approach, redoing work, or investing more time.\n Pursuit of the Truth - &nbsp; We seek the truth, even when it is uncomfortable. We question assumptions, give candid feedback, and change our minds when evidence warrants it. We work with customers to understand their challenges and what solving them requires.\n Ensuring Customer Success - We take responsibility for delivering results that matter to our customers. We measure success through improvements in their growth, profitability, and efficiency. We challenge our approach and customers’ requests when necessary, remaining accountable for the outcome.\n First Principles Thinking - We reason from a problem’s underlying facts, objectives, and constraints. We distinguish what is necessary from what is familiar and question assumptions that limit possible solutions. We test our reasoning against reality and address root causes with approaches that scale without unnecessary complexity.\n In addition to our NY office, we have remote employees speaking 10+ languages across the globe. But we invest in bringing our people together both for regional meetups and global offsites (2021 - Playa Del Carmen | 2022 - Rome | 2023 - Buenos Aires | 2024 - Lisbon | 2025 - Cartagena | 2026 - Tbilisi).\n Kalepa’s culture isn’t for everyone, and that’s ok. But for the people who are a fit, they can’t imagine working elsewhere.&nbsp;\n About the role: \n Salary range: $213k – $314k USD* We are seeking Forward Deployed Engineers who excel at solving hard, ambiguous problems, enjoy working directly with customers, and want to see the real-world impact of their code fast. As part of the engineering team, you'll embed directly with our customers to integrate Kalepa's software into their systems and ensure they're getting full value from the platform. This is a high-impact, customer-facing role ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "450ce83cf4",
+   "rating": "Good",
+   "reason": "A customer-facing, Series B FDE role that fits his end-to-end production ML and stakeholder work, but integrating software into insurer systems leans toward software engineering.",
+   "gap": "B2B insurance domain; integration-heavy SWE",
+   "office": "NYC office; company also has remote staff (in-office days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI platform for insurance underwriting, pricing and portfolio management."
+  }
+ },
+ {
+  "id": "3e2c58ec54",
+  "key": "Layer Health|Data Scientist|https://job-boards.greenhouse.io/layerhealth/jobs/4133040008",
+  "track": "ds",
+  "company": "Layer Health",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$21M Series A (Mar 2025); an unconfirmed second extension of about $8.5M is reported",
+   "investors": [
+    "Define Ventures",
+    "Flare Capital Partners",
+    "GV",
+    "MultiCare Capital Partners",
+    "General Catalyst",
+    "Inception Health"
+   ],
+   "what": "LLM-based medical chart review for clinical teams. Posts ML engineer roles in Boston and NYC.",
+   "verified": true,
+   "hq": "Boston, MA (also an NYC office)"
+  },
+  "vc_rank": 0,
+  "title": "Data Scientist",
+  "url": "https://job-boards.greenhouse.io/layerhealth/jobs/4133040008",
+  "locations": [
+   "Boston or NYC",
+   "Boston",
+   "New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2024-09-18T09:09:17-04:00",
+  "salary": "$180K–$200K",
+  "department": "Data Science ",
+  "degree_mention": false,
+  "description": "Layer Health was founded in 2023 by leading machine learning researchers from MIT and Harvard Medical School. We are building an AI layer that can accurately and scalably synthesize information from medical records, with the mission to reduce friction everywhere in healthcare. Our LLM-powered platform is solving chart review once and for all, across use cases. For health systems, our first product dramatically accelerates clinical registry abstraction in areas ranging from surgery and cardiology, to oncology. Our long term vision is for our AI layer to safely transform patient care and minimize unnecessary heartbreak. Layer Health’s diverse founding team brings expertise across machine learning, UI/UX, large language models, and medicine.\n Here’s a collection of articles about our product, mission, recent funding round, etc. \n Job Description \n We’re hiring an exceptional data scientist to join our team (Boston or NYC office). In this role, you will be responsible for advancing our applied ML and data science capabilities for healthcare.&nbsp;\n You can expect to: \n Develop, validate, and measure the impact of large language model (LLM) and other ML-based approaches for chart abstraction from both unstructured and structured healthcare data.\n Apply and rigorously evaluate cutting-edge methods to solve real clinical problems.\n Work hand-in-hand with our customers to best leverage Layer Health’s platform and supercharge their workflows.&nbsp;\n Stay up-to-date on the latest in applied NLP and generative AI techniques and proactively explore these technologies where applicable.\n Establish and enforce best practices for data science and analytics.\n Cultivate and foster a robust and thoughtful data science and product culture that drives the company forward.\n We look for: \n 5-7+ years of professional experience as a data scientist working for a company with major ML dependencies.\n At least 3-4 years of healthcare / clinical applications experience.\n A solid foundation of ML/methods.\n Fluent programming skills in Python, and fluency with modern data science and ML/NLP libraries (PyTorch, Tensorflow, HuggingFace, etc.).&nbsp;\n Deep fluency and instincts for data manipulation, treatment, and evaluation, with the ability to wrangle large, complex datasets efficiently and methodically.\n Familiarity with modern applied LLM techniques and their practical implementations (any experience using these techniques is a bonus).\n Proactive mindset to identify and solve problems, continuously improving our data science capabilities.\n A strong communicator who thrives in a customer-focused, fast-paced environment.\n An excited and adaptable team player who wants to disrupt the healthcare industry with AI/ML, alongside an awesome team.&nbsp;\n We are a Boston-based company, and expect engineers to meet regularly in-person in Boston (engineers from Boston, NYC, or east coast are welcome).\n Expected compensation range for this role is $180,000 - 200,000. Compensation is dependent on experience, overall fit to our role, and candidate location. Expected compensation ranges for this role may change over time. If your compensation requirement is greater than our posted salary ranges, please still consider applying to our role. We will make a determination as to whether an exception can be made.&nbsp; \n If you are excited about this role, we encourage you to apply even if you don't feel that you meet every single requirement. We're eager to meet people that believe in o",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "3e2c58ec54",
+   "rating": "Stretch",
+   "reason": "Applied DS at a Series A with customer-facing evaluation work, but the core is LLM/NLP extraction on clinical data, unlike his tabular consumer LTV/experimentation work.",
+   "gap": "requires 3-4 yrs healthcare; LLM/NLP heavy",
+   "office": "Hybrid; regular in-person meetings in Boston (Boston/NYC office)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "LLM-based medical chart review for clinical teams. Posts ML engineer roles in Boston and NYC."
+  }
+ },
+ {
+  "id": "c4b42fd69d",
+  "key": "Layer Health|Forward Deployed Data Scientist|https://job-boards.greenhouse.io/layerhealth/jobs/5392521008",
+  "track": "ai",
+  "company": "Layer Health",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$21M Series A (Mar 2025); an unconfirmed second extension of about $8.5M is reported",
+   "investors": [
+    "Define Ventures",
+    "Flare Capital Partners",
+    "GV",
+    "MultiCare Capital Partners",
+    "General Catalyst",
+    "Inception Health"
+   ],
+   "what": "LLM-based medical chart review for clinical teams. Posts ML engineer roles in Boston and NYC.",
+   "verified": true,
+   "hq": "Boston, MA (also an NYC office)"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed Data Scientist",
+  "url": "https://job-boards.greenhouse.io/layerhealth/jobs/5392521008",
+  "locations": [
+   "Boston or NYC",
+   "Boston",
+   "New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2026-08-17T09:07:44-04:00",
+  "salary": "$150K–$180K",
+  "department": "Data Science ",
+  "degree_mention": false,
+  "description": "Layer Health was founded in 2023 by leading machine learning researchers from MIT and Harvard Medical School. We are building an AI layer that can accurately and scalably synthesize information from medical records, with the mission to reduce friction everywhere in healthcare. Our LLM-powered platform is solving chart review once and for all, across use cases. For health systems, our first product dramatically accelerates clinical registry abstraction in areas ranging from surgery and cardiology, to oncology. Our long term vision is for our AI layer to safely transform patient care and minimize unnecessary heartbreak. Layer Health’s diverse founding team brings expertise across machine learning, UI/UX, large language models, and medicine.\n Here’s a collection of articles about our product, mission, recent funding round, etc. \n Job Description \n We’re hiring our first Forward Deploy Data Scientist. You’ll work directly with customers and internal teams to translate messy healthcare data into actionable insights and machine learning–ready pipelines. You’ll work hand-in-hand with our world-class ML and broader engineering team, as well as our product and customer success teams.\n You’ll partner with our health systems &amp; hospital IT/data teams, as well as internal Customer Success Managers, product managers and software engineers to validate data pipelines, share insights, and ensure our solutions deliver measurable value in clinical and operational workflows. This is a hands-on, high-impact role—ideal for someone who loves working with data, solving ambiguous problems, and collaborating across technical and non-technical stakeholders.\n What you'll do: \n Partner directly with health systems and hospital customers to understand their data, workflows, and goals, sharing data insights that enable our customers to understand our product value and areas of opportunity.\n Design and execute data and ML investigations— validating, and transforming large structured and unstructured healthcare datasets with state of the art models to ensure accuracy and trustworthiness.\n Deploy, build, and operationalize ML and LLM-based models and analytics pipelines in collaboration with the broader engineering and product teams.\n Work hand-in-hand with customer success and product teams to understand and improve user engagement through data-driven analyses.\n Communicate results and insights clearly to technical, product, and clinical stakeholders.\n Build reusable playbooks, tools, and best practices to accelerate future implementations and improve customer outcomes.\n Stay current on emerging ML, NLP, and healthcare data technologies and proactively apply them to real-world clinical problems.\n Contribute to a culture of collaboration, innovation, and rigor across the data science and product teams.\n We look for: \n 2-3 years of professional experience in data science (a proven track record of successful projects in healthcare or clinical applications is a bonus, but not required).\n A strong communicator who thrives in a customer-focused, fast-paced environment - must be comfortable presenting to external customers and have a partnered/strategic mindset.\n Strong programming skills in Python, and fluency with modern data science and ML/NLP libraries (PyTorch, Tensorflow, HuggingFace, etc.).&nbsp;\n Experience with ML Ops tools (Airflow, MLflow, dbt, Docker, or cloud ML platforms).\n Familiarity with modern applied LLM techniques and their practical implementations (a",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "c4b42fd69d",
+   "rating": "Strong",
+   "reason": "First forward-deployed DS at a Series A company: customer data framing, ML/LLM pipelines, dbt/Docker MLOps and measuring value all match his production DS experience.",
+   "gap": "healthcare domain; NLP/LLM tooling (PyTorch/HuggingFace)",
+   "office": "Boston or NYC (in-office expectation not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "LLM-based medical chart review for clinical teams. Posts ML engineer roles in Boston and NYC."
+  }
+ },
+ {
+  "id": "56c44eebf9",
+  "key": "Layer Health|Machine Learning Engineer|https://job-boards.greenhouse.io/layerhealth/jobs/4915887008",
+  "track": "ds",
+  "company": "Layer Health",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$21M Series A (Mar 2025); an unconfirmed second extension of about $8.5M is reported",
+   "investors": [
+    "Define Ventures",
+    "Flare Capital Partners",
+    "GV",
+    "MultiCare Capital Partners",
+    "General Catalyst",
+    "Inception Health"
+   ],
+   "what": "LLM-based medical chart review for clinical teams. Posts ML engineer roles in Boston and NYC.",
+   "verified": true,
+   "hq": "Boston, MA (also an NYC office)"
+  },
+  "vc_rank": 0,
+  "title": "Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/layerhealth/jobs/4915887008",
+  "locations": [
+   "Boston or NYC",
+   "Boston",
+   "New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2025-09-10T08:28:47-04:00",
+  "salary": "$210K–$250K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "About us: \n Layer Health was founded in 2023 by leading machine learning researchers from MIT and Harvard Medical School. We are building an AI layer that can accurately and scalably synthesize information from medical records, with the mission to reduce friction everywhere in healthcare. Our LLM-powered platform is solving chart review once and for all, across use cases. For health systems, our first product dramatically accelerates clinical registry abstraction in areas ranging from surgery and cardiology, to oncology. Our long term vision is for our AI layer to safely transform patient care and minimize unnecessary heartbreak. Layer Health’s diverse founding team brings expertise across machine learning, UI/UX, large language models, and medicine.\n We’re seeking outstanding hires to join our team as early members. This is an opportunity to contribute to a high-impact, collaborative, mission-driven team, and help define the next stage of growth for Layer Health. Together, we will create the AI layer that will redefine healthcare for the better.\n We’re hiring an exceptional ML Engineer to join our team (Boston or NYC office). In this role, you will design, develop, and deploy scalable ML software systems to address large-scale challenges in healthcare. You will work closely with our software engineers, research scientists, and product teams to build ML-native enterprise platforms, ensuring scalability, efficiency, and reliability.\n Here’s a collection of articles about our product, mission, recent funding round, etc. \n &nbsp;\n You can expect to: \n Translate start-of-the-art LLM research (both internally developed and from the community) into production, delivering value for our customers.\n Work with complex, large-scale, real-world clinical data (both structured and unstructured data) in a cloud-based environment.\n Develop methods and features to ensure high-quality results for our production models (methods to detect drift/performance degradation; develop observability tooling for performance characteristics, etc.).\n Collaborate with the broader product, engineering, and research teams to improve our products and build the next-generation of ML for healthcare.\n Ensure robust monitoring, logging, and error handling for deployed systems.\n Stay updated on the latest advancements in machine learning and AI.\n Cultivate a robust ML engineering and product culture that drives the company forward.\n We look for: \n 5-7+ years of experience in backend and cloud platform software development, with the ability and flexibility to traverse the stack when necessary.\n Fluency in one or more backend programming languages including Python, Golang, Rust, Java (we use Python).\n Familiarity with modern ML/LLM techniques and frameworks.\n Bachelor’s degree in Computer Science, Engineering, Mathematics, or related field.\n Experience in 0-to-1 development of end-to-end ML systems (design, training, inference, deployment, and monitoring; bonus if involving LLMs). - this is a bonus and not a requirement\n Experience developing and maintaining performant, scalable, and data-centric enterprise software products.\n Strong problem-solving skills and attention to detail.\n Excellent communication skills, with the ability to articulate complex technical concepts to non-technical stakeholders.&nbsp;\n An excited and adaptable team player who wants to disrupt the healthcare industry with AI/ML, alongside an awesome team, in a customer-focused and fast-paced environment.&nbs",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "56c44eebf9",
+   "rating": "Stretch",
+   "reason": "Overlaps with his production ML ownership, drift monitoring and Docker/Kubernetes, but the role requires 5-7+ years of backend/cloud SWE to put LLM research into production.",
+   "gap": "backend SWE-heavy; LLM productionization; healthcare",
+   "office": "Boston or NYC office (in-person cadence not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "LLM-based medical chart review for clinical teams. Posts ML engineer roles in Boston and NYC."
+  }
+ },
+ {
+  "id": "8cb290d231",
+  "key": "Layer Health|ML Scientist|https://job-boards.greenhouse.io/layerhealth/jobs/4408712008",
+  "track": "ds",
+  "company": "Layer Health",
+  "company_meta": {
+   "stage": "Series A",
+   "raised": "$21M Series A (Mar 2025); an unconfirmed second extension of about $8.5M is reported",
+   "investors": [
+    "Define Ventures",
+    "Flare Capital Partners",
+    "GV",
+    "MultiCare Capital Partners",
+    "General Catalyst",
+    "Inception Health"
+   ],
+   "what": "LLM-based medical chart review for clinical teams. Posts ML engineer roles in Boston and NYC.",
+   "verified": true,
+   "hq": "Boston, MA (also an NYC office)"
+  },
+  "vc_rank": 0,
+  "title": "ML Scientist",
+  "url": "https://job-boards.greenhouse.io/layerhealth/jobs/4408712008",
+  "locations": [
+   "Boston or NYC",
+   "Boston",
+   "New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2024-11-19T11:27:34-05:00",
+  "salary": "$200K–$250K",
+  "department": "Engineering",
+  "degree_mention": true,
+  "description": "Layer Health was founded in 2023 by leading machine learning researchers from MIT and Harvard Medical School. We are building an AI layer that can accurately and scalably synthesize information from medical records, with the mission to reduce friction everywhere in healthcare. Our LLM-powered platform is solving chart review once and for all, across use cases. For health systems, our first product dramatically accelerates clinical registry abstraction in areas ranging from surgery and cardiology, to oncology. Our long term vision is for our AI layer to safely transform patient care and minimize unnecessary heartbreak. Layer Health’s diverse founding team brings expertise across machine learning, UI/UX, large language models, and medicine.\n We’re seeking outstanding hires to join our team as early members. This is an opportunity to contribute to a high-impact, collaborative, mission-driven team, and help define the next stage of growth for Layer Health. Together, we will create the AI layer that will redefine healthcare for the better.\n Here’s a collection of articles about our product, mission, recent funding round, etc. \n &nbsp;\n J ob Description \n We’re hiring an exceptional ML scientist. In this role, you will be responsible for pioneering innovative machine learning techniques to advance our fundamental clinical machine learning and large language model efforts.\n You can expect to: \n Design and implement state-of-the-art machine learning techniques to advance Layer Health’s research agenda (in areas such as information extraction, multimodal reasoning, and summarization).\n Propose new agentic methods that tackle fundamental NLP and ML challenges such as modeling over multiple documents, long contexts, multiple modalities, and with limited or noisy labels&nbsp;&nbsp;\n Build foundation models to power the future of clinical information extraction &amp; synthesis, from training through inference.&nbsp;\n Stay up-to-date and actively engage with cutting-edge research in NLP, generative AI, and clinical machine learning.\n Collaborate with the broader engineering team to ship performant products that meet user needs.\n Cultivate and foster a robust and thoughtful R&amp;D culture that drives the company forward.\n We look for: \n Exceptional methodological research background and experience, including but not limited to:\n A PhD in computer science/applied mathematics or equivalent research experience, specializing in natural language processing and machine learning.\n High-impact, early-author publications at top peer-reviewed ML journals/conferences.\n Demonstrated record of delivering real-world impact from start to finish– with the ability to design, develop, and ship innovations.\n Strong programming skills and fluency with modern machine learning/LLM stacks (deep learning libraries e.g. PyTorch, Jax).\n Past experience in training/inference of foundation models (billions of parameters, distributed training, familiarity with state-of-the-art techniques).\n A strong communicator who thrives in a customer-focused, fast-paced environment.\n An excited and adaptable team player who wants to disrupt the healthcare industry with AI/ML, alongside an awesome team.&nbsp;\n Past experience in healthcare of life sciences is a plus, but not required.\n We are a Boston-based company, and expect employees to meet regularly in-person in Boston (employees from Boston, NYC, or east coast are welcome).\n &nbsp;\n Expected compensation range for this role is $200,000-",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "8cb290d231",
+   "rating": "Stretch",
+   "reason": "Research role building clinical NLP foundation models. It has little overlap with his tabular LTV, churn and experimentation work.",
+   "gap": "requires PhD or equivalent research; LLM research",
+   "office": "Regular in-person meetings in Boston (Boston/NYC/East Coast welcome)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "LLM-based medical chart review for clinical teams. Posts ML engineer roles in Boston and NYC."
+  }
+ }
+]

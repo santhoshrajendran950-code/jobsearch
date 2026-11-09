@@ -3199,3 +3199,38 @@
   verified: false
   source: discover 2026-11-02
   nyc_office: true
+
+# ── auto-discovered 2026-11-09 ──
+- name: Kalepa
+  ats: greenhouse
+  slug: kalepa
+  stage: Series B
+  raised: $75M Series B (Nov 2026, $470M valuation); about $91M total
+  investors:
+  - Updata Partners
+  - IA Ventures
+  - Inspired Capital
+  hq: New York, NY
+  what: AI platform for insurance underwriting, pricing and portfolio management.
+  verified: true
+  source: discover 2026-11-09
+  nyc_office: true
+- name: Layer Health
+  ats: greenhouse
+  slug: layerhealth
+  stage: Series A
+  raised: $21M Series A (Mar 2025); an unconfirmed second extension of about $8.5M
+    is reported
+  investors:
+  - Define Ventures
+  - Flare Capital Partners
+  - GV
+  - MultiCare Capital Partners
+  - General Catalyst
+  - Inception Health
+  hq: Boston, MA (also an NYC office)
+  what: LLM-based medical chart review for clinical teams. Posts ML engineer roles
+    in Boston and NYC.
+  verified: true
+  source: discover 2026-11-09
+  nyc_office: true
