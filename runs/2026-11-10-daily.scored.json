@@ -1,0 +1,90 @@
+[
+ {
+  "id": "55af8491af",
+  "key": "Altana|Staff Machine Learning Engineer|https://job-boards.greenhouse.io/altanaai/jobs/8199557003",
+  "track": "ds",
+  "company": "Altana",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$322M",
+   "investors": [
+    "US Innovative Technology Fund",
+    "Activate Capital",
+    "GV",
+    "OMERS Ventures"
+   ],
+   "what": "AI value-chain management / supply-chain intelligence platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Staff Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/altanaai/jobs/8199557003",
+  "locations": [
+   "Brooklyn, NY",
+   "Brooklyn, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-09T16:10:55-05:00",
+  "salary": "$205K–$240K",
+  "department": "Machine Learning",
+  "degree_mention": true,
+  "description": "Altana is the network for trusted trade. Our AI-powered product network empowers governments and businesses to build a more resilient and secure global economy while keeping trade flowing.\n The Opportunity at Altana\n We're looking for a Senior Staff Machine Learning Engineer to lead the AI behind Altana Nexus, our agentic platform for global trade. You'll work on a continuous stream of public and proprietary trade data (shipments, customs filings, trade documents), and build the models and AI agents that turn it into real-time decisions on risk, compliance and enforcement for governments and the world's largest companies.\n Your Responsibilities&nbsp;\n Drive the technical direction for agentic systems. Define the architecture and roadmap for the models and agentic systems that process trade data as it arrives (shipments, customs declarations, invoices, bills of lading) and turn it into risk, classification and compliance decisions in real time.\n Build the pipeline from ingestion to decision. Lead the design of reliable, cost-efficient systems for ingestion, document understanding, entity resolution, inference and routing across models, at the scale of global trade.\n Adapt models to trade. Use analyst feedback, production outcomes and agent traces to fine-tune and post-train models (SFT, DPO, RL with domain graders) where it measurably beats prompting, and keep every model improving over time.\n Design the observability and feedback stack. Build the evals, tracing and feedback loops that decide what ships and catch regressions in production.\n Lead beyond your team. Mentor senior engineers, raise the technical bar across Engineering, and help shape how we hire and level ML talent.\n Shape the product and the business. Work with software engineers, data scientists, product managers and customers to generate new business ideas and turn ambiguous problems into shipped capabilities.\n About You\n BS/MS in Computer Science, Machine Learning, or a related field, or equivalent experience\n 8+ years building and shipping ML systems in production, with a proven track record of delivering product-oriented ML solutions, including recent work on LLM-powered products\n Deep expertise in PyTorch and the modern Python ML stack (Hugging Face, scikit-learn, NumPy, Pandas/Polars)\n Hands-on experience building production LLM applications: retrieval-augmented generation (RAG), tool/function calling, structured outputs, and agentic workflows\n You've shipped agentic systems in production and know their failure modes: tool use, planning, state, recovery and human-in-the-loop\n Experience post-training or adapting LLMs (SFT, DPO, RLHF/RLAIF, reward modeling) for a production use case\n Rigorous about evaluation: you've built eval suites, golden datasets and LLM-as-judge pipelines\n Sound judgment on when to use a frontier model API, a fine-tuned open-weight model, or a classical ML model, balancing cost, latency, and accuracy\n Passionate about applying SOTA techniques to real-world problems, with a willingness to get your hands dirty in the data and domain to achieve measurable outcomes\n You care deeply about engineering excellence, supportability and knowledge-sharing\n You have strong written and verbal communication skills\n Heavy user of AI coding tools (Cursor, Claude Code) in your daily workflow\n Nice to have, but not required \n Building multi-agent systems and agent tooling (e.g., LangGraph)\n Hybrid retrieval: vector search, re-rankers, and embedding fine-tuning\n Vis",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "55af8491af",
+   "rating": "Stretch",
+   "reason": "Agentic LLM systems over trade documents; his production ML pipelines and Docker/Kubernetes experience fit, but he has no LLM post-training, RAG, or PyTorch work.",
+   "gap": "LLM/agentic-heavy, 8+ yrs, B2B/gov",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI value-chain management / supply-chain intelligence platform"
+  }
+ },
+ {
+  "id": "539bba0774",
+  "key": "Altana|Senior Staff Machine Learning Engineer|https://job-boards.greenhouse.io/altanaai/jobs/8199544003",
+  "track": "ds",
+  "company": "Altana",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$322M",
+   "investors": [
+    "US Innovative Technology Fund",
+    "Activate Capital",
+    "GV",
+    "OMERS Ventures"
+   ],
+   "what": "AI value-chain management / supply-chain intelligence platform",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Senior Staff Machine Learning Engineer",
+  "url": "https://job-boards.greenhouse.io/altanaai/jobs/8199544003",
+  "locations": [
+   "Brooklyn, NY",
+   "Brooklyn, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-09T16:08:53-05:00",
+  "salary": "$250K–$295K",
+  "department": "Machine Learning",
+  "degree_mention": true,
+  "description": "Altana is the network for trusted trade. Our AI-powered product network empowers governments and businesses to build a more resilient and secure global economy while keeping trade flowing.\n The Opportunity at Altana\n We're looking for a Senior Staff Machine Learning Engineer to lead the AI behind Altana Nexus, our agentic platform for global trade. You'll work on a continuous stream of public and proprietary trade data (shipments, customs filings, trade documents), and build the models and AI agents that turn it into real-time decisions on risk, compliance and enforcement for governments and the world's largest companies.\n &nbsp;\n Your Responsibilities&nbsp;\n Drive the technical direction for agentic systems. Define the architecture and roadmap for the models and agentic systems that process trade data as it arrives (shipments, customs declarations, invoices, bills of lading) and turn it into risk, classification and compliance decisions in real time.\n Build the pipeline from ingestion to decision. Lead the design of reliable, cost-efficient systems for ingestion, document understanding, entity resolution, inference and routing across models, at the scale of global trade.\n Adapt models to trade. Use analyst feedback, production outcomes and agent traces to fine-tune and post-train models (SFT, DPO, RL with domain graders) where it measurably beats prompting, and keep every model improving over time.\n Design the observability and feedback stack. Build the evals, tracing and feedback loops that decide what ships and catch regressions in production.\n Lead beyond your team. Mentor senior engineers, raise the technical bar across Engineering, and help shape how we hire and level ML talent.\n Shape the product and the business. Work with software engineers, data scientists, product managers and customers to generate new business ideas and turn ambiguous problems into shipped capabilities.\n About You\n BS/MS in Computer Science, Machine Learning, or a related field, or equivalent experience\n 10+ years building and shipping ML systems in production, with a proven track record of delivering product-oriented ML solutions, including recent work on LLM-powered products\n Deep expertise in PyTorch and the modern Python ML stack (Hugging Face, scikit-learn, NumPy, Pandas/Polars)\n Hands-on experience building production LLM applications: retrieval-augmented generation (RAG), tool/function calling, structured outputs, and agentic workflows\n You've shipped agentic systems in production and know their failure modes: tool use, planning, state, recovery and human-in-the-loop\n Experience post-training or adapting LLMs (SFT, DPO, RLHF/RLAIF, reward modeling) for a production use case\n Rigorous about evaluation: you've built eval suites, golden datasets and LLM-as-judge pipelines\n Sound judgment on when to use a frontier model API, a fine-tuned open-weight model, or a classical ML model, balancing cost, latency, and accuracy\n Senior Staff-level technical leadership: you set architecture direction across teams, mentor engineers, and turn ambiguous problems into roadmaps\n Passionate about applying SOTA techniques to real-world problems, with a willingness to get your hands dirty in the data and domain to achieve measurable outcomes\n You care deeply about engineering excellence, supportability and knowledge-sharing\n You have strong written and verbal communication skills\n Heavy user of AI coding tools (Cursor, Claude Code) in your daily workflow\n Nice to have, but ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "539bba0774",
+   "rating": "Stretch",
+   "reason": "Senior Staff LLM/agentic architecture role needing 10+ years and post-training expertise; he has about 4.5 years of tabular production ML.",
+   "gap": "10+ yrs, LLM post-training, B2B/gov",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI value-chain management / supply-chain intelligence platform"
+  }
+ }
+]

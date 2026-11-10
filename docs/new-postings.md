@@ -4,6 +4,13 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Tue Nov 10, 2026 — 2 new roles (0 strong · 0 good · 2 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Stretch | [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/altanaai/jobs/8199557003) | Altana<br><sub>AI value-chain management / supply-chain intelligence platform</sub> | Series C, $322M<br><sub>US Innovative Technology Fund, Activate Capital, GV, OMERS Ventures</sub> |  | Nov 9 | $205K–$240K | Agentic LLM systems over trade documents; his production ML pipelines and Docker/Kubernetes experience fit, but he has no LLM post-training, RAG, or PyTorch work. **Gap:** LLM/agentic-heavy, 8+ yrs, B2B/gov |
+| 2 | Stretch | [Senior Staff Machine Learning Engineer](https://job-boards.greenhouse.io/altanaai/jobs/8199544003) | Altana<br><sub>AI value-chain management / supply-chain intelligence platform</sub> | Series C, $322M<br><sub>US Innovative Technology Fund, Activate Capital, GV, OMERS Ventures</sub> |  | Nov 9 | $250K–$295K | Senior Staff LLM/agentic architecture role needing 10+ years and post-training expertise; he has about 4.5 years of tabular production ML. **Gap:** 10+ yrs, LLM post-training, B2B/gov |
+
 ## Fri Nov 6, 2026 — 1 new role (0 strong · 0 good · 1 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
