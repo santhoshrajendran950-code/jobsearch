@@ -1,0 +1,131 @@
+[
+ {
+  "id": "79b496460b",
+  "key": "Snorkel AI|Staff Applied AI Engineer - Pre-Sales|https://job-boards.greenhouse.io/snorkelai/jobs/6255083004",
+  "track": "ai",
+  "company": "Snorkel AI",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "$237M",
+   "investors": [
+    "Addition",
+    "Greylock",
+    "Lightspeed",
+    "Prosperity7"
+   ],
+   "what": "AI data development / evaluation platform; NYC office",
+   "verified": true,
+   "hq": "Redwood City, CA"
+  },
+  "vc_rank": 3,
+  "title": "Staff Applied AI Engineer - Pre-Sales",
+  "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6255083004",
+  "locations": [
+   "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+   "New York City",
+   "Remote",
+   "San Francisco"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T00:32:01-05:00",
+  "salary": "$190K–$350K",
+  "department": "420 - Solutions Sales",
+  "degree_mention": false,
+  "description": "About Snorkel \n Snorkel AI is the frontier AI data lab, helping teams build the data and environments behind high-performing frontier and agentic AI. We combine technology with research-driven AI data development to create datasets, benchmarks, evals, and custom solutions for real-world AI systems. Founded out of the Stanford AI Lab in 2019, Snorkel works with leading AI labs and enterprises to move from better data to better outcomes.&nbsp; Excited to help us redefine how AI is built? Apply to be the newest Snorkeler!\n As an Applied AI Engineer (Pre-Sales) , you will partner closely with Sales and our AI Solution Practice Leaders during pre-sales engagements. You will lead technical discovery and solution scoping to identify high-value use cases, and develop tailored demos and pilots that demonstrate how modern GenAI and machine learning techniques can drive measurable business outcomes. You will also translate proposed solutions into clearly scoped, technically sound proposals and Statement of Works (SOWs) that set realistic expectations and position engagements for success, while collaborating with delivery teams during initial implementation.\n This role sits at the intersection of deep technical problem-solving and customer partnership. You will help customers unpack complex business challenges, quickly prototype solutions, and clearly communicate technical approaches to both engineering teams and senior business stakeholders. From early architecture discussions to demo development, you will play a key role in helping organizations adopt AI effectively while surfacing field insights that inform our product and research roadmap.\n Main Responsibilities\n Partner closely with Sales and our AI Solution Practice Leaders to shape technical strategy across active prospects, win technical evaluations, and ensure a seamless transition to post-sales delivery through structured handoff documentation and clear expectation alignment.\n Lead structured technical discovery engagements with prospects to understand business objectives, success criteria, data landscape, architectural constraints, security considerations, and organizational readiness.\n Translate discovery findings into well-defined GenAI solution architectures that demonstrate technical feasibility and business impact using internal frameworks, and complementary third-party technologies.\n Design, build and deliver bespoke demos, including evaluation pipelines, dataset strategy, retrieval-augmented generation systems, fine-tuning workflows, prompt engineering strategies, and agentic architectures tailored to specific customer use cases and senior business stakeholders.\n Author and contribute to custom proposals, including Statements of Work and RFP/RFI responses, ensuring scope clarity, architectural soundness, realistic effort estimates, and alignment with delivery capabilities.\n Systematically capture reusable patterns from bespoke demos and evolve them into reference architectures, demo assets, benchmarks, and internal solution playbooks.\n Annual travel up to 25%.\n Preferred Qualifications\n B.S. in Computer Science, Engineering, Math/Statistics, or equivalent experience.\n 8+ years in customer-facing technical roles (pre-sales, solutions engineering, or applied AI), including discovery, scoping, demos, proof-of-value engagements, and RFP responses.\n Hands-on Python experience and familiarity with the modern Gen AI stack -&nbsp; LLM ecosystems, RAG, vector databases, data processing, sy",
+  "already_in_pipeline": false,
+  "score": {
+   "rating": "Good",
+   "reason": "(not scored — scorer failed; review manually)",
+   "gap": "",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "what": "AI data development / evaluation platform; NYC office"
+  }
+ },
+ {
+  "id": "56207d37f4",
+  "key": "Gusto|Forward Deployed Solutions Engineer|https://job-boards.greenhouse.io/gusto/jobs/8248374",
+  "track": "ai",
+  "company": "Gusto",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$746M",
+   "investors": [
+    "Generation Investment Management",
+    "T. Rowe Price",
+    "General Catalyst"
+   ],
+   "what": "Payroll, benefits and HR platform for SMBs; large NYC office",
+   "verified": true,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "Forward Deployed Solutions Engineer",
+  "url": "https://job-boards.greenhouse.io/gusto/jobs/8248374",
+  "locations": [
+   "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "Denver, CO - Hybrid"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-04T17:22:08-05:00",
+  "salary": "$88K–$140K",
+  "department": "Customer Experience",
+  "degree_mention": false,
+  "description": "&nbsp;\n About Gusto \n At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.\n All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy .\n AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\n About the Role \n This is a highly customer-facing role at the intersection of engineering, solution architecture, agentic AI, and customer delivery. You will work directly with stakeholders and own the technical discovery for our ongoing opportunities end to end. Once a deal is qualified, you scope, build, embed with the client, and build it yourself, code that holds up against real tax and jurisdiction data, not a prototype you clean up later. What you ship only counts once the client is paying for it, it's live, and it's measurably cutting the manual work they used to do by hand, hours saved, tickets deflected, risk reduced. You should be comfortable speaking with both technical and executive stakeholders, moving quickly from problem discovery to prototype, and turning complex workflows into production-ready agents and multi-agent systems.\n Here's what you'll do day-to-day \n Scope &amp; Qualify: Give Sales a technical feasibility read early on ambiguous Enterprise opportunities, then own scoping the compliance challenge once the deal is sales-qualified.\n Define the Problem: Own requirements gathering on complex, ambiguous opportunities, scoping the problem clearly enough for Sales, Product, and Engineering to align on it.\n Prove It First: Build a working proof-of-concept of the proposed agent when a deal needs to see feasibility before committing to the full build, tailored from a hands-on integration engineer to a VP of Payroll Tax.\n Make the Business Case: Translate every deployment into the business case that justifies the subscription: hours saved, risk reduced, compliance simplified.\n Own the Build: Embed with clients and write the code yourself, work that runs their compliance decisions instead of just connecting to them. There's no fixed method yet, you figure out what each engagement needs and build it.\n Clear the Blockers: Diagnose and fix the data issues, jurisdiction mapping, tax ID reconciliation, that stand between a client and production.\n Bridge the Gap: Keep technical teams and business stakeholders aligned as requirements evolve mid-engagement, so scope changes don't blindside either side.\n Own the Handoff: Deliver the build and a runbook Client Success runs solo without the need to loop back the FDE.\n Close the Loop: Feed structured signal from both the sales motion and the build motion back into product and go-to-market strategy, including infrastructure gaps.\n Create Implementation Playbooks: solution patterns, demo flows, and deployment documentation that make future deployments faster.\n Here's what we",
+  "already_in_pipeline": false,
+  "score": {
+   "rating": "Good",
+   "reason": "(not scored — scorer failed; review manually)",
+   "gap": "",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "what": "Payroll, benefits and HR platform for SMBs; large NYC office"
+  }
+ },
+ {
+  "id": "c8601a4c0b",
+  "key": "Snorkel AI|Senior/Staff Applied AI Engineer - Enterprise AI Solutions|https://job-boards.greenhouse.io/snorkelai/jobs/6204368004",
+  "track": "ai",
+  "company": "Snorkel AI",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "$237M",
+   "investors": [
+    "Addition",
+    "Greylock",
+    "Lightspeed",
+    "Prosperity7"
+   ],
+   "what": "AI data development / evaluation platform; NYC office",
+   "verified": true,
+   "hq": "Redwood City, CA"
+  },
+  "vc_rank": 3,
+  "title": "Senior/Staff Applied AI Engineer - Enterprise AI Solutions",
+  "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6204368004",
+  "locations": [
+   "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+   "New York City",
+   "Remote",
+   "San Francisco"
+  ],
+  "workplace": "",
+  "posted_at": "2026-10-05T23:25:50-04:00",
+  "salary": "$200K–$360K",
+  "department": "220 - Solutions PS",
+  "degree_mention": false,
+  "description": "About Snorkel \n Snorkel AI is the frontier AI data lab, helping teams build the data and environments behind high-performing frontier and agentic AI. We combine technology with research-driven AI data development to create datasets, benchmarks, evals, and custom solutions for real-world AI systems. Founded out of the Stanford AI Lab in 2019, Snorkel works with leading AI labs and enterprises to move from better data to better outcomes.&nbsp; Excited to help us redefine how AI is built? Apply to be the newest Snorkeler!\n The Role\n As an Applied AI Engineer, you’ll research and utilize state-of-the-art Gen AI and machine learning (ML) techniques to successfully deliver solutions to our customers. You will work directly with our customers to understand their business and technical needs and design and deliver AI solutions to solve them. You will also help define Snorkel’s Applied AI tooling by translating repeatable real-world challenges into reusable solution recipes, workflows, best practices, and platform-level capabilities that become part of Snorkel’s next generation of AI tooling. We move fast and are constantly prototyping and innovating new ways to deliver value to our customers. This position is ideal for someone who enjoys solving complex problems, bridging the gap between AI technology and business value, working directly with customers, keeping up-to date with AI research, and standardizing bespoke solutions into internal recipes and staying naturally curious about the infrastructure that underpin the Applied AI stack end-to-end.\n Main Responsibilities\n Partner with customers to build and deploy impactful Gen AI and machine learning solutions, from use case scoping and data exploration to model development and deployment. This will involve designing custom approaches using state-of-the-art tools, with the goal of delivering real business value and informing the evolution of Snorkel’s tooling.\n Develop and implement state of the art AI systems such as retrieval-augmented generation (RAG), fine-tuning pipelines, prompt engineering recipes and agentic workflows.\n Create augmented real-world datasets and comprehensive evaluation workflows to ensure model reliability, transparency, and stakeholder trust. A data- and evaluation-first mindset is essential for success in this role.\n Forge and manage relationships with our customers’ leadership and stakeholders to ensure successful development and deployment of AI projects.\n Collaborate closely with pre-sales Solutions and Product teams to map customer needs to existing capabilities, prioritize roadmap gaps, and guide successful project setup.\n Work with other Applied AI Engineers to standardize solutions and contribute to internal tooling and best practices.\n Lead stakeholder education on quantitative capabilities, helping them to understand the strengths and weaknesses of different approaches and what problems are best-suited for Snorkel AI.\n Serve as the voice of our customers for new AI paradigms, data science workflows, and share customer feedback to product teams.\n Conduct one-to-few and one-to-many enablement workshops to transfer knowledge to customers considering or already using Snorkel AI.\n Annual travel up to 25%.\n Preferred Qualifications\n B.S. degree in a quantitative field such as Computer Science, Engineering, Mathematics, Statistics, or comparable degree/experience.\n 8+ years of customer-facing experience in the design and implementation of AI/ML solutions.\n Proficiency",
+  "already_in_pipeline": false,
+  "score": {
+   "rating": "Good",
+   "reason": "(not scored — scorer failed; review manually)",
+   "gap": "",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "what": "AI data development / evaluation platform; NYC office"
+  }
+ }
+]

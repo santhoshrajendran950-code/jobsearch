@@ -1,0 +1,37 @@
+[
+ {
+  "id": "79b496460b",
+  "key": "Snorkel AI|Staff Applied AI Engineer - Pre-Sales|https://job-boards.greenhouse.io/snorkelai/jobs/6255083004",
+  "track": "ai",
+  "company": "Snorkel AI",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "$237M",
+   "investors": [
+    "Addition",
+    "Greylock",
+    "Lightspeed",
+    "Prosperity7"
+   ],
+   "what": "AI data development / evaluation platform; NYC office",
+   "verified": true,
+   "hq": "Redwood City, CA"
+  },
+  "vc_rank": 3,
+  "title": "Staff Applied AI Engineer - Pre-Sales",
+  "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6255083004",
+  "locations": [
+   "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+   "New York City",
+   "Remote",
+   "San Francisco"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T00:32:01-05:00",
+  "salary": "$190K–$350K",
+  "department": "420 - Solutions Sales",
+  "degree_mention": false,
+  "description": "About Snorkel \n Snorkel AI is the frontier AI data lab, helping teams build the data and environments behind high-performing frontier and agentic AI. We combine technology with research-driven AI data development to create datasets, benchmarks, evals, and custom solutions for real-world AI systems. Founded out of the Stanford AI Lab in 2019, Snorkel works with leading AI labs and enterprises to move from better data to better outcomes.&nbsp; Excited to help us redefine how AI is built? Apply to be the newest Snorkeler!\n As an Applied AI Engineer (Pre-Sales) , you will partner closely with Sales and our AI Solution Practice Leaders during pre-sales engagements. You will lead technical discovery and solution scoping to identify high-value use cases, and develop tailored demos and pilots that demonstrate how modern GenAI and machine learning techniques can drive measurable business outcomes. You will also translate proposed solutions into clearly scoped, technically sound proposals and Statement of Works (SOWs) that set realistic expectations and position engagements for success, while collaborating with delivery teams during initial implementation.\n This role sits at the intersection of deep technical problem-solving and customer partnership. You will help customers unpack complex business challenges, quickly prototype solutions, and clearly communicate technical approaches to both engineering teams and senior business stakeholders. From early architecture discussions to demo development, you will play a key role in helping organizations adopt AI effectively while surfacing field insights that inform our product and research roadmap.\n Main Responsibilities\n Partner closely with Sales and our AI Solution Practice Leaders to shape technical strategy across active prospects, win technical evaluations, and ensure a seamless transition to post-sales delivery through structured handoff documentation and clear expectation alignment.\n Lead structured technical discovery engagements with prospects to understand business objectives, success criteria, data landscape, architectural constraints, security considerations, and organizational readiness.\n Translate discovery findings into well-defined GenAI solution architectures that demonstrate technical feasibility and business impact using internal frameworks, and complementary third-party technologies.\n Design, build and deliver bespoke demos, including evaluation pipelines, dataset strategy, retrieval-augmented generation systems, fine-tuning workflows, prompt engineering strategies, and agentic architectures tailored to specific customer use cases and senior business stakeholders.\n Author and contribute to custom proposals, including Statements of Work and RFP/RFI responses, ensuring scope clarity, architectural soundness, realistic effort estimates, and alignment with delivery capabilities.\n Systematically capture reusable patterns from bespoke demos and evolve them into reference architectures, demo assets, benchmarks, and internal solution playbooks.\n Annual travel up to 25%.\n Preferred Qualifications\n B.S. in Computer Science, Engineering, Math/Statistics, or equivalent experience.\n 8+ years in customer-facing technical roles (pre-sales, solutions engineering, or applied AI), including discovery, scoping, demos, proof-of-value engagements, and RFP responses.\n Hands-on Python experience and familiarity with the modern Gen AI stack -&nbsp; LLM ecosystems, RAG, vector databases, data processing, sy",
+  "already_in_pipeline": false
+ }
+]
