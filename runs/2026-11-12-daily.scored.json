@@ -1,0 +1,171 @@
+[
+ {
+  "id": "2001c82de4",
+  "key": "Justworks|Senior Data Scientist - Advanced Analytics|https://boards.greenhouse.io/justworks/jobs/8375411?gh_jid=8375411",
+  "track": "ds",
+  "company": "Justworks",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$150M",
+   "investors": [
+    "Union Square Ventures",
+    "FirstMark",
+    "Bain Capital Ventures"
+   ],
+   "what": "PEO/HR, payroll and benefits platform for SMBs",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Senior Data Scientist - Advanced Analytics",
+  "url": "https://boards.greenhouse.io/justworks/jobs/8375411?gh_jid=8375411",
+  "locations": [
+   "New York, New York",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T15:50:58-05:00",
+  "salary": "$166K–$214K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "Who We Are \n At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. \n We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We’re data-driven and never stop iterating. If you’d like to work in a supportive, entrepreneurial environment, are interested in building something meaningful and having fun while doing it, we’d love to hear from you. \n We're united by shared goals and shared motivations at Justworks. These are best summed up in our company values, which are reflected in our product and in our team. \n Our Values \n If this sounds like you, you’ll fit right in. \n Department \n Technology, Data &amp; Analytics Team\n Who You Are \n You're an experienced data scientist who gets excited about understanding how customers interact with a product – and using that understanding to help teams make smarter decisions. You're a trusted data storyteller: you can write a tight SQL query, design a rigorous experiment, and then turn those findings into a narrative that moves a roadmap. You believe that the best data science work accelerates learning, improves decision making, and ultimately drives measurable impact for customers and the business.\n Justworks is looking for a Senior Data Scientist to join our Product Analytics group within the Data &amp; Analytics team. You'll partner across Product, Engineering, Design, Finance, Marketing, and Revenue to define success metrics, run experiments, size opportunities, and build a data-informed approach to how we grow and improve our product.\n Your Success Profile \n What You Will Work On \n Lead end-to-end analytics projects, from defining metrics to analyzing data and delivering insights\n Partner with product leaders to define and measure goal metrics\n Design and analyze A/B tests, quasi-experiments, and causal analyses to measure the impact of product changes and help teams understand not just if something worked, but why \n Accelerate product learning cycles through frameworks for experimentation, measurement, and iteration so teams can move faster without sacrificing rigor\n Analyze strategic opportunities to inform roadmap prioritization\n Build compelling narratives from complex data, presenting findings in ways that influence decisions with both technical and non-technical audiences, from product pods to senior leadership\n Identify friction and opportunity across the customer lifecycle, from onboarding flows to feature adoption to retention signals, and translate what you find into actionable strategies\n Develop and apply AI-assisted approaches to analysis, insight delivery, and data workflows to multiply your impact and expand the reach of data science across the organization\n Partner with data engineering and analytics engineering to improve data foundations, instrument key events, and ensure the right data exists to answer the questions product teams are asking\n Perform other related responsibilities as needed based on department and/or organizational needs.\n How You Will Do Your Work \n In the Data Scientist role, how results are achieved is paramount for your success and ultimately result in our success as an organization. In this role, your foundational knowledge, skills, abilities and personal attributes are anchored in the",
+  "already_in_pipeline": false,
+  "score": {
+   "rating": "Good",
+   "reason": "(not scored — scorer failed; review manually)",
+   "gap": "",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "what": "PEO/HR, payroll and benefits platform for SMBs"
+  }
+ },
+ {
+  "id": "a7b1be7ce7",
+  "key": "Judi Health|Forward Deployed Engineer|https://job-boards.greenhouse.io/judihealth/jobs/5477699008",
+  "track": "ai",
+  "company": "Judi Health",
+  "company_meta": {
+   "stage": "Series F",
+   "raised": "$607M",
+   "investors": [
+    "Wellington Management",
+    "General Catalyst",
+    "Goldman Sachs Growth"
+   ],
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Forward Deployed Engineer",
+  "url": "https://job-boards.greenhouse.io/judihealth/jobs/5477699008",
+  "locations": [
+   "New York, New York, United States",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T14:52:07-05:00",
+  "salary": null,
+  "department": "Finance",
+  "degree_mention": false,
+  "description": "About Judi Health \n Judi Health is a health technology company providing benefit administration solutions to employers, unions, health plans, and government entities. Judi Health replaces fragmented, outdated systems with the industry's first Unified Claims Processing™ architecture, seamlessly consolidating pharmacy and medical benefit administration on a single, secure platform. By delivering true price transparency, eliminating unnecessary middleman fees, and leveraging advanced AI-powered care delivery, Judi Health helps clients achieve unprecedented operational efficiency and service levels. At Judi Health, we're deploying the infrastructure our country needs to deliver the healthcare we all deserve. We are the intelligence platform powering benefits plans for millions of Americans and proudly leading the next generation of care. To learn more, visit www.judi.health .\n Location: New York City, NY (hybrid)\n Position Summary \n The Forward Deployed Engineer is a developing-to-proficient technical professional who partners directly with business teams to design, build, and deliver AI agents, automations, integrations, and internal applications that solve operational problems. The role independently owns defined low- and medium-complexity use cases with guidance available for unfamiliar, high-risk, or technically complex decisions, and contributes technical expertise and business judgment to the organization's most complex initiatives. The Forward Deployed Engineer applies strong capabilities across applied AI, business technology, automation, and solution delivery to translate business needs into scalable, secure, and reusable solutions. The role works with senior team members and the AI Deployment Engineer to support production readiness and controlled deployment, while considering how each solution could serve additional functions or evolve into a client-facing capability.\n Position Responsibilities: \n Business Partnership and Solution Design: Partner with business leaders and stakeholders to identify high-value opportunities, analyze workflows and pain points, and translate business needs into technical requirements and scalable solution designs for AI agents, automations, integrations, and internal applications.\n End-to-End Use Case Ownership: Independently own defined low- and medium-complexity use cases from discovery through design, development, testing, implementation, and adoption, with guidance available for unfamiliar, high-risk, or technically complex decisions.\n Complex Initiative Contribution: Partner with senior team members and the broader team on the organization's most complex use cases, contributing technical expertise, business judgment, and implementation support, and leading defined workstreams or components within larger initiatives.\n AI-Accelerated Development: Use AI agents and agentic coding tools to accelerate analysis and development, while critically evaluating outputs and applying appropriate standards for security, data privacy, quality, maintainability, and documentation.\n Scalability and Enterprise Value: Design solutions for scalability and reuse, identifying how capabilities could extend to other functions, support broader enterprise needs, or evolve into client-facing products.\n Implementation and Adoption: Support implementation, stakeholder enablement, user adoption, and value measurement; partner with the AI Deployment Engineer and relevant technology teams on production deployment, integrations, m",
+  "already_in_pipeline": false,
+  "score": {
+   "rating": "Good",
+   "reason": "(not scored — scorer failed; review manually)",
+   "gap": "",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)"
+  }
+ },
+ {
+  "id": "8a626d0465",
+  "key": "Fora|Data Scientist|https://www.foratravel.com/careers/jobs?gh_jid=5479050008",
+  "track": "ds",
+  "company": "Fora",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "unverified total ($60M Series D in 2026, per posting)",
+   "investors": [
+    "Forerunner",
+    "Tactile Ventures",
+    "Thrive",
+    "Insight",
+    "Heartcore"
+   ],
+   "what": "Modern travel-agency platform for independent travel advisors",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Data Scientist",
+  "url": "https://www.foratravel.com/careers/jobs?gh_jid=5479050008",
+  "locations": [
+   "New York City",
+   "New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T10:20:29-05:00",
+  "salary": "$158K–$239K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "About Fora \n Fora is the modern travel agency, empowering the next generation of entrepreneurs to build thriving travel advisory businesses. We're modernizing the $100B+ travel industry with AI woven through every part of the advisor's workflow, plus global supplier relationships, personalized training, and a vibrant community, all in one place. That's what lets advisors build businesses that scale, while their taste and service create trips no algorithm alone could plan. At the heart of it all is our mission: to help the next generation of travel entrepreneurs turn their love for travel into a fulfilling career, whether full-time or part-time. \n We're mission-driven and obsessed with our customers, and we believe humans and AI are both essential: the best work here comes from people and technology at their best, together. That's not just a philosophy about our product, it's how we build our team. Everyone at Fora gets hands-on with frontier AI tooling as part of the job. At Fora, you'll learn to be AI-fluent, with real experience applying AI to solve problems day to day, wherever you sit in the company.&nbsp;\n Founded in 2021, Fora has grown to a team of 250+ full-time employees based in downtown New York City . In 2026, we closed a $60 million Series D led by Forerunner and Tactile Ventures, with continued backing from Thrive Capital, Insight Partners, and Heartcore Capital. We've been named a LinkedIn Top Startup (2024), one of Fast Company's Most Innovative Companies (2023 and 2025), and one of TIME's 100 Most Influential Companies (2026).\n Come build something that hasn't existed before.\n About The Org \n Data Science is a central org that sits at the center of how Fora makes decisions, from product and marketing to the plans leadership sets for the company. We own the metrics Fora runs on, the experiments that show what works, and the analyses that set the roadmap.\n About The Role \n You'll be the analytical partner for one area of the business and own its hardest questions: is this working, why, and what should we do next. Most of them are causal. You'll also build data products, reusable tools and AI workflows, that the rest of Fora uses every day.\n What you'll do \n Measure what changes cause : experiments, holdouts, quasi-experimental methods.\n Define success : north-star, leading and guardrail metrics, from logging to definition.\n Turn findings into decisions , and follow through on whether they worked.\n Focus Areas \n Product. Partner with product and engineering on what moves bookings, not usage.\n Growth. Acquisition to retention: incrementality, churn, early signals of success.\n Experimentation &amp; Statistics. Experiment design and quasi-experimental methods.\n Agent Evals. Prove our AI agents work: eval sets, LLM judges, links to bookings.\n Focus Areas \n Have taken ambiguous questions to decisions and measurable results.\n Write production SQL and Python, and check your own numbers (R considered).\n Explain technical work plainly to executives and change minds with evidence.\n Have run experiments end to end, and used causal inference when you couldn't.\n Use AI tools to work faster and know how to check what they produce.\n Compensation\n Compensation for this role varies based on experience, with an indicative range of $158K–$239K + equity. Final compensation will depend on the level at which the candidate is hired, as we’re considering multiple levels for this role.\n Unlimited vacation\n Health Insurance (including an option com",
+  "already_in_pipeline": false,
+  "score": {
+   "rating": "Good",
+   "reason": "(not scored — scorer failed; review manually)",
+   "gap": "",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "what": "Modern travel-agency platform for independent travel advisors"
+  }
+ },
+ {
+  "id": "79b496460b",
+  "key": "Snorkel AI|Staff Applied AI Engineer - Pre-Sales|https://job-boards.greenhouse.io/snorkelai/jobs/6255083004",
+  "track": "ai",
+  "company": "Snorkel AI",
+  "company_meta": {
+   "stage": "Series D",
+   "raised": "$237M",
+   "investors": [
+    "Addition",
+    "Greylock",
+    "Lightspeed",
+    "Prosperity7"
+   ],
+   "what": "AI data development / evaluation platform; NYC office",
+   "verified": true,
+   "hq": "Redwood City, CA"
+  },
+  "vc_rank": 3,
+  "title": "Staff Applied AI Engineer - Pre-Sales",
+  "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6255083004",
+  "locations": [
+   "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+   "New York City",
+   "Remote",
+   "San Francisco"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T00:32:01-05:00",
+  "salary": "$190K–$350K",
+  "department": "420 - Solutions Sales",
+  "degree_mention": false,
+  "description": "About Snorkel \n Snorkel AI is the frontier AI data lab, helping teams build the data and environments behind high-performing frontier and agentic AI. We combine technology with research-driven AI data development to create datasets, benchmarks, evals, and custom solutions for real-world AI systems. Founded out of the Stanford AI Lab in 2019, Snorkel works with leading AI labs and enterprises to move from better data to better outcomes.&nbsp; Excited to help us redefine how AI is built? Apply to be the newest Snorkeler!\n As an Applied AI Engineer (Pre-Sales) , you will partner closely with Sales and our AI Solution Practice Leaders during pre-sales engagements. You will lead technical discovery and solution scoping to identify high-value use cases, and develop tailored demos and pilots that demonstrate how modern GenAI and machine learning techniques can drive measurable business outcomes. You will also translate proposed solutions into clearly scoped, technically sound proposals and Statement of Works (SOWs) that set realistic expectations and position engagements for success, while collaborating with delivery teams during initial implementation.\n This role sits at the intersection of deep technical problem-solving and customer partnership. You will help customers unpack complex business challenges, quickly prototype solutions, and clearly communicate technical approaches to both engineering teams and senior business stakeholders. From early architecture discussions to demo development, you will play a key role in helping organizations adopt AI effectively while surfacing field insights that inform our product and research roadmap.\n Main Responsibilities\n Partner closely with Sales and our AI Solution Practice Leaders to shape technical strategy across active prospects, win technical evaluations, and ensure a seamless transition to post-sales delivery through structured handoff documentation and clear expectation alignment.\n Lead structured technical discovery engagements with prospects to understand business objectives, success criteria, data landscape, architectural constraints, security considerations, and organizational readiness.\n Translate discovery findings into well-defined GenAI solution architectures that demonstrate technical feasibility and business impact using internal frameworks, and complementary third-party technologies.\n Design, build and deliver bespoke demos, including evaluation pipelines, dataset strategy, retrieval-augmented generation systems, fine-tuning workflows, prompt engineering strategies, and agentic architectures tailored to specific customer use cases and senior business stakeholders.\n Author and contribute to custom proposals, including Statements of Work and RFP/RFI responses, ensuring scope clarity, architectural soundness, realistic effort estimates, and alignment with delivery capabilities.\n Systematically capture reusable patterns from bespoke demos and evolve them into reference architectures, demo assets, benchmarks, and internal solution playbooks.\n Annual travel up to 25%.\n Preferred Qualifications\n B.S. in Computer Science, Engineering, Math/Statistics, or equivalent experience.\n 8+ years in customer-facing technical roles (pre-sales, solutions engineering, or applied AI), including discovery, scoping, demos, proof-of-value engagements, and RFP responses.\n Hands-on Python experience and familiarity with the modern Gen AI stack -&nbsp; LLM ecosystems, RAG, vector databases, data processing, sy",
+  "already_in_pipeline": false,
+  "score": {
+   "rating": "Good",
+   "reason": "(not scored — scorer failed; review manually)",
+   "gap": "",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "what": "AI data development / evaluation platform; NYC office"
+  }
+ }
+]

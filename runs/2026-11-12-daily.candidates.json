@@ -1,0 +1,66 @@
+[
+ {
+  "id": "2001c82de4",
+  "key": "Justworks|Senior Data Scientist - Advanced Analytics|https://boards.greenhouse.io/justworks/jobs/8375411?gh_jid=8375411",
+  "track": "ds",
+  "company": "Justworks",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$150M",
+   "investors": [
+    "Union Square Ventures",
+    "FirstMark",
+    "Bain Capital Ventures"
+   ],
+   "what": "PEO/HR, payroll and benefits platform for SMBs",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Senior Data Scientist - Advanced Analytics",
+  "url": "https://boards.greenhouse.io/justworks/jobs/8375411?gh_jid=8375411",
+  "locations": [
+   "New York, New York",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T15:50:58-05:00",
+  "salary": "$166K–$214K",
+  "department": "Data",
+  "degree_mention": false,
+  "description": "Who We Are \n At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. \n We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We’re data-driven and never stop iterating. If you’d like to work in a supportive, entrepreneurial environment, are interested in building something meaningful and having fun while doing it, we’d love to hear from you. \n We're united by shared goals and shared motivations at Justworks. These are best summed up in our company values, which are reflected in our product and in our team. \n Our Values \n If this sounds like you, you’ll fit right in. \n Department \n Technology, Data &amp; Analytics Team\n Who You Are \n You're an experienced data scientist who gets excited about understanding how customers interact with a product – and using that understanding to help teams make smarter decisions. You're a trusted data storyteller: you can write a tight SQL query, design a rigorous experiment, and then turn those findings into a narrative that moves a roadmap. You believe that the best data science work accelerates learning, improves decision making, and ultimately drives measurable impact for customers and the business.\n Justworks is looking for a Senior Data Scientist to join our Product Analytics group within the Data &amp; Analytics team. You'll partner across Product, Engineering, Design, Finance, Marketing, and Revenue to define success metrics, run experiments, size opportunities, and build a data-informed approach to how we grow and improve our product.\n Your Success Profile \n What You Will Work On \n Lead end-to-end analytics projects, from defining metrics to analyzing data and delivering insights\n Partner with product leaders to define and measure goal metrics\n Design and analyze A/B tests, quasi-experiments, and causal analyses to measure the impact of product changes and help teams understand not just if something worked, but why \n Accelerate product learning cycles through frameworks for experimentation, measurement, and iteration so teams can move faster without sacrificing rigor\n Analyze strategic opportunities to inform roadmap prioritization\n Build compelling narratives from complex data, presenting findings in ways that influence decisions with both technical and non-technical audiences, from product pods to senior leadership\n Identify friction and opportunity across the customer lifecycle, from onboarding flows to feature adoption to retention signals, and translate what you find into actionable strategies\n Develop and apply AI-assisted approaches to analysis, insight delivery, and data workflows to multiply your impact and expand the reach of data science across the organization\n Partner with data engineering and analytics engineering to improve data foundations, instrument key events, and ensure the right data exists to answer the questions product teams are asking\n Perform other related responsibilities as needed based on department and/or organizational needs.\n How You Will Do Your Work \n In the Data Scientist role, how results are achieved is paramount for your success and ultimately result in our success as an organization. In this role, your foundational knowledge, skills, abilities and personal attributes are anchored in the",
+  "already_in_pipeline": false
+ },
+ {
+  "id": "a7b1be7ce7",
+  "key": "Judi Health|Forward Deployed Engineer|https://job-boards.greenhouse.io/judihealth/jobs/5477699008",
+  "track": "ai",
+  "company": "Judi Health",
+  "company_meta": {
+   "stage": "Series F",
+   "raised": "$607M",
+   "investors": [
+    "Wellington Management",
+    "General Catalyst",
+    "Goldman Sachs Growth"
+   ],
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Forward Deployed Engineer",
+  "url": "https://job-boards.greenhouse.io/judihealth/jobs/5477699008",
+  "locations": [
+   "New York, New York, United States",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T14:52:07-05:00",
+  "salary": null,
+  "department": "Finance",
+  "degree_mention": false,
+  "description": "About Judi Health \n Judi Health is a health technology company providing benefit administration solutions to employers, unions, health plans, and government entities. Judi Health replaces fragmented, outdated systems with the industry's first Unified Claims Processing™ architecture, seamlessly consolidating pharmacy and medical benefit administration on a single, secure platform. By delivering true price transparency, eliminating unnecessary middleman fees, and leveraging advanced AI-powered care delivery, Judi Health helps clients achieve unprecedented operational efficiency and service levels. At Judi Health, we're deploying the infrastructure our country needs to deliver the healthcare we all deserve. We are the intelligence platform powering benefits plans for millions of Americans and proudly leading the next generation of care. To learn more, visit www.judi.health .\n Location: New York City, NY (hybrid)\n Position Summary \n The Forward Deployed Engineer is a developing-to-proficient technical professional who partners directly with business teams to design, build, and deliver AI agents, automations, integrations, and internal applications that solve operational problems. The role independently owns defined low- and medium-complexity use cases with guidance available for unfamiliar, high-risk, or technically complex decisions, and contributes technical expertise and business judgment to the organization's most complex initiatives. The Forward Deployed Engineer applies strong capabilities across applied AI, business technology, automation, and solution delivery to translate business needs into scalable, secure, and reusable solutions. The role works with senior team members and the AI Deployment Engineer to support production readiness and controlled deployment, while considering how each solution could serve additional functions or evolve into a client-facing capability.\n Position Responsibilities: \n Business Partnership and Solution Design: Partner with business leaders and stakeholders to identify high-value opportunities, analyze workflows and pain points, and translate business needs into technical requirements and scalable solution designs for AI agents, automations, integrations, and internal applications.\n End-to-End Use Case Ownership: Independently own defined low- and medium-complexity use cases from discovery through design, development, testing, implementation, and adoption, with guidance available for unfamiliar, high-risk, or technically complex decisions.\n Complex Initiative Contribution: Partner with senior team members and the broader team on the organization's most complex use cases, contributing technical expertise, business judgment, and implementation support, and leading defined workstreams or components within larger initiatives.\n AI-Accelerated Development: Use AI agents and agentic coding tools to accelerate analysis and development, while critically evaluating outputs and applying appropriate standards for security, data privacy, quality, maintainability, and documentation.\n Scalability and Enterprise Value: Design solutions for scalability and reuse, identifying how capabilities could extend to other functions, support broader enterprise needs, or evolve into client-facing products.\n Implementation and Adoption: Support implementation, stakeholder enablement, user adoption, and value measurement; partner with the AI Deployment Engineer and relevant technology teams on production deployment, integrations, m",
+  "already_in_pipeline": false
+ }
+]
