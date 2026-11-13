@@ -1,0 +1,131 @@
+[
+ {
+  "id": "fc3b7109bd",
+  "key": "Judi Health|Staff Forward Deployed Engineer|https://job-boards.greenhouse.io/judihealth/jobs/5478159008",
+  "track": "ai",
+  "company": "Judi Health",
+  "company_meta": {
+   "stage": "Series F",
+   "raised": "$607M",
+   "investors": [
+    "Wellington Management",
+    "General Catalyst",
+    "Goldman Sachs Growth"
+   ],
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Staff Forward Deployed Engineer",
+  "url": "https://job-boards.greenhouse.io/judihealth/jobs/5478159008",
+  "locations": [
+   "New York, New York, United States",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-12T13:44:35-05:00",
+  "salary": null,
+  "department": "Technology",
+  "degree_mention": false,
+  "description": "About Judi Health \n Judi Health is a health technology company providing benefit administration solutions to employers, unions, health plans, and government entities. Judi Health replaces fragmented, outdated systems with the industry's first Unified Claims Processing™ architecture, seamlessly consolidating pharmacy and medical benefit administration on a single, secure platform. By delivering true price transparency, eliminating unnecessary middleman fees, and leveraging advanced AI-powered care delivery, Judi Health helps clients achieve unprecedented operational efficiency and service levels. At Judi Health, we're deploying the infrastructure our country needs to deliver the healthcare we all deserve. We are the intelligence platform powering benefits plans for millions of Americans and proudly leading the next generation of care. To learn more, visit www.judi.health .\n Location: New York City, NY (hybrid) Position Summary \n The Staff Forward Deployed Engineer is a senior individual contributor who leads the company's most complex, high-impact AI use cases from discovery through implementation. Working with a high degree of autonomy, the role partners with senior business and technology leaders to translate ambiguous, cross-functional problems into scalable AI solutions with measurable business outcomes. The Senior FDE designs and builds solutions using AI agents, large language models, and agentic coding tools; sets technical direction for solution design and readiness; and establishes reusable patterns that can scale across the enterprise or contribute to future client-facing products. The role provides technical leadership and mentorship to interns, analysts, and associate forward deployed engineers without formal people-management responsibility. Position Responsibilities: \n Lead Complex AI Use Cases: Lead the most complex and high-impact AI initiatives, particularly those spanning multiple functions, workflows, systems, or data sources; determine the solution approach, scope, priorities, and sequencing, and own outcomes from discovery through implementation.\n Senior Stakeholder Partnership: Serve as a trusted advisor to senior business and technology leaders, structure ambiguous business challenges, evaluate trade-offs, and recommend scalable solutions tied to measurable outcomes and long-term enterprise value.\n Agentic Solution Design and Development: Architect and build AI solutions using AI agents, LLMs, retrieval-augmented generation, orchestration frameworks, and agentic coding tools; select appropriate technologies and critically evaluate AI-generated outputs.\n Technical Direction and Production Readiness: Set technical direction for solution design and partner closely with the AI Deployment Engineer and relevant technology teams to meet production-readiness requirements, including performance, scalability, observability, security, compliance, supportability, and operational ownership.\n Reusable Patterns and Enterprise Value: Establish reusable solution patterns, frameworks, components, and practices that accelerate future delivery; identify opportunities for internal capabilities to scale across the company or contribute to future client-facing products.\n Value Realization: Define success measures, assess adoption and business impact, and recommend enhancements or course corrections to maximize the long-term value of deployed solutions.\n Risk and Governance: Identify and mitigate technical, data privacy, security, complia",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "fc3b7109bd",
+   "rating": "Good",
+   "reason": "Internal applied-AI FDE framing ambiguous business problems and measuring value; fits his stakeholder-facing production ML record, though Staff level and agentic/RAG architecture leadership stretch him.",
+   "gap": "Staff-level agentic/LLM architecture; healthcare benefits domain",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)"
+  }
+ },
+ {
+  "id": "c770616e2a",
+  "key": "Justworks|Senior AI Engineer, People|https://boards.greenhouse.io/justworks/jobs/8383665?gh_jid=8383665",
+  "track": "ai",
+  "company": "Justworks",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$150M",
+   "investors": [
+    "Union Square Ventures",
+    "FirstMark",
+    "Bain Capital Ventures"
+   ],
+   "what": "PEO/HR, payroll and benefits platform for SMBs",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Senior AI Engineer, People",
+  "url": "https://boards.greenhouse.io/justworks/jobs/8383665?gh_jid=8383665",
+  "locations": [
+   "New York, New York",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-12T13:22:55-05:00",
+  "salary": null,
+  "department": "People",
+  "degree_mention": false,
+  "description": "Who We Are \n At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. \n We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We’re data-driven and never stop iterating. If you’d like to work in a supportive, entrepreneurial environment, are interested in building something meaningful and having fun while doing it, we’d love to hear from you. \n We're united by shared goals and shared motivations at Justworks. These are best summed up in our company values, which are reflected in our product and in our team. \n Our Values \n If this sounds like you, you’ll fit right in. \n Department \n People\n Who You Are \n Reporting to the Senior Manager, People Strategy Operations, the Senior AI Engineer, People, is a technical founder embedded within the People function.&nbsp;\n You have a track record of shipping internal tools and AI-powered workflows that people actually use. You're as comfortable mapping a team’s AI gaps and designing a solution as you are vibe-coding a working prototype with an AI agent. You're insatiably curious and never satisfied with the status quo — you operate with urgency and agency, center the customer in every decision, and make every team you join better. You think in systems, move fast, and know how to bring people along without manufacturing consensus. You don’t need to come from HR. You need to care about building tools that make people’s work lives better.\n This is a true engineering role. We are looking for someone with production experience shipping AI systems — not someone who uses AI tools, but someone who builds them. Senior here means senior by organizational reach and shipped impact, not by years of CS experience.&nbsp;\n Your Success Profile \n What You Will Work On \n Building the Core AI &amp; Automation Layer (~50%) \n Drive the technical execution of the People team's AI transformation roadmap—architecting, building, and maintaining intelligent solutions around our prioritized operational workflows.\n Build agentic workflows, RAG pipelines, and system integrations required to scale workflows from ‘Human + AI handoffs’ to ‘AI as a system’ level maturity.\n Scan externally for emerging AI capabilities and market patterns; translate signal into written briefs that inform what the team experiments on next.\n Embed long-term operational success by creating reproducible blueprints, demos, and guides that naturally transfer expertise and cultivate sustainable AI ownership across the People team.\n Data Layer &amp; AI Reliability (~25%) \n Partner with the People Analyst and Senior Manager of Data Management &amp; Governance to deeply understand the existing Snowflake data model to identify what is trusted, what is fragile, and what the AI layer can reliably consume.\n Assess the custom Workday-to-Snowflake pipeline to understand its architecture and engineering limitations, ensuring any AI tools built on top of it are designed to handle data quirks reliably.\n Design evaluation frameworks to measure the accuracy, latency, and real-world utility of AI tools, including hallucination rates, retrieval precision, and user satisfaction, to iterate based on those signals.\n Implement data privacy and access controls appropriate to highly sensitive people data, i",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "c770616e2a",
+   "rating": "Good",
+   "reason": "Embedded AI builder for the People team, with RAG/agent workflows on Snowflake data and evaluation frameworks; fits his data-pipeline and measurement strengths, though it explicitly wants shipped AI systems.",
+   "gap": "requires production LLM-system shipping; HR/internal tooling",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "PEO/HR, payroll and benefits platform for SMBs"
+  }
+ },
+ {
+  "id": "a7b1be7ce7",
+  "key": "Judi Health|Forward Deployed Engineer|https://job-boards.greenhouse.io/judihealth/jobs/5477699008",
+  "track": "ai",
+  "company": "Judi Health",
+  "company_meta": {
+   "stage": "Series F",
+   "raised": "$607M",
+   "investors": [
+    "Wellington Management",
+    "General Catalyst",
+    "Goldman Sachs Growth"
+   ],
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Forward Deployed Engineer",
+  "url": "https://job-boards.greenhouse.io/judihealth/jobs/5477699008",
+  "locations": [
+   "New York, New York, United States",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T14:52:07-05:00",
+  "salary": null,
+  "department": "Finance",
+  "degree_mention": false,
+  "description": "About Judi Health \n Judi Health is a health technology company providing benefit administration solutions to employers, unions, health plans, and government entities. Judi Health replaces fragmented, outdated systems with the industry's first Unified Claims Processing™ architecture, seamlessly consolidating pharmacy and medical benefit administration on a single, secure platform. By delivering true price transparency, eliminating unnecessary middleman fees, and leveraging advanced AI-powered care delivery, Judi Health helps clients achieve unprecedented operational efficiency and service levels. At Judi Health, we're deploying the infrastructure our country needs to deliver the healthcare we all deserve. We are the intelligence platform powering benefits plans for millions of Americans and proudly leading the next generation of care. To learn more, visit www.judi.health .\n Location: New York City, NY (hybrid)\n Position Summary \n The Forward Deployed Engineer is a developing-to-proficient technical professional who partners directly with business teams to design, build, and deliver AI agents, automations, integrations, and internal applications that solve operational problems. The role independently owns defined low- and medium-complexity use cases with guidance available for unfamiliar, high-risk, or technically complex decisions, and contributes technical expertise and business judgment to the organization's most complex initiatives. The Forward Deployed Engineer applies strong capabilities across applied AI, business technology, automation, and solution delivery to translate business needs into scalable, secure, and reusable solutions. The role works with senior team members and the AI Deployment Engineer to support production readiness and controlled deployment, while considering how each solution could serve additional functions or evolve into a client-facing capability.\n Position Responsibilities: \n Business Partnership and Solution Design: Partner with business leaders and stakeholders to identify high-value opportunities, analyze workflows and pain points, and translate business needs into technical requirements and scalable solution designs for AI agents, automations, integrations, and internal applications.\n End-to-End Use Case Ownership: Independently own defined low- and medium-complexity use cases from discovery through design, development, testing, implementation, and adoption, with guidance available for unfamiliar, high-risk, or technically complex decisions.\n Complex Initiative Contribution: Partner with senior team members and the broader team on the organization's most complex use cases, contributing technical expertise, business judgment, and implementation support, and leading defined workstreams or components within larger initiatives.\n AI-Accelerated Development: Use AI agents and agentic coding tools to accelerate analysis and development, while critically evaluating outputs and applying appropriate standards for security, data privacy, quality, maintainability, and documentation.\n Scalability and Enterprise Value: Design solutions for scalability and reuse, identifying how capabilities could extend to other functions, support broader enterprise needs, or evolve into client-facing products.\n Implementation and Adoption: Support implementation, stakeholder enablement, user adoption, and value measurement; partner with the AI Deployment Engineer and relevant technology teams on production deployment, integrations, m",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "a7b1be7ce7",
+   "rating": "Good",
+   "reason": "Mid-level FDE owning use cases end to end with business teams, using agentic coding tools and measuring value; matches his Python/pipeline and stakeholder-partnership experience.",
+   "gap": "Series F; healthcare domain; integrations/internal-app building",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)"
+  }
+ }
+]

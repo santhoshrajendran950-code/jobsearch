@@ -3234,3 +3234,36 @@
   verified: true
   source: discover 2026-11-09
   nyc_office: true
+
+# ── auto-discovered 2026-11-13 ──
+- name: Edo
+  ats: greenhouse
+  slug: edo
+  stage: Series B
+  raised: ~$92M total ($12M Series A 2018, $80M Series B Apr 2022)
+  investors:
+  - Shamrock Capital
+  - Breyer Capital
+  - Vista Equity Partners
+  hq: New York, NY
+  what: TV advertising analytics and outcome measurement platform
+  verified: true
+  source: discover 2026-11-13
+  nyc_office: true
+- name: RADAR
+  ats: greenhouse
+  slug: radar
+  stage: Series B
+  raised: $170M Series B (May 2026) at $1B valuation
+  investors:
+  - Gideon Strategic Partners
+  - Nimble Partners
+  - Align Ventures
+  - Y Combinator
+  - Founders Fund
+  hq: New York, NY
+  what: AI-powered retail intelligence and RFID/sensor platform, formerly Automaton
+    (ATS and slug unverified)
+  verified: false
+  source: discover 2026-11-13
+  nyc_office: true
