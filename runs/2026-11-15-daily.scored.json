@@ -1,0 +1,351 @@
+[
+ {
+  "id": "fc3b7109bd",
+  "key": "Judi Health|Staff Forward Deployed Engineer|https://job-boards.greenhouse.io/judihealth/jobs/5478159008",
+  "track": "ai",
+  "company": "Judi Health",
+  "company_meta": {
+   "stage": "Series F",
+   "raised": "$607M",
+   "investors": [
+    "Wellington Management",
+    "General Catalyst",
+    "Goldman Sachs Growth"
+   ],
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Staff Forward Deployed Engineer",
+  "url": "https://job-boards.greenhouse.io/judihealth/jobs/5478159008",
+  "locations": [
+   "New York, New York, United States",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-12T13:44:35-05:00",
+  "salary": null,
+  "department": "Technology",
+  "degree_mention": false,
+  "description": "About Judi Health \n Judi Health is a health technology company providing benefit administration solutions to employers, unions, health plans, and government entities. Judi Health replaces fragmented, outdated systems with the industry's first Unified Claims Processing™ architecture, seamlessly consolidating pharmacy and medical benefit administration on a single, secure platform. By delivering true price transparency, eliminating unnecessary middleman fees, and leveraging advanced AI-powered care delivery, Judi Health helps clients achieve unprecedented operational efficiency and service levels. At Judi Health, we're deploying the infrastructure our country needs to deliver the healthcare we all deserve. We are the intelligence platform powering benefits plans for millions of Americans and proudly leading the next generation of care. To learn more, visit www.judi.health .\n Location: New York City, NY (hybrid) Position Summary \n The Staff Forward Deployed Engineer is a senior individual contributor who leads the company's most complex, high-impact AI use cases from discovery through implementation. Working with a high degree of autonomy, the role partners with senior business and technology leaders to translate ambiguous, cross-functional problems into scalable AI solutions with measurable business outcomes. The Senior FDE designs and builds solutions using AI agents, large language models, and agentic coding tools; sets technical direction for solution design and readiness; and establishes reusable patterns that can scale across the enterprise or contribute to future client-facing products. The role provides technical leadership and mentorship to interns, analysts, and associate forward deployed engineers without formal people-management responsibility. Position Responsibilities: \n Lead Complex AI Use Cases: Lead the most complex and high-impact AI initiatives, particularly those spanning multiple functions, workflows, systems, or data sources; determine the solution approach, scope, priorities, and sequencing, and own outcomes from discovery through implementation.\n Senior Stakeholder Partnership: Serve as a trusted advisor to senior business and technology leaders, structure ambiguous business challenges, evaluate trade-offs, and recommend scalable solutions tied to measurable outcomes and long-term enterprise value.\n Agentic Solution Design and Development: Architect and build AI solutions using AI agents, LLMs, retrieval-augmented generation, orchestration frameworks, and agentic coding tools; select appropriate technologies and critically evaluate AI-generated outputs.\n Technical Direction and Production Readiness: Set technical direction for solution design and partner closely with the AI Deployment Engineer and relevant technology teams to meet production-readiness requirements, including performance, scalability, observability, security, compliance, supportability, and operational ownership.\n Reusable Patterns and Enterprise Value: Establish reusable solution patterns, frameworks, components, and practices that accelerate future delivery; identify opportunities for internal capabilities to scale across the company or contribute to future client-facing products.\n Value Realization: Define success measures, assess adoption and business impact, and recommend enhancements or course corrections to maximize the long-term value of deployed solutions.\n Risk and Governance: Identify and mitigate technical, data privacy, security, complia",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "fc3b7109bd",
+   "rating": "Good",
+   "reason": "Leads internal LLM/agent use cases from discovery to measured outcomes with senior stakeholders, matching his end-to-end production ML and cross-functional partnering at PrizePicks.",
+   "gap": "Staff-level agentic/RAG architecture; healthcare benefits domain; later-stage",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI-powered pharmacy and health benefits administration platform (formerly Capital Rx)"
+  }
+ },
+ {
+  "id": "c770616e2a",
+  "key": "Justworks|Senior AI Engineer, People|https://boards.greenhouse.io/justworks/jobs/8383665?gh_jid=8383665",
+  "track": "ai",
+  "company": "Justworks",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$150M",
+   "investors": [
+    "Union Square Ventures",
+    "FirstMark",
+    "Bain Capital Ventures"
+   ],
+   "what": "PEO/HR, payroll and benefits platform for SMBs",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Senior AI Engineer, People",
+  "url": "https://boards.greenhouse.io/justworks/jobs/8383665?gh_jid=8383665",
+  "locations": [
+   "New York, New York",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-12T13:22:55-05:00",
+  "salary": null,
+  "department": "People",
+  "degree_mention": false,
+  "description": "Who We Are \n At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. \n We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We’re data-driven and never stop iterating. If you’d like to work in a supportive, entrepreneurial environment, are interested in building something meaningful and having fun while doing it, we’d love to hear from you. \n We're united by shared goals and shared motivations at Justworks. These are best summed up in our company values, which are reflected in our product and in our team. \n Our Values \n If this sounds like you, you’ll fit right in. \n Department \n People\n Who You Are \n Reporting to the Senior Manager, People Strategy Operations, the Senior AI Engineer, People, is a technical founder embedded within the People function.&nbsp;\n You have a track record of shipping internal tools and AI-powered workflows that people actually use. You're as comfortable mapping a team’s AI gaps and designing a solution as you are vibe-coding a working prototype with an AI agent. You're insatiably curious and never satisfied with the status quo — you operate with urgency and agency, center the customer in every decision, and make every team you join better. You think in systems, move fast, and know how to bring people along without manufacturing consensus. You don’t need to come from HR. You need to care about building tools that make people’s work lives better.\n This is a true engineering role. We are looking for someone with production experience shipping AI systems — not someone who uses AI tools, but someone who builds them. Senior here means senior by organizational reach and shipped impact, not by years of CS experience.&nbsp;\n Your Success Profile \n What You Will Work On \n Building the Core AI &amp; Automation Layer (~50%) \n Drive the technical execution of the People team's AI transformation roadmap—architecting, building, and maintaining intelligent solutions around our prioritized operational workflows.\n Build agentic workflows, RAG pipelines, and system integrations required to scale workflows from ‘Human + AI handoffs’ to ‘AI as a system’ level maturity.\n Scan externally for emerging AI capabilities and market patterns; translate signal into written briefs that inform what the team experiments on next.\n Embed long-term operational success by creating reproducible blueprints, demos, and guides that naturally transfer expertise and cultivate sustainable AI ownership across the People team.\n Data Layer &amp; AI Reliability (~25%) \n Partner with the People Analyst and Senior Manager of Data Management &amp; Governance to deeply understand the existing Snowflake data model to identify what is trusted, what is fragile, and what the AI layer can reliably consume.\n Assess the custom Workday-to-Snowflake pipeline to understand its architecture and engineering limitations, ensuring any AI tools built on top of it are designed to handle data quirks reliably.\n Design evaluation frameworks to measure the accuracy, latency, and real-world utility of AI tools, including hallucination rates, retrieval precision, and user satisfaction, to iterate based on those signals.\n Implement data privacy and access controls appropriate to highly sensitive people data, i",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "c770616e2a",
+   "rating": "Good",
+   "reason": "Builds AI workflows and eval frameworks on Snowflake data for the People team, using his data-pipeline, measurement and stakeholder-partnering experience.",
+   "gap": "requires shipped production LLM/RAG systems; HR domain",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "PEO/HR, payroll and benefits platform for SMBs"
+  }
+ },
+ {
+  "id": "2001c82de4",
+  "key": "Justworks|Senior Data Scientist - Advanced Analytics|https://boards.greenhouse.io/justworks/jobs/8375411?gh_jid=8375411",
+  "track": "ds",
+  "company": "Justworks",
+  "company_meta": {
+   "stage": "Series E",
+   "raised": "~$150M",
+   "investors": [
+    "Union Square Ventures",
+    "FirstMark",
+    "Bain Capital Ventures"
+   ],
+   "what": "PEO/HR, payroll and benefits platform for SMBs",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 3,
+  "title": "Senior Data Scientist - Advanced Analytics",
+  "url": "https://boards.greenhouse.io/justworks/jobs/8375411?gh_jid=8375411",
+  "locations": [
+   "New York, New York",
+   "New York, NY"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-11T15:50:58-05:00",
+  "salary": null,
+  "department": "Data",
+  "degree_mention": false,
+  "description": "Who We Are \n At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. \n We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We’re data-driven and never stop iterating. If you’d like to work in a supportive, entrepreneurial environment, are interested in building something meaningful and having fun while doing it, we’d love to hear from you. \n We're united by shared goals and shared motivations at Justworks. These are best summed up in our company values, which are reflected in our product and in our team. \n Our Values \n If this sounds like you, you’ll fit right in. \n Department \n Technology, Data &amp; Analytics Team\n Who You Are \n You are an experienced data scientist who uses rigorous analysis to help leaders make consequential business decisions. You are comfortable working with imperfect data, ambiguous questions, and situations where a clean experiment is not possible. You can build a forecast, evaluate an investment, estimate causal impact, or design a pricing analysis – and clearly communicate the uncertainty and trade-offs behind your recommendation.&nbsp;\n This role is part of our Advanced Analytics group within our Enterprise Analytics team. You'll primarily partner with Finance, Strategy, Marketing, and Product Marketing to identify and frame domain-specific use-cases as data science problems, design the appropriate technical solutions, and collaborate with business leaders to leverage your insights in their decisions.\n Your Success Profile \n What You Will Work On \n Build and maintain revenue forecasting, churn forecasting, LTV, customer segmentation, and other business planning models\n Develop marketing mix models and channel-investment recommendations\n Partner with Finance, Marketing, and Product Marketing to turn strategic questions into decision-ready analyses\n Develop clear executive narratives that explain findings, limitations, assumptions, and recommended action\n Develop and apply AI-assisted approaches to analysis, insight delivery, and data workflows to multiply your impact and expand the reach of data science across the organization\n Partner with analytics engineer and data governance to improve and build on our trusted data models\n How You Will Do Your Work \n In the Data Scientist role, how results are achieved is paramount for your success and ultimately result in our success as an organization. In this role, your foundational knowledge, skills, abilities and personal attributes are anchored in the following competencies:\n Good judgment - the exercise of critical thinking, analyzing and assessing problems and implications, identifying patterns, making connections of underlying issues, understanding risks and developing mitigation strategies, and taking ownership of the outcome.\n Teamwork and communication - putting our collective best together through documentation, collaboration, relationship-building, listening, empathy, recruiting, and evangelism.\n Influence and leadership - fostering a community of knowledge-sharing, collaboration, mentorship, and forward-thinking. This includes helping product partners develop a more data-informed mindset, not just answering their questions.\n Skills and knowledge - the capacity to actively learn and a",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "2001c82de4",
+   "rating": "Good",
+   "reason": "Core work is churn forecasting, LTV, segmentation, MMM and causal impact, which matches his LTV/churn models, DiD/synthetic control and marketing-measurement work at PrizePicks.",
+   "gap": "B2B/SMB HR domain; later-stage (Series E); advisory analytics, not production ML",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "PEO/HR, payroll and benefits platform for SMBs"
+  }
+ },
+ {
+  "id": "a9e7e08087",
+  "key": "Socure|AI Engineer|https://jobs.ashbyhq.com/socure/3e3acfee-8e62-406c-891d-f39ca5e003b1",
+  "track": "ai",
+  "company": "Socure",
+  "company_meta": {
+   "stage": "Series E+",
+   "raised": "~$900M",
+   "investors": [
+    "Summit Partners",
+    "Goldman Sachs Alternatives",
+    "Accel",
+    "Capital One Ventures"
+   ],
+   "what": "AI identity verification and fraud platform (RiskOS); major NYC hub",
+   "verified": true,
+   "hq": "Incline Village, NV"
+  },
+  "vc_rank": 3,
+  "title": "AI Engineer",
+  "url": "https://jobs.ashbyhq.com/socure/3e3acfee-8e62-406c-891d-f39ca5e003b1",
+  "locations": [
+   "Hub - San Francisco",
+   "Hub - New York",
+   "Hub - Seattle"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-05-20T13:17:16.206000+00:00",
+  "salary": "$220K - $290K",
+  "department": "Tech",
+  "degree_mention": false,
+  "description": "WHY SOCURE?\n\nSocure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.\n\nWe hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.\n\n\n\n\n\n\nABOUT THE ROLE\n\nSocure is building the future of trust for digital ecosystems. To accelerate our mission, we are expanding the platform to include agentic workflows and internal productivity tools that power innovation across the company. These systems will underpin how Socure builds, deploys, and scales AI-driven identity solutions while enabling internal teams to operate with speed, intelligence, and precision.\n\nReporting to the Head of New Product Engineering, you'll join a new Internal AI Engineering team with a mandate to design and ship the agentic systems that reshape how Socure operates across sales, marketing, revenue ops, finance, talent, and legal. As a Staff AI Engineer on this team, you'll define what to build - not just execute what's been scoped. You'll be the first major internal partner building on Socure's Agentic AI Foundations platform - using its primitives to ship faster and providing the real-world pull-through that shapes its roadmap. By delivering intelligent automation and agentic workflows you will play a central role in Socure's transformation into an AI-native company, driving step-function gains in efficiency, accuracy, and decision-making across the enterprise.\n\n\n\n\nWHAT YOU'LL DO\n\n - Prioritization of High-Impact Automation - Partner with business teams (e.g., Revenue Ops, Marketing, Finance Ops, Talent Acquisition) to catalog manual, high-frequency workflows and rank them by impact, feasibility, and urgency.\n\n - Production Agent Design & Development - Build multi-step, tool-augmented agent workflows that can plan, execute, observe outcomes, and iteratively improve. Design and implement planner–executor and reflection-based architectures to enhance reasoning quality and task reliability. Develop stateful agent systems and incorporate human-in-the-loop controls, including approval gates, fallback paths, and escalation mechanisms.\n\n - Platform Integration - Leverage the Agentic AI Foundations team's platform covering agent runtime, orchestration, memory, tool registry, guardrails, and observability. Provide feedback that shapes platform priorities.\n\n - Innovation & Standards - Leverage LLMs, multi-agent frameworks, and orchestration platforms to create differentiated internal solutions that can't be bought off the shelf. Stay ahead of emerging AI technologies and regulatory frameworks to ensure Socure leads the industry in secure, compliant, and intelligent internal systems.\n\n - Technical Patterns - Discover reusable agent design patterns while building real workflows and contribute them back to the Agentic AI Foundations paved paths so the work compounds across Socure.\n\n - Operational Excellence - Leverage the evaluation harness and tracing substrate provided by Agentic AI Foundations for continuous performance assessment, failure-mode analysis, and o",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "a9e7e08087",
+   "rating": "Stretch",
+   "reason": "Staff-level internal agent engineering (planner-executor, stateful multi-agent systems); his production ML and business-partner work overlap only partly with the heavy agent-architecture focus.",
+   "gap": "agent-framework internals, Staff SWE-level bar",
+   "office": "Hybrid, NYC hub (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI identity verification and fraud platform (RiskOS); major NYC hub"
+  }
+ },
+ {
+  "id": "9212425fb1",
+  "key": "Socure|Forward Deployed Engineer - RiskOS Agents|https://jobs.ashbyhq.com/socure/15872d0f-7897-4934-9567-8fb39a79378f",
+  "track": "ai",
+  "company": "Socure",
+  "company_meta": {
+   "stage": "Series E+",
+   "raised": "~$900M",
+   "investors": [
+    "Summit Partners",
+    "Goldman Sachs Alternatives",
+    "Accel",
+    "Capital One Ventures"
+   ],
+   "what": "AI identity verification and fraud platform (RiskOS); major NYC hub",
+   "verified": true,
+   "hq": "Incline Village, NV"
+  },
+  "vc_rank": 3,
+  "title": "Forward Deployed Engineer - RiskOS Agents",
+  "url": "https://jobs.ashbyhq.com/socure/15872d0f-7897-4934-9567-8fb39a79378f",
+  "locations": [
+   "Hub - San Francisco",
+   "Hybrid - San Francisco, CA",
+   "Hybrid - Seattle, WA",
+   "New York - Remote"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-08-17T16:35:30.766000+00:00",
+  "salary": "$250K - $280K",
+  "department": "Tech",
+  "degree_mention": false,
+  "description": "WHY SOCURE?\n\nSocure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.\n\nWe hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.\n\n\n\nSocure’s mission is to verify 100% of good identities while eliminating fraud online. With RiskOS, we are expanding that mission into an AI-powered operating system for fraud, risk, identity, and compliance operations - serving some of the world’s largest financial institutions, government agencies, prediction markets, gaming companies, marketplaces, fintechs, and digital platforms.\n\n \n\nAs a Forward Deployed Engineer, you will help move AI-assisted workflows from promising ideas to trusted production systems. You will work directly with large strategic customers and partners, own the path from discovery and technical scoping to system design, build, deployment, evaluation, and adoption, and solve problems where speed, trust, explainability, and control all matter.\n\n \n\nThis is not a traditional implementation, advisory, or professional services role. You will be an embedded builder: close enough to customer teams to understand how work actually happens, technical enough to build into real environments, and product-minded enough to turn what works into reusable RiskOS capabilities.\n\n\nWHAT YOU WILL DO\n\n - Build with strategic customers and partners. Work side by side with large enterprises, public sector organizations, marketplaces, gaming platforms, fintechs, and other high-scale digital businesses to understand their workflows, data environments, technical constraints, business goals, and operational pain points.\n\n - Own deployments from prototype to production. Lead discovery, technical scoping, solution design, build, integration, testing, rollout, and adoption for AI-assisted RiskOS workflows in real customer environments.\n\n - Turn complex operations into working systems. Translate customer policies, SOPs, data sources, and operational processes into RiskOS workflows, integrations, data mappings, tool connections, case flows, and agent behaviors that can operate reliably in production.\n\n - Build the connective tissue. Write code, configure systems, debug issues, and integrate with customer infrastructure, APIs, data sources, security boundaries, analyst tools, and operational systems when progress depends on it.\n\n \n\n - Evaluate and improve agentic workflows. Help define how agents interact with tools, data, evidence, decisions, analyst queues, and business logic, then tune those workflows through testing, evals, observability, guardrails, feedback, and production learnings.\n\n - Prove measurable customer value. Measure whether deployed workflows improve speed, accuracy, consistency, analyst productivity, review burden, evidence quality, operational control, or other customer-defined outcomes.\n\n - Turn field learning into platform leverage. Surface product gaps, implementation friction, and repeatable patterns, then partner with product, engineering, data science, security, and GTM t",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "9212425fb1",
+   "rating": "Good",
+   "reason": "Customer-embedded FDE building and measuring agentic workflows for clients including gaming and prediction-market companies, where his PrizePicks background and impact measurement are relevant.",
+   "gap": "fraud/identity domain; enterprise integrations",
+   "office": "Hybrid in SF/Seattle; New York listed as remote",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI identity verification and fraud platform (RiskOS); major NYC hub"
+  }
+ },
+ {
+  "id": "a2806fbb79",
+  "key": "Tennr|Forward Deployed Engineer (Post-Sales)|https://jobs.ashbyhq.com/tennr/5547643e-8d63-408d-a32d-d78491b27557",
+  "track": "ai",
+  "company": "Tennr",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$160M+",
+   "investors": [
+    "IVP",
+    "Lightspeed",
+    "a16z",
+    "Foundation Capital"
+   ],
+   "what": "AI automation of healthcare referral/fax workflows",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Forward Deployed Engineer (Post-Sales)",
+  "url": "https://jobs.ashbyhq.com/tennr/5547643e-8d63-408d-a32d-d78491b27557",
+  "locations": [
+   "New York City Office"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-11-13T20:47:02.718000+00:00",
+  "salary": "$120K - $140K",
+  "department": "Embedded Solutions",
+  "degree_mention": false,
+  "description": "COMPANY DESCRIPTION\n\nToday, when you go to your doctor and get referred to a specialist, your doctor sends out a referral and tells you, “They’ll be in touch soon.” So you wait. And wait. Sometimes days, weeks, or even months. Why? Because too often providers are overwhelmed with the painstakingly tedious work required to get paid by insurance companies. Powered by proprietary models, Tennr handles the complex paperwork that gets patients through the door and providers paid, helping operators get patients the right care, at the right time, in the right setting.\n\n\n\n\nROLE DESCRIPTION\n\nAs a Forward Deployed Engineer, you’ll lead the design, delivery, and ongoing optimization of automation solutions for Tennr’s most complex customers — large-scale health systems, national provider groups, and enterprise partners. This is a highly technical, strategic, and customer-facing role that demands deep domain fluency, executive presence, and strong systems thinking.\n\nYou’ll own implementations end-to-end: from pre-sale discovery and business case alignment to go-live and expansion. You’ll act as both a trusted technical advisor and a project lead, working closely with senior customer stakeholders and cross-functional teams at Tennr to ensure lasting success.\n\nThis role sits within a high-performance implementation pod and directly influences Tennr’s go-to-market and product strategy.\n\n\n\n\nRESPONSIBILITIES\n\n - Lead end-to-end implementations, from discovery to post-go-live\n\n - Align cross-functional teams and manage project delivery, risks, and change\n\n - Conduct operational audits to identify workflow gaps and automation opportunities\n\n - Design scalable, configurable solutions using Tennr’s platform and APIs\n\n - Reimagine processes with automation best practices, not just replicate legacy systems\n\n - Collaborate with Product, Engineering, and Sales to shape solutions and delivery scope\n\n - Maintain documentation, enable knowledge transfer, and improve internal delivery tools\n\n - Support sales strategy, mentor junior team members, and influence product roadmap\n\n\n\n\nQUALIFICATIONS\n\n - 3+ years of experience in SaaS delivery or solution design\n\n - A degree or minor in Computer Science, Engineering, or a related technical field is strongly preferred\n\n - Strong understanding of APIs, systems integration, and technical architecture\n\n - Proven ability to lead complex technical engagements with large enterprise customers\n\n - Skilled at communicating technical concepts to both executive and technical audiences\n\n - Experience navigating complex org structures and aligning cross-functional stakeholders\n\n - Strong problem-solving skills with a focus on strategic, scalable solutions\n\n - Business acumen and domain fluency — ideally in healthcare or similarly complex industries\n\n - Comfortable with ambiguity and fast-paced, unstructured environments\n\n - Demonstrated ability to mentor others and contribute to team-wide best practices\n\n - High ownership mindset and urgency — proactive, resourceful, and impact-driven\n\nNice to Haves\n\n - Familiarity with workflow automation, RPA, or enterprise integration platforms (e.g., MuleSoft, Workato)\n\n - Background in consulting, solution architecture, or technical customer success\n\n - Experience in startup environments or scaling delivery functions\n\n\n\n\n\nWHY TENNR?\n\n - Drive Impact: one of our company values is Cowboy, meaning you set the pace. You won’t just talk about things, you’ll get them done. And feel the impact.\n\n - Devel",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "a2806fbb79",
+   "rating": "Stretch",
+   "reason": "Post-sales implementation and project delivery for health-system customers; this is more about configuring the platform and APIs than the data/ML problem-solving he has done.",
+   "gap": "SaaS delivery/implementation background; healthcare domain; CS degree preferred",
+   "office": "Hybrid, NYC office (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI automation of healthcare referral/fax workflows"
+  }
+ },
+ {
+  "id": "ab7de61c0a",
+  "key": "Tennr|Enterprise Forward Deployed Engineer (Post-Sales)|https://jobs.ashbyhq.com/tennr/a439c5b8-1686-4b90-b2bc-cffd761e002d",
+  "track": "ai",
+  "company": "Tennr",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$160M+",
+   "investors": [
+    "IVP",
+    "Lightspeed",
+    "a16z",
+    "Foundation Capital"
+   ],
+   "what": "AI automation of healthcare referral/fax workflows",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Enterprise Forward Deployed Engineer (Post-Sales)",
+  "url": "https://jobs.ashbyhq.com/tennr/a439c5b8-1686-4b90-b2bc-cffd761e002d",
+  "locations": [
+   "New York City Office"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-09-22T16:42:00.229000+00:00",
+  "salary": "$160K - $180K",
+  "department": "Embedded Solutions",
+  "degree_mention": false,
+  "description": "COMPANY DESCRIPTION\n\nToday, when you go to your doctor and get referred to a specialist, your doctor sends out a referral and tells you, “They’ll be in touch soon.” So you wait. And wait. Sometimes days, weeks, or even months. Why? Because too often providers are overwhelmed with the painstakingly tedious work required to get paid by insurance companies. Powered by proprietary models, Tennr handles the complex paperwork that gets patients through the door and providers paid, helping operators get patients the right care, at the right time, in the right setting.\n\n\n\n\nROLE DESCRIPTION\n\nAs a Enterprise Forward Deployed Engineer, you’ll lead the design, delivery, and ongoing optimization of automation solutions for Tennr’s most complex customers: large-scale health systems, national provider groups, and enterprise partners. This is a highly technical, strategic, and customer-facing role that demands deep domain fluency, executive presence, and strong systems thinking.\n\nYou’ll own enterprise-scale implementations end-to-end: from pre-sale discovery and business case alignment to go-live and expansion. You’ll act as both a trusted technical advisor and a project lead, working closely with senior customer stakeholders and cross-functional teams at Tennr to ensure lasting success.\n\nThis role sits within a high-performance implementation pod and directly influences Tennr’s go-to-market and product strategy.\n\n\n\n\nRESPONSIBILITIES\n\n - Lead end-to-end enterprise implementations, from discovery to post-go-live\n\n - Align cross-functional teams and manage project delivery, risks, and change\n\n - Conduct operational audits to identify workflow gaps and automation opportunities\n\n - Design scalable, configurable solutions using Tennr’s platform and APIs\n\n - Reimagine processes with automation best practices, not just replicate legacy systems\n\n - Collaborate with Product, Engineering, and Sales to shape solutions and delivery scope\n\n - Maintain documentation, enable knowledge transfer, and improve internal delivery tools\n\n - Support sales strategy, mentor junior team members, and influence product roadmap\n\n\n\n\nQUALIFICATIONS\n\n - 6+ years of experience in enterprise SaaS delivery or solution design\n\n - A degree or minor in Computer Science, Engineering, or a related technical field is strongly preferred\n\n - Strong understanding of APIs, systems integration, and technical architecture\n\n - Proven ability to lead complex technical engagements with large enterprise customers\n\n - Skilled at communicating technical concepts to both executive and technical audiences\n\n - Experience navigating complex org structures and aligning cross-functional stakeholders\n\n - Strong problem-solving skills with a focus on strategic, scalable solutions\n\n - Business acumen and domain fluency — ideally in healthcare or similarly complex industries\n\n - Comfortable with ambiguity and fast-paced, unstructured environments\n\n - Demonstrated ability to mentor others and contribute to team-wide best practices\n\n - High ownership mindset and urgency — proactive, resourceful, and impact-driven\n\nNice to Haves\n\n - Familiarity with workflow automation, RPA, or enterprise integration platforms (e.g., MuleSoft, Workato)\n\n - Background in consulting, solution architecture, or technical customer success\n\n - Experience in startup environments or scaling delivery functions\n\n\n\n\n\nWHY TENNR?\n\n - Drive Impact: one of our company values is Cowboy, meaning you set the pace. You won’t just talk about things, you",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "ab7de61c0a",
+   "rating": "Stretch",
+   "reason": "Enterprise implementation leadership needing 6+ years of SaaS delivery; his production ML and stakeholder work don't map well onto client project delivery.",
+   "gap": "6+ yrs enterprise SaaS delivery; healthcare domain; CS degree preferred",
+   "office": "Hybrid, NYC office (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI automation of healthcare referral/fax workflows"
+  }
+ },
+ {
+  "id": "ef7e27db4c",
+  "key": "Tennr|Sr. Forward Deployed Engineer (Post-Sales)|https://jobs.ashbyhq.com/tennr/4e7ee6b1-8c70-4070-827d-9c50817059c7",
+  "track": "ai",
+  "company": "Tennr",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "$160M+",
+   "investors": [
+    "IVP",
+    "Lightspeed",
+    "a16z",
+    "Foundation Capital"
+   ],
+   "what": "AI automation of healthcare referral/fax workflows",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Sr. Forward Deployed Engineer (Post-Sales)",
+  "url": "https://jobs.ashbyhq.com/tennr/4e7ee6b1-8c70-4070-827d-9c50817059c7",
+  "locations": [
+   "New York City Office"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-11-13T20:42:16.571000+00:00",
+  "salary": "$140K - $160K",
+  "department": "Embedded Solutions",
+  "degree_mention": false,
+  "description": "COMPANY DESCRIPTION\n\nToday, when you go to your doctor and get referred to a specialist, your doctor sends out a referral and tells you, “They’ll be in touch soon.” So you wait. And wait. Sometimes days, weeks, or even months. Why? Because too often providers are overwhelmed with the painstakingly tedious work required to get paid by insurance companies. Powered by proprietary models, Tennr handles the complex paperwork that gets patients through the door and providers paid, helping operators get patients the right care, at the right time, in the right setting.\n\n \n\n\nROLE DESCRIPTION\n\nAs a Sr. Forward Deployed Engineer, you’ll lead the design, delivery, and ongoing optimization of automation solutions for Tennr’s most complex customers: large-scale health systems, national provider groups, and enterprise partners. This is a highly technical, strategic, and customer-facing role that demands deep domain fluency, executive presence, and strong systems thinking.\n\nYou’ll own enterprise-scale implementations end-to-end: from pre-sale discovery and business case alignment to go-live and expansion. You’ll act as both a trusted technical advisor and a project lead, working closely with senior customer stakeholders and cross-functional teams at Tennr to ensure lasting success.\n\nThis role sits within a high-performance implementation pod and directly influences Tennr’s go-to-market and product strategy.\n\n \n\n\nRESPONSIBILITIES\n\n - Lead end-to-end enterprise implementations, from discovery to post-go-live\n\n - Align cross-functional teams and manage project delivery, risks, and change\n\n - Conduct operational audits to identify workflow gaps and automation opportunities\n\n - Design scalable, configurable solutions using Tennr’s platform and APIs\n\n - Reimagine processes with automation best practices, not just replicate legacy systems\n\n - Collaborate with Product, Engineering, and Sales to shape solutions and delivery scope\n\n - Maintain documentation, enable knowledge transfer, and improve internal delivery tools\n\n - Support sales strategy, mentor junior team members, and influence product roadmap\n\n \n\n\nQUALIFICATIONS\n\n - 4+ years of experience in enterprise SaaS delivery or solution design\n\n - A degree or minor in Computer Science, Engineering, or a related technical field is strongly preferred\n\n - Strong understanding of APIs, systems integration, and technical architecture\n\n - Proven ability to lead complex technical engagements with large enterprise customers\n\n - Skilled at communicating technical concepts to both executive and technical audiences\n\n - Experience navigating complex org structures and aligning cross-functional stakeholders\n\n - Strong problem-solving skills with a focus on strategic, scalable solutions\n\n - Business acumen and domain fluency — ideally in healthcare or similarly complex industries\n\n - Comfortable with ambiguity and fast-paced, unstructured environments\n\n - Demonstrated ability to mentor others and contribute to team-wide best practices\n\n - High ownership mindset and urgency — proactive, resourceful, and impact-driven\n\nNice to Haves\n\n - Familiarity with workflow automation, RPA, or enterprise integration platforms (e.g., MuleSoft, Workato)\n\n - Background in consulting, solution architecture, or technical customer success\n\n - Experience in startup environments or scaling delivery functions\n\n\n\n\n\nWHY TENNR?\n\n - Drive Impact: one of our company values is Cowboy, meaning you set the pace. You won’t just talk about things, you’ll ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "ef7e27db4c",
+   "rating": "Stretch",
+   "reason": "Senior post-sales implementation role leading enterprise health-system deployments; it is light on data/ML and needs SaaS delivery experience he doesn't have.",
+   "gap": "4+ yrs enterprise SaaS delivery; healthcare domain; CS degree preferred",
+   "office": "Hybrid, NYC office (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI automation of healthcare referral/fax workflows"
+  }
+ }
+]

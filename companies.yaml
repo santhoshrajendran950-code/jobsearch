@@ -3267,3 +3267,18 @@
   verified: false
   source: discover 2026-11-13
   nyc_office: true
+
+# ── auto-discovered 2026-11-15 ──
+- name: Basis
+  ats: ashby
+  slug: basis-ai
+  stage: Series B (unverified)
+  raised: unverified (one source says $100M Series B, Feb 2026; another says $34M)
+  investors:
+  - Accel (unverified)
+  hq: New York, NY (Flatiron)
+  what: AI-powered accounting platform for accounting firms, with applied ML and data
+    roles open in NYC
+  verified: false
+  source: discover 2026-11-15
+  nyc_office: true
