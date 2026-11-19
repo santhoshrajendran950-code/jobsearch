@@ -1,0 +1,34 @@
+[
+ {
+  "id": "0fa62eedab",
+  "key": "CAIS|Applied AI Engineer|https://job-boards.greenhouse.io/cais/jobs/8951218002",
+  "track": "ai",
+  "company": "CAIS",
+  "company_meta": {
+   "stage": "Growth",
+   "raised": "unverified",
+   "investors": [
+    "Apollo",
+    "Motive Partners",
+    "Franklin Templeton"
+   ],
+   "what": "Alternative-investments marketplace for independent advisors",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 4,
+  "title": "Applied AI Engineer",
+  "url": "https://job-boards.greenhouse.io/cais/jobs/8951218002",
+  "locations": [
+   "New York, New York",
+   "New York City"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-19T09:33:38-05:00",
+  "salary": "$190K–$235K",
+  "department": "Technology",
+  "degree_mention": false,
+  "description": "About CAIS &nbsp; &nbsp; \n CAIS is the pioneer in democratizing access to and education about alternative investments for independent financial advisors, empowering them to engage and transact with leading asset managers on a massive scale through a wide variety of alternative investment products and technology solutions. CAIS provides financial advisors with a broad selection of alternative investment strategies, including hedge funds, private equity, private credit, real estate, digital assets, and structured notes. CAIS also delivers industry-leading technology, operational efficiency, and world-class client service throughout the pre-trade, trade, and post-trade experience. CAIS serves over 2,500 wealth management firms that support more than 65,000 financial advisors who oversee approximately $8.5 trillion in end-client assets. &nbsp; \n About the Role &nbsp; \n CAIS is hiring an Applied AI Engineer to put AI to work inside our business teams in NYC. You will be embedded with non-engineering functions such as Sales, Finance, Operations, and Client Service. You will learn how their work actually gets done, build AI-enabled workflows that save them real time, and make sure those workflows get adopted. You are an engineer first and write code regularly, but you are equally comfortable sitting with a team, mapping a process, and teaching people to use what you built. &nbsp; \n Key Responsibilities &nbsp; \n Embed with business teams to understand their workflows and find the highest-value opportunities for AI and automation, prioritizing by impact, feasibility, and risk &nbsp; \n Build working solutions yourself: LLM-powered tools, agents, automations, and integrations with our enterprise systems and data sources, using approved tooling &nbsp; \n Take prototypes to production-ready by working with engineering, data, and platform teams on deployment, testing, and maintenance &nbsp; \n Work with Security, Compliance, and Legal so everything you build meets our governance, privacy, and confidentiality requirements &nbsp; \n Run hands-on training and change adoption within each team, and track whether people are still using what you built months later. &nbsp; \n Define success measures up front (time saved, error reduction, adoption) and report on results honestly, including what didn’t work &nbsp; \n Turn what you learn into reusable patterns, templates, and playbooks so the next team starts further ahead &nbsp; \n Skills &amp; Experience&nbsp; &nbsp; \n Required &nbsp; \n Strong software engineering ability, with practical experience in Python/Kotlin/TypeScript or a comparable language and in working with APIs &nbsp; \n 4+ years in Software Engineering, forward-deployed engineering, or applied AI &nbsp; \n Hands-on experience building with LLMs, such as prompt design, tool use or agents, retrieval, and evaluating output quality and failure modes. You’ve shipped LLM-powered tools or agents that real users depend on. &nbsp; \n Experience delivering technology or automation projects with business stakeholders in a regulated or otherwise complex enterprise environment &nbsp; \n Clear communication with executives, business users, and engineers alike &nbsp; \n Sound judgment about data sensitivity, security, and where automation shouldn’t be used &nbsp; \n Preferred &nbsp; \n Background in financial services, wealth management, or fintech &nbsp; \n Experience with Salesforce, Snowflake, and workflow automation platforms &nbsp; \n Experience in training, enablement",
+  "already_in_pipeline": false
+ }
+]
