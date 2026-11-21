@@ -4,6 +4,8 @@ Every morning `jobsearch.py --daily` adds a section here with the data-science /
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Sat Nov 21, 2026 — no new roles
+
 ## Tue Nov 10, 2026 — 2 new roles (0 strong · 0 good · 2 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

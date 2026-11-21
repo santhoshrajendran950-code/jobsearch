@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the forward-deploy
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Sat Nov 21, 2026 — 1 new role (1 strong · 0 good · 0 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | **Strong** | [Forward Deployed AI Solutions](https://www.foratravel.com/careers/jobs?gh_jid=5491274008) | Fora<br><sub>Modern travel-agency platform for independent travel advisors</sub> | Series D, unverified total ($60M Series D in 2026, per posting)<br><sub>Forerunner, Tactile Ventures, Thrive, Insight, Heartcore</sub> | NYC-based team, downtown office (days not stated) | Nov 20 | $179K–$224K | GTM forward-deployed role covering paid media optimization, experimentation, lead scoring and forecasting — matches his marketing-measurement, LTV and experimentation work at PrizePicks. **Gap:** must have shipped AI agents independently; Series D |
+
 ## Tue Nov 10, 2026 — no new roles
 
 ## Fri Nov 6, 2026 — no new roles

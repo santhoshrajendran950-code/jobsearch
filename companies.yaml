@@ -3282,3 +3282,32 @@
   verified: false
   source: discover 2026-11-15
   nyc_office: true
+
+# ── auto-discovered 2026-11-21 ──
+- name: Findigs
+  ats: lever
+  slug: findigs
+  stage: Series C
+  raised: $32M Series C (2026); ~$80M total
+  investors:
+  - RPM Ventures
+  - Nyca Partners
+  - Frontier Venture Capital
+  - Western Technology Investment
+  hq: New York, NY
+  what: AI-native rental screening and leasing decisioning platform; has an open hybrid
+    Data Scientist role in NYC
+  verified: true
+  source: discover 2026-11-21
+  nyc_office: true
+- name: Portpro
+  ats: lever
+  slug: portpro
+  stage: unverified
+  raised: unverified
+  investors: []
+  hq: unverified (posting tagged New York City, marked remote)
+  what: Logistics and drayage software; has a Data Scientist posting on Lever
+  verified: false
+  source: discover 2026-11-21
+  nyc_office: true
