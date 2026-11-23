@@ -1,0 +1,45 @@
+[
+ {
+  "id": "5136745022",
+  "key": "Harvey|Creative AI Engineer|https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060",
+  "track": "ai",
+  "company": "Harvey",
+  "company_meta": {
+   "stage": "Growth",
+   "raised": "$1.5B+",
+   "investors": [
+    "Lightspeed",
+    "Sequoia",
+    "GIC",
+    "Diffusion"
+   ],
+   "what": "Legal AI platform; large NYC office",
+   "verified": true,
+   "hq": "San Francisco, CA"
+  },
+  "vc_rank": 3,
+  "title": "Creative AI Engineer",
+  "url": "https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060",
+  "locations": [
+   "New York"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-11-21T17:44:26.219000+00:00",
+  "salary": "$168.4K - $252.6K",
+  "department": "Marketing",
+  "degree_mention": false,
+  "description": "WHY HARVEY\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.\n\nOur team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.\n\nAt Harvey, the future of professional services is being written today — and we’re just getting started.\n\n\n\n\nROLE OVERVIEW\n\nHarvey's brand team has built a creative agent that makes on-brand work on request: ads, social posts, decks, product films, and tailored demo videos for prospects. It reads our brand guidelines and design system live, works in the same tools our designers use, and hands back files a designer can open and keep editing.\n\nWe're hiring a senior engineer to own it. You'll spend most of your time building the agent and some of it making real work with it, because shipping with it is the fastest way to find what's broken. You'll report to our Creative Director and work closely with the designers, marketers, and sales teams who use the agent every day.\n\nBy the end of your first year, account executives and marketers make the work they need, on brand, without waiting on a designer.\n\n\n\n\nWHAT YOU'LL DO\n\n - Own the creative agent end to end: its skills, templates, tool connections, and the quality of what it makes\n\n - Turn how our designers work into reusable recipes, so a request for an ad or a demo video comes back as work a Creative Director would approve\n\n - Build and run the media pipelines behind our films and ads, including rendering, video and audio processing, voiceover, music, and generated imagery\n\n - Write evals that catch off-brand copy, layout, and numbers before anyone sees them\n\n - Make the agent dependable for people who aren't designers, with clear questions when something is missing and recovery when a tool fails\n\n - Ship creative work with the agent every week, and feed what you learn back into it\n\n - Decide with the Creative Director what to build next, based on how people use it\n\n\n\n\nWHAT YOU HAVE\n\n - A designer's eye. You notice when a layout, a line, or an edit is off, and you fix it. Show us through a portfolio, side projects, or tools you've built.\n\n - Experience running LLM agents in production: tool use, MCP, prompt and skill design, evals, and the failures that only show up with real users\n\n - Experience building media pipelines with tools like ffmpeg, rendering engines, or generative image and video models\n\n - Five or more years as a software engineer. You are comfortable with the traditional full stack tool chain. You build with agents every day now, and you still have the fundamentals to review their code, debu",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "5136745022",
+   "rating": "Stretch",
+   "reason": "Builds and evaluates a production LLM creative agent for internal users. His production ML and eval experience fits, but the core work is design taste and media pipelines.",
+   "gap": "5+ yrs SWE, design portfolio, media pipelines",
+   "office": "Hybrid NYC (days not stated)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "Legal AI platform; large NYC office"
+  }
+ }
+]
