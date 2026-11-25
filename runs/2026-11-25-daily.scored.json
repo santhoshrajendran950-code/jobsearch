@@ -1,0 +1,45 @@
+[
+ {
+  "id": "338ab58d9b",
+  "key": "Lightning AI|Solution Engineer ML/AI|https://job-boards.greenhouse.io/lightningai/jobs/8215488003",
+  "track": "ai",
+  "company": "Lightning AI",
+  "company_meta": {
+   "stage": "Series A+",
+   "raised": "$60M+",
+   "investors": [
+    "Index",
+    "Bain Capital Ventures",
+    "Coatue"
+   ],
+   "what": "PyTorch Lightning / AI development and training platform",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Solution Engineer ML/AI",
+  "url": "https://job-boards.greenhouse.io/lightningai/jobs/8215488003",
+  "locations": [
+   "New York, New York, United States",
+   "New York, New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-24T12:55:48-05:00",
+  "salary": "$200K–$250K",
+  "department": "Sales",
+  "degree_mention": false,
+  "description": "Who We Are \n Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to take ideas from research to production with less friction.\n Through our merger with Voltage Park, a neocloud and AI Factory, Lightning AI combines developer-first software with cost-efficient, large-scale compute. Teams get the tools they need for experimentation, training, and production inference, with security, observability, and control built in.\n We serve solo researchers, startups, and large enterprises. Lightning AI operates globally with offices in New York City, San Francisco, Seattle, and London, and is backed by Coatue, Index Ventures, Bain Capital Ventures, and Firstminute.\n The Way We Work\n The people who thrive here are builders who move fast, communicate openly, take ownership, and continuously improve themselves, their teams, and our company. Here's what that looks like in practice:\n Move with Urgency: We move quickly, make thoughtful decisions, and keep momentum. We value action over perfection and learn by shipping.\n Take Ownership: We own outcomes, not just our individual work. We make decisions that move the company forward and follow through.\n Communicate Openly: We communicate directly, seek to understand, and create clarity for others. Honest conversations help us move faster together.\n Build Great Teams: We lead by example, empower others, and create healthy teams where people can do their best work.\n Raise the Bar: We're always improving ourselves. We learn from feedback, consistently challenge ourselves to grow, and focus on the work that matters most.\n Think Long-Term: We design for what's next. We create scalable systems, simplify complexity, and use AI and automation to amplify our impact.\n &nbsp;\n Solution Engineer, AI/ML \n New York, New York, United States\n What We're Looking For \n Lightning AI is seeking a Solution Engineer to be the technical lead on our AI/ML platform deals, with customers ranging from AI-native startups to research labs and large enterprises. You'll partner with Account Executives from first call to close, owning discovery, demos, proofs-of-value (POVs), and the technical case that gets each deal approved.\n Our buyers are ML engineers, researchers, and platform teams, and they expect a technical partner who knows the platform cold and can go deep on their workloads. When a deal needs more depth, you'll bring in our ML engineers and product experts and keep that collaboration moving the deal forward.\n We're an early-stage technical GTM team, so the playbook is still being written and you'll help write it. What you learn in the field will shape our product, and you'll stay involved after close to help customers go live and see value.\n This role is hybrid with a minimum of 3 in-office days per week in New York City, with up to 30% travel. All employees participate in occasional team and company offsites.\n What You'll Do \n Lead technical discovery with ML, research, and platform teams, mapping each customer's workloads, requirements, and success criteria\n Deliver tailored demos and technical presentations to audiences from hands-on ML engineers to executives, translating technical value into business outcomes\n Scope, run, and win POVs with success criteria agreed up front and a crisp technical close\n Partner with Account Executives on deal strategy, technical qualification, forecasting, and mutual action plans, an",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "338ab58d9b",
+   "rating": "Stretch",
+   "reason": "Pre-sales technical lead partnering with Account Executives on demos, POVs and deal closes for an ML training platform; his production-ML pipeline experience is only loosely relevant.",
+   "gap": "sales engineering; DL training/infra platform",
+   "office": "Hybrid, 3 days/wk in NYC, up to 30% travel",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "sales engineering role",
+   "what": "PyTorch Lightning / AI development and training platform"
+  }
+ }
+]

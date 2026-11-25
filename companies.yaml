@@ -3311,3 +3311,23 @@
   verified: false
   source: discover 2026-11-21
   nyc_office: true
+
+# ── auto-discovered 2026-11-25 ──
+- name: Siro
+  ats: ashby
+  slug: siro
+  stage: Series B
+  raised: ~$64M-$75M (sources disagree; $50M Series B, May 2025)
+  investors:
+  - SignalFire
+  - 01 Advisors
+  - StepStone Group
+  - CRV
+  - Fika Ventures
+  - Index Ventures
+  hq: New York, NY
+  what: AI coach and conversation-intelligence platform for in-person field sales
+    reps. Has a NYC Data Scientist role open (Built In listing).
+  verified: false
+  source: discover 2026-11-25
+  nyc_office: true
