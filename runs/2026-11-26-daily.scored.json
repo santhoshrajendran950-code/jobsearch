@@ -1,0 +1,133 @@
+[
+ {
+  "id": "f118872fb2",
+  "key": "Tabs|Senior Forward Deployed Engineer (Tech Lead)|https://jobs.ashbyhq.com/Tabs/db654609-f62a-4642-a582-15e8001f86fb",
+  "track": "ai",
+  "company": "Tabs",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$80M",
+   "investors": [
+    "Lightspeed",
+    "General Catalyst",
+    "Primary"
+   ],
+   "what": "AI operating system for revenue / AR for finance teams",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Senior Forward Deployed Engineer (Tech Lead)",
+  "url": "https://jobs.ashbyhq.com/Tabs/db654609-f62a-4642-a582-15e8001f86fb",
+  "locations": [
+   "New York City, NY"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-11-25T19:29:10.261000+00:00",
+  "salary": "$175K - $240K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "Tabs is the AI Operating System for Revenue, built for modern finance and accounting teams. It combines deep revenue and accounting expertise with the agents and applications needed to run revenue work end to end. Tabs understands customer and contract context, applies accounting logic, and executes critical workflows with built in controls, auditability, and human oversight. With Tabs, finance teams can move from manually managing revenue workflows to directing outcomes while the system executes the work.\n\n\nABOUT THE ROLE\n\nWe're looking for a hands-on Technical Lead for our Forward Deployed Engineering (FDE) team that builds solutions for merchants whose needs go beyond what Tabs supports out of the box.\n\nThis isn't a traditional feature team. You'll work on real customer problems, often with messy requirements, unusual integrations, tight timelines, and no obvious solution. Sometimes the right answer is a quick, pragmatic fix. Sometimes it's a custom workflow or integration. And sometimes you'll discover a problem that deserves to be solved properly in the core product. Your job is to help the team make those calls, build great solutions, and ship them. Some of it will be scrappy, some will become core product, and telling the difference is part of the work.\n\nThis is a role for an engineer who likes shipping fast, enjoys ambiguity, and thrives on untangling hard problems to find durable, root-cause fixes.\n\nYou'll set the technical direction for the team while remaining hands-on in the code. You'll work closely with customer-facing teams, product, and the rest of engineering to turn ambiguous business problems into working software. You'll also help bridge the gap between customer solutions and the core platform: identifying what's worth reusing, what needs to be built properly, and what should stay a one-off.\n\n\nHOW WE WORK\n\n - We move fast. Two-week sprints, weekly ship goals, short feedback cycles. We value working software over elaborate plans.\n\n - We get close to the problem. We talk to merchants, understand their workflows, and figure out what actually needs solving. Requirements aren't always going to arrive neatly packaged.\n\n - We work together. We're an NYC-based, in-office team that values collaboration, whiteboards, and solving hard problems together. Lunch and dinner in the office are on us.\n\n\nWHAT YOU'LL DO\n\n - Lead technically. Set technical direction for the FDE team, make architectural decisions, review code, mentor engineers, and ship production software yourself. Be the technical point of contact between FDE and core engineering.\n\n - Turn messy problems into working solutions. Work with customer-facing teams to understand complex requirements, make sensible tradeoffs, and build custom workflows, integrations, and tools that deliver real value.\n\n - Lift up the rug. Identify problems that keep coming up across merchants and work with core engineering and product to turn the right solutions into reusable capabilities.\n\n - Own what you ship. From initial problem-solving through implementation, deployment, and production support.\n\n - Help build the team. Raise the engineering bar for the entire organization through mentorship, code reviews, technical standards, and hiring.\n\n\nABOUT YOU\n\n - You're an experienced engineer. You have 5+ years of professional software engineering experience and have built, shipped, and operated real production systems.\n\n - You're a technical leader and a cross-functional communicator. You've led ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "f118872fb2",
+   "rating": "Stretch",
+   "reason": "Customer-facing FDE work on messy finance workflows suits his end-to-end production ML and stakeholder experience, but this is a tech lead seat for seasoned software engineers.",
+   "gap": "requires 5+ yrs professional SWE; tech lead/mentoring",
+   "office": "In-person NYC (in-office team)",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI operating system for revenue / AR for finance teams"
+  }
+ },
+ {
+  "id": "338ab58d9b",
+  "key": "Lightning AI|Solution Engineer ML/AI|https://job-boards.greenhouse.io/lightningai/jobs/8215488003",
+  "track": "ai",
+  "company": "Lightning AI",
+  "company_meta": {
+   "stage": "Series A+",
+   "raised": "$60M+",
+   "investors": [
+    "Index",
+    "Bain Capital Ventures",
+    "Coatue"
+   ],
+   "what": "PyTorch Lightning / AI development and training platform",
+   "verified": false,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Solution Engineer ML/AI",
+  "url": "https://job-boards.greenhouse.io/lightningai/jobs/8215488003",
+  "locations": [
+   "New York, New York, United States",
+   "New York, New York"
+  ],
+  "workplace": "",
+  "posted_at": "2026-11-24T12:55:48-05:00",
+  "salary": "$200K–$250K",
+  "department": "Sales",
+  "degree_mention": false,
+  "description": "Who We Are \n Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to take ideas from research to production with less friction.\n Through our merger with Voltage Park, a neocloud and AI Factory, Lightning AI combines developer-first software with cost-efficient, large-scale compute. Teams get the tools they need for experimentation, training, and production inference, with security, observability, and control built in.\n We serve solo researchers, startups, and large enterprises. Lightning AI operates globally with offices in New York City, San Francisco, Seattle, and London, and is backed by Coatue, Index Ventures, Bain Capital Ventures, and Firstminute.\n The Way We Work\n The people who thrive here are builders who move fast, communicate openly, take ownership, and continuously improve themselves, their teams, and our company. Here's what that looks like in practice:\n Move with Urgency: We move quickly, make thoughtful decisions, and keep momentum. We value action over perfection and learn by shipping.\n Take Ownership: We own outcomes, not just our individual work. We make decisions that move the company forward and follow through.\n Communicate Openly: We communicate directly, seek to understand, and create clarity for others. Honest conversations help us move faster together.\n Build Great Teams: We lead by example, empower others, and create healthy teams where people can do their best work.\n Raise the Bar: We're always improving ourselves. We learn from feedback, consistently challenge ourselves to grow, and focus on the work that matters most.\n Think Long-Term: We design for what's next. We create scalable systems, simplify complexity, and use AI and automation to amplify our impact.\n &nbsp;\n Solution Engineer, AI/ML \n New York, New York, United States\n What We're Looking For \n Lightning AI is seeking a Solution Engineer to be the technical lead on our AI/ML platform deals, with customers ranging from AI-native startups to research labs and large enterprises. You'll partner with Account Executives from first call to close, owning discovery, demos, proofs-of-value (POVs), and the technical case that gets each deal approved.\n Our buyers are ML engineers, researchers, and platform teams, and they expect a technical partner who knows the platform cold and can go deep on their workloads. When a deal needs more depth, you'll bring in our ML engineers and product experts and keep that collaboration moving the deal forward.\n We're an early-stage technical GTM team, so the playbook is still being written and you'll help write it. What you learn in the field will shape our product, and you'll stay involved after close to help customers go live and see value.\n This role is hybrid with a minimum of 3 in-office days per week in New York City, with up to 30% travel. All employees participate in occasional team and company offsites.\n What You'll Do \n Lead technical discovery with ML, research, and platform teams, mapping each customer's workloads, requirements, and success criteria\n Deliver tailored demos and technical presentations to audiences from hands-on ML engineers to executives, translating technical value into business outcomes\n Scope, run, and win POVs with success criteria agreed up front and a crisp technical close\n Partner with Account Executives on deal strategy, technical qualification, forecasting, and mutual action plans, an",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "338ab58d9b",
+   "rating": "Stretch",
+   "reason": "Pre-sales Solution Engineer who works with Account Executives on demos, POVs and closing deals for an ML training platform, not applied problem-solving on customer data.",
+   "gap": "sales engineering; ML infra/training platform",
+   "office": "Hybrid, 3+ days/wk in NYC; up to 30% travel",
+   "nyc_ok": true,
+   "exclude": true,
+   "exclude_reason": "sales engineering role",
+   "what": "PyTorch Lightning / AI development and training platform"
+  }
+ },
+ {
+  "id": "491069299a",
+  "key": "ASAPP|Staff Machine Learning Engineer, Evaluations|https://jobs.lever.co/asapp-2/3ad3aa9f-07d7-4af3-9997-fe3d1ae2f5c8",
+  "track": "ds",
+  "company": "ASAPP",
+  "company_meta": {
+   "stage": "Series C",
+   "raised": "~$380-400M total (figures vary by source)",
+   "investors": [
+    "Fidelity",
+    "Dragoneer",
+    "John Doerr",
+    "March Capital",
+    "Emergence Capital"
+   ],
+   "what": "AI platform for contact-center and customer-experience automation. Lead ML Engineer role listed for New York / Mountain View.",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 1,
+  "title": "Staff Machine Learning Engineer, Evaluations",
+  "url": "https://jobs.lever.co/asapp-2/3ad3aa9f-07d7-4af3-9997-fe3d1ae2f5c8",
+  "locations": [
+   "Mountain View",
+   "Mountain View",
+   "New York"
+  ],
+  "workplace": "Hybrid",
+  "posted_at": "2026-09-11T19:54:30.472000+00:00",
+  "salary": "$190K–$220K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "At ASAPP, our mission is simple: deliver the best AI-powered customer experience—faster than anyone else. To achieve that, we’re guided by principles that shape how we think, build, and execute. We value customer obsession, purposeful speed, ownership, and a relentless focus on outcomes. ASAPP’s AI Engineering team is seeking an enterprising, talented and curious machine learning engineer.\n \nThe AI Engineering team is responsible for working closely with the research and modeling teams to create state-of-the-art NLP models for specific tasks, and deploy them in a production setting designed to serve our customers at scale. We are looking for a Machine Learning Engineer to help build and evaluate the core intelligence behind our agentic AI systems. This role will play a key part in designing and owning evaluation frameworks that ensure quality, safety, and performance across complex agentic systems.\n\nWe're looking for a Staff Machine Learning Engineer to own and grow the evaluation platform that measures quality, safety, and performance across ASAPP's agentic AI systems- the infrastructure that tells us, with confidence, whether a model or agent change is actually an improvement before it reaches customers.\n\nThis a hybrid role with 10-12 days of in-office presence per month to balance flexibility with collaboration.\n\nWhat you'll do\n Lead the technical roadmap and architecture for the evaluation platform, from offline benchmarking to online/production monitoring of agentic and LLM-based systems.\n Design eval methodologies appropriate to different stages of the pipeline: golden/regression test sets, human-in-the-loop review workflows, LLM-as-judge approaches, and automated metrics for task success, safety, and hallucinations.\n Build the data infrastructure evaluation depends on: annotation and labeling pipelines, dataset versioning, data quality checks, and tooling that lets researchers and product teams run and interpret experiments without needing platform team help.\n Partner closely with Research, Product, and Platform teams to productize experiments into robust AI solutions\n Represent the eval platform to stakeholders outside the immediate team- set expectations on what \"good\" looks like for a model/agent release, and report on platform health and coverage.\n Stay current with advancements in ML, NLP, voice, and LLM systems, and contribute actively to technical discussions across teams.\n Mentor and support other engineers through design reviews, feedback, and knowledge sharing.\nWhat you'll need\n Deep, hands-on experience building and operating evaluation systems for modern ML/LLM/agentic systems- not just consuming existing eval tools.\n Demonstrated experience leading the technical direction of a project or small team: setting architecture, driving design reviews, and being accountable for a system's long-term health (not just shipping features).\n Strong architectural skills, with proven experience designing complex, data-intensive software systems and production experience with Python, AWS, Kubernetes, and/or Docker.\n Experience designing data pipelines for ML evaluation- labeling/annotation workflows, dataset versioning and quality control, and reproducible benchmarking.\n A Bachelor’s Degree in CS or other related fields\n Demonstrated technical mentorship of junior and mid-level engineers, driving adoption of best practices and architectural alignment for scalability and extensibility.\n Desire to learn, teach, and collaborate closely ",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "491069299a",
+   "rating": "Stretch",
+   "reason": "His experimentation and production pipeline skills (Docker/Kubernetes, data quality checks) carry over, but this role owns LLM/agentic evaluation infrastructure for NLP systems.",
+   "gap": "LLM-eval/infra heavy, B2B",
+   "office": "Hybrid, 10-12 days/mo in office",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI platform for contact-center and customer-experience automation."
+  }
+ }
+]

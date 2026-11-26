@@ -4,6 +4,12 @@ Every morning `jobsearch.py --daily` adds a section here with the forward-deploy
 
 <!-- sections below are prepended by jobsearch.py; newest first -->
 
+## Thu Nov 26, 2026 — 1 new role (0 strong · 0 good · 1 stretch)
+
+| # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Stretch | [Senior Forward Deployed Engineer (Tech Lead)](https://jobs.ashbyhq.com/Tabs/db654609-f62a-4642-a582-15e8001f86fb) | Tabs<br><sub>AI operating system for revenue / AR for finance teams</sub> | Series B, ~$80M<br><sub>Lightspeed, General Catalyst, Primary</sub> | In-person NYC (in-office team) | Nov 25 | $175K - $240K | Customer-facing FDE work on messy finance workflows suits his end-to-end production ML and stakeholder experience, but this is a tech lead seat for seasoned software engineers. **Gap:** requires 5+ yrs professional SWE; tech lead/mentoring |
+
 ## Sat Nov 21, 2026 — 1 new role (1 strong · 0 good · 0 stretch)
 
 | # | Fit | Role | Company | Stage | NYC office | Posted | Salary | Why |

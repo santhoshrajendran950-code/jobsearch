@@ -3331,3 +3331,22 @@
   verified: false
   source: discover 2026-11-25
   nyc_office: true
+
+# ── auto-discovered 2026-11-26 ──
+- name: ASAPP
+  ats: lever
+  slug: asapp-2
+  stage: Series C
+  raised: ~$380-400M total (figures vary by source)
+  investors:
+  - Fidelity
+  - Dragoneer
+  - John Doerr
+  - March Capital
+  - Emergence Capital
+  hq: New York, NY
+  what: AI platform for contact-center and customer-experience automation. Lead ML
+    Engineer role listed for New York / Mountain View.
+  verified: true
+  source: discover 2026-11-26
+  nyc_office: true

@@ -1,0 +1,33 @@
+[
+ {
+  "id": "f118872fb2",
+  "key": "Tabs|Senior Forward Deployed Engineer (Tech Lead)|https://jobs.ashbyhq.com/Tabs/db654609-f62a-4642-a582-15e8001f86fb",
+  "track": "ai",
+  "company": "Tabs",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$80M",
+   "investors": [
+    "Lightspeed",
+    "General Catalyst",
+    "Primary"
+   ],
+   "what": "AI operating system for revenue / AR for finance teams",
+   "verified": true,
+   "hq": "New York, NY"
+  },
+  "vc_rank": 0,
+  "title": "Senior Forward Deployed Engineer (Tech Lead)",
+  "url": "https://jobs.ashbyhq.com/Tabs/db654609-f62a-4642-a582-15e8001f86fb",
+  "locations": [
+   "New York City, NY"
+  ],
+  "workplace": "OnSite",
+  "posted_at": "2026-11-25T19:29:10.261000+00:00",
+  "salary": "$175K - $240K",
+  "department": "Engineering",
+  "degree_mention": false,
+  "description": "Tabs is the AI Operating System for Revenue, built for modern finance and accounting teams. It combines deep revenue and accounting expertise with the agents and applications needed to run revenue work end to end. Tabs understands customer and contract context, applies accounting logic, and executes critical workflows with built in controls, auditability, and human oversight. With Tabs, finance teams can move from manually managing revenue workflows to directing outcomes while the system executes the work.\n\n\nABOUT THE ROLE\n\nWe're looking for a hands-on Technical Lead for our Forward Deployed Engineering (FDE) team that builds solutions for merchants whose needs go beyond what Tabs supports out of the box.\n\nThis isn't a traditional feature team. You'll work on real customer problems, often with messy requirements, unusual integrations, tight timelines, and no obvious solution. Sometimes the right answer is a quick, pragmatic fix. Sometimes it's a custom workflow or integration. And sometimes you'll discover a problem that deserves to be solved properly in the core product. Your job is to help the team make those calls, build great solutions, and ship them. Some of it will be scrappy, some will become core product, and telling the difference is part of the work.\n\nThis is a role for an engineer who likes shipping fast, enjoys ambiguity, and thrives on untangling hard problems to find durable, root-cause fixes.\n\nYou'll set the technical direction for the team while remaining hands-on in the code. You'll work closely with customer-facing teams, product, and the rest of engineering to turn ambiguous business problems into working software. You'll also help bridge the gap between customer solutions and the core platform: identifying what's worth reusing, what needs to be built properly, and what should stay a one-off.\n\n\nHOW WE WORK\n\n - We move fast. Two-week sprints, weekly ship goals, short feedback cycles. We value working software over elaborate plans.\n\n - We get close to the problem. We talk to merchants, understand their workflows, and figure out what actually needs solving. Requirements aren't always going to arrive neatly packaged.\n\n - We work together. We're an NYC-based, in-office team that values collaboration, whiteboards, and solving hard problems together. Lunch and dinner in the office are on us.\n\n\nWHAT YOU'LL DO\n\n - Lead technically. Set technical direction for the FDE team, make architectural decisions, review code, mentor engineers, and ship production software yourself. Be the technical point of contact between FDE and core engineering.\n\n - Turn messy problems into working solutions. Work with customer-facing teams to understand complex requirements, make sensible tradeoffs, and build custom workflows, integrations, and tools that deliver real value.\n\n - Lift up the rug. Identify problems that keep coming up across merchants and work with core engineering and product to turn the right solutions into reusable capabilities.\n\n - Own what you ship. From initial problem-solving through implementation, deployment, and production support.\n\n - Help build the team. Raise the engineering bar for the entire organization through mentorship, code reviews, technical standards, and hiring.\n\n\nABOUT YOU\n\n - You're an experienced engineer. You have 5+ years of professional software engineering experience and have built, shipped, and operated real production systems.\n\n - You're a technical leader and a cross-functional communicator. You've led ",
+  "already_in_pipeline": false
+ }
+]
