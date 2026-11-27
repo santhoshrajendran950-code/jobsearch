@@ -1,0 +1,46 @@
+[
+ {
+  "id": "49f0e546d0",
+  "key": "PhysicsX|Senior Research Machine Learning Engineer|https://job-boards.eu.greenhouse.io/physicsx/jobs/4789202101",
+  "track": "ds",
+  "company": "PhysicsX",
+  "company_meta": {
+   "stage": "Series B",
+   "raised": "~$155M",
+   "investors": [
+    "Atomico",
+    "Temasek",
+    "NVentures",
+    "General Catalyst"
+   ],
+   "what": "AI simulation/engineering models for physical industries; NYC office",
+   "verified": true,
+   "hq": "London, UK"
+  },
+  "vc_rank": 0,
+  "title": "Senior Research Machine Learning Engineer",
+  "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4789202101",
+  "locations": [
+   "New York, United States",
+   "USA"
+  ],
+  "workplace": "",
+  "posted_at": "2026-04-13T06:01:07-04:00",
+  "salary": null,
+  "department": "Research",
+  "degree_mention": false,
+  "description": "About us\n Re-architecting Engineering for the Age of Intelligence PhysicsX is the physics AI company for industrials. The company’s mission is to accelerate hardware innovation by overhauling what industrial engineering and manufacturing look like today. PhysicsX is building a new simulation software stack to deliver deep physics AI enablement across the entire engineering lifecycle. The company partners with leading organisations in aerospace &amp; defence, automotive, semiconductors, materials, and energy &amp; renewables, supporting them on some of their most critical and complex challenges. PhysicsX is headquartered in the United Kingdom, with offices in London, New York, and Singapore and an expanding presence in the Bay Area.\n What you'll do \n Work closely with our simulation engineers and research scientists to develop an understanding of the physics and engineering challenges we are solving\n Work at the intersection of data science and software engineering to transform prototype implementations to robust production-grade model implementations, libraries and tooling\n Work with multi-GPU/multi-node distributed systems for training and inference at the scale of PBs of data and hundreds of GPUs\n Optimize the models and pipelines on all levels, from job scheduling down to GPU kernels\n Design and build scalable and robust infrastructure for end-to-end machine learning applications on cloud (CoreWeave, AWS)\n Continuously apply and improve engineering best practices and standards, coach your colleagues in their adoption.\n What you'll bring \n Enthusiasm about using machine learning for science and engineering, and especially in scaling such solutions to real-world settings\n Ability to work autonomously in a fast-paced environment, learn and adapt quickly, scope, plan and deliver effectively\n Strong collaboration and communication skills, especially with research scientists\n Experience with software engineering concepts and best practices (e.g., versioning, testing, CI/CD, API design, MLOps)\n Experience building ML models and pipelines in Python, using common libraries and frameworks (e.g., PyTorch, TensorFlow, JAX)\n Experience with the GPU programming ecosystem, ability to optimise models on all levels of the stack, going down to the level of CUDA/Triton/Warp kernels when necessary\n Experience training and serving ML models at scale\n Experience with large-scale data processing\n Nice to have \n Domain knowledge in physics and/or numerical methods, especially CFD\n Experience working in the domain of ML for science or engineering\n Experience building infrastructure on cloud platforms (e.g., AWS, Azure, GCP, CoreWeave)\n Experience with C/C++, especially for computer vision, geometry processing and scientific computing\n &nbsp;\n What we offer \n Build what actually matters \n Help shape an AI-native engineering company at a formative stage, tackling problems that genuinely matter for industry and society. This is work with real-world impact - and something you can be proud to stand behind.\n Learn alongside exceptional people \n Work with a high-caliber, collaborative team of engineers, scientists, and operators who care deeply about doing great work, and about helping each other get better. We come from diverse backgrounds, but we share a commitment to operating at the highest level and addressing some of the most complex challenges out there. If you’re ambitious, thoughtful, and driven by impact, you’ll feel at home.\n Influence over hierarchy \n W",
+  "already_in_pipeline": false,
+  "score": {
+   "id": "49f0e546d0",
+   "rating": "Stretch",
+   "reason": "The role is GPU/distributed-training infrastructure for physics simulation models. Santhosh's production ML is on tabular data (LightGBM, BigQuery, Docker/Kubernetes), not CUDA kernels or multi-node training.",
+   "gap": "infra-heavy DL/GPU (CUDA/Triton), physics/CFD domain",
+   "office": "",
+   "nyc_ok": true,
+   "exclude": false,
+   "exclude_reason": "",
+   "what": "AI simulation/engineering models for physical industries; NYC office"
+  }
+ }
+]
